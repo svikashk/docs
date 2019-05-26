@@ -62,7 +62,7 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ### Configure Just the Docs
 
-- [See configuration options]({{ site.baseurl }}{% link get-started/configuration.md %})
+- [See configuration options]({{ site.baseurl }}{% link help/configuration.md %})
 
 ---
 
