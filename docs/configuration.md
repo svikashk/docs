@@ -1,6 +1,8 @@
 ---
 layout: default
 nav_order: 2
+has_children: false
+parent: docs
 title: Configuration
 desc: Learn about configuring help docs
 ---
