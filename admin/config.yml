@@ -7,8 +7,8 @@ media_folder: 'assets/uploads'
 
 collections:
   - label: 'Help Article'
-    name: 'blog-posts'
-    folder: 'help'
+    name: 'help-article'
+    folder: 'docs'
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
