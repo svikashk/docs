@@ -8,12 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Oxygen:400,700|Arimo:400,700" rel="stylesheet">
     <link rel="stylesheet" href="dist/css/style.css">
 	<script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
-	{% if site.search_enabled != nil %}
-    <script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
-	  {% endif %}
-	<link rel="shortcut icon" href="{{ "favicon.ico" | absolute_url }}" type="image/x-icon">
-
-	<link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | absolute_url }}">  
+	{% include head.html %}  
 </head>
 <body class="is-boxed has-animations">
     <div class="body-wrap boxed-container">
