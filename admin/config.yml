@@ -28,27 +28,3 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-
-
-  - label: 'Using with Teams'
-    name: 'teams-article'
-    folder: 'using-with-teams'
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - label: "Layout"
-        name: "layout"
-        widget: "hidden"
-        default: "default"
-      - label: "Nav Order"
-        name: "nav_order"
-        widget: "number"
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Description"
-        name: "desc"
-        widget: "string"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
