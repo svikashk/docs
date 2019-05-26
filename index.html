@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-
-{% include head.html %}
-
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Zepel Docs</title>
+    <link href="https://fonts.googleapis.com/css?family=Oxygen:400,700|Arimo:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="dist/css/style.css">
+	<script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+</head>
 <body class="is-boxed has-animations">
     <div class="body-wrap boxed-container">
         <header class="site-header">
@@ -28,28 +34,6 @@
 						<div class="hero-copy">
 	                        <h1 class="hero-title mt-0 is-revealing">Zepel Documentation</h1>
 	                        <p class="hero-paragraph is-revealing">Go ahead, ask us your questions. We're here to help.</p>
-	                        <div class="page-header">
-									<div class="main-content">
-									  {% if site.search_enabled != nil %}
-									  <div class="search js-search">
-										<div class="search-input-wrap">
-										  <input type="text" class="js-search-input search-input" tabindex="0" placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
-										  <svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>Search</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z"/><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z"/></g></svg>
-										</div>
-										<div class="js-search-results search-results-wrap"></div>
-									  </div>
-									  {% endif %}
-									  {% if site.aux_links != nil %}
-										<ul class="list-style-none text-small mt-md-1 mb-md-1 pb-4 pb-md-0 js-aux-nav aux-nav">
-										  {% for link in site.aux_links %}
-											<li class="d-inline-block my-0{% unless forloop.last %} mr-2{% endunless %}"><a href="{{ link.last }}">{{ link.first }}</a></li>
-										  {% endfor %}
-										</ul>
-									  {% endif %}
-									</div>
-								  </div>
-						</div>
-						<div class="hero-illustration">
 						</div>
                     </div>
                 </div>
@@ -96,7 +80,7 @@
                                     <div class="feature-icon">
                                         <img src="dist/images/feature-icon-01.svg" alt="Feature 01">
                                     </div>
-                                    <h4 class="feature-title">Lorem Ipsum</h4>
+                                    <h4 class="feature-title">Getting Started</h4>
                                     <p class="text-sm">often arouses curiosity due to its resemblance to classical latin</p>
                                 </div>
                             </div>
@@ -105,7 +89,7 @@
                                     <div class="feature-icon">
                                         <img src="dist/images/feature-icon-02.svg" alt="Feature 02">
                                     </div>
-                                    <h4 class="feature-title">Lorem Ipsum</h4>
+                                    <h4 class="feature-title">Using Zepel with Team</h4>
                                     <p class="text-sm">often arouses curiosity due to its resemblance to classical latin</p>
                                 </div>
                             </div>
@@ -114,11 +98,11 @@
                                     <div class="feature-icon">
                                         <img src="dist/images/feature-icon-03.svg" alt="Feature 03">
                                     </div>
-                                    <h4 class="feature-title">Lorem Ipsum</h4>
+                                    <h4 class="feature-title">Top Use Cases</h4>
                                     <p class="text-sm">often arouses curiosity due to its resemblance to classical latin</p>
                                 </div>
                             </div>
-                            <div class="feature is-revealing">
+                            <!-- <div class="feature is-revealing">
                                 <div class="feature-inner">
                                     <div class="feature-icon">
                                         <img src="dist/images/feature-icon-04.svg" alt="Feature 04">
@@ -126,7 +110,7 @@
                                     <h4 class="feature-title">Lorem Ipsum</h4>
                                     <p class="text-sm">often arouses curiosity due to its resemblance to classical latin</p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
