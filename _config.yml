@@ -39,4 +39,4 @@ ga_tracking: UA-2709176-10
 plugins:
   - jekyll-seo-tag
 
-remote_theme: pmarsceill/just-the-docs
+remote_theme: svikashk/just-the-docs
