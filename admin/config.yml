@@ -10,7 +10,7 @@ collections:
     name: 'help-article'
     folder: 'docs'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - label: "Layout"
         name: "layout"
