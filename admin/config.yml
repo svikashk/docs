@@ -29,6 +29,7 @@ collections:
         name: "body"
         widget: "markdown"
 
+collections:
   - label: 'Using with Teams'
     name: 'teams-article'
     folder: 'using-with-teams'
