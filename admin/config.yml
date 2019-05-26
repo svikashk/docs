@@ -6,9 +6,9 @@ backend:
 media_folder: 'assets/uploads'
 
 collections:
-  - label: 'Get Started Article'
-    name: 'get-started-article'
-    folder: 'get-started'
+  - label: 'Help Article'
+    name: 'help-article'
+    folder: 'help'
     create: true
     slug: "{{slug}}"
     fields:
