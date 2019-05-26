@@ -1,9 +1,9 @@
 ---
 layout: default
 nav_order: 2
-has_children: false
+has_children: true
 parent: ''
-title: Configuration
+title: Getting Started
 desc: Learn about configuring help docs
 ---
 # Configuration
