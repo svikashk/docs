@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Markdown kitchen sink
 nav_order: 99
+has_children: false
+parent: Getting Started
+title: Markdown kitchen sink
+desc: Learn how to get started
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
