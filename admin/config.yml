@@ -25,3 +25,6 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
+      - label: "Nav Order"
+        name: "nav_order"
+        widget: "integer"
