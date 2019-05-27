@@ -8,7 +8,7 @@ permalink: help/getting-started/
 has_toc: true
 ---
 
-## Getting Started With Zepel
+# Getting Started With Zepel
 {: .no_toc }
 
 New to Zepel? Welcome! 🤗
