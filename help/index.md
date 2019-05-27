@@ -6,10 +6,10 @@ description: "Everything you need to know about using Zepel with your team"
 permalink: /
 ---
 
-# Get started with Zepel
+# Zepel Knowledge Base
 {: .fs-9 }
 
-Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Learn how you can use Zepel with best practices, tips, and tricks to manage your projects.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/svikashk/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
