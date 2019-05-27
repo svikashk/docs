@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 2
+nav_order: 98
 title: Configuration
 desc: Learn about configuring help docs
 ---
