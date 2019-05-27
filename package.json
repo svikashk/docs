@@ -1,10 +1,9 @@
 {
-  "name": "just-the-docs",
+  "name": "zepel-docs",
   "version": "0.2.5",
-  "description": "A modern Jekyll theme for documentation",
-  "repository": "pmarsceill/just-the-docs",
+  "description": "Learn how to use Zepel with your team",
+  "repository": "svikashk/docs",
   "license": "MIT",
-  "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
   "devDependencies": {
     "stylelint": "^10.0.1",
     "stylelint-config-primer": "^7.0.0",
