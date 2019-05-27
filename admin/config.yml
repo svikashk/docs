@@ -19,6 +19,13 @@ collections:
       - label: "Nav Order"
         name: "nav_order"
         widget: "number"
+      - label: "Parent"
+        name: "parent"
+        widget: "string"
+        required: false
+      - label: Has Children
+        name: "has_children"
+        widget: "boolean"
       - label: "Title"
         name: "title"
         widget: "string"
