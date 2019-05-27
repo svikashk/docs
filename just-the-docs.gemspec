@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "just-the-docs"
+  spec.name          = "zepel-docs"
   spec.version       = "0.2.5"
-  spec.authors       = ["Patrick Marsceill"]
-  spec.email         = ["patrick.marsceill@gmail.com"]
+  spec.authors       = ["Zepel"]
+  spec.email         = ["hello@zepel.io"]
 
-  spec.summary       = %q{A modern, high customizable, responsive Jekyll theme for documention with built-in search.}
-  spec.homepage      = "https://github.com/pmarsceill/just-the-docs"
+  spec.summary       = %q{Learn how to use Zepel with your teams.}
+  spec.homepage      = "https://github.com/svikashk/docs"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|bin|_layouts|_includes|lib|Rakefile|_sass|LICENSE|README)}i) }
