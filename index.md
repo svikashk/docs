@@ -39,7 +39,7 @@ $ gem install just-the-docs
 # .. or add it to your your Jekyll site’s Gemfile
 gem "just-the-docs"
 ```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
+2. Add Docs to your Jekyll site’s `_config.yml`
 ```yaml
 theme: "just-the-docs"
 ```
@@ -59,7 +59,7 @@ $ bundle exec jekyll serve
 
 If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
-### Configure Just the Docs
+### Configure Docs
 
 - [See configuration options]({{ site.baseurl }}{% link help/configuration.md %})
 
