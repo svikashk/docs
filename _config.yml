@@ -26,8 +26,8 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Return to Zepel Website":
-    - "//zepel.io"
+  "Return to Zepel":
+    - "https://zepel.io/"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
