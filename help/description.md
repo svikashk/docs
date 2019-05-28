@@ -10,14 +10,13 @@ permalink: help/working-with-teams/description/
 # Item Description
 {: .no_toc }
 
-Give detailed information to each work item with Descriptions.
+Give detailed information to each item with Descriptions.
 {: .fs-6 .fw-300 }
 
 The description area is where you will add detailed explanations, background information, and acceptance criteria to items in your project. Obviously, you would want to go beyond plain-text blurbs and format your descriptions with rich styling options. 
 
-With Markdown Formatting in Zepel, you can style and organize your item descriptions with headings, lists, code blocks and more. To style your item descriptions follow the Markdown Syntax Guide below:
+With __Markdown Formatting__ in Zepel, you can style and organize your item descriptions with headings, lists, code blocks and more. To style your item descriptions follow the Markdown Syntax Guide below:
 
-[IMG]
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
