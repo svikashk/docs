@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Search
-nav_order: 4
-description: "Everything you need to know about using Zepel with your team"
+title: Working with Teams
+nav_order: 3
+description: "Learn how to collaborate and work with team members in Zepel. Use multiple Boards, run Sprints, and have discussions."
 has_children: true
-permalink: help/search/
+permalink: help/working-with-teams/
 has_toc: true
 ---
 
-# Getting Started With Zepel
+# Working with Teams
 {: .no_toc }
 
 New to Zepel? Welcome! 🤗
@@ -27,7 +27,7 @@ In this article we will take you through the top 3 things you should do once you
 1. TOC
 {:toc}
 
-Already created and organized your project? [Collaborate]({{ site.url }}{% link help/collaborating-team-members.md %}) and [add a Board]({{ site.url }}{% link help/creating-your-first-project.md %}) for every team involved in your project. 
+Already created and organized your project? [Learn how to work with teams in Zepel ->]({{ site.url }}{% link help/creating-your-first-project.md %})
 
 ---
 

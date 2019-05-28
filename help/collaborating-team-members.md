@@ -2,12 +2,12 @@
 layout: default
 nav_order: 1
 has_children: false
-parent: Get Started
-title: How your Zepel account is structured
+parent: Working with Teams
+title: Collaborating with Team Members
 desc: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
-permalink: help/get-started/account-structure/
+permalink: help/working-with-teams/collaborating-team-members/
 ---
-# How your Zepel account is structured
+# Collaborating with Team Members
 {: .no_toc }
 
 Zepel is structured into accounts, projects, lists, and actionable work items.

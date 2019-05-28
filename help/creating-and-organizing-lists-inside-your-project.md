@@ -2,10 +2,10 @@
 layout: default
 nav_order: 3
 has_children: false
-parent: Getting Started
+parent: Get Started
 title: Creating and organizing Lists inside your project
 desc: Learn how to create and organize multiple Lists inside your project.
-permalink: help/getting-started/creating-lists/
+permalink: help/get-started/creating-lists/
 ---
 # Creating and organizing Lists inside your project
 
@@ -19,6 +19,8 @@ As your project progress and your engineering team works on multiple features, y
 [IMG]
 
 And of course, if you chose to name your project by the feature your team is working on, you can create lists based on the teams involved in completing your feature.
+
+---
 
 ## How to create a list inside a project?
 

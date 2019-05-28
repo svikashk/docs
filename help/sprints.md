@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Search
-nav_order: 4
+title: Sprints
+nav_order: 5
 description: "Everything you need to know about using Zepel with your team"
 has_children: true
-permalink: help/search/
+permalink: help/sprints/
 has_toc: true
 ---
 

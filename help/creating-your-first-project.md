@@ -2,10 +2,10 @@
 layout: default
 nav_order: 2
 has_children: false
-parent: Getting Started
+parent: Get Started
 title: Creating your first project
 desc: Learn how to create your project in Zepel.
-permalink: help/getting-started/creating-projects/
+permalink: help/get-started/creating-projects/
 ---
 # Creating your first project
 
