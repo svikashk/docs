@@ -1,17 +1,16 @@
 ---
 layout: default
-nav_order: 1
-has_children: false
-parent: Get Started
+nav_order: 2
 title: How your Zepel account is structured
 desc: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
-permalink: help/get-started/account-structure/
+permalink: help/account-structure/
 ---
-# How your Zepel account is structured
+# How your Zepel account is structured 
 {: .no_toc }
 
-Zepel is structured into accounts, projects, lists, and actionable work items.
+Zepel is structured into accounts, projects, lists, work items, and boards.
 {: .fs-6 .fw-300 }
+
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -21,9 +20,15 @@ Zepel is structured into accounts, projects, lists, and actionable work items.
 
 ---
 
+Below is an image of how a project with multiple lists, items, and boards fit inside your account to help you seemlessly organize and track your projects.
+
+[IMG]
+
+Let us jump in to see what they are and how they work.
+
 ### Accounts
 
-An account is an overarching entity that owns all your projects and houses them together. An account is usually the name of your company where people are added either as a Member or an Admin.
+An account is an overarching entity that owns all your projects and houses them together under one subdomain - ```https://comapanyname.zepel.io```. An account is usually the name of your company where people are added either as a Member or an Admin.
 
 ---
 
@@ -45,8 +50,6 @@ A list is a collection of actionable work that your team can execute. Each list,
 
 [IMG]
 
-People collaborated in a list will be automatically added to the respective project and they will have access to all lists created within that project. They will also automatically be added to the account as a Member if they aren't already part of the account.
-
 [Read more about Lists ->]({{ site.url }}{% link help/creating-and-organizing-lists-inside-your-project.md %})
 
 ---
@@ -61,3 +64,16 @@ The completion of all work items inside each list will determine your entire pro
 
 [Read more about creating work items ->]({{ site.url }}{% link help/creating-work-items-inside-your-list.md %})
 
+---
+
+### Boards
+
+Boards in Zepel let you and your team track progress of your work items. A Board ideally represents a workflow each item flows through. 
+
+Since most projects require members from other teams to get involved, you can have multiple Boards in your project to accomodate each team's workflow.
+
+[IMG]
+
+This allows members to track items across lists in a Board that fits their workflow.
+
+[Read more about Boards ->]({{ site.url }}{% link help/creating-and-organizing-lists-inside-your-project.md %})

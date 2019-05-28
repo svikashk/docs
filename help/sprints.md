@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sprints
-nav_order: 5
+nav_order: 7
 description: "Everything you need to know about using Zepel with your team"
 has_children: true
 permalink: help/sprints/

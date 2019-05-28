@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team Use Cases
-nav_order: 5
+nav_order: 8
 description: "Everything you need to know about using Zepel with your team"
 has_children: true
 permalink: help/use-cases/

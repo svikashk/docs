@@ -1,11 +1,11 @@
 ---
 layout: default
-nav_order: 5
+nav_order: 2
 has_children: false
-parent: Get Started
+parent: Working with Teams
 title: Delegate and track progress
 desc: Start collaborating on projects with your team in Zepel. Assign, set due dates, set statuses, and estimate your work items.
-permalink: help/get-started/add-properties/
+permalink: help/working-with-teams/add-properties/
 ---
 # Delegate work to team members and track progress
 {: .no_toc }

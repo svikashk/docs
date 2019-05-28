@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Search
-nav_order: 4
+nav_order: 6
 description: "Everything you need to know about using Zepel with your team"
 has_children: true
 permalink: help/search/

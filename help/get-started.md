@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Get Started
-nav_order: 2
+nav_order: 3
 description: "Everything you need to know about using Zepel with your team"
 has_children: true
 permalink: help/get-started/
@@ -14,8 +14,7 @@ has_toc: true
 New to Zepel? Welcome! 🤗
 {: .fs-6 .fw-300 }
 
-
-Starting and managing a project has been hard, until now.
+Zepel is the project management tool that makes it effortless for you to manage and track progress across teams.
 
 Once you've signed up and created your account, you are only 3 steps away from starting a project and bring it under control. 
 
@@ -57,14 +56,14 @@ Once you've created a List inside your project, start adding related work items 
 
 - When your List is empty, you can choose to create a Section or a Task. 
 - To change an item's type, right click on the item and select which type you would like to change to.
-- Hit <b>[ Tab ]</b> to turn any item into a Subtask.
+- Hit __[ Tab ]__ to turn any item into a Subtask.
 
 [IMG]
 
 _<b>Keyboard Shortcuts:</b>_
 
-- Turn any item into a task by typing ' - ' at the beginning of an item.
-- Toggle between item types using Ctrl + Shift + S (or Cmd + Shift + S if you use a Mac).
-- Add a Section to group similar items together by typing ' * ' at the beginning of an item.
+- Turn any item into a task by typing ```-``` at the beginning of an item.
+- Toggle between item types using __Ctrl + Shift + S__ (or Cmd + Shift + S if you use a Mac).
+- Add a Section to group similar items together by typing ```*``` at the beginning of an item.
 
 Go ahead, start your first project in Zepel. It'll only take a minute to see how effortless it is to start and manage projects in Zepel.
