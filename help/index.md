@@ -26,7 +26,7 @@ Useful Quick Links
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="">
+    <a href="https://tender-mcnulty-44e8e0.netlify.com/help/working-with-teams/">
     <h4><b>Using with Teams</b></h4> 
     <p>Learn how to use Zepel with teams</p> 
     </a>
@@ -37,7 +37,7 @@ Useful Quick Links
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="">
+    <a href="https://tender-mcnulty-44e8e0.netlify.com/help/use-cases/">
     <h4><b>Team Use Cases</b></h4> 
     <p>Architect & Engineer</p> 
     </a>
@@ -50,7 +50,7 @@ Useful Quick Links
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="">
+    <a href="https://tender-mcnulty-44e8e0.netlify.com/help/boards/">
     <h4><b>Boards</b></h4> 
     <p>Learn how to use Zepel with teams</p> 
     </a>
