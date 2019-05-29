@@ -99,76 +99,83 @@
   },
   "15": {
     "id": "15",
+    "title": "Desktop Widget",
+    "content": "Searching through Projects, Lists, and Items Find anything in your account using simple Search. 🔎 And use Filters to drill down and find specific items you are looking for.",
+    "url": "http://localhost:4000/help/desktop-widget/",
+    "relUrl": "/help/desktop-widget/"
+  },
+  "16": {
+    "id": "16",
     "title": "Editing Boards",
     "content": "Edit Boards to fit your workflow Change the name of your Board, statuses, re-arrange columns, or edit their colours. IN THIS PAGE Change Board name Editing statuses/columns Re-arranging statuses/columns Edit the colours for a status Delete status/column Change Board name Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to change the name for. Click on the settings icon next the Boards. Edit and rename your Board’s name on the text field in the settings pop-up. Editing statuses/columns Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to change status for. Click on the status’ text to make it editable. Edit and rename your status’ name and hit [ Enter ]. Re-arranging statuses/columns Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to re-arrange the status for. Click and drag the status using your mouse to your desired position. [GIF] Edit the colours for a status Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board for which you want to change the status’ colour. Click on the colour next to the Board’s name. Select a desired colour for your status from the options. Delete status/column Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board from which you want to delete the status. Click on the hamburger menu positioned to the right of the status’ name. Click delete. NOTE: If the same Board is used in other projects, all changes will reflect on all the projects.",
     "url": "http://localhost:4000/help/boards/edit-boards/",
     "relUrl": "/help/boards/edit-boards/"
   },
-  "16": {
-    "id": "16",
+  "17": {
+    "id": "17",
     "title": "Get Started",
     "content": "Getting Started With Zepel New to Zepel? Welcome! 🤗 Zepel is the project management tool that makes it effortless for you to manage and track progress across teams. Once you’ve signed up and created your account, you are only 3 steps away from starting a project and bring it under control. In this article we will take you through the top 3 things you should do once you are inside your Zepel account. IN THIS PAGE Create a Project Add Lists inside a Project Create Items Already created and organized your project? Collaborate and add a Board for every team involved in your project. Create a Project A project is where group of members come together to achieve a common goal. Projects in Zepel can represent teams such as Engineering and Data Science. [IMG] But if you prefer to have projects named after features your company is working on, Zepel will work just fine. Add Lists inside a Project Projects in Zepel can have multiple Lists. That way, if you have your project named after specific teams, each list of tasks can represent the feature your team is working on. [IMG] And if your project is named after a feature, each list can represent specific teams involved in your feature, so you can see what’s happening in every team in your project. [IMG] Create Items Items and its types - Stories, Enhancements, Bugs, Tasks, and Subtasks are at the core of Zepel. You can delegate, set deadlines, and track statuses of your work. Once you’ve created a List inside your project, start adding related work items into your list, so you can keep your team aligned on same page. When your List is empty, you can choose to create a Section or a Task. To change an item’s type, right click on the item and select which type you would like to change to. Hit [ Tab ] to turn any item into a Subtask. [IMG] Keyboard Shortcuts: Turn any item into a task by typing - at the beginning of an item. Toggle between item types using Ctrl + Shift + S (or Cmd + Shift + S if you use a Mac). Add a Section to group similar items together by typing * at the beginning of an item. Go ahead, start your first project in Zepel. It’ll only take a minute to see how effortless it is to start and manage projects in Zepel.",
     "url": "http://localhost:4000/help/get-started/",
     "relUrl": "/help/get-started/"
   },
-  "17": {
-    "id": "17",
+  "18": {
+    "id": "18",
     "title": "Home",
     "content": "Zepel Knowledge Base Best practices, tips, and tricks on how you can manage projects with Zepel. If you are new to Zepel, we recommend you start with our Get Started guide. If you are looking to level up your project management game, consider exploring our help articles on Working with Teams. Get Started Contact Support Useful Quick Links Using with Teams Learn how to use Zepel with teams Team Use Cases Architect &amp; Engineer Boards Learn how to use Zepel with teams Sprints Architect &amp; Engineer",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },
-  "18": {
-    "id": "18",
+  "19": {
+    "id": "19",
     "title": "Pricing FAQ",
     "content": "Pricing FAQ Zepel’s pricing is simple and transparent. It starts at $5 per month, per member when billed annually and $7 per month, per member when billed monthly. IN THIS PAGE Can I use Zepel for free? How does Zepel’s pricing work? What happens when the trial period ends? What is your refund policy like? What happens when I add a 6th member into my account? What happens when I upgrade my plan? Will I be charged for my first 5 members? What payment methods do you accept? How can I cancel my subscription? Can I use Zepel for free? Absolutely! Zepel is completely free to use indefinitely with all the features you would need in a project management tool with a cap of 5 members in an account. If you are a startup trying to get off the ground, that’s another monthly bill you don’t have to worry about. How does Zepel’s pricing work? The free version of Zepel is available for teams of up to 5 people. Zepel Standard costs $5 per user per month when billed annually and $7 per user per month when billed monthly. When you switch to a Standard plan you can start a 14 day trial. And you will be charged only at the end of the 14 day trial. Do I have to wait until the end of the trial to add my card? Nope. You can add your card details any time. Just head over to the Billing tab in your Account’s Settings. While you are in the middle of your trial period, click on the Add Card button and enter your card details. What happens when the trial period ends? If you want to continue using Zepel after your trial ends, you’ll need to add a credit card, if you haven’t already. To do this: Go to Account Settings &gt; Billing. Click on the Add Card button and enter your card details. If you decide not to add your card details at the end of the trial period, but still want to continue using Zepel, remove members from your account, so there are 5 members or fewer in your account. What is your refund policy like? We have a 30-day refund policy for our Annual plan. We do not offer refunds for our Monthly plan. What happens when I add a 6th member into my account? When you add a 6th member into your Zepel account, you will be charged immediately, provided you have chosen your plan and added your card details. If you haven’t added your card details, you will be prompted to add your card at the end of the trial. What happens when I upgrade my plan? Will I be charged for my first 5 members? No. You will not be charged for the first 5 members. You will be charged only from the 6th member. For example, if your account has 8 members and you are on the monthly plan, you will be charged only for the 3 additional members. What payment methods do you accept? We accept all types of credit cards. We currently do not accept cheques or direct transfers. How can I cancel my subscription? If you decide you want to stop your paid subscription, you can remove members from your account and switch to our FREE plan. Your card will not be charged if you have 5 members or fewer in your Zepel account.",
     "url": "http://localhost:4000/help/pricing-faq/",
     "relUrl": "/help/pricing-faq/"
   },
-  "19": {
-    "id": "19",
+  "20": {
+    "id": "20",
     "title": "Remove and Delete Boards",
     "content": "How to remove and delete Boards You can choose to remove a Board from your project or delete the Board itself. IN THIS PAGE Remove Boards Delete Boards Remove Boards To remove a Board from your current project: Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to remove from the project. Click on the settings icon. Click on the Remove Board button. From the confirmation pop-up, click on Remove Board to remove the Board from your current project. [IMG] When you remove a board from a project, all items using the board you removed, will automatically be moved to the Default Workflow board. Delete Boards To delete a Board from your account: Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to delete from your account. Click on the settings icon. Click on the Delete board from all projects button. From the confirmation pop-up, click on Delete Board to delete the Board from your account. [IMG] When you delete a board from your account, the board will get deleted from all projects using the specific board and all items using statuses from the board will automatically be moved to the Default Workflow board.",
     "url": "http://localhost:4000/help/boards/remove-delete-boards/",
     "relUrl": "/help/boards/remove-delete-boards/"
   },
-  "20": {
-    "id": "20",
+  "21": {
+    "id": "21",
     "title": "Search Items",
     "content": "Search through your list to find any Item Quickly find any item from a List and update progress on it. To search for an item: Within the List you are working on, type text in the search box. The search results show you all the matching items. You can search for text, assignee, status, or hashtags. [IMG] If you are looking to group and filter your items based on multiple properties, click here.",
     "url": "http://localhost:4000/help/search/search-items/",
     "relUrl": "/help/search/search-items/"
   },
-  "21": {
-    "id": "21",
+  "22": {
+    "id": "22",
     "title": "Search Projects",
     "content": "Search for Projects Quickly find projects you are working on using Search. To search for projects: Go to All Projects page. Type the name of the project you are searching for on the search bar on the right side of your screen. [IMG] Projects matching (or partially matching) the text you entered in the search bar will be listed below. If you want to search for items, read this guide.",
     "url": "http://localhost:4000/help/search/search-projects/",
     "relUrl": "/help/search/search-projects/"
   },
-  "22": {
-    "id": "22",
+  "23": {
+    "id": "23",
     "title": "Search",
     "content": "Searching through Projects, Lists, and Items Find anything in your account using simple Search. 🔎 And use Filters to drill down and find specific items you are looking for.",
     "url": "http://localhost:4000/help/search/",
     "relUrl": "/help/search/"
   },
-  "23": {
-    "id": "23",
+  "24": {
+    "id": "24",
     "title": "Switching Boards",
     "content": "Switching between Boards within a Project Once you’ve added multiple Boards in your project to fit every workflow and team involved, you would want to switch between Boards to see who progress in specific teams. Switching between Boards Head over to the Boards Tab within your project. On the right side of your screen, by default, you will see the “Default Workflow” board. Click on the dropdown. From the dropdown menu, select which Board you’d like to view and work from. [GIF]",
     "url": "http://localhost:4000/help/boards/switching-boards/",
     "relUrl": "/help/boards/switching-boards/"
   },
-  "24": {
-    "id": "24",
+  "25": {
+    "id": "25",
     "title": "Team Use Cases",
     "content": "Getting Started With Zepel New to Zepel? Welcome! 🤗 Starting and managing a project has been hard, until now. Once you’ve signed up and created your account, you are only 3 steps away from starting a project and bring it under control. In this article we will take you through the top 3 things you should do once you are inside your Zepel account. IN THIS PAGE Create a Project Add Lists inside a Project Create Items Already created and organized your project? Collaborate and add a Board for every team involved in your project. Create a Project A project is where group of members come together to achieve a common goal. Projects in Zepel can represent teams such as Engineering and Data Science. [IMG] But if you prefer to have projects named after features your company is working on, Zepel will work just fine. Add Lists inside a Project Projects in Zepel can have multiple Lists. That way, if you have your project named after specific teams, each list of tasks can represent the feature your team is working on. [IMG] And if your project is named after a feature, each list can represent specific teams involved in your feature, so you can see what’s happening in every team in your project. [IMG] Create Items Items and its types - Stories, Enhancements, Bugs, Tasks, and Subtasks are at the core of Zepel. You can delegate, set deadlines, and track statuses of your work. Once you’ve created a List inside your project, start adding related work items into your list, so you can keep your team aligned on same page. When your List is empty, you can choose to create a Section or a Task. To change an item’s type, right click on the item and select which type you would like to change to. Hit [ Tab ] to turn any item into a Subtask. [IMG] Keyboard Shortcuts: Turn any item into a task by typing ‘ - ‘ at the beginning of an item. Toggle between item types using Ctrl + Shift + S (or Cmd + Shift + S if you use a Mac). Add a Section to group similar items together by typing ‘ * ‘ at the beginning of an item. Go ahead, start your first project in Zepel. It’ll only take a minute to see how effortless it is to start and manage projects in Zepel.",
     "url": "http://localhost:4000/help/use-cases/",
     "relUrl": "/help/use-cases/"
   },
-  "25": {
-    "id": "25",
+  "26": {
+    "id": "26",
     "title": "Working with Teams",
     "content": "Working with Teams Building and shipping quality projects requires you to bring in team members and collaborate with them. With Zepel, you can bring members from any team into your project, delegate work, share files, have conversations, and track progress in every team.",
     "url": "http://localhost:4000/help/working-with-teams/",
