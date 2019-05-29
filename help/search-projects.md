@@ -20,3 +20,5 @@ To search for projects:
 [IMG]
 
 Projects matching (or partially matching) the text you entered in the search bar will be listed below.
+
+If you want to search for items, [read this guide]({{ site.url }}{% link help/search-items.md %}).

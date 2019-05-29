@@ -4,8 +4,8 @@ nav_order: 2
 has_children: false
 parent: Using Boards
 title: Switching Boards
-desc: Learn how to create Boards within a project and track progress.
-permalink: help/boards/add-existing-board/
+desc: Learn how to switch between Boards within your project.
+permalink: help/boards/switching-boards/
 ---
 # Switching between Boards within a Project
 {: .no_toc }

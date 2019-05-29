@@ -142,7 +142,7 @@
   "21": {
     "id": "21",
     "title": "Search Projects",
-    "content": "Search for Projects Quickly find projects you are working on using Search. To search for projects: Go to All Projects page. Type the name of the project you are searching for on the search bar on the right side of your screen. [IMG] Projects matching (or partially matching) the text you entered in the search bar will be listed below.",
+    "content": "Search for Projects Quickly find projects you are working on using Search. To search for projects: Go to All Projects page. Type the name of the project you are searching for on the search bar on the right side of your screen. [IMG] Projects matching (or partially matching) the text you entered in the search bar will be listed below. If you want to search for items, read this guide.",
     "url": "http://localhost:4000/help/search/search-projects/",
     "relUrl": "/help/search/search-projects/"
   },
@@ -157,8 +157,8 @@
     "id": "23",
     "title": "Switching Boards",
     "content": "Switching between Boards within a Project Once you’ve added multiple Boards in your project to fit every workflow and team involved, you would want to switch between Boards to see who progress in specific teams. Switching between Boards Head over to the Boards Tab within your project. On the right side of your screen, by default, you will see the “Default Workflow” board. Click on the dropdown. From the dropdown menu, select which Board you’d like to view and work from. [GIF]",
-    "url": "http://localhost:4000/help/boards/add-existing-board/",
-    "relUrl": "/help/boards/add-existing-board/"
+    "url": "http://localhost:4000/help/boards/switching-boards/",
+    "relUrl": "/help/boards/switching-boards/"
   },
   "24": {
     "id": "24",
