@@ -18,9 +18,13 @@ If you are new to Zepel, we recommend you start with our Get Started guide. If y
 [Get Started]({{ site.url }}{% link help/get-started.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Contact Support](https://github.com/svikashk/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
-<body>
+<center>Get Maximum Value</center>
+{: .fs-6 .fw-300 }
 
-<h2>Important Articles</h2>
+<body>
+<div class="center-paragraph">
+Here are some useful links to help you get ramped up with Zepel's features and effortlessly manage your projects.
+</div>
 <div class="row">
 <div class="column">
 <div class="card">
