@@ -17,6 +17,7 @@ The description area is where you will add detailed explanations, background inf
 
 With __Markdown Formatting__ in Zepel, you can style and organize your item descriptions with headings, lists, code blocks and more. To style your item descriptions follow the Markdown Syntax Guide below:
 
+[IMG]
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
