@@ -4,7 +4,7 @@ nav_order: 4
 has_children: false
 parent: Working with Teams
 title: Item Description
-desc: Start collaborating on projects with your team in Zepel. Assign, set due dates, set statuses, and estimate your work items.
+desc: Use markdown to share more information to user stories, tasks, enhancements, bugs, and subtasks. 
 permalink: help/working-with-teams/description/
 ---
 # Item Description

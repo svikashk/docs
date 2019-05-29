@@ -1,10 +1,10 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 4
 has_children: false
 parent: Using Boards
 title: Change default Board
-desc: Learn how to create Boards within a project and track progress.
+desc: Change a List's default Board within your project.
 permalink: help/boards/default-boards/
 ---
 # Change a List's default Board

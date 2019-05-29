@@ -2,7 +2,7 @@
 layout: default
 title: Using Boards
 nav_order: 5
-description: "Everything you need to know about using Zepel with your team"
+description: "Boards in Zepel is more than just a Kanban. Learn how you can use Boards to keep track of progress across teams within a project."
 has_children: true
 permalink: help/boards/
 has_toc: true

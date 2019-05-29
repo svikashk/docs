@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zepel Knowledge Base
+title: Home
 nav_order: 1
 description: "Everything you need to know about using Zepel with your team"
 permalink: /

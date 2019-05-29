@@ -2,7 +2,7 @@
 layout: default
 title: Get Started
 nav_order: 3
-description: "Everything you need to know about using Zepel with your team"
+description: "Everything you need to know about getting started with your new Zepel account"
 has_children: true
 permalink: help/get-started/
 has_toc: true

@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 2
+nav_order: 3
 has_children: false
 parent: Using Boards
 title: Reuse a Board from another Project
