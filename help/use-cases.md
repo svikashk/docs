@@ -32,7 +32,7 @@ Here are multiple ways of how you can bring members from every team together, co
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="">
+    <a href="http://localhost:4000/help/use-cases/build-features/">
     <h4><b>Build Features Together</b></h4> 
     <p>Work together with Developers, Designers, and QA team.</p> 
     </a>

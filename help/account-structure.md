@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 2
-title: How your Zepel account is structured
+title: Account Structure
 description: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
 permalink: help/account-structure/
 ---

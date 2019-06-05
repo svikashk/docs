@@ -124,3 +124,13 @@ Lists Overview is the command center for your project. You can see progress of y
 With the capability to view all your lists in Kanban to make it easier for you prioritize your feature and Table view to quickly see a timeline of what's next, product managers and team leaders can quickly get a bird's eye view of what's happening in real-time.
 
 [Learn more about Lists Overview ->]({{site.url}}{ % link help/desktop-widget.md % })
+
+---
+
+### 7. Reports to help drive your project forward
+
+As your project progresses, you'll want to keep an eye on the reports to quickly guage if your on track.
+
+Head over to the Dashboard tab on your project to see a quick overview of how your project has progressed in the last 14 days.
+
+If you're running Sprints, you can view Burnup or Burndown chart for your specific sprint from the sprints menu.

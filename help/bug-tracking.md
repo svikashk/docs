@@ -1,15 +1,15 @@
 ---
 layout: default
-nav_order: 2
-title: Build Features Together on Zepel
+nav_order: 3
+title: Bug Tracking with Zepel
 description: Learn how to work with Developers, Designers, and QA members together on Zepel.
-permalink: help/use-cases/build-features/
+permalink: help/use-cases/bug-tracking/
 nav_exclude: true
 ---
-# Build Features Together
+# Bug Tracking
 {: .no_toc }
 
-Building features requires members from Design, Development, and QA to come together and collaborate.
+File and track bugs with Zepel, so your feature is always ship worthy.
 {: .fs-6 .fw-300 }
 
 Collaboration, while building features, isn't just about assigning tasks, sharing files, or having conversations. 
@@ -70,12 +70,10 @@ Your designer would move their work in Design Board. And once your desiger is re
 
 ---
 
-### 5. Watch the entire feature progress
+### 5. Watch the entire feature progress from within the List
 
 While members from every team pick up items assigned to them move them across statuses and Boards, you can see how your feature take its shape and progress across teams.
 
 [IMG]
 
-If you want to see what each team is working on, you can simply click on their respective Board and get a quick glance of what's happening. And if you head over to Lists Overview, you can get a quick status of how much your feature has progressed.
-
-[Learn more about Lists Overview ->]({{site.url}}{ % link help/boards.md % })
+If you want to see what each team is working on, you can simply click on their respective Board and get quick glance of what's happening.
