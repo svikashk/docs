@@ -38,7 +38,7 @@ Create multiple Lists inside a project, each representing the feature (if you na
 
 [IMG]
 
-[Learn more about organizing Lists ->]({{ site.url }}{ % link help/creating-and-organizing-lists-inside-your-project.md %})
+[Learn more about organizing Lists ->]({{ site.url }}{% link help/creating-and-organizing-lists-inside-your-project.md %})
 
 ---
 
@@ -66,7 +66,7 @@ With a Board tailor-made for every team, each member can work just the way they 
 
 Your designer would move their work in Design Board. And once your desiger is ready with design, your front-end developer can pick it up from Design Board and start moving it across his Development Board.
 
-[Learn how to set statuses and manage workflows ->]({{site.url}}{ % link help/boards.md % })
+[Learn how to set statuses and manage workflows ->]({{site.url}}{% link help/boards.md %})
 
 ---
 
@@ -78,4 +78,4 @@ While members from every team pick up items assigned to them move them across st
 
 If you want to see what each team is working on, you can simply click on their respective Board and get a quick glance of what's happening. And if you head over to Lists Overview, you can get a quick status of how much your feature has progressed.
 
-[Learn more about Lists Overview ->]({{site.url}}{ % link help/boards.md % })
+[Learn more about Lists Overview ->]({{site.url}}{% link help/boards.md %})

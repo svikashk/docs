@@ -26,7 +26,7 @@ A project in Zepel is usually a team, like Web App or Android or iOS. But if you
 
 While creating a project, you will be able to add one or more Boards into your project that you can use to move your work across Boards or statuses.
 
-[Learn how to create a project ->]({{ site.url }}{ % link help/creating-your-first-project.md %})
+[Learn how to create a project ->]({{ site.url }}{% link help/creating-your-first-project.md %})
 
 ---
 
@@ -43,7 +43,7 @@ Each list can have:
 
 Note: Teams that name a project after a feature, usually create a List for each team involved in shipping the feature.
 
-[Learn more about organizing Lists ->]({{ site.url }}{ % link help/creating-and-organizing-lists-inside-your-project.md %})
+[Learn more about organizing Lists ->]({{ site.url }}{% link help/creating-and-organizing-lists-inside-your-project.md %})
 
 ---
 
@@ -59,7 +59,7 @@ You can create:
 5. Bugs
 6. Sections
 
-[Learn how you can quickly create a list of items ->]({{site.url}}{ % link help/creating-work-items-inside-your-list.md % })
+[Learn how you can quickly create a list of items ->]({{site.url}}{% link help/creating-work-items-inside-your-list.md %})
 
 But of course, creating a list of items alone isn't enough. You'll want to delegate it, set a deadline, and track its progress.
 
@@ -73,7 +73,7 @@ All items in Zepel, except Sections, can have item properties:
 
 You can add item properties by typing ```/``` to trigger all commands. Alternatively, you can open up an item's details pop-up to set or change any of the properties.
 
-[Learn how you can delegate and track work items ->]({{site.url}}{ % link help/add-properties.md % })
+[Learn how you can delegate and track work items ->]({{site.url}}{% link help/add-properties.md %})
 
 ---
 
@@ -91,7 +91,7 @@ All trackable items across lists can move from one status to another like a trad
 
 That means, when your designer is ready with the mockups for your frontend developer to pick it up, the item can move from ```Design - Done``` to ```Dev - Todo```.
 
-[Learn how to set statuses and manage workflows ->]({{site.url}}{ % link help/boards.md % })
+[Learn how to set statuses and manage workflows ->]({{site.url}}{% link help/boards.md %})
 
 ---
 
@@ -109,7 +109,7 @@ To make it even more easier, you can work on your items from the comfort of your
 
 [IMG]
 
-[Learn more about Desktop Widget ->]({{site.url}}{ % link help/desktop-widget.md % })
+[Learn more about Desktop Widget ->]({{site.url}}{% link help/desktop-widget.md %})
 
 ---
 
@@ -123,7 +123,7 @@ Lists Overview is the command center for your project. You can see progress of y
 
 With the capability to view all your lists in Kanban to make it easier for you prioritize your feature and Table view to quickly see a timeline of what's next, product managers and team leaders can quickly get a bird's eye view of what's happening in real-time.
 
-[Learn more about Lists Overview ->]({{site.url}}{ % link help/desktop-widget.md % })
+[Learn more about Lists Overview ->]({{site.url}}{% link help/desktop-widget.md %})
 
 ---
 
