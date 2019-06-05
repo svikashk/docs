@@ -2,13 +2,13 @@
 layout: default
 title: Search
 nav_order: 6
-description: "Everything you need to know about using Zepel with your team"
+description: "Learn how you can search and find any Project or Item you are working on in Zepel"
 has_children: true
 permalink: help/search/
 has_toc: true
 ---
 
-# Searching through Projects, Lists, and Items
+# Searching through Projects and Items
 {: .no_toc }
 
 Find anything in your account using simple Search. 🔎

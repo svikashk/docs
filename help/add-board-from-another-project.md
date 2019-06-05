@@ -4,7 +4,7 @@ nav_order: 3
 has_children: false
 parent: Using Boards
 title: Reuse a Board from another Project
-desc: Learn how to create Boards within a project and track progress.
+description: Learn how to create Boards within a project and track progress.
 permalink: help/boards/add-existing-board/
 ---
 # Reuse a Board from another Project

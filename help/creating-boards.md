@@ -4,7 +4,7 @@ nav_order: 1
 has_children: false
 parent: Using Boards
 title: How To Create A New Board In Zepel
-desc: Learn how to create Boards within a project and track progress.
+description: Learn how to create Boards within a project and track progress.
 permalink: help/boards/creating-boards/
 ---
 # How to create a new Board within a Project

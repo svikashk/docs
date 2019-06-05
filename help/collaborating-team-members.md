@@ -4,7 +4,7 @@ nav_order: 1
 has_children: false
 parent: Working with Teams
 title: Collaborating with Team Members
-desc: Learn how collaboration in Zepel works. See how you can collaborate members into an account or into your project.
+description: Learn how collaboration in Zepel works. See how you can collaborate members into an account or into your project.
 permalink: help/working-with-teams/collaborating-team-members/
 ---
 # Collaborating with Team Members

@@ -4,7 +4,7 @@ nav_order: 3
 has_children: false
 parent: Working with Teams
 title: Comments and Conversations
-desc: Start collaborating on projects with your team in Zepel. Comment, mention people, and share files within your conversation.
+description: Start collaborating on projects with your team in Zepel. Comment, mention people, and share files within your conversation.
 permalink: help/working-with-teams/comments/
 ---
 # Have contextual conversations with team members

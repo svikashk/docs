@@ -4,7 +4,7 @@ nav_order: 6
 has_children: false
 parent: Using Boards
 title: Remove and Delete Boards
-desc: Remove or Delete unused Boards from projects.
+description: Remove or Delete unused Boards from projects.
 permalink: help/boards/remove-delete-boards/
 ---
 # How to remove and delete Boards

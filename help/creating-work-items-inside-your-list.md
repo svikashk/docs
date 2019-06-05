@@ -4,7 +4,7 @@ nav_order: 4
 has_children: false
 parent: Get Started
 title: Creating work items inside your List
-desc: Learn how you can create user stories, enhacements, bugs, tasks, and subtasks inside your List.
+description: Learn how you can create user stories, enhacements, bugs, tasks, and subtasks inside your List.
 permalink: help/get-started/creating-items/
 ---
 # Creating items inside your List

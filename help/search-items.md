@@ -4,7 +4,7 @@ nav_order: 2
 has_children: false
 parent: Search
 title: Search Items
-desc: Search and find any items from within your list.
+description: Search and find any items from within your list.
 permalink: help/search/search-items/
 ---
 # Search through your list to find any Item

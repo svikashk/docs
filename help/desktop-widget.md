@@ -2,16 +2,22 @@
 layout: default
 title: Desktop Widget
 nav_order: 8
-description: View, edit, and update your work right from your desktop.
+description: View, edit, and update your work right from your desktop using Zepel's Desktop Widget.
 has_children: true
 permalink: help/desktop-widget/
 has_toc: true
 ---
 
-# Searching through Projects, Lists, and Items
+# Desktop Widget
 {: .no_toc }
 
-Find anything in your account using simple Search. 🔎
+View, edit, and update your work right from your desktop.
 {: .fs-6 .fw-300 }
 
-And use Filters to drill down and find specific items you are looking for.
+With the desktop widget, you no longer have to open up your browser, log in, and navigate to the task assigned to you, just to update progress on a work item. 
+
+[IMG]
+
+Zepel's desktop widget allows you to quickly see work assigned to you, get a full blown picture of what’s shipping in an active sprint, and get a bird’s eye view of how your current sprint is progressing.
+
+[Download Desktop Widget](https://zepel.io/downloads/desktop-widget/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 

@@ -4,7 +4,7 @@ nav_order: 2
 has_children: false
 parent: Using Boards
 title: Switching Boards
-desc: Learn how to switch between Boards within your project.
+description: Learn how to switch between Boards within your project.
 permalink: help/boards/switching-boards/
 ---
 # Switching between Boards within a Project

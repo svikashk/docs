@@ -4,7 +4,7 @@ nav_order: 1
 has_children: false
 parent: Search
 title: Search Projects
-desc: Search and find projects you are working on.
+description: Search and find projects you are working on.
 permalink: help/search/search-projects/
 ---
 # Search for Projects

@@ -4,7 +4,7 @@ nav_order: 4
 has_children: false
 parent: Using Boards
 title: Change default Board
-desc: Change a List's default Board within your project.
+description: Change a List's default Board within your project.
 permalink: help/boards/default-boards/
 ---
 # Change a List's default Board

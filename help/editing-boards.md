@@ -4,7 +4,7 @@ nav_order: 5
 has_children: false
 parent: Using Boards
 title: Editing Boards
-desc: Edit Boards within your project to bend Zepel to fit your workflow.
+description: Edit Boards within your project to bend Zepel to fit your workflow.
 permalink: help/boards/edit-boards/
 ---
 # Edit Boards to fit your workflow

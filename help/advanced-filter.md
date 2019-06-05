@@ -4,7 +4,7 @@ nav_order: 3
 has_children: false
 parent: Search
 title: Advanced Filter
-desc: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
+description: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
 permalink: help/search/advanced-filter/
 ---
 # Group and Filter Items

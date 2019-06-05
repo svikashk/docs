@@ -4,7 +4,7 @@ nav_order: 3
 has_children: false
 parent: Get Started
 title: Creating and organizing Lists inside your project
-desc: Learn how to create and organize multiple Lists inside your project.
+description: Learn how to create and organize multiple Lists inside your project.
 permalink: help/get-started/creating-lists/
 ---
 # Creating and organizing Lists inside your project
