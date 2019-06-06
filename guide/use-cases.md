@@ -74,7 +74,7 @@ Here are multiple ways of how you can bring members from every team together, co
 <div class="column">
 <div class="card">
 <div class="container">
-<a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/project-management/">
+<a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/product-managers/">
 <h4><b>Product Manager</b></h4> 
 <p>Learn how you can manage your project from start to finish in Zepel.</p> 
 </a>
