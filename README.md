@@ -3,7 +3,7 @@
 </p>
 <br><br>
 <p align="center">
-    <h1 align="center">Zepel Docs</h1>
+    <h1 align="center">Zepel Guide</h1>
     <p align="center">Learn how to use Zepel with your team</p>
     <p align="center"><strong><a href="https://tender-mcnulty-44e8e0.netlify.com">See it in action!</a></strong></p>
     <br><br><br>
