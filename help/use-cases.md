@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Team Use Cases
+title: Use Cases
 nav_order: 9
-description: "Everything you need to know about using Zepel with your team"
+description: "All the different ways you can use Zepel to manage your project and ship new features."
 permalink: help/use-cases/
 ---
 
@@ -15,28 +15,28 @@ Building and shipping quality features requires teams to come together and work.
 Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time.
 
 ---
-
-<body>
+<div class="team">
+<h2>Team Use Cases</h2>
 <div class="usecases-row">
 <div class="column">
 <div class="card">
-  <div class="container">
-    <a href="http://localhost:4000/help/use-cases/project-management/">
-    <h4><b>Project Management</b></h4> 
-    <p>Learn how you can manage your project from start to finish in Zepel.</p> 
-    </a>
-  </div>
+<div class="container">
+<a href="http://localhost:4000/help/use-cases/project-management/">
+<h4><b>Project Management</b></h4> 
+<p>Learn how you can manage your project from start to finish in Zepel.</p> 
+</a>
+</div>
 </div>
 </div>
 
 <div class="column">
 <div class="card">
-  <div class="container">
-    <a href="http://localhost:4000/help/use-cases/build-features/">
-    <h4><b>Build Features Together</b></h4> 
-    <p>Work together with Developers, Designers, and QA team.</p> 
-    </a>
-  </div>
+<div class="container">
+<a href="http://localhost:4000/help/use-cases/build-features/">
+<h4><b>Build Features Together</b></h4> 
+<p>Work together with Developers, Designers, and QA team.</p> 
+</a>
+</div>
 </div>
 </div>
 </div>
@@ -44,24 +44,64 @@ Here are multiple ways of how you can bring members from every team together, co
 <div class="usecases-row">
 <div class="column">
 <div class="card">
-  <div class="container">
-    <a href="">
-    <h4><b>Track Bugs</b></h4> 
-    <p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
-    </a>
-  </div>
+<div class="container">
+<a href="">
+<h4><b>Track Bugs</b></h4> 
+<p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
+</a>
+</div>
 </div>
 </div>
 
 <div class="column">
 <div class="card">
-  <div class="container">
-    <a href="">
-    <h4><b>Manage Workload</b></h4> 
-    <p>Track what each member is working on and manage their workload.</p> 
-    </a>
-  </div>
+<div class="container">
+<a href="">
+<h4><b>Manage Workload</b></h4> 
+<p>Track what each member is working on and manage their workload.</p> 
+</a>
 </div>
 </div>
 </div>
-</body>
+</div>
+</div>
+
+<p class="callout" style="margin: 0 0 18px 0;padding:0 15px 15px 15px;font-family: &quot;Helvetica Neue&quot;, &quot;Helvetica&quot;, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 18px;line-height: 1.6;text-align:left; border-bottom: 1px solid #eeebee;">
+
+<div class="persona">
+<h2>Persona Use Cases</h2>
+<div class="usecases-row">
+<div class="column">
+<div class="card">
+<div class="container">
+<a href="http://localhost:4000/help/use-cases/project-management/">
+<h4><b>Product Manager</b></h4> 
+<p>Learn how you can manage your project from start to finish in Zepel.</p> 
+</a>
+</div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+<div class="container">
+<a href="http://localhost:4000/help/use-cases/build-features/">
+<h4><b>Team Leader</b></h4> 
+<p>Work together with Developers, Designers, and QA team.</p> 
+</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="usecases-row">
+<div class="column">
+<div class="card">
+<div class="container">
+<a href="">
+<h4><b>Developer</b></h4> 
+<p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
+</a>
+</div>
+</div>
+</div>

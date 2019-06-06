@@ -204,8 +204,8 @@
   },
   "30": {
     "id": "30",
-    "title": "Team Use Cases",
-    "content": "Ways to use Zepel with Teams Building and shipping quality features requires teams to come together and work. Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time. Project Management Learn how you can manage your project from start to finish in Zepel. Build Features Together Work together with Developers, Designers, and QA team. Track Bugs Engineering teams use Zepel to file, track, and fix bugs. Manage Workload Track what each member is working on and manage their workload.",
+    "title": "Use Cases",
+    "content": "Ways to use Zepel with Teams Building and shipping quality features requires teams to come together and work. Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time. Team Use Cases Project Management Learn how you can manage your project from start to finish in Zepel. Build Features Together Work together with Developers, Designers, and QA team. Track Bugs Engineering teams use Zepel to file, track, and fix bugs. Manage Workload Track what each member is working on and manage their workload. Persona Use Cases Product Manager Learn how you can manage your project from start to finish in Zepel. Team Leader Work together with Developers, Designers, and QA team. Developer Engineering teams use Zepel to file, track, and fix bugs.",
     "url": "http://localhost:4000/help/use-cases/",
     "relUrl": "/help/use-cases/"
   },

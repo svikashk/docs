@@ -38,6 +38,8 @@ A project is where group of members come together to achieve a common goal. Proj
 
 But if you prefer to have projects named after features your company is working on, Zepel will work just fine.
 
+---
+
 ### Add Lists inside a Project
 
 Projects in Zepel can have multiple Lists. That way, if you have your project named after specific teams, each list of tasks can represent the feature your team is working on.
@@ -47,6 +49,8 @@ Projects in Zepel can have multiple Lists. That way, if you have your project na
 And if your project is named after a feature, each list can represent specific teams involved in your feature, so you can see what's happening in every team in your project.
 
 [IMG]
+
+---
 
 ### Create Items
 
