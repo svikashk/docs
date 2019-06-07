@@ -26,13 +26,13 @@ Below is an image of how a project with multiple lists, items, and boards fit in
 
 Let us jump in to see what they are and how they work.
 
-##Accounts
+## Accounts
 
 An account is an overarching entity that owns all your projects and houses them together under one subdomain - ```https://comapanyname.zepel.io```. An account is usually the name of your company where people are added either as a Member or an Admin.
 
 ---
 
-##Projects 
+## Projects 
 
 A project is where members of in your organization come together to achieve a common goal. Projects can be features your company is working on, or represent teams such as Design or Data Science. 
 
@@ -44,7 +44,7 @@ People collaborated in a project will be automatically added to the respective a
 
 ---
 
-##Lists
+## Lists
 
 A list is a collection of actionable work that your team can execute. Each list, depending on how you've named your project, can be either a feature or a team. Lists contain actionable next steps that can be assigned and tracked. This is where work gets done.
 
@@ -54,7 +54,7 @@ A list is a collection of actionable work that your team can execute. Each list,
 
 ---
 
-##User Stories, Tasks, Subtasks, Enhancements, and Bugs
+## User Stories, Tasks, Subtasks, Enhancements, and Bugs
 
 Your list can be broken down into smaller chunks of executable work. They can be assigned to more than one person, have due dates, estimates, and statuses.
 
@@ -66,7 +66,7 @@ The completion of all work items inside each list will determine your entire pro
 
 ---
 
-##Boards
+## Boards
 
 Boards in Zepel let you and your team track progress of your work items. A Board ideally represents a workflow each item flows through. 
 

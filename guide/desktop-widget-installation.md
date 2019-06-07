@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 has_children: false
 parent: Desktop Widget
-title: Installation guide/
+title: Installation guide
 description: Learn how to install and use Desktop widget on different platforms
 permalink: guide/desktop-widget/installing/
 ---
@@ -21,7 +21,7 @@ Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users.
 
 ---
 
-## Installation guide/ for Mac users
+## Installation guide for Mac users
 
 - Your download should start automatically. If you have any trouble, click on "try again" to manually download.
 
@@ -33,7 +33,7 @@ Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users.
 
 ---
 
-## Installation guide/ for Windows users
+## Installation guide for Windows users
 
 - Download should start automatically. If you have any trouble click on "Try Again" to manually download.
 
@@ -49,7 +49,7 @@ Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users.
 
 ---
 
-## Installation guide/ for Ubuntu users
+## Installation guide for Ubuntu users
 
 - Download should start automatically. If you have any trouble, click on "Try Again" to manually download.
 

@@ -86,7 +86,7 @@ Here are multiple ways of how you can bring members from every team together, co
 <div class="card">
 <div class="container">
 <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/product-managers/">
-<h4><b>Team Leader</b></h4> 
+<h4><b>Engineering Manager</b></h4> 
 <p>Work together with Developers, Designers, and QA team.</p> 
 </a>
 </div>
