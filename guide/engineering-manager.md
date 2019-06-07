@@ -10,11 +10,11 @@ nav_exclude: true
 {: .no_toc }
 
 Engineering managers take the big picture vision of features, break it down to actionable chunks of work, and manage the engineering team to ensure the feature is built with efficiency.
-{: .fs-6 .fw-300 }
+
 
 Since engineering managers work with both the product manager and the entire engineering team, their focus often shifts between strategy and managing personnels.
 
-In this article, we'll see how an engineering manager uses Zepel to manage workload within the team and work with the product manager to define the strategic execution of the feature.
+In this article, we'll see how engineering managers use Zepel to manage workload within their team while working with product managers to define the strategic execution of the feature.
 
 ---
 
@@ -26,55 +26,62 @@ A project in Zepel is usually a team, like Engineering, Backend, or Frontend. Bu
 
 [IMG]
 
-While creating your project, add Boards your team will use to move items across statuses. If you find your project needs more Boards as your team works on features,, you can still add them from within the project.
+While creating your project, add Boards your team will use to move items across statuses. If you find your project needs more Boards as your team makes progress on the feature, you can add them from within the project.
 
 [Learn how to create a project ->]({{ site.url }}{% link guide/creating-your-first-project.md %})
 
 ---
 
-## 2. Create a List for your feature and add items
+## 2. Create a List for your feature and prioritize
 
-Once a project is created for your team, add a List for each feature your team will be working on. A list houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. 
+Once a project is created for your team, add a List for each feature your team will be working on. 
 
-Normally, the product manager would create Lists and add all the required user stories. 
+A list houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. 
 
-Adding items for your feature is as simple as writing on a document. Simply hit enter to create another item. And press ```Cmd + Shift + S``` if you're on a Mac (Ctrl + Shift + S on Windows) to toggle between item types.
+Normally, the [product manager]({{ site.url }}{% link guide/product-manager.md %}) would create Lists and add all the required [user stories]({{ site.url }}{% link guide/creating-work-items-inside-your-list.md %}). 
 
-Use Descriptions to add more details to each work item. For example, product managers use description as a place to add acceptance criteria for user stories and attach files below it to share files for further references.
-
----
-
-## 3. Collaborate with the team to get an estimate for your feature
-
-Once you've added user stories and enhancements for your feature, bring in Engineering Mangager and the rest of the team to understand the complexity involved in building the feature.
-
-Have contextual conversations on each work item and get your development team to break down each user story into subtasks.
-
-Breaking down user stories into subtasks helps your team clarity and understanding of what they'll have to build and hence will be able to add estimations with better accuracy.
-
----
-
-## 4. Prioritize key user stories with Hashtags
-
-Now that you have a rough estimate of how long each user story will take to get built, its time to prioritize them.
-
-Use the advanced filters to slice and dice all items. Sort your items by Estimate and start adding hashtags ```#``` to denote priorities.
-
-That way, your Engineering Manager knows what are the key areas of your feature that needs more attention and can delegate it to team members appropriately.
-
----
-
-## 5. Track progress of the feature and plan for the road ahead
-
-Give each list: 
-1. An owner who will oversee the specific feature 
-2. A duration to ensure the feature is built within a said timeline, and
-3. A status to keep everyone updated on progress
+Once the product manager has added all the required user stories and [descriptions]({{ site.url }}{% link guide/description.md %}) to each feature, you can sit together to give a high level estimate of how long each feature could take and help the product manager prioritize features using the Kanban view.
 
 [IMG]
 
-As your team makes progress, you'll see a quick overview of how much work is done. And of course, you can always get a deeper understanding of the progress with reports.
+---
 
-As you add more features to your project, use the Table view or the Kanban view to prioritize and plan your future features.
+## 3. Bring in team members to estimate user stories
 
-[Learn more about organizing Lists ->]({{ site.url }}{% link guide/creating-and-organizing-lists-inside-your-project.md %})
+Collaborate with team members and start breaking down user stories into actionable subtasks based on the acceptance criteria added in the description area. Breaking down user stories into subtasks will give your team clarity and help them estimate better.
+
+With the help your team members, [give each user story an estimate]({{ site.url }}{% link guide/add-properties.md %}) after discussing with your team on the how they'll execute them.
+
+Based on the estimates provided by you and your team, the product manager can now add priority to key user stories from the advanced filter page, and help you and your team focus on the things that are important.
+
+[IMG]
+
+---
+
+## 4. Delegate prioritized work to team members
+
+Once key user stories are prioritized the product manager will give the list an owner, duration, and a status. 
+
+The owner for the list is usually the person who will oversee the specific feature and ensure its completion within the duration. Depending on how your organization is structured, that could be the engineering manager as well.
+
+When its time to begin working on the feature, you can start assigning the prioritized set of user stories and enhancements to your team members.
+
+Answer questions to team members on specific items using [comments]({{ site.url }}{% link guide/comments.md %}) and give them all the information they need to build the feature. 
+
+[IMG]
+
+---
+
+## 5. Track progress of the feature and manage workload
+
+As your team work on the features and make progress, get a quick progress update of how your feature has progressed from Lists Overview.
+
+[IMG]
+
+Use the advanced filters from within your team's Board to drill in and see how much work each member is working on. That way, you know exactly how much work each member is working on along with their statuses.
+
+Now with Workload, you can see each team member's bandwidth in one view andknow who has capacity to work on more items and who is overloaded.
+
+This will help you quickly manage your team's workload and route work efficiently.
+
+[IMG]

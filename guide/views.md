@@ -13,7 +13,9 @@ permalink: guide/desktop-widget/views/
 View work assigned to you in the way that works best for you. Right from your desktop.
 {: .fs-6 .fw-300 }
 
-Customizable views come in handy when you are trusted with multiple items that need to get completed. For example, you can choose to view items assigned to you based on when they're due and have them sorted in ascending order. That way, you can concentrate on items that are due soon, and never miss another deadline.
+Customizable views come in handy when you are trusted with multiple items that need to get completed. 
+
+For example, you can choose to view items assigned to you based on when they're due and have them sorted in ascending order. That way, you can concentrate on items that are due soon, and never miss another deadline.
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }

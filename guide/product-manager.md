@@ -10,7 +10,7 @@ nav_exclude: true
 {: .no_toc }
 
 Product managers take the big picture, distill it into features, break and prioritize them using user stories.
-{: .fs-6 .fw-300 }
+
 
 Since product managers work with every team, being able to quickly see what each team is working on __and__ know what's happening with the feature is key to plan and prioritize for the road ahead.
 
@@ -20,7 +20,7 @@ In this article, we'll see how a product manager uses Zepel to effortlessly keep
 
 ## 1. Create a Project
 
-As a product manager, you'd want to house all the features your team will be working on under one single project. 
+As a product manager, you'd want to bring all the features your team will be working on under one single project. 
 
 A project in Zepel is usually a team, like Engineering. But if you choose to name your project after a product or an initiative, such as Web App or Android or iOS, that works too!
 

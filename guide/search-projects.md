@@ -21,4 +21,4 @@ To search for projects:
 
 Projects matching (or partially matching) the text you entered in the search bar will be listed below.
 
-If you want to search for items, [read this guide/]({{ site.url }}{% link guide/search-items.md %}).
+If you want to search for items, [read this guide]({{ site.url }}{% link guide/search-items.md %}).

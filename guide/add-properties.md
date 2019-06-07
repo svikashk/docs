@@ -29,7 +29,7 @@ Once you've collaborated your project with your team members, you can delegate p
 
 When assigned, your team mates will be notified via Slack (if you've integrated your account with Slack) and email.
 
-## <u>Using Keyboard</u>
+#### <u>Using Keyboard</u>
 {: .no_toc }
 - With the cursor on the item you want to assign to, type ``` /a ```.
 - You will now see a list of members collaborated on your project. 
@@ -37,7 +37,7 @@ When assigned, your team mates will be notified via Slack (if you've integrated 
 
 [IMG]
 
-## <u>Using Mouse</u>
+#### <u>Using Mouse</u>
 {: .no_toc }
 - From the list, right click on the item you want to assign a team member to.
 - Select the assignee icon from the item menu.
@@ -56,7 +56,7 @@ Due dates let you set deadlines for your work items.
 
 When a specific work item is not yet completed on the due date, member assigned to that item will be notified via email. That way, your team never misses another deadline and all your work items stay updated.
 
-## <u>Using Keyboard</u>
+#### <u>Using Keyboard</u>
 {: .no_toc }
 - With the cursor on the item you want to set a due date to, type ```/d```.
 - From the calendar drop down, select a date.
@@ -64,7 +64,7 @@ When a specific work item is not yet completed on the due date, member assigned 
 
 [IMG]
 
-## <u>Using Mouse</u>
+#### <u>Using Mouse</u>
 {: .no_toc }
 - From the list, right click on the item you want to set a due date to.
 - Select the calendar icon from the item menu.
@@ -82,14 +82,14 @@ By default, all projects will have a Default Workflow with Todo, In Progress, Re
 
 [Learn how to manage workflows ->]({{site.url}}{ % link guide/boards.md % })
 
-## <u>Using Keyboard</u>
+#### <u>Using Keyboard</u>
 {: .no_toc }
 - With the cursor on the item you want to update a status for, type ```/s```.
 - From the status drop down, select the status.
 
 [IMG]
 
-## <u>Using Mouse</u>
+#### <u>Using Mouse</u>
 {: .no_toc }
 - From the list, right click on the item you want to the update status.
 - Select the flag icon from the item menu.
@@ -107,14 +107,14 @@ Add an estimate to your work item, so you can see an approximate estimate of how
 
 Estimates in Zepel are measured in points. They are useful when you'd like to view Burnup and Burndown charts for your Sprint. Or when you Filter your List.
 
-## <u>Using Keyboard</u>
+#### <u>Using Keyboard</u>
 {: .no_toc }
 - With the cursor on the item you want to estimate, type ```/e```.
 - In the text field, enter a number between 0.01 and 1000.
 
 [IMG]
 
-## <u>Using Mouse</u>
+#### <u>Using Mouse</u>
 {: .no_toc }
 - From the list, right click on the item you want to estimate.
 - Select timer icon from the item menu.

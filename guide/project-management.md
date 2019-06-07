@@ -20,7 +20,7 @@ In this article, we'll see you how you can manage your projects in Zepel, so you
 
 Creating a project is the first thing you'd be doing once you sign up for Zepel. Its where people with a common goal come together to help ship your feature. 
 
-A project in Zepel is usually a team, like Web App or Android or iOS. But if you choose to name your project after a product or an initative, that works too!
+A project in Zepel is usually a team, like Engineering. But if you choose to name your project after a product or an initative, such as iOS App or Android App, that works too!
 
 [IMG]
 
