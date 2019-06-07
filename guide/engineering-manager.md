@@ -80,7 +80,7 @@ As your team work on the features and make progress, get a quick progress update
 
 Use the advanced filters from within your team's Board to drill in and see how much work each member is working on. That way, you know exactly how much work each member is working on along with their statuses.
 
-Now with Workload, you can see each team member's bandwidth in one view andknow who has capacity to work on more items and who is overloaded.
+Now, you can see each team member's bandwidth in one view and know who has capacity to work on more items and who is overloaded.
 
 This will help you quickly manage your team's workload and route work efficiently.
 
