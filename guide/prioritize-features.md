@@ -49,17 +49,17 @@ With Progress, you can get a quick snapshot of how much progress your team has m
 
 ---
 
-## 3. View Progress in Kanban to Prioritize
+## 3. See features in Kanban to Prioritize
 
-The whole process of prioritizing is a whole different beast altogether. We've put together a process and wrote in detail about how you should think about prioritizing your feature [over here](https://blog.zepel.io/prioritize-product-feature-backlog/). We hope you find it useful.
+The entire thought process of prioritizing features is a whole different beast altogether. We've put together a process and wrote in detail about how you should think about prioritizing your feature [over here](https://blog.zepel.io/prioritize-product-feature-backlog/).
 
-With the right thought process and the context of your team's current feature progress, you can now rearrange your features within the Todo column in Kanban and start prioritizing the feature.
+With the right thought process and the context of your team's current feature progress, you can now view and rearrange your features in a Kanban and start prioritizing them.
+
+From the Progress tab, switch to Kanban view to see all your features neatly stacked based on their current status.
 
 [IMG]
 
-The higher your feature on the Todo column, the higher the priority. 
-
-PS. You'll need to switch to Kanban view in the Progress tab to view all your features in a Kanban.
+Rearrange features within the Todo column to prioritize. The higher your feature on the Todo column, the higher the priority. 
 
 ---
 
