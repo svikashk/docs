@@ -21,7 +21,7 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                    <a href="http://localhost:4000/guide/use-cases/project-management/">
+                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/project-management/">
                     <h4><b>Project Management</b></h4> 
                     <p>Learn how you can manage your project from start to finish in Zepel.</p> 
                     </a>
@@ -33,7 +33,7 @@ Here are multiple ways of how you can bring members from every team together, co
                 <div class="container">
                     <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/build-features/">
                     <h4><b>Build Features Together</b></h4> 
-                    <p>Work together with Developers, Designers, and QA team.</p> 
+                    <p>Work together with Developers, Designers, and QA team to build your feature.</p> 
                     </a>
                 </div>
             </div>
@@ -45,7 +45,7 @@ Here are multiple ways of how you can bring members from every team together, co
                 <div class="container">
                     <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/prioritize-features/">
                     <h4><b>Prioritize Features</b></h4> 
-                    <p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
+                    <p>Product managers use Zepel to plan and prioritize their next features.</p> 
                     </a>
                 </div>
             </div>
@@ -53,7 +53,7 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                <a href="">
+                <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/manage-workload/">
                 <h4><b>Manage Workload</b></h4> 
                 <p>Track what each member is working on and manage their workload.</p> 
                 </a>
