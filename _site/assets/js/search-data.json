@@ -36,216 +36,244 @@
   },
   "6": {
     "id": "6",
+    "title": "Filtering Boards",
+    "content": "How to remove and delete Boards You can choose to remove a Board from your project or delete the Board itself. IN THIS PAGE Remove Boards Delete Boards Remove Boards To remove a Board from your current project: Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to remove from the project. Click on the settings icon. Click on the Remove Board button. From the confirmation pop-up, click on Remove Board to remove the Board from your current project. [IMG] When you remove a board from a project, all items using the board you removed, will automatically be moved to the Default Workflow board. Delete Boards To delete a Board from your account: Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to delete from your account. Click on the settings icon. Click on the Delete board from all projects button. From the confirmation pop-up, click on Delete Board to delete the Board from your account. [IMG] When you delete a board from your account, the board will get deleted from all projects using the specific board and all items using statuses from the board will automatically be moved to the Default Workflow board.",
+    "url": "http://localhost:4000/guide/boards/filter-boards/",
+    "relUrl": "/guide/boards/filter-boards/"
+  },
+  "7": {
+    "id": "7",
     "title": "Using Boards",
     "content": "Using Boards in Zepel Boards in Zepel give every team in your project a workflow tailor-made just for them. Depending on your project and the workflows it requires, you can choose to create multiple Boards within your project to move work items across a workflow and keep your team updated on progress. [IMG]",
     "url": "http://localhost:4000/guide/boards/",
     "relUrl": "/guide/boards/"
   },
-  "7": {
-    "id": "7",
+  "8": {
+    "id": "8",
     "title": "Build Features Together on Zepel",
     "content": "Build Features Together Building features requires members from Design, Development, and QA to come together and collaborate. Collaboration, while building features, isn’t just about assigning tasks, sharing files, or having conversations. While they are a part of the collaboration process, most teams resort to face to face communication or meetings if their workflow gets disrupted. In this article, we’ll see you how you can bring in members from every team together and build your next feature. All without disrupting their workflow. 1. Create a Project Give your project a name. Most projects in Zepel are named after a team, like Web App or Mobile. But if you prefer naming your project after the feature, that works well too! [IMG] When creating a project, you’ll be asked to add Boards that teams can use to track and manage their work. 2. Create Lists Once you’ve created a project, its time create Lists. Lists in Zepel is where all actionable work items live. Create multiple Lists inside a project, each representing the feature (if you named your project after a team) you are building. If you named your project after the feature, create a List for every teams involved in building your feature. [IMG] Learn more about organizing Lists -&gt; 3. Add Items To start working on your feature, add items - User Stories, Tasks, Subtasks, Bugs, and Enhancements - to your List. Use Sections to organize your List. Add assignees and due dates to delegate work to team members. That way, everyone knows who is working on what and help you ship your feature faster. [IMG] 4. Add Boards Boards in Zepel are the workflows through which items can move through. Items can move within a Board - from one status to another. Or from one Board to another. Once you’ve created a Items inside your List, its time to add a Board for every team involved in building your feature. With a Board tailor-made for every team, each member can work just the way they want without settling for a generic “In Progress” status. [IMG] Your designer would move their work in Design Board. And once your desiger is ready with design, your front-end developer can pick it up from Design Board and start moving it across his Development Board. Learn how to set statuses and manage workflows -&gt; 5. Watch the entire feature progress While members from every team pick up items assigned to them move them across statuses and Boards, you can see how your feature take its shape and progress across teams. [IMG] If you want to see what each team is working on, you can simply click on their respective Board and get a quick glance of what’s happening. And if you head over to Lists Overview, you can get a quick status of how much your feature has progressed. Learn more about Lists Overview -&gt;",
     "url": "http://localhost:4000/guide/use-cases/build-features/",
     "relUrl": "/guide/use-cases/build-features/"
   },
-  "8": {
-    "id": "8",
+  "9": {
+    "id": "9",
     "title": "Collaborating with Team Members",
     "content": "Collaborating with Team Members After adding items into your List, it’s time bring members into your project and get the most out of Zepel. In Zepel, you can invite members into an Account or in a Project. IN THIS PAGE Collaborate into an Account Collaborate in a Project Collaborate into an Account An account is where all projects your company is working live. It is usually the name of your company. So, all members of your company would be inside an account. To collaborate members into your company account: Click on the name of your Company’s name on the top left corner. From the drop down, select Account Settings. In the Account Settings pop-up, switch to Members tab. In the text field, enter the email address of your team member and click Invite. By default, all projects in Zepel are private, till you specifically collaborate a project with another team member. [IMG] Collaborate in a Project You can choose to collaborate members in a project, so you can assign pieces of work to them and work together. To collaborate members into a project: Head over to the members tab inside your project. In the text field, enter the email address of your team member and click Invite. If a member you are trying to collaborate is not part of the account already, they will automatically get added into your account. [IMG]",
     "url": "http://localhost:4000/guide/working-with-teams/collaborating-team-members/",
     "relUrl": "/guide/working-with-teams/collaborating-team-members/"
   },
-  "9": {
-    "id": "9",
+  "10": {
+    "id": "10",
     "title": "Comments and Conversations",
     "content": "Have contextual conversations with team members Comment on work items to ask questions, share information, or to provide extra information. With comments, you can upload files and mention people to get their attention. [IMG] IN THIS PAGE Adding comments Add attachments Mention team members Adding comments You can add comment to any item in your list or on the list itself. To add a comment: Hover on any item inside your list. Click on the Expand Item icon from the right side of an item. On the bottom-right side in the pop-up, enter your comment in the text field and hit [ Enter ]. [IMG] Add attachments Upload attachments to any comment to add more context to your conversations. Click on the + icon near the comments text field. From the file selector, select a file to attach to your comment. Once the upload is complete, add text to this comment and hit [ Enter ]. All file formats, except .svg are supported. And there is a maximum file size limit of 25 MB per attachment. [IMG] Mention team members Get your team member’s attention in a conversation by using @ mention. Type @ in the comments text field. The drop down will show you a list of members who are collaborated in your current project. Select a member from the drop down, type your comment and hit [ Enter ]. An email will be sent to the member you’ve mentioned along with the comment text and attachment (if any). You can mention all members in the project by typing @all. [IMG]",
     "url": "http://localhost:4000/guide/working-with-teams/comments/",
     "relUrl": "/guide/working-with-teams/comments/"
   },
-  "10": {
-    "id": "10",
+  "11": {
+    "id": "11",
     "title": "Creating and organizing Lists inside your project",
     "content": "Creating and organizing Lists inside your project Now that you’ve created a project, let us go ahead and to create lists in your project. Lists in Zepel let you break your project by specific features your team is working on. That way, you get to neatly organize your entire project and see where each feature stands. As your project progress and your engineering team works on multiple features, you can easily organize your entire team based on the features they’re working using Lists and drill into the details for each of them. [IMG] And of course, if you chose to name your project by the feature your team is working on, you can create lists based on the teams involved in completing your feature. How to create a list inside a project? Once inside a project, click on the List tab. Click on “Create List” button. [IMG] Give your list a name. Since projects in Zepel can have multiple Boards, you can select a default Board for every list you create. Click on the “Set Default List Board” drop down. You’ll see a list of boards available in your project that can be set as a default board for your list. NOTE: The drop down will show you a list of all boards added in the project. Select one board from the drop down. Give your List a description (if needed) to give your team more context on what your list represents. [IMG] Click “Create” button. Once your list is created, you’ll be taken inside your new list where you can create user stories, tasks, subtasks, bugs, and enhancements to complete your list.",
     "url": "http://localhost:4000/guide/get-started/creating-lists/",
     "relUrl": "/guide/get-started/creating-lists/"
   },
-  "11": {
-    "id": "11",
+  "12": {
+    "id": "12",
     "title": "How To Create A New Board In Zepel",
     "content": "How to create a new Board within a Project Tasks with Todo, In-Progress, and Done don’t give your team much meaning when you’re working with teams. If you need to bring in your designer and marketer to help ship your new feature, adding new statuses to the same board simply won’t cut it. Boards in Zepel help your team get context of where things stand. Add a design board, dev board, and QA board all in one project, so your team can work with their own world view without losing context of the big picture and you see what exactly is happening in every team. [IMG] How to create a new board for a project in Zepel: When inside the project, click on the Boards tab on the left sidebar. [IMG] By default, your project will have a “Default Workflow”. To add another Board to your project, click on “Add Board” button. [IMG] To create a new Board, click on “Or, create a new board” from the bottom right corner of the Add Board popup. [IMG] Give your board a name and click on “Create”. Add statuses to your board by clicking on the Plus [ + ] icon. Once you’ve created boards, each item, irrespective of which List they’re in, can use statuses from the boards you created for this project.",
     "url": "http://localhost:4000/guide/boards/creating-boards/",
     "relUrl": "/guide/boards/creating-boards/"
   },
-  "12": {
-    "id": "12",
+  "13": {
+    "id": "13",
     "title": "Creating work items inside your List",
     "content": "Creating items inside your List Now that you’ve created a List inside your Project, let us go ahead and start adding work items. At the end of this help article, you will be able to create user stories, tasks, subtasks, enhacements and bugs. [IMG] As you can see from the above image, work items inside your List can be a: 1. User Story: [IMG] 2. Task: [IMG] 3. Subtask: [IMG] 4. Enhancement: [IMG] 5. Bug: [IMG] 6. Section: [IMG] Sections can be used to group similar work items inside your List together to provide your team with more context. Once inside your List, you can start adding work items: When your List is empty, you can choose to create a Section or a Task by clicking on one of the options. To change an item’s type, right click on the item and select which type you would like to change to. Hit [ Tab ] to turn any item into a Subtask. Keyboard Shortcuts: Turn any item into a task by typing - at the beginning of an item. Toggle between item types using Ctrl + Shift + S (or Cmd + Shift + S if you use a Mac). Add a Section to group similar items together by typing * at the beginning of an item. Next we’ll see how to add assignees, due dates, statuses, and estimate to your work items, so you can start tracking them.",
     "url": "http://localhost:4000/guide/get-started/creating-items/",
     "relUrl": "/guide/get-started/creating-items/"
   },
-  "13": {
-    "id": "13",
+  "14": {
+    "id": "14",
     "title": "Creating your first project",
     "content": "Creating your first project Projects in Zepel typically map to a team (Mobile, Web App) or any open ended product or features in your organization. To create your first project in your Zepel account: Click on the Create Project button from your projects page. The projects page is where all your projects are listed. [IMG] In the project create dialogue, enter your project’s name. Select a Board you’d like to add to your project. The Boards you select will automatically get added to your new project. You can select multiple Boards to add to your project. [IMG] Once complete, click on the Create button. Once the project is created, you’ll be taken inside your new project where you can see Boards you selected in the Boards tab. Next, you’ll learn how to create Lists inside your project.",
     "url": "http://localhost:4000/guide/get-started/creating-projects/",
     "relUrl": "/guide/get-started/creating-projects/"
   },
-  "14": {
-    "id": "14",
+  "15": {
+    "id": "15",
     "title": "Change default Board",
     "content": "Change a List’s default Board While creating a List within your project, you would have set a default Board for the List. In this article, we’ll see how you can change a List’s default Board. Once inside a List, you’ll see at the top, the list’s default board has a star next to its name. Next to your list’s default board, click on the change board icon. [IMG] From the pop-up, select a board that you want to set as default board. Note: Boards already added in a project can be set as a default board for a list. Click on “Set as default” button.",
     "url": "http://localhost:4000/guide/boards/default-boards/",
     "relUrl": "/guide/boards/default-boards/"
   },
-  "15": {
-    "id": "15",
+  "16": {
+    "id": "16",
     "title": "Item Description",
     "content": "Item Description Give detailed information to each item with Descriptions. The description area is where you will add detailed explanations, background information, and acceptance criteria to items in your project. Obviously, you would want to go beyond plain-text blurbs and format your descriptions with rich styling options. With Markdown Formatting in Zepel, you can style and organize your item descriptions with headings, lists, code blocks and more. To style your item descriptions follow the Markdown Syntax guide/ below: [IMG] IN THIS PAGE Headings Bold and Italics Images Lists Links Blockquote Horizontal rules Code-blocks Pre-formatted Text Headings Use “hash” before the text for each level of heading This is a first level heading # This is a first level heading This is a second level heading ## This is a second level heading This is a third level heading ### This is a third level heading Bold and Italics Wrap text within a single asterix or underscore for italics and two asterix or underscores to make them bold This text is also bold __This text is also bold__ This text is italicized *This text is italicized* This line has bold formatting within italics This line has _**bold formatting** within italics_ Images Insert images with the format ![alt-text](image URL) ![Zepel Logo from Twitter](https://pbs.twimg.com/profile_images/1013720013998415873/QdkPtGa8_400x400.jpg) Lists Use asterix followed by a space before each line for unordered list and numbers followed by a period for ordered lists This is an unordered list This is another point in the list This is the third point * This is an unordered list * This is another point in the list * This is the third point This is an ordered list This is the second point This is the third point 1. This is an ordered list 1. This is the second point 1. This is the third point Links Links you directly enter in descriptions will be automatically hyperlinked. To hyperlink a text or passage, use the format [link text](URL) This goes to Zepel.io website. This goes to [Zepel.io](https://zepel.io) website. Blockquote Add quoted text by preceding each line with &gt; As Abe Lincoln once said: This text will be formatted as a quote in your description. As Abe Lincoln once said: &gt; This text will be formatted &gt; as a quote in your description. Horizontal rules Use 3 underscores to create a horizontal line ___ Code-blocks Format code inline by wrapping it in backticks ( ` ) &lt;html&gt;&lt;/html&gt; `&lt;html&gt;&lt;/html&gt;` Use 3 backticks () to delimit multi-line code blocks Pre-formatted Text Indent pre-formatted text blocks with 4 spaces This whole blurb of shiny text is wrapped within a block that preserves my formatting This whole blurb of shiny text is wrapped within a block that preserves my formatting",
     "url": "http://localhost:4000/guide/working-with-teams/description/",
     "relUrl": "/guide/working-with-teams/description/"
   },
-  "16": {
-    "id": "16",
+  "17": {
+    "id": "17",
     "title": "Installation guide",
     "content": "Installing Desktop Widget on different platforms Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users. IN THIS PAGE Installation guide for Mac users Installation guide for Windows users Installation guide for Ubuntu users Installation guide for Mac users Your download should start automatically. If you have any trouble, click on “try again” to manually download. Open the DMG file that was downloaded. Drag and drop the Zepel DMG Icon to the Applications folder The App should now be accessible via the launchpad or the spotlight search. Installation guide for Windows users Download should start automatically. If you have any trouble click on “Try Again” to manually download. Run the exe file that was downloaded. You may see a security message from windows. Click on “more” Select Run anyway. The widget should now install and open on completion. Installation guide for Ubuntu users Download should start automatically. If you have any trouble, click on “Try Again” to manually download. You should have a file of extension “AppImage”. Right Click to open properties of this file. In the permissions tab, select the checkbox “Allow executing file as program”. Close the properties window. Open the file. It should install and autostart the widget.",
     "url": "http://localhost:4000/guide/desktop-widget/installing/",
     "relUrl": "/guide/desktop-widget/installing/"
   },
-  "17": {
-    "id": "17",
+  "18": {
+    "id": "18",
     "title": "Desktop Widget",
     "content": "Desktop Widget View, edit, and update your work right from your desktop. With the desktop widget, you no longer have to open up your browser, log in, and navigate to the task assigned to you, just to update progress on a work item. [IMG] Zepel’s desktop widget allows you to quickly see work assigned to you, get a full blown picture of what’s shipping in an active sprint, and get a bird’s eye view of how your current sprint is progressing. Download Desktop Widget",
     "url": "http://localhost:4000/guide/desktop-widget/",
     "relUrl": "/guide/desktop-widget/"
   },
-  "18": {
-    "id": "18",
+  "19": {
+    "id": "19",
     "title": "How Developers use Zepel to complete work and beat deadlines",
     "content": "How Developers complete work and beat deadlines Developers complete work assigned to them by product and engineering managers, and update statuses to keep everyone updated of progress. In this article, we’ll see how a developer effortlessly stays on top of their work and keeps everyone updated of their progress using Zepel. 1. Add items to Lists Got assigned on a user story? Break it down further by creating subtasks, categorize with hashtags, and drill down to the details of estimates, statuses, and assignees. All without taking hands off your favourite device - keyboard. Use Descriptions to share code snippets with team mates and collaborate using Comments and Attachments. Simply type / to add any of the item properties so you can always keep your team updated on your progress. [IMG] 2. Work distraction free with My Tasks Sometimes you just want to work with none of the distractions. Without all the other user stories and bugs. Head over to My Tasks to view just the items assigned to you and work distraction free. Mould it fit your needs by sorting and grouping items based on due dates, estimates, or simply by alphabetical. [IMG] If you haven’t already, you should also add a Board to your project that fits your workflow. Not to worry about disrupting your designer’s workflow. In Zepel, every team can add Boards within a project. That way, everyone gets to work just the way they want. 3. Integrate with Slack and Github or Bitbucket Zepel fits right into your dev workflow. Integrate with Github or Bitbucket to complete your items automatically when your PR merges. And inform everyone of this update simply by integrating your Zepel account with Slack. 4. Complete from the comfort of your Desktop Why wait for pages to load when you can track your items and keep your team members updated right from your Desktop? With the desktop widget, you can view, edit, update, and complete your items right from your desktop. And the best part? You even get notified when things change or when items get assigned to you!",
     "url": "http://localhost:4000/guide/use-cases/developers/",
     "relUrl": "/guide/use-cases/developers/"
   },
-  "19": {
-    "id": "19",
+  "20": {
+    "id": "20",
     "title": "Editing Boards",
     "content": "Edit Boards to fit your workflow Change the name of your Board, statuses, re-arrange columns, or edit their colours. IN THIS PAGE Change Board name Editing statuses/columns Re-arranging statuses/columns Edit the colours for a status Delete status/column Change Board name Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to change the name for. Click on the settings icon next the Boards. Edit and rename your Board’s name on the text field in the settings pop-up. Editing statuses/columns Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to change status for. Click on the status’ text to make it editable. Edit and rename your status’ name and hit [ Enter ]. Re-arranging statuses/columns Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to re-arrange the status for. Click and drag the status using your mouse to your desired position. [GIF] Edit the colours for a status Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board for which you want to change the status’ colour. Click on the colour next to the Board’s name. Select a desired colour for your status from the options. Delete status/column Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board from which you want to delete the status. Click on the hamburger menu positioned to the right of the status’ name. Click delete. NOTE: If the same Board is used in other projects, all changes will reflect on all the projects.",
     "url": "http://localhost:4000/guide/boards/edit-boards/",
     "relUrl": "/guide/boards/edit-boards/"
   },
-  "20": {
-    "id": "20",
+  "21": {
+    "id": "21",
     "title": "How engineering managers use Zepel to plan and ship features",
     "content": "How engineering managers use Zepel Engineering managers take features, break it down to actionable chunks of work and manage the engineering team to ensure the feature is built with efficiency. Since engineering managers work with both the product manager and the entire engineering team, their focus often shifts between strategy and managing personnels. In this article, we’ll see how engineering managers use Zepel to manage workload within their team while working with product managers to define the strategic execution of the feature. 1. Create a Project for your team As an engineering manager, you’d want to house all the features your team will be working on under one single project. A project in Zepel is usually a team, like Engineering, Backend, or Frontend. But if you choose to name your project after a product or an initiative, such as Web App or Android or iOS, that works too. [IMG] While creating your project, add Boards your team will use to move items across statuses. If you find your project needs more Boards as your team makes progress on the feature, you can add them from within the project. Learn how to create a project -&gt; 2. Create a List for your feature and prioritize Once a project is created for your team, add a List for each feature your team will be working on. A list houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. Normally, the product manager would create Lists and add all the required user stories. Once the product manager has added all the required user stories and descriptions to each feature, you can sit together to give a high level estimate of how long each feature could take and help the product manager prioritize features using the Kanban view. [IMG] 3. Bring in team members to estimate user stories Collaborate with team members and start breaking down user stories into actionable subtasks based on the acceptance criteria added in the description area. Breaking down user stories into subtasks will give your team clarity and help them estimate better. With the help your team members, give each user story an estimate after discussing with your team on the how they’ll execute them. Based on the estimates provided by you and your team, the product manager can now add priority to key user stories from the advanced filter page, and help you and your team focus on the things that are important. [IMG] 4. Delegate prioritized work to team members Once key user stories are prioritized the product manager will give the list an owner, duration, and a status. The owner for the list is usually the person who will oversee the specific feature and ensure its completion within the duration. Depending on how your organization is structured, that could be the engineering manager as well. When its time to begin working on the feature, you can start assigning the prioritized set of user stories and enhancements to your team members. Answer questions to team members on specific items using comments and give them all the information they need to build the feature. [IMG] 5. Track progress of the feature and manage workload As your team work on the features and make progress, get a quick progress update of how your feature has progressed from Lists Overview. [IMG] Use the advanced filters from within your team’s Board to drill in and see how much work each member is working on. That way, you know exactly how much work each member is working on along with their statuses. Now, you can see each team member’s bandwidth in one view and know who has capacity to work on more items and who is overloaded. This will help you quickly manage your team’s workload and route work efficiently. [IMG]",
     "url": "http://localhost:4000/guide/use-cases/engineering-managers/",
     "relUrl": "/guide/use-cases/engineering-managers/"
   },
-  "21": {
-    "id": "21",
+  "22": {
+    "id": "22",
     "title": "Get Started",
     "content": "Getting Started With Zepel New to Zepel? Welcome! 🤗 Zepel is the project management tool that makes it effortless for you to manage and track progress across teams. Once you’ve signed up and created your account, you are only 3 steps away from starting a project and bring it under control. In this article we will take you through the top 3 things you should do once you are inside your Zepel account. IN THIS PAGE Create a Project Add Lists inside a Project Create Items Already created and organized your project? Collaborate and add a Board for every team involved in your project. Create a Project A project is where group of members come together to achieve a common goal. Projects in Zepel can represent teams such as Engineering and Data Science. [IMG] But if you prefer to have projects named after features your company is working on, Zepel will work just fine. Add Lists inside a Project Projects in Zepel can have multiple Lists. That way, if you have your project named after specific teams, each list of tasks can represent the feature your team is working on. [IMG] And if your project is named after a feature, each list can represent specific teams involved in your feature, so you can see what’s happening in every team in your project. [IMG] Create Items Items and its types - Stories, Enhancements, Bugs, Tasks, and Subtasks are at the core of Zepel. You can delegate, set deadlines, and track statuses of your work. Once you’ve created a List inside your project, start adding related work items into your list, so you can keep your team aligned on same page. When your List is empty, you can choose to create a Section or a Task. To change an item’s type, right click on the item and select which type you would like to change to. Hit [ Tab ] to turn any item into a Subtask. [IMG] Keyboard Shortcuts: Turn any item into a task by typing - at the beginning of an item. Toggle between item types using Ctrl + Shift + S (or Cmd + Shift + S if you use a Mac). Add a Section to group similar items together by typing * at the beginning of an item. Go ahead, start your first project in Zepel. It’ll only take a minute to see how effortless it is to start and manage projects in Zepel.",
     "url": "http://localhost:4000/guide/get-started/",
     "relUrl": "/guide/get-started/"
   },
-  "22": {
-    "id": "22",
+  "23": {
+    "id": "23",
+    "title": "Import",
+    "content": "Ways to use Zepel with Teams Building and shipping quality features requires teams to come together and work. Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time. Use cases for teams Project Management Learn how you can manage your project from start to finish in Zepel. Build Features Together Work together with Developers, Designers, and QA team. Prioritize Features Product managers use Zepel to plan and prioritize their next features. Manage Workload Track what each member is working on and manage their workload. Use cases based on roles Product Manager Learn how you can manage your project from start to finish in Zepel. Engineering Manager Work together with Developers, Designers, and QA team. Developer Engineering teams use Zepel to file, track, and fix bugs.",
+    "url": "http://localhost:4000/guide/import/",
+    "relUrl": "/guide/import/"
+  },
+  "24": {
+    "id": "24",
     "title": "Home",
     "content": "Zepel Knowledge Base Best practices, tips, and tricks on how you can manage projects with Zepel. If you are new to Zepel, we recommend you start with our Get Started guide. If you are looking to level up your project management game, consider exploring our help articles on Working with Teams. Get Started Contact Support Using with Teams Learn how to use Zepel with teams Team Use Cases Architect &amp; Engineer Boards Learn how to use Zepel with teams",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },
-  "23": {
-    "id": "23",
+  "25": {
+    "id": "25",
+    "title": "Integrations",
+    "content": "Ways to use Zepel with Teams Building and shipping quality features requires teams to come together and work. Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time. Use cases for teams Project Management Learn how you can manage your project from start to finish in Zepel. Build Features Together Work together with Developers, Designers, and QA team. Prioritize Features Product managers use Zepel to plan and prioritize their next features. Manage Workload Track what each member is working on and manage their workload. Use cases based on roles Product Manager Learn how you can manage your project from start to finish in Zepel. Engineering Manager Work together with Developers, Designers, and QA team. Developer Engineering teams use Zepel to file, track, and fix bugs.",
+    "url": "http://localhost:4000/guide/integrations/",
+    "relUrl": "/guide/integrations/"
+  },
+  "26": {
+    "id": "26",
     "title": "Manage team's workload to route work efficiently",
     "content": "Manage team’s workload and route work efficiently Product and Engineering managers need quick access to see how features are progressing and how members of the team are making progress. They can rely on real-time updates of how the features are progressing with Lists Overview. With Boards and Filters, they can now quickly see the team’s capactiy and manage their workload. In this article, we’ll see how you can quickly get an understanding of where each of your team members’ work stand and how you can use this to route work efficiently. 1. Give each team a workflow tailor-made just for them Once you’ve created a List for each feature within your project and added items within them, you should add Boards for each team involved in helping you ship your feature. Building features requires teams to come together and collaborate. At first, its usually just the product manager, engineering manager, developers, and the designer. And as your feature nears completion, you’ll want to bring in your QA team to ensure the feature is bug free and even your marketing team to help get the word out. So, how do you fit all their workflow into a single project project management tool? Create separate projects? Surely, not! Because then you wouldn’t be able to distill all the work they’ve completed into meaningful information. In Zepel, give each team a Board within your project. That way, every time your team mates work on the feature they can work just the way they want and be more productive. [IMG] Learn how to add Boards -&gt; 2. Switch to your team’s board and drill in Head over to your team’s Board to see where each item stands. With just a click, the Board provides you a single view of all items that requires your team’s attention. Slice and dice your team’s Board using advanced filters to see who is working on which feature and its current status. This helps you take informed decisions and add more people to work a specific feature and keep your priorities on track. [IMG] Learn how to use advanced Filters for Boards -&gt;",
     "url": "http://localhost:4000/guide/use-cases/manage-workload/",
     "relUrl": "/guide/use-cases/manage-workload/"
   },
-  "24": {
-    "id": "24",
+  "27": {
+    "id": "27",
     "title": "Desktop Notifications",
     "content": "Desktop notifications and settings Customize notification settings to fit the way you work. You can get notified every time when: A new Sprint is started. Other team members complete work items in a project you are collaborated in. Items get assigned to you. [IMG] Customizing desktop notifications Download the desktop widget and login to your account. Click on the settings icon from the top-right corner. From the dropdown, click on Notification Settings. From the Notification Settings pop-up, you can choose to enable or disable notifications.",
     "url": "http://localhost:4000/guide/desktop-widget/notifications/",
     "relUrl": "/guide/desktop-widget/notifications/"
   },
-  "25": {
-    "id": "25",
+  "28": {
+    "id": "28",
     "title": "Pricing FAQ",
     "content": "Pricing FAQ Zepel’s pricing is simple and transparent. It starts at $5 per month, per member when billed annually and $7 per month, per member when billed monthly. IN THIS PAGE Can I use Zepel for free? How does Zepel’s pricing work? What happens when the trial period ends? What is your refund policy like? What happens when I add a 6th member into my account? What happens when I upgrade my plan? Will I be charged for my first 5 members? What payment methods do you accept? How can I cancel my subscription? Can I use Zepel for free? Absolutely! Zepel is completely free to use indefinitely with all the features you would need in a project management tool with a cap of 5 members in an account. If you are a startup trying to get off the ground, that’s another monthly bill you don’t have to worry about. How does Zepel’s pricing work? The free version of Zepel is available for teams of up to 5 people. Zepel Standard costs $5 per user per month when billed annually and $7 per user per month when billed monthly. When you switch to a Standard plan you can start a 14 day trial. And you will be charged only at the end of the 14 day trial. Do I have to wait until the end of the trial to add my card? Nope. You can add your card details any time. Just head over to the Billing tab in your Account’s Settings. While you are in the middle of your trial period, click on the Add Card button and enter your card details. What happens when the trial period ends? If you want to continue using Zepel after your trial ends, you’ll need to add a credit card, if you haven’t already. To do this: Go to Account Settings &gt; Billing. Click on the Add Card button and enter your card details. If you decide not to add your card details at the end of the trial period, but still want to continue using Zepel, remove members from your account, so there are 5 members or fewer in your account. What is your refund policy like? We have a 30-day refund policy for our Annual plan. We do not offer refunds for our Monthly plan. What happens when I add a 6th member into my account? When you add a 6th member into your Zepel account, you will be charged immediately, provided you have chosen your plan and added your card details. If you haven’t added your card details, you will be prompted to add your card at the end of the trial. What happens when I upgrade my plan? Will I be charged for my first 5 members? No. You will not be charged for the first 5 members. You will be charged only from the 6th member. For example, if your account has 8 members and you are on the monthly plan, you will be charged only for the 3 additional members. What payment methods do you accept? We accept all types of credit cards. We currently do not accept cheques or direct transfers. How can I cancel my subscription? If you decide you want to stop your paid subscription, you can remove members from your account and switch to our FREE plan. Your card will not be charged if you have 5 members or fewer in your Zepel account.",
     "url": "http://localhost:4000/guide/pricing-faq/",
     "relUrl": "/guide/pricing-faq/"
   },
-  "26": {
-    "id": "26",
+  "29": {
+    "id": "29",
     "title": "Prioritize Features in Zepel",
     "content": "Plan and prioritize the right features Product managers use Zepel to plan their next set of features and to prioritize them. Prioritizing features is hard mostly because the needs of your business is ever changing. What was a top priority few weeks ago could easily be something you can’t afford to spend time on right now. Which is why it’s key to be able to see what’s happening within your team and use that context when planning and prioritizing your next bunch of features. In this article, we’ll show how you can see what your team’s working on, their progress, and how you can use that context to plan your next set of features and prioritize them. 1. Put User Stories together and plan your feature Don’t worry about prioritizing the feature at first. Create a List for your new feature and put together all user stories and tasks you’d ideally want to accomplish. Add acceptance criteria for your user stories within the Description to help everyone understand what’s expected of them. [IMG] 2. Understand your team’s current progress Your team is most likely working on a couple of other features, completed few user stories, and made some progress. Since each List within your project represents a feature, this makes it effortless for you as the product manager to see what’s happening in the feature and who is working on which user story or enhancement. [IMG] But knowing where each user story stands isn’t going to be enough if you want to get a bird’s eye view of what’s happening. You need to quickly distil all the progress your developer team, designer, and QA team made into useful information to make sense out of them. With Progress, you can get a quick snapshot of how much progress your team has made and how far away they are from completing the feature. [IMG] 3. See features in Kanban to Prioritize The entire thought process of prioritizing features is a whole different beast altogether. We’ve put together a process and wrote in detail about how you should think about prioritizing your feature over here. With the right thought process and the context of your team’s current feature progress, you can now view and rearrange your features in a Kanban and start prioritizing them. From the Progress tab, switch to Kanban view to see all your features neatly stacked based on their current status. [IMG] Rearrange features within the Todo column to prioritize. The higher your feature on the Todo column, the higher the priority. 4. Delegate top priority features to managers Once your features are prioritized and ready to be worked on, give your feature an owner who will oversee the completion of the feature. Making sure each feature has an owner will drive responsibility and ensure they see to it that the feature is completed with the quality your customers need. Take it a step further by adding a duration to ensure the feature is built within a timeline. After all, no body wants the feature to get dragged on forever.",
     "url": "http://localhost:4000/guide/use-cases/prioritize-features/",
     "relUrl": "/guide/use-cases/prioritize-features/"
   },
-  "27": {
-    "id": "27",
+  "30": {
+    "id": "30",
     "title": "How product managers use Zepel to plan and ship features",
     "content": "How product managers use Zepel Product managers take the big picture, distill it into features, break and prioritize them using user stories. Since product managers work with every team, being able to quickly see what each team is working on and know what’s happening with the feature is key to plan and prioritize for the road ahead. In this article, we’ll see how a product manager uses Zepel to effortlessly keep track of all the features, prioritize, and work with multiple teams. 1. Create a Project for your team As a product manager, you’d want to bring all the features your team will be working on under one single project. A project in Zepel is usually a team, like Engineering. But if you choose to name your project after a product or an initiative, such as Web App or Android or iOS, that works too! [IMG] Since you’ll require items to go through statuses to keep everyone updated of progress, you can choose to add one or more Boards while creating your project. Not to worry, you can add them from within the project too. Learn how to create a project -&gt; 2. Create a List for your feature and add items Lists represent the features your working on. A list houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. Adding items for your feature is as simple as writing on a document. Simply hit enter to create another item. And press Cmd + Shift + S if you’re on a Mac (Ctrl + Shift + S on Windows) to toggle between item types. Use Descriptions to add more details to each work item. For example, product managers use description as a place to add acceptance criteria for user stories and attach files below it to share files for further references. 3. Collaborate with the team to get an estimate for your feature Once you’ve added user stories and enhancements for your feature, bring in Engineering Mangager and the rest of the team to understand the complexity involved in building the feature. Have contextual conversations on each work item and get your development team to break down each user story into subtasks. Breaking down user stories into subtasks helps your team clarity and understanding of what they’ll have to build and hence will be able to add estimations with better accuracy. 4. Prioritize key user stories with Hashtags Now that you have a rough estimate of how long each user story will take to get built, its time to prioritize them. Use the advanced filters to slice and dice all items. Sort your items by Estimate and start adding hashtags # to denote priorities. That way, your Engineering Manager knows what are the key areas of your feature that needs more attention and can delegate it to team members appropriately. 5. Track progress of the feature and plan for the road ahead Give each list: An owner who will oversee the specific feature A duration to ensure the feature is built within a said timeline, and A status to keep everyone updated on progress [IMG] As your team makes progress, you’ll see a quick overview of how much work is done. And of course, you can always get a deeper understanding of the progress with reports. As you add more features to your project, use the Table view or the Kanban view to prioritize and plan your future features. Learn more about organizing Lists -&gt;",
     "url": "http://localhost:4000/guide/use-cases/product-managers/",
     "relUrl": "/guide/use-cases/product-managers/"
   },
-  "28": {
-    "id": "28",
+  "31": {
+    "id": "31",
+    "title": "Progress",
+    "content": "Ways to use Zepel with Teams Building and shipping quality features requires teams to come together and work. Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time. Use cases for teams Project Management Learn how you can manage your project from start to finish in Zepel. Build Features Together Work together with Developers, Designers, and QA team. Prioritize Features Product managers use Zepel to plan and prioritize their next features. Manage Workload Track what each member is working on and manage their workload. Use cases based on roles Product Manager Learn how you can manage your project from start to finish in Zepel. Engineering Manager Work together with Developers, Designers, and QA team. Developer Engineering teams use Zepel to file, track, and fix bugs.",
+    "url": "http://localhost:4000/guide/progress/",
+    "relUrl": "/guide/progress/"
+  },
+  "32": {
+    "id": "32",
     "title": "Project Management",
     "content": "Manage Projects with Zepel Every organization and team have their own ways of managing projects and shipping features. In this article, we’ll see you how you can manage your projects in Zepel, so you never drop the ball with the features you build. 1. Create a Project Creating a project is the first thing you’d be doing once you sign up for Zepel. Its where people with a common goal come together to help ship your feature. A project in Zepel is usually a team, like Engineering. But if you choose to name your project after a product or an initative, such as iOS App or Android App, that works too! [IMG] While creating a project, you will be able to add one or more Boards into your project that you can use to move your work across Boards or statuses. Learn how to create a project -&gt; 2. Create Lists Once you’ve created a project, you can now create multiple Lists. A list is usually a feature that houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - within it. Each list can have: An owner who can oversee the feature A duration to ensure the feature is built within a said timeline, and A status to keep everyone updated on progress [IMG] Note: Teams that name a project after a feature, usually create a List for each team involved in shipping the feature. Learn more about organizing Lists -&gt; 3. Create Items Once you’ve created a List for a feature your team is working on, its time to start adding items. You can create: User Stories Tasks Subtasks Enhancements Bugs Sections Learn how you can quickly create a list of items -&gt; But of course, creating a list of items alone isn’t enough. You’ll want to delegate it, set a deadline, and track its progress. All items in Zepel, except Sections, can have item properties: Assignees Status Due Date Estimate [IMG] You can add item properties by typing / to trigger all commands. Alternatively, you can open up an item’s details pop-up to set or change any of the properties. Learn how you can delegate and track work items -&gt; 4. Add Boards When you’re working on a feature, you’ll need people from other teams - design, QA, and marketing - to contribute as well. But how do you accomodate each of their workflows into your project? Sure, you can add a generic status called “Design In Progress”. But does it mean the mockups are ready for your front end developer to pick it up? Or does it mean the design team is still iterating on getting it pixel perfect? With Boards in Zepel, you can add multiple Boards in your project to accomodate each of your team’s workflow, so everyone can collaborate and work together. [IMG] All trackable items across lists can move from one status to another like a traditional kanban board and move from one Board to another. That means, when your designer is ready with the mockups for your frontend developer to pick it up, the item can move from Design - Done to Dev - Todo. Learn how to set statuses and manage workflows -&gt; 5. Use My Tasks to work and update every one Sometimes you want to work distraction free. Without having to look at all the other items required to build your new feature. Use My Tasks in Zepel to see just the items assigned to you across all lists in all projects. [IMG] With the Sort, you can choose to view items assigned to you just the way you’d like. Group and sort them by due dates, sort by estimates, based on which List they’re in, and order them by ascending or descending. To make it even more easier, you can work on your items from the comfort of your desktop using Zepel’s Desktop Widget. That way, you can complete and update your team with Zepel right next to your code editor, and not even open your browser. [IMG] Learn more about Desktop Widget -&gt; 6. Track progress of each Feature with Lists Overview As your team starts working on the feature, you don’t just want to know who is working on which item and its status, you want to know progress of the feature itself. Lists Overview is the command center for your project. You can see progress of your entire feature, know who is responsible for overseeing the completion of the it, its current status, and its duration. [IMG] With the capability to view all your lists in Kanban to make it easier for you prioritize your feature and Table view to quickly see a timeline of what’s next, product managers and team leaders can quickly get a bird’s eye view of what’s happening in real-time. Learn more about Lists Overview -&gt; 7. Reports to help drive your project forward As your project progresses, you’ll want to keep an eye on the reports to quickly guage if your on track. Head over to the Dashboard tab on your project to see a quick overview of how your project has progressed in the last 14 days. If you’re running Sprints, you can view Burnup or Burndown chart for your specific sprint from the sprints menu.",
     "url": "http://localhost:4000/guide/use-cases/project-management/",
     "relUrl": "/guide/use-cases/project-management/"
   },
-  "29": {
-    "id": "29",
+  "33": {
+    "id": "33",
     "title": "Remove and Delete Boards",
     "content": "How to remove and delete Boards You can choose to remove a Board from your project or delete the Board itself. IN THIS PAGE Remove Boards Delete Boards Remove Boards To remove a Board from your current project: Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to remove from the project. Click on the settings icon. Click on the Remove Board button. From the confirmation pop-up, click on Remove Board to remove the Board from your current project. [IMG] When you remove a board from a project, all items using the board you removed, will automatically be moved to the Default Workflow board. Delete Boards To delete a Board from your account: Head over to the Boards Tab inside your project. Click on the Board’s name. From the dropdown, select the Board you want to delete from your account. Click on the settings icon. Click on the Delete board from all projects button. From the confirmation pop-up, click on Delete Board to delete the Board from your account. [IMG] When you delete a board from your account, the board will get deleted from all projects using the specific board and all items using statuses from the board will automatically be moved to the Default Workflow board.",
     "url": "http://localhost:4000/guide/boards/remove-delete-boards/",
     "relUrl": "/guide/boards/remove-delete-boards/"
   },
-  "30": {
-    "id": "30",
+  "34": {
+    "id": "34",
     "title": "Search Items",
     "content": "Search through your list to find any Item Quickly find any item from a List and update progress on it. To search for an item: Within the List you are working on, type text in the search box. The search results show you all the matching items. You can search for text, assignee, status, or hashtags. [IMG] If you are looking to group and filter your items based on multiple properties, click here.",
     "url": "http://localhost:4000/guide/search/search-items/",
     "relUrl": "/guide/search/search-items/"
   },
-  "31": {
-    "id": "31",
+  "35": {
+    "id": "35",
     "title": "Search Projects",
     "content": "Search for Projects Quickly find projects you are working on using Search. To search for projects: Go to All Projects page. Type the name of the project you are searching for on the search bar on the right side of your screen. [IMG] Projects matching (or partially matching) the text you entered in the search bar will be listed below. If you want to search for items, read this guide.",
     "url": "http://localhost:4000/guide/search/search-projects/",
     "relUrl": "/guide/search/search-projects/"
   },
-  "32": {
-    "id": "32",
+  "36": {
+    "id": "36",
     "title": "Search",
     "content": "Searching through Projects and Items Find anything in your account using simple Search. 🔎 And use Filters to drill down and find specific items you are looking for.",
     "url": "http://localhost:4000/guide/search/",
     "relUrl": "/guide/search/"
   },
-  "33": {
-    "id": "33",
+  "37": {
+    "id": "37",
     "title": "Switching Boards",
     "content": "Switching between Boards within a Project Once you’ve added multiple Boards in your project to fit every workflow and team involved, you would want to switch between Boards to see who progress in specific teams. Switching between Boards Head over to the Boards Tab within your project. On the right side of your screen, by default, you will see the “Default Workflow” board. Click on the dropdown. From the dropdown menu, select which Board you’d like to view and work from. [GIF]",
     "url": "http://localhost:4000/guide/boards/switching-boards/",
     "relUrl": "/guide/boards/switching-boards/"
   },
-  "34": {
-    "id": "34",
+  "38": {
+    "id": "38",
     "title": "Use Cases",
     "content": "Ways to use Zepel with Teams Building and shipping quality features requires teams to come together and work. Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time. Use cases for teams Project Management Learn how you can manage your project from start to finish in Zepel. Build Features Together Work together with Developers, Designers, and QA team. Prioritize Features Product managers use Zepel to plan and prioritize their next features. Manage Workload Track what each member is working on and manage their workload. Use cases based on roles Product Manager Learn how you can manage your project from start to finish in Zepel. Engineering Manager Work together with Developers, Designers, and QA team. Developer Engineering teams use Zepel to file, track, and fix bugs.",
     "url": "http://localhost:4000/guide/use-cases/",
     "relUrl": "/guide/use-cases/"
   },
-  "35": {
-    "id": "35",
+  "39": {
+    "id": "39",
     "title": "Views",
     "content": "Customize how you view items assigned to you View work assigned to you in the way that works best for you. Right from your desktop. Customizable views come in handy when you are trusted with multiple items that need to get completed. For example, you can choose to view items assigned to you based on when they’re due and have them sorted in ascending order. That way, you can concentrate on items that are due soon, and never miss another deadline. IN THIS PAGE Sorting items Order items Group items Sorting items You can sort items by: Alphabetical order Estimates Due Date [IMG] Order items You can order items by: Ascending Descending [IMG] Group items You can group items by: Project Due Date [IMG]",
     "url": "http://localhost:4000/guide/desktop-widget/views/",
     "relUrl": "/guide/desktop-widget/views/"
   },
-  "36": {
-    "id": "36",
+  "40": {
+    "id": "40",
     "title": "Working with Teams",
     "content": "Working with Teams Building and shipping quality projects requires you to bring in team members and collaborate with them. With Zepel, you can bring members from any team into your project, delegate work, share files, have conversations, and track progress in every team.",
     "url": "http://localhost:4000/guide/working-with-teams/",
