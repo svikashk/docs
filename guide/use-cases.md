@@ -33,7 +33,7 @@ Here are multiple ways of how you can bring members from every team together, co
                 <div class="container">
                     <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/build-features/">
                     <h4><b>Build Features Together</b></h4> 
-                    <p>Work together with Developers, Designers, and QA team to build your feature.</p> 
+                    <p>Work together with Developers, Designers, and QA team.</p> 
                     </a>
                 </div>
             </div>
