@@ -16,92 +16,85 @@ Here are multiple ways of how you can bring members from every team together, co
 
 ---
 <div class="team">
-<h2>Use cases for teams</h2>
-<div class="usecases-row">
-<div class="column">
-<div class="card">
-<div class="container">
-<a href="http://localhost:4000/guide/use-cases/project-management/">
-<h4><b>Project Management</b></h4> 
-<p>Learn how you can manage your project from start to finish in Zepel.</p> 
-</a>
+    <h2>Use cases for teams</h2>
+    <div class="usecases-row">
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <a href="http://localhost:4000/guide/use-cases/project-management/">
+                    <h4><b>Project Management</b></h4> 
+                    <p>Learn how you can manage your project from start to finish in Zepel.</p> 
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/build-features/">
+                    <h4><b>Build Features Together</b></h4> 
+                    <p>Work together with Developers, Designers, and QA team.</p> 
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="usecases-row">
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/prioritize-features/">
+                    <h4><b>Prioritize Features</b></h4> 
+                    <p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                <a href="">
+                <h4><b>Manage Workload</b></h4> 
+                <p>Track what each member is working on and manage their workload.</p> 
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
-</div>
-</div>
-
-<div class="column">
-<div class="card">
-<div class="container">
-<a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/build-features/">
-<h4><b>Build Features Together</b></h4> 
-<p>Work together with Developers, Designers, and QA team.</p> 
-</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="usecases-row">
-<div class="column">
-<div class="card">
-<div class="container">
-<a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/bug-tracking/">
-<h4><b>Track Bugs</b></h4> 
-<p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
-</a>
-</div>
-</div>
-</div>
-
-<div class="column">
-<div class="card">
-<div class="container">
-<a href="">
-<h4><b>Manage Workload</b></h4> 
-<p>Track what each member is working on and manage their workload.</p> 
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<p class="callout" style="margin: 0 0 18px 0;padding:30px 15px 15px 15px;font-family: &quot;Helvetica Neue&quot;, &quot;Helvetica&quot;, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 18px;line-height: 1.6;text-align:left; border-bottom: 1px solid #eeebee;">
-
 <div class="persona">
-<h2>Use cases based on roles</h2>
-<div class="usecases-row">
-<div class="column">
-<div class="card">
-<div class="container">
-<a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/product-managers/">
-<h4><b>Product Manager</b></h4> 
-<p>Learn how you can manage your project from start to finish in Zepel.</p> 
-</a>
-</div>
-</div>
-</div>
-
-<div class="column">
-<div class="card">
-<div class="container">
-<a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/engineering-managers/">
-<h4><b>Engineering Manager</b></h4> 
-<p>Work together with Developers, Designers, and QA team.</p> 
-</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="usecases-row">
-<div class="column">
-<div class="card">
-<div class="container">
-<a href="">
-<h4><b>Developer</b></h4> 
-<p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
-</a>
-</div>
-</div>
+    <h2>Use cases based on roles</h2>
+    <div class="usecases-row">
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/product-managers/">
+                    <h4><b>Product Manager</b></h4> 
+                    <p>Learn how you can manage your project from start to finish in Zepel.</p> 
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/engineering-managers/">
+                    <h4><b>Engineering Manager</b></h4> 
+                    <p>Work together with Developers, Designers, and QA team.</p> 
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="usecases-row">
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <a href="">
+                    <h4><b>Developer</b></h4> 
+                    <p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>

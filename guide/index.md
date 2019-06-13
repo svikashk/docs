@@ -18,7 +18,6 @@ If you are new to Zepel, we recommend you start with our Get Started guide. If y
 
 ---
 
-<body>
 <div class="row">
 <div class="column">
 <div class="card">
@@ -54,16 +53,4 @@ If you are new to Zepel, we recommend you start with our Get Started guide. If y
   </div>
 </div>
 </div>
-
-<div class="column">
-<div class="card">
-  <div class="container">
-    <a href="">
-    <h4><b>Sprints</b></h4> 
-    <p>Architect & Engineer</p> 
-    </a>
-  </div>
 </div>
-</div>
-</div>
-</body>

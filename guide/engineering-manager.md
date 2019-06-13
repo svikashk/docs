@@ -9,7 +9,7 @@ nav_exclude: true
 # How engineering managers use Zepel
 {: .no_toc }
 
-Engineering managers take the big picture vision of features, break it down to actionable chunks of work, and manage the engineering team to ensure the feature is built with efficiency.
+Engineering managers take features, break it down to actionable chunks of work and manage the engineering team to ensure the feature is built with efficiency.
 
 
 Since engineering managers work with both the product manager and the entire engineering team, their focus often shifts between strategy and managing personnels.

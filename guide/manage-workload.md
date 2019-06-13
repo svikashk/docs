@@ -10,7 +10,6 @@ nav_exclude: true
 {: .no_toc }
 
 Product and Engineering managers need quick access to see how features are progressing and how members of the team are making progress.
-{: .fs-6 .fw-300 }
 
 They can rely on real-time updates of how the features are progressing with Lists Overview. With Boards and Filters, they can now quickly see the team's capactiy and manage their workload.
 
@@ -20,9 +19,13 @@ In this article, we'll see how you can quickly get an understanding of where eac
 
 ## 1. Give each team a workflow tailor-made just for them
 
-Once you've [created a List]({{ site.url }}{% link guide/creating-and-organizing-lists-inside-your-project.md %}) for each feature within your project and [added items]({{ site.url }}{% link guide/creating-work-items-inside-your-list.md %}) within them, you should add Boards for each team involved in helping your ship your feature.
+Once you've [created a List]({{ site.url }}{% link guide/creating-and-organizing-lists-inside-your-project.md %}) for each feature within your project and [added items]({{ site.url }}{% link guide/creating-work-items-inside-your-list.md %}) within them, you should add Boards for each team involved in helping you ship your feature.
 
-Building features requires teams to come together and collaborate. Adding a Board for each team involved in building the feature will help them work just the way they want and be more productive.
+Building features requires teams to come together and collaborate. At first, its usually just the product manager, engineering manager, developers, and the designer. And as your feature nears completion, you'll want to bring in your QA team to ensure the feature is bug free and even your marketing team to help get the word out.
+
+So, how do you fit all their workflow into a single project project management tool? Create separate projects? Surely, not! Because then you wouldn't be able to distill all the work they've completed into meaningful information.
+
+In Zepel, give each team a Board within your project. That way, every time your team mates work on the feature they can work just the way they want and be more productive.
 
 [IMG]
 
@@ -34,13 +37,9 @@ Building features requires teams to come together and collaborate. Adding a Boar
 
 Head over to your team's Board to see where each item stands. With just a click, the Board provides you a single view of all items that requires your team's attention.
 
-With filters within your Board, you can easily drill in to see who is working on which feature and their current status. This helps you take informed decisions if you need to add more people to work a specific feature and keep your priorities on track. 
+Slice and dice your team's Board using advanced filters to see who is working on which feature and its current status. This helps you take informed decisions and add more people to work a specific feature and keep your priorities on track. 
 
 [IMG]
 
 [Learn how to use advanced Filters for Boards ->]({{ site.url }}{% link guide/creating-boards.md %})
-
----
-
-## Tips to manage workload
 

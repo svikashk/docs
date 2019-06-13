@@ -2,7 +2,7 @@
 layout: default
 nav_order: 1
 title: How product managers use Zepel to plan and ship features
-description: Learn how product managers use Zepel to effortlessly plan, prioritize, and work with multiple teams to ship quality features on time.
+description: Are you a product manager looking to ship quality features? See how product managers use Zepel project management tool to prioritize and work with teams to build features
 permalink: guide/use-cases/product-managers/
 nav_exclude: true
 ---
@@ -11,14 +11,13 @@ nav_exclude: true
 
 Product managers take the big picture, distill it into features, break and prioritize them using user stories.
 
-
 Since product managers work with every team, being able to quickly see what each team is working on __and__ know what's happening with the feature is key to plan and prioritize for the road ahead.
 
 In this article, we'll see how a product manager uses Zepel to effortlessly keep track of all the features, prioritize, and work with multiple teams.
 
 ---
 
-## 1. Create a Project
+## 1. Create a Project for your team
 
 As a product manager, you'd want to bring all the features your team will be working on under one single project. 
 
