@@ -8,7 +8,7 @@ media_folder: 'assets/uploads'
 collections:
   - label: 'Help Article'
     name: 'help-article'
-    folder: 'help'
+    folder: 'guide'
     create: true
     slug: "{{slug}}"
     fields:
