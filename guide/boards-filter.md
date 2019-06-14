@@ -1,53 +1,36 @@
 ---
 layout: default
-nav_order: 6
+nav_order: 7
 has_children: false
 parent: Using Boards
 title: Filtering Boards
-description: Remove or Delete unused Boards from projects.
+description: Filter your Boards to see where each item stands and who is working on what to manage workload
 permalink: guide/boards/filter-boards/
 ---
-# How to remove and delete Boards
+# Filtering Boards
 {: .no_toc }
 
-You can choose to remove a Board from your project or delete the Board itself.
+Filter Boards to view and work on only the items you care.
 {: .fs-6 .fw-300 }
 
-## IN THIS PAGE
-{: .no_toc .text-delta }
+Even if you are already within your team's Board, simply looking at the Board can be hard to find what you're looking at. What if you want to find items assigned to a developer who is working on a specific feature? 
 
-1. TOC
-{:toc}
+With filters in Boards, you can slice and dice an entire Board to find and learn who is working on which feature, what functionality, and its current status.
 
 ---
 
-## Remove Boards
+You can filter Project Boards by:
 
-To remove a Board from your current project:
+* **Assignees:** To view just the items assigned to specific team member(s).
+* **Lists:** To view items from specific Lists.
+* **Types:** View only items of certain type - User story, Task, Enhancement, and Bug.
+* **Sections:** To view only items under certain Sections.
+* **Tags:** To view items with certain hashtags.
 
-- Head over to the Boards Tab inside your project.
-- Click on the Board's name.
-- From the dropdown, select the Board you want to remove from the project.
-- Click on the settings icon.
-- Click on the ```Remove Board``` button.
-- From the confirmation pop-up, click on ```Remove Board``` to remove the Board from your current project.
+You can choose to mix a combination of the filters to view your Board and manage your project. 
 
-[IMG]
+For example, you can see [manage your team's workload]({{ site.url }}{% link guide/manage-workload.md %}) by filtering by assignees and see if you can relieve some work off them.
 
-When you remove a board from a project, all items using the board you removed, will automatically be moved to the ```Default Workflow``` board.
+Or you want to see what's happening in the Dev Board and see items from a List called Search, you can go to Dev Board and filter by Lists to see progress of all items in that List. Alternatively you can just visit that particular List (Search in this case) and click on the Dev Board to view only the items from that List.
 
----
-
-## Delete Boards
-
-To delete a Board from your account:
-- Head over to the Boards Tab inside your project.
-- Click on the Board's name.
-- From the dropdown, select the Board you want to delete from your account.
-- Click on the settings icon.
-- Click on the ```Delete board from all projects``` button.
-- From the confirmation pop-up, click on ```Delete Board``` to delete the Board from your account.
-
-[IMG]
-
-When you delete a board from your account, the board will get deleted from all projects using the specific board and all items using statuses from the board will automatically be moved to the ```Default Workflow``` board. 
+You can read more about the differences between List Board and a Project Board [over here]({{ site.url }}{% link guide/list-project-board.md %}).

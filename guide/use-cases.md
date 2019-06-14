@@ -69,7 +69,7 @@ Here are multiple ways of how you can bring members from every team together, co
                 <div class="container">
                     <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/product-managers/">
                     <h4><b>Product Manager</b></h4> 
-                    <p>Learn how you can manage your project from start to finish in Zepel.</p> 
+                    <p>Plan new features, get estimates, prioritize, and track its progress.</p> 
                     </a>
                 </div>
             </div>
@@ -79,7 +79,7 @@ Here are multiple ways of how you can bring members from every team together, co
                 <div class="container">
                     <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/engineering-managers/">
                     <h4><b>Engineering Manager</b></h4> 
-                    <p>Work together with Developers, Designers, and QA team.</p> 
+                    <p>Manage personnel, delegate work, and track progress of features.</p> 
                     </a>
                 </div>
             </div>
@@ -91,7 +91,7 @@ Here are multiple ways of how you can bring members from every team together, co
                 <div class="container">
                     <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/developers/">
                     <h4><b>Developer</b></h4> 
-                    <p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
+                    <p>Track items you care about, complete them, and beat deadlines.</p> 
                     </a>
                 </div>
             </div>

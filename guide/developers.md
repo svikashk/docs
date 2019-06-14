@@ -47,6 +47,8 @@ Zepel fits right into your dev workflow. Integrate with Github or Bitbucket to c
 
 And inform everyone of this update simply by integrating your Zepel account with Slack.
 
+(Look ma, no hands!)
+
 ---
 
 ## 4. Complete from the comfort of your Desktop

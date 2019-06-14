@@ -3,7 +3,7 @@ layout: default
 nav_order: 2
 has_children: false
 parent: Working with Teams
-title: Delegate and track progress
+title: Add Properties to Items
 description: Start collaborating on projects with your team in Zepel. Assign, set due dates, set statuses, and estimate your work items.
 permalink: guide/working-with-teams/add-properties/
 ---
@@ -78,9 +78,9 @@ When a specific work item is not yet completed on the due date, member assigned 
 
 Adding statuses to your work items help the entire team stay updated on your progress. 
 
-By default, all projects will have a Default Workflow with Todo, In Progress, Resolved, and Done statuses. You can add a new Board in your project to match statuses with your workflow.
+By default, all projects will have a Default Workflow with ```Todo```, ```In Progress```, ```Resolved```, and ```Done``` statuses. You can add a new Board in your project to match statuses with your workflow.
 
-[Learn how to manage workflows ->]({{site.url}}{ % link guide/boards.md % })
+[Learn how to add Boards into your project ->]({{site.url}}{% link guide/boards.md %})
 
 #### <u>Using Keyboard</u>
 {: .no_toc }

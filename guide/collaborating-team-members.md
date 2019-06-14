@@ -27,7 +27,7 @@ In Zepel, you can invite members into an Account or in a Project.
 
 An account is where all projects your company is working live. It is usually the name of your company. So, all members of your company would be inside an account.
 
-## <u>To collaborate members into your company account:</u>
+### <u>To collaborate members into your company account:</u>
 {: .no_toc }
 - Click on the name of your Company's name on the top left corner.
 - From the drop down, select Account Settings.
@@ -44,7 +44,7 @@ By default, all projects in Zepel are private, till you specifically collaborate
 
 You can choose to collaborate members in a project, so you can assign pieces of work to them and work together.
 
-## <u>To collaborate members into a project:</u>
+### <u>To collaborate members into a project:</u>
 {: .no_toc }
 - Head over to the members tab inside your project.
 - In the text field, enter the email address of your team member and click Invite.
