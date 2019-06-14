@@ -4,7 +4,7 @@ nav_order: 3
 has_children: false
 parent: Integrations
 title: Integrating Slack with Zepel
-description: Learn how to switch between Boards within your project.
+description: Connect your Zepel account with Slack to receive notifications and updates on your project.
 permalink: guide/integrations/slack/
 ---
 # How to integrate Slack account with Zepel?
