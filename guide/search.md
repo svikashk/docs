@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Search
-nav_order: 6
+nav_order: 7
 description: "Learn how you can search and find any Project or Item you are working on in Zepel"
 has_children: true
 permalink: guide/search/

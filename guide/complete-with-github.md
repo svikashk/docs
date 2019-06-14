@@ -14,11 +14,11 @@ permalink: guide/integrations/complete-items-with-github/
 Every time you close a pull request in Github, Zepel can automatically complete its respective task on Zepel so you don't have to switch back and forth. 
 
 * Once you've connected your Zepel account with your Github repository, head over to the task in your Zepel project.
-* Click on the task's "Edit details" icon.
+* Click on the task's "**Edit details**" icon.
 
 [IMG]
 
-* On the top-right corner of the task's details page, click on the "Copy item link".
+* On the top-right corner of the task's details page, click on the "**Copy item link**".
 
 [IMG]
 
@@ -27,7 +27,7 @@ Every time you close a pull request in Github, Zepel can automatically complete 
 
 [IMG]
 
-* Click "Create pull request"
+* Click "**Create pull request**"
 
 When you close this pull request, its respective task in Zepel will automatically get completed. And if your team has Slack integration enabled, they'll automatically be notified too.
 

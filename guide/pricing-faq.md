@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pricing FAQ
-nav_order: 7
+nav_order: 9
 description: All frequently asked questions about Zepel's pricing, answered.
 has_children: false
 permalink: guide/pricing-faq/

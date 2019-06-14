@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Progress
-nav_order: 9
+title: Track Feature Progress
+nav_order: 6
 description: "All the different ways you can use Zepel to manage your project and ship new features."
 permalink: guide/progress/
 ---
