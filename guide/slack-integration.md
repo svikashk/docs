@@ -5,6 +5,7 @@ parent: Integrations
 has_children: false
 title: Integrating Slack with Zepel
 desc: Connect your Zepel account with Slack to receive notifications and updates on your project.
+permalink: guide/integrations/slack/
 
 
 ---
