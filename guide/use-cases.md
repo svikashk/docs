@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Use Cases
-nav_order: 9
+nav_order: 10
 description: "All the different ways you can use Zepel to manage your project and ship new features."
 permalink: guide/use-cases/
 ---

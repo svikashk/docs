@@ -170,7 +170,7 @@
   "25": {
     "id": "25",
     "title": "Integrations",
-    "content": "Ways to use Zepel with Teams Building and shipping quality features requires teams to come together and work. Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time. Use cases for teams Project Management Learn how you can manage your project from start to finish in Zepel. Build Features Together Work together with Developers, Designers, and QA team. Prioritize Features Product managers use Zepel to plan and prioritize their next features. Manage Workload Track what each member is working on and manage their workload. Use cases based on roles Product Manager Learn how you can manage your project from start to finish in Zepel. Engineering Manager Work together with Developers, Designers, and QA team. Developer Engineering teams use Zepel to file, track, and fix bugs.",
+    "content": "Integrations in Zepel With Integrations, Zepel fits right into your daily workflow so you can focus on the things that are more important. Integrate Zepel with Github or Bitbucket to automatically complete your items on PR merges. Connect your Zepel account with your Slack account to update your team of about this progress.",
     "url": "http://localhost:4000/guide/integrations/",
     "relUrl": "/guide/integrations/"
   },
@@ -253,27 +253,34 @@
   },
   "37": {
     "id": "37",
+    "title": "Integrating Slack with Zepel",
+    "content": "How to integrate Slack account with Zepel? Of course, you have a million things to do. So how do you ensure that you stay on top of your projects updates? How do you make sure you know when due dates approach, tasks get assigned to you or a bottleneck gets completed? That’s exactly what Zepel’s Slack integration should solve for you. Once you connect your Zepel and Slack accounts, you can be sure that you get notified of important updates as and when they happen. Integrate Zepel With Your Slack Account: Once you’re in your Zepel account, on the top left corner, click on your Account’s name. From the dropdown, click on “Settings &amp; Members”. [IMG] In the “Settings &amp; Members” popup, head over to the “Integrations” tab. You’ll find a list of all Integrations available in Zepel in this tab. [IMG] Next to Slack, click on the “Enable” button. [IMG] Click on “Authorize” to give Zepel permissions to send updates to your Slack account. [IMG] Don’t worry, Zepel will only send you notifications as messages to your Slackbot and cannot post any messages on your behalf. What notifications to expect Once you connect your Slack and Zepel accounts, you’ll get a notification every time: You are invited to work on a new project. A new list gets added inside a project shared with you A task gets directly assigned to you A task in any of your shared projects gets completed A task assigned to you goes overdue [IMG]",
+    "url": "http://localhost:4000/guide/integrations/slack/",
+    "relUrl": "/guide/integrations/slack/"
+  },
+  "38": {
+    "id": "38",
     "title": "Switching Boards",
     "content": "Switching between Boards within a Project Once you’ve added multiple Boards in your project to fit every workflow and team involved, you would want to switch between Boards to see who progress in specific teams. Switching between Boards Head over to the Boards Tab within your project. On the right side of your screen, by default, you will see the “Default Workflow” board. Click on the dropdown. From the dropdown menu, select which Board you’d like to view and work from. [GIF]",
     "url": "http://localhost:4000/guide/boards/switching-boards/",
     "relUrl": "/guide/boards/switching-boards/"
   },
-  "38": {
-    "id": "38",
+  "39": {
+    "id": "39",
     "title": "Use Cases",
     "content": "Ways to use Zepel with Teams Building and shipping quality features requires teams to come together and work. Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time. Use cases for teams Project Management Learn how you can manage your project from start to finish in Zepel. Build Features Together Work together with Developers, Designers, and QA team. Prioritize Features Product managers use Zepel to plan and prioritize their next features. Manage Workload Track what each member is working on and manage their workload. Use cases based on roles Product Manager Learn how you can manage your project from start to finish in Zepel. Engineering Manager Work together with Developers, Designers, and QA team. Developer Engineering teams use Zepel to file, track, and fix bugs.",
     "url": "http://localhost:4000/guide/use-cases/",
     "relUrl": "/guide/use-cases/"
   },
-  "39": {
-    "id": "39",
+  "40": {
+    "id": "40",
     "title": "Views",
     "content": "Customize how you view items assigned to you View work assigned to you in the way that works best for you. Right from your desktop. Customizable views come in handy when you are trusted with multiple items that need to get completed. For example, you can choose to view items assigned to you based on when they’re due and have them sorted in ascending order. That way, you can concentrate on items that are due soon, and never miss another deadline. IN THIS PAGE Sorting items Order items Group items Sorting items You can sort items by: Alphabetical order Estimates Due Date [IMG] Order items You can order items by: Ascending Descending [IMG] Group items You can group items by: Project Due Date [IMG]",
     "url": "http://localhost:4000/guide/desktop-widget/views/",
     "relUrl": "/guide/desktop-widget/views/"
   },
-  "40": {
-    "id": "40",
+  "41": {
+    "id": "41",
     "title": "Working with Teams",
     "content": "Working with Teams Building and shipping quality projects requires you to bring in team members and collaborate with them. With Zepel, you can bring members from any team into your project, delegate work, share files, have conversations, and track progress in every team.",
     "url": "http://localhost:4000/guide/working-with-teams/",
