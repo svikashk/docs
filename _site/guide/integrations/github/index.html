@@ -6,10 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
   
-    <title>Search - Zepel Guide</title>
+    <title>Integrating Github with Zepel - Zepel Guide</title>
 
     
-    <meta name="Description" content="Learn how you can search and find any Project or Item you are working on in Zepel">
+    <meta name="Description" content="Integrate your Zepel account with Github to link items to pull requests.">
     
   
 
@@ -36,17 +36,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Search | Zepel Guide</title>
+<title>Integrating Github with Zepel | Zepel Guide</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Search" />
+<meta property="og:title" content="Integrating Github with Zepel" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Learn how you can search and find any Project or Item you are working on in Zepel" />
-<meta property="og:description" content="Learn how you can search and find any Project or Item you are working on in Zepel" />
-<link rel="canonical" href="http://localhost:4000/guide/search/" />
-<meta property="og:url" content="http://localhost:4000/guide/search/" />
+<meta name="description" content="Integrate your Zepel account with Github to link items to pull requests." />
+<meta property="og:description" content="Integrate your Zepel account with Github to link items to pull requests." />
+<link rel="canonical" href="http://localhost:4000/guide/integrations/github/" />
+<meta property="og:url" content="http://localhost:4000/guide/integrations/github/" />
 <meta property="og:site_name" content="Zepel Guide" />
 <script type="application/ld+json">
-{"headline":"Search","url":"http://localhost:4000/guide/search/","description":"Learn how you can search and find any Project or Item you are working on in Zepel","@type":"WebPage","@context":"http://schema.org"}</script>
+{"headline":"Integrating Github with Zepel","url":"http://localhost:4000/guide/integrations/github/","description":"Integrate your Zepel account with Github to link items to pull requests.","@type":"WebPage","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -612,9 +612,9 @@
     
       
         
-          <li class="navigation-list-item active">
+          <li class="navigation-list-item">
             
-            <a href="http://localhost:4000/guide/search/" class="navigation-list-link active">Search</a>
+            <a href="http://localhost:4000/guide/search/" class="navigation-list-link">Search</a>
             
               
               <ul class="navigation-list-child-list ">
@@ -886,7 +886,7 @@
     
       
         
-          <li class="navigation-list-item">
+          <li class="navigation-list-item active">
             
             <a href="http://localhost:4000/guide/integrations/" class="navigation-list-link">Integrations</a>
             
@@ -914,9 +914,9 @@
                   
                 
                   
-                    <li class="navigation-list-item ">
+                    <li class="navigation-list-item  active">
                       
-                      <a href="http://localhost:4000/guide/integrations/github/" class="navigation-list-link">Integrating Github with Zepel</a>
+                      <a href="http://localhost:4000/guide/integrations/github/" class="navigation-list-link active">Integrating Github with Zepel</a>
                       
                     </li>
                   
@@ -1073,132 +1073,73 @@
       <div class="main-content">
         
           
+            <nav class="breadcrumb-nav">
+              <ol class="breadcrumb-nav-list">
+                
+                  <li class="breadcrumb-nav-list-item"><a href="http://localhost:4000/guide/integrations/">Integrations</a></li>
+                
+                <li class="breadcrumb-nav-list-item"><span>Integrating Github with Zepel</span></li>
+              </ol>
+            </nav>
+          
         
         <div id="main-content" class="page-content" role="main">
-          <h1 class="no_toc" id="searching-through-projects-and-items">Searching through Projects and Items</h1>
+          <h1 id="how-to-integrate-github-with-zepel">How to integrate Github with Zepel?</h1>
 
-<p class="fs-6 fw-300">Find anything in your account using simple Search. 🔎</p>
+<p class="no_toc">Sometimes your dev team can merge and close a pull request, but forget to complete the task. That can leave you with outdated information. With Zepel’s Github integration, your developers can now simply close a pull request and Zepel will complete the task for them.</p>
 
-<p>And use Filters to drill down and find specific items you are looking for.</p>
+<p>In this article, we’ll see how you can set up your Zepel account to integrate with your Github repository.</p>
+
+<h2 id="integrate-zepel-with-github">Integrate Zepel with Github</h2>
+
+<ul>
+  <li>Once you’re in your Zepel account, on the top left corner, click on your Account’s name.</li>
+  <li>From the dropdown, click on “<strong>Account Settings</strong>”.</li>
+</ul>
+
+<p><img src="/assets/uploads/account-settings.png" alt="Click on Settings &amp; Members from Accounts dropdown" title="Account Settings" /></p>
+
+<ul>
+  <li>In the “<strong>Account Settings</strong>” popup, head over to the “<strong>Integrations</strong>” tab. You’ll find a list of all Integrations available in Zepel in this tab.</li>
+</ul>
+
+<p><img src="/assets/uploads/integrations-tab.png" alt="Head over to Integrations tab in Account Settings" title="Integrations tab in Account Settings" /></p>
+
+<ul>
+  <li>Click on the “<strong>Enable</strong>” button next to Github.</li>
+</ul>
+
+<p>[IMG]</p>
+
+<ul>
+  <li>Now, login to your Github account and visit the repository you want to connect with your Zepel account.</li>
+  <li>From your repository’s settings, visit Webhooks tab.</li>
+  <li>Click on “<strong>Add webhook</strong>” button.</li>
+</ul>
+
+<p>[IMG]</p>
+
+<ul>
+  <li>Copy the “<strong>Webhook URL</strong>” that is generated in your Zepel account and paste it in the “<strong>Payload URL</strong>” field in Github.</li>
+  <li>Copy the “<strong>Webhook Secret</strong>” that is generated in your Zepel account and paste it in the Secret field in Github.</li>
+</ul>
+
+<p>[IMG]</p>
+
+<ul>
+  <li>Since Zepel integrates only with pull request closed event, under “<strong>Which events would you like to trigger this webhook?</strong>”, select “<strong>Let me select individual events</strong>”.</li>
+  <li>Now, uncheck “<strong>Pushes</strong>” and select “<strong>Pull requests</strong>”.</li>
+</ul>
+
+<p>[IMG]</p>
+
+<ul>
+  <li>Click on “<strong>Add Webhook</strong>”.</li>
+</ul>
+
+<p>Your Zepel account is now integrated with your Github repository. Read how you can complete tasks every time you close a pull request.</p>
 
 
-          
-          <hr>
-          <h2 class="text-delta">Further reading</h2>
-          
-          <ul>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-              <li>
-                <a href="http://localhost:4000/guide/search/search-projects/">Search Projects</a>
-              </li>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-              <li>
-                <a href="http://localhost:4000/guide/search/search-items/">Search Items</a>
-              </li>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-              <li>
-                <a href="http://localhost:4000/guide/search/advanced-filter/">Advanced Filter</a>
-              </li>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-          </ul>
           
         </div>
       </div>

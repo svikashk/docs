@@ -4,7 +4,7 @@ nav_order: 3
 parent: Integrations
 has_children: false
 title: Integrating Slack with Zepel
-desc: Connect your Zepel account with Slack to receive notifications and updates on your project.
+description: Connect your Zepel account with Slack to receive notifications and updates on your project.
 permalink: guide/integrations/slack/
 
 
@@ -20,16 +20,16 @@ That's exactly what Zepel's Slack integration should solve for you. Once you con
 ## Integrate Zepel With Your Slack Account:
 
 * Once you're in your Zepel account, on the top left corner, click on your Account's name.
-* From the dropdown, click on "Settings & Members".
+* From the dropdown, click on "**Account Settings**".
 
-![Click on Settings & Members from Accounts dropdown](/assets/uploads/account-settings.png "Account Settings")
+![Click on Account Settings from Accounts dropdown](/assets/uploads/account-settings.png "Account Settings")
 
-* In the "Settings & Members" popup, head over to the "Integrations" tab. You'll find a list of all Integrations available in Zepel in this tab.
+* In the "**Account Settings**" popup, head over to the "**Integrations**" tab. You'll find a list of all Integrations available in Zepel in this tab.
 
 ![Head over to Integrations tab in Account Settings](/assets/uploads/integrations-tab.png "Integrations tab in Account Settings")
 
-* Next to Slack, click on the "Enable" button.
-* Click on "Authorize" to give Zepel permissions to send updates to your Slack account.
+* Next to Slack, click on the "**Enable**" button.
+* Click on "**Authorize**" to give Zepel permissions to send updates to your Slack account.
 
 ![Authorize Zepel in Slack to send you notifications](/assets/uploads/authorize-zepel-in-slack.png "Authorize in Slack")
 
