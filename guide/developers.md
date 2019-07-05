@@ -15,7 +15,7 @@ In this article, we'll see how a developer effortlessly stays on top of their wo
 
 ---
 
-## 1. Add items to Lists
+## 1. Add items to Features
 
 Got assigned on a user story? 
 

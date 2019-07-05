@@ -22,7 +22,7 @@ In this article, we'll see you how you can bring in members from every team toge
 
 ## 1. Create a Project
 
-Give your project a name. Most projects in Zepel are named after a team, like Web App or Mobile. But if you prefer naming your project after the feature, that works well too! 
+Give your project a name. Most projects in Zepel are named after a team, like Engineering. But if you prefer naming your project after an open ended product like Web App or Mobile, that works well too! 
 
 [IMG]
 
@@ -30,25 +30,25 @@ When creating a project, you'll be asked to add Boards that teams can use to tra
 
 ---
 
-## 2. Create Lists
+## 2. Create Features
 
-Once you've created a project, its time create Lists. Lists in Zepel is where all actionable work items live. 
-
-Create multiple Lists inside a project, each representing the feature (if you named your project after a team) you are building. If you named your project after the feature, create a List for every teams involved in building your feature.
+Once you've created a project, its time create Features. Features in Zepel is a collection of actionable items - user stories, tasks, subtasks, bugs, and enhancements - that can be tracked and executed. 
 
 [IMG]
 
-[Learn more about organizing Lists ->]({{ site.url }}{% link guide/creating-and-organizing-lists-inside-your-project.md %})
+[Learn more about organizing Features ->]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
 ---
 
 ## 3. Add Items
 
-To start working on your feature, add items - User Stories, Tasks, Subtasks, Bugs, and Enhancements - to your List. 
+To start tracking your feature, add items - User Stories, Tasks, Subtasks, Bugs, and Enhancements.. 
 
-Use Sections to organize your List. Add assignees and due dates to delegate work to team members. That way, everyone knows who is working on what and help you ship your feature faster.
+Use Sections to organize your Feature. Add assignees and due dates to delegate work to team members. That way, everyone knows who is working on what and help you ship your feature faster.
 
 [IMG]
+
+__NOTE:__ Sometimes, you'll find you need to work on items that don't belong to a specific feature. Product wide tech debts or bugs. You can quickly add them into your project's List.
 
 ---
 
@@ -58,7 +58,7 @@ Boards in Zepel are the workflows through which items can move through.
 
 Items can move within a Board - from one status to another. Or from one Board to another. 
 
-Once you've created a Items inside your List, its time to add a Board for every team involved in building your feature. 
+Once you've created a Items inside your Feature, its time to add a Board for every team involved in building your feature. 
 
 With a Board tailor-made for every team, each member can work just the way they want without settling for a generic "In Progress" status. 
 
@@ -76,6 +76,6 @@ While members from every team pick up items assigned to them move them across st
 
 [IMG]
 
-If you want to see what each team is working on, you can simply click on their respective Board and get a quick glance of what's happening. And if you head over to Lists Overview, you can get a quick status of how much your feature has progressed.
+If you want to see what each team is working on, you can simply click on their respective Board and get a quick glance of what's happening. And if you head over to Progress, you can get a quick status of how much your feature has progressed.
 
-[Learn more about Lists Overview ->]({{site.url}}{% link guide/boards.md %})
+[Learn more about Progress ->]({{site.url}}{% link guide/progress.md %})

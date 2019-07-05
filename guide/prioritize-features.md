@@ -23,7 +23,7 @@ In this article, we'll show how you can see what your team's working on, their p
 
 Don't worry about prioritizing the feature at first. 
 
-Create a List for your new feature and put together all user stories and tasks you'd ideally want to accomplish.
+Create a Feature within your project and put together all user stories and tasks you'd ideally want to accomplish.
 
 Add acceptance criteria for your user stories within the Description to help everyone understand what's expected of them.
 
@@ -35,7 +35,7 @@ Add acceptance criteria for your user stories within the Description to help eve
 
 Your team is most likely working on a couple of other features, completed few user stories, and made some progress.
 
-Since each List within your project represents a feature, this makes it effortless for you as the product manager to see what's happening in the feature and who is working on which user story or enhancement.
+Since all features your team is working on is inside your project, this makes it effortless for you as the product manager to see what's happening in the feature and who is working on which user story or enhancement.
 
 [IMG]
 
@@ -51,7 +51,7 @@ With Progress, you can get a quick snapshot of how much progress your team has m
 
 ## 3. See features in Kanban to Prioritize
 
-The entire thought process of prioritizing features is a whole different beast altogether. We've put together a process and wrote in detail about how you should think about prioritizing your feature [over here](https://blog.zepel.io/prioritize-product-feature-backlog/).
+The entire thought process of prioritizing features is a whole different beast altogether. We've put together a process and wrote in detail about how you should think about prioritizing your feature [over here](https://blog.zepel.io/prioritize-product-feature-backlog/?utm_source=zepelguide&utm_medium=prioritize-features).
 
 With the right thought process and the context of your team's current feature progress, you can now view and rearrange your features in a Kanban and start prioritizing them.
 
@@ -63,10 +63,10 @@ Rearrange features within the Todo column to prioritize. The higher your feature
 
 ---
 
-## 4. Delegate top priority features to managers
+## 4. Delegate top priority features
 
 Once your features are prioritized and ready to be worked on, give your feature an owner who will oversee the completion of the feature. 
 
-Making sure each feature has an owner will drive responsibility and ensure they see to it that the feature is completed with the quality your customers need.
+Making sure each feature has an owner will drive responsibility and ensure that the feature is completed with the quality your customers need.
 
 Take it a step further by adding a duration to ensure the feature is built within a timeline. After all, no body wants the feature to get dragged on forever.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Tasks
-nav_order: 8
+nav_order: 9
 description: View, edit, and update your work right from your desktop using Zepel's Desktop Widget.
 has_children: false
 permalink: guide/my-tasks/
@@ -52,7 +52,7 @@ You can order items by:
 ## Group items
 
 You can group items by:
-1. Project
+1. Features
 2. Due Date
 
 [IMG]

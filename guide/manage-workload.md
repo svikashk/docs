@@ -11,7 +11,7 @@ nav_exclude: true
 
 Product and Engineering managers need quick access to see how features are progressing and how members of the team are making progress.
 
-They can rely on real-time updates of how the features are progressing with Lists Overview. With Boards and Filters, they can now quickly see the team's capactiy and manage their workload.
+They can rely on real-time updates of how the features are progressing with Progress. With Boards and Filters, they can now quickly see the team's capactiy and manage their workload.
 
 In this article, we'll see how you can quickly get an understanding of where each of your team members' work stand and how you can use this to route work efficiently.
 
@@ -19,7 +19,7 @@ In this article, we'll see how you can quickly get an understanding of where eac
 
 ## 1. Give each team a workflow tailor-made just for them
 
-Once you've [created a List]({{ site.url }}{% link guide/creating-and-organizing-lists-inside-your-project.md %}) for each feature within your project and [added items]({{ site.url }}{% link guide/creating-work-items-inside-your-list.md %}) within them, you should add Boards for each team involved in helping you ship your feature.
+Once you've [created a Feature]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) for each feature within your project and [added items]({{ site.url }}{% link guide/creating-work-items.md %}) within them, you should add Boards for each team involved in helping you ship your feature.
 
 Building features requires teams to come together and collaborate. At first, its usually just the product manager, engineering manager, developers, and the designer. And as your feature nears completion, you'll want to bring in your QA team to ensure the feature is bug free and even your marketing team to help get the word out.
 
@@ -41,5 +41,5 @@ Slice and dice your team's Board using advanced filters to see who is working on
 
 [IMG]
 
-[Learn how to use advanced Filters for Boards ->]({{ site.url }}{% link guide/creating-boards.md %})
+[Learn how to use advanced Filters for Boards ->]({{ site.url }}{% link guide/boards-filter.md %})
 

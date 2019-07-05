@@ -12,7 +12,7 @@ permalink: /
 Best practices, tips, and tricks on how you can manage projects with Zepel.
 {: .fs-6 .fw-300 }
 
-If you are new to Zepel, we recommend you start with our Get Started guide. If you are looking to level up your project management game, consider exploring our help articles on Working with Teams.
+If you are new to Zepel, we recommend you start with our Get Started guide. If you are looking to level up your project management game, consider exploring our help articles on Work with Teams.
 
 [Get Started]({{ site.url }}{% link guide/get-started.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Contact Support](https://github.com/svikashk/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 

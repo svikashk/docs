@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Import Projects
-nav_order: 11
+nav_order: 13
 description: Not too pleased with other project management tools? Switch to Zepel for FREE. Import projects without data loss.
 permalink: guide/import/
 has_children: true

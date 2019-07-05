@@ -16,9 +16,9 @@ New to Zepel? Welcome! 🤗
 
 Zepel is the project management tool that makes it effortless for you to manage and track progress across teams.
 
-Once you've signed up and created your account, you are only 3 steps away from starting a project and bring it under control. 
+Once you've signed up and created a project for your team, you are only 3 steps away from tracking progress of your feature. 
 
-In this article we will take you through the top 3 things you should do once you are inside your Zepel account.
+In this article we will take you through the top 3 tips, so you can quickly bring in members from every team to start building and tracking features.
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -26,39 +26,24 @@ In this article we will take you through the top 3 things you should do once you
 1. TOC
 {:toc}
 
-Already created and organized your project? [Collaborate]({{ site.url }}{% link guide/collaborating-team-members.md %}) and [add a Board]({{ site.url }}{% link guide/creating-your-first-project.md %}) for every team involved in your project. 
-
 ---
 
-## Create a Project
+## Create Feature to plan and track progress
 
-A project is where group of members come together to achieve a common goal. Projects in Zepel can represent teams such as Engineering and Data Science.
-
-[IMG]
-
-But if you prefer to have projects named after features your company is working on, Zepel will work just fine.
-
----
-
-## Add Lists inside a Project
-
-Projects in Zepel can have multiple Lists. That way, if you have your project named after specific teams, each list of tasks can represent the feature your team is working on.
+A Feature is a collection of users stories, tasks, subtasks, bugs, and enhancements. A project can have multiple features, so you can track everything that's happening in your project.
 
 [IMG]
 
-And if your project is named after a feature, each list can represent specific teams involved in your feature, so you can see what's happening in every team in your project.
-
-[IMG]
+And if you have miscellaneous work that are not part of a Feature, you can add them to your project's List.
 
 ---
 
 ## Create Items
 
-Items and its types - Stories, Enhancements, Bugs, Tasks, and Subtasks are at the core of Zepel. You can delegate, set deadlines, and track statuses of your work. 
+Items and its types - Stories, Enhancements, Bugs, Tasks, and Subtasks - are at the core of Zepel. You can delegate, set deadlines, and track statuses of your work. 
 
-Once you've created a List inside your project, start adding related work items into your list, so you can keep your team aligned on same page.
+Once you've created a Feature inside your project, start adding items, so you can keep your team on same page.
 
-- When your List is empty, you can choose to create a Section or a Task. 
 - To change an item's type, right click on the item and select which type you would like to change to.
 - Hit __[ Tab ]__ to turn any item into a Subtask.
 
@@ -67,7 +52,19 @@ Once you've created a List inside your project, start adding related work items 
 _<b>Keyboard Shortcuts:</b>_
 
 - Turn any item into a task by typing ```-``` at the beginning of an item.
-- Toggle between item types using __Ctrl + Shift + S__ (or Cmd + Shift + S if you use a Mac).
+- Toggle between item types using __Ctrl + Shift + S__ (or __Cmd + Shift + S__ if you use a Mac).
 - Add a Section to group similar items together by typing ```*``` at the beginning of an item.
 
-Go ahead, start your first project in Zepel. It'll only take a minute to see how effortless it is to start and manage projects in Zepel.
+---
+
+## Add Boards for every workflow
+
+Building features is a cross team effort. And since each team has their own way of working, you can add a Board tailor-made just for them. 
+
+That way, when you bring in a designer to help design your new feature, or a QA team to test your completed feature, they can all work from within the Project with a workflow that suits their need. 
+
+[IMG]
+
+[Learn more about Boards in Zepel]({{ site.url }}{% link guide/boards.md %})
+
+Go ahead, start your first project in Zepel. It'll only take a minute to see how effortless it is to work on features with cross team collaboration and track progress across teams.

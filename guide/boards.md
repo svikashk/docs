@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Using Boards
+title: Use Boards
 nav_order: 5
 description: "Boards in Zepel is more than just a Kanban. Learn how you can use Boards to keep track of progress across teams within a project."
 has_children: true

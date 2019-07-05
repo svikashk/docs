@@ -2,15 +2,15 @@
 layout: default
 nav_order: 2
 has_children: false
-parent: Working with Teams
+parent: Work with Teams
 title: Add Properties to Items
 description: Start collaborating on projects with your team in Zepel. Assign, set due dates, set statuses, and estimate your work items.
 permalink: guide/working-with-teams/add-properties/
 ---
-# Delegate work to team members and track progress
+# Delegate work and track progress
 {: .no_toc }
 
-After adding items into your List, you can start tracking them by adding properties.
+After adding items into your Feature, you can start tracking them by adding properties.
 {: .fs-6 .fw-300 }
 
 At the end of this help article, you would have learned how to assign, set due dates, update statuses, and estimate your items.
@@ -25,7 +25,7 @@ At the end of this help article, you would have learned how to assign, set due d
 
 ## Assign items
 
-Once you've collaborated your project with your team members, you can delegate pieces of work to them by assigning work items from your List. 
+Once you've [collaborated your project with team members]({{ site.url }}{% link guide/collaborating-team-members.md %}), you can start delegating pieces of work to them by assigning work items from your Feature. 
 
 When assigned, your team mates will be notified via Slack (if you've integrated your account with Slack) and email.
 
@@ -39,7 +39,7 @@ When assigned, your team mates will be notified via Slack (if you've integrated 
 
 #### <u>Using Mouse</u>
 {: .no_toc }
-- From the list, right click on the item you want to assign a team member to.
+- From the Feature, right click on the item you want to assign a team member to.
 - Select the assignee icon from the item menu.
 - From the drop down suggestion, select a member to assign the task to them.
 
@@ -66,7 +66,7 @@ When a specific work item is not yet completed on the due date, member assigned 
 
 #### <u>Using Mouse</u>
 {: .no_toc }
-- From the list, right click on the item you want to set a due date to.
+- From the Feature, right click on the item you want to set a due date to.
 - Select the calendar icon from the item menu.
 - From the drop down suggestion, select a date to set it as the item's due date.
 
@@ -91,13 +91,13 @@ By default, all projects will have a Default Workflow with ```Todo```, ```In Pro
 
 #### <u>Using Mouse</u>
 {: .no_toc }
-- From the list, right click on the item you want to the update status.
+- From the Feature, right click on the item you want to the update status.
 - Select the flag icon from the item menu.
 - From the drop down suggestion, select a status to update the item's status.
 
 [IMG]
 
-__Pro Tip:__ As team members move items from one status to another from their Board, you can see how an entire feature is shaping up from within your List.
+__Pro Tip:__ As team members move items from one status to another from their Board, you can see how an entire feature is shaping up from within your Feature.
 
 ---
 
@@ -105,7 +105,7 @@ __Pro Tip:__ As team members move items from one status to another from their Bo
 
 Add an estimate to your work item, so you can see an approximate estimate of how long your work will take to get completed.
 
-Estimates in Zepel are measured in points. They are useful when you'd like to view Burnup and Burndown charts for your Sprint. Or when you Filter your List.
+Estimates in Zepel are measured in points. They are useful when you'd like to view Burnup and Burndown charts for your Sprint. Or when you Filter your Feature.
 
 #### <u>Using Keyboard</u>
 {: .no_toc }
@@ -116,7 +116,7 @@ Estimates in Zepel are measured in points. They are useful when you'd like to vi
 
 #### <u>Using Mouse</u>
 {: .no_toc }
-- From the list, right click on the item you want to estimate.
+- From the Feature, right click on the item you want to estimate.
 - Select timer icon from the item menu.
 - Enter a number between 0.01 and 1000 in the text field to estimate your item.
 

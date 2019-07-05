@@ -2,15 +2,15 @@
 layout: default
 nav_order: 1
 has_children: false
-parent: Using Boards
-title: How To Create A New Board In Zepel
+parent: Use Boards
+title: Create a new Board
 description: Learn how to create Boards within a project and track progress.
 permalink: guide/boards/creating-boards/
 ---
 # How to create a new Board within a Project
 {: .no_toc }
 
-Tasks with Todo, In-Progress, and Done don't give your team much meaning when you're working with teams.
+Tasks with Todo, In-Progress, and Done don't give your team much meaning when you're Work with Teams.
 {: .fs-6 .fw-300 }
 
 If you need to bring in your designer and marketer to help ship your new feature, adding new statuses to the same board simply won't cut it. 
@@ -22,15 +22,11 @@ Boards in Zepel help your team get context of where things stand. Add a design b
 ---
 
 ### <u>How to create a new board for a project in Zepel:</u>
-- When inside the project, click on the Boards tab on the left sidebar.
+- When inside the project, from the sidebar, click on __( + )__ button next to Boards.
 
 [IMG]
 
-- By default, your project will have a “Default Workflow”. To add another Board to your project, click on “Add Board” button.
-
-[IMG]
-
-- To create a new Board, click on “Or, create a new board” from the bottom right corner of the Add Board popup.
+- From the Add Board popup, you can choose to [reuse a Board from other projects]({{ site.url }}{% link guide/add-board-from-another-project.md %}). But if you want to create one, click on “__Or, create a new board__” from the bottom right corner.
 
 [IMG]
 
@@ -38,5 +34,5 @@ Boards in Zepel help your team get context of where things stand. Add a design b
 
 - Add statuses to your board by clicking on the Plus [ + ] icon.
 
-Once you’ve created boards, each item, irrespective of which List they're in, can use statuses from the boards you created for this project. 
+Once you’ve created boards, each item, irrespective of which Feature they're in, can use statuses from the boards you created for this project. 
 

@@ -2,7 +2,7 @@
 layout: default
 nav_order: 3
 has_children: false
-parent: Working with Teams
+parent: Work with Teams
 title: Comments and Conversations
 description: Start collaborating on projects with your team in Zepel. Comment, mention people, and share files within your conversation.
 permalink: guide/working-with-teams/comments/
@@ -27,10 +27,10 @@ With comments, you can upload files and mention people to get their attention.
 
 ## Adding comments
 
-You can add comment to any item in your list or on the list itself.
+You can add comment to any item within your Feature or on the Feature itself.
 
 To add a comment:
-- Hover on any item inside your list. 
+- Hover on any item inside your Feature. 
 - Click on the ```Expand Item``` icon from the right side of an item.
 - On the bottom-right side in the pop-up, enter your comment in the text field and hit ```[ Enter ]```.
 

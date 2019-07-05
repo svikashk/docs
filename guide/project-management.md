@@ -30,26 +30,24 @@ While creating a project, you will be able to add one or more Boards into your p
 
 ---
 
-## 2. Create Lists
+## 2. Create Features
 
-Once you've created a project, you can now create multiple Lists. A list is usually a feature that houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - within it. 
+Once you've created a project, you can create multiple Features within your project. A Feature is a collection of actionable items - user stories, tasks, subtasks, bugs, and enhancements - that can be tracked and executed. 
 
-Each list can have: 
+Each Feature can have: 
 1. An owner who can oversee the feature 
 2. A duration to ensure the feature is built within a said timeline, and
 3. A status to keep everyone updated on progress
 
 [IMG]
 
-Note: Teams that name a project after a feature, usually create a List for each team involved in shipping the feature.
-
-[Learn more about organizing Lists ->]({{ site.url }}{% link guide/creating-and-organizing-lists-inside-your-project.md %})
+[Learn more about organizing Features ->]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
 ---
 
 ## 3. Create Items
 
-Once you've created a List for a feature your team is working on, its time to start adding items. 
+Once you've created a Feature your team is working on, its time to start adding items. 
 
 You can create:
 1. User Stories
@@ -59,7 +57,7 @@ You can create:
 5. Bugs
 6. Sections
 
-[Learn how you can quickly create a list of items ->]({{site.url}}{% link guide/creating-work-items-inside-your-list.md %})
+[Learn how you can quickly create a list of items ->]({{site.url}}{% link guide/creating-work-items.md %})
 
 But of course, creating a list of items alone isn't enough. You'll want to delegate it, set a deadline, and track its progress.
 
@@ -71,7 +69,9 @@ All items in Zepel, except Sections, can have item properties:
 
 [IMG]
 
-You can add item properties by typing ```/``` to trigger all commands. Alternatively, you can open up an item's details pop-up to set or change any of the properties.
+You can [add item properties]({{ site.url }}{% link guide/add-properties.md %}) by typing ```/``` to trigger all commands. Alternatively, you can open up an item's details pop-up to set or change any of the properties.
+
+__NOTE:__ Sometimes, you'll find you need to work on items that don't belong to a specific feature. Product wide tech debts or bugs. You can quickly add them into your project's List.
 
 [Learn how you can delegate and track work items ->]({{site.url}}{% link guide/add-properties.md %})
 
@@ -87,7 +87,7 @@ With Boards in Zepel, you can add multiple Boards in your project to accomodate 
 
 [IMG]
 
-All trackable items across lists can move from one status to another like a traditional kanban board **and** move from one Board to another. 
+All trackable items across Features can move from one status to another like a traditional kanban board **and** move from one Board to another. 
 
 That means, when your designer is ready with the mockups for your frontend developer to pick it up, the item can move from ```Design - Done``` to ```Dev - Todo```.
 
@@ -99,11 +99,11 @@ That means, when your designer is ready with the mockups for your frontend devel
 
 Sometimes you want to work distraction free. Without having to look at all the other items required to build your new feature.
 
-Use My Tasks in Zepel to see just the items assigned to you across all lists in all projects. 
+Use My Tasks in Zepel to see just the items assigned to you across all Features in all projects. 
 
 [IMG]
 
-With the Sort, you can choose to view items assigned to you just the way you'd like. Group and sort them by due dates, sort by estimates, based on which List they're in, and order them by ascending or descending.
+With the Sort, you can choose to view items assigned to you just the way you'd like. Group and sort them by due dates, sort by estimates, based on which Feature they're in, and order them by ascending or descending.
 
 To make it even more easier, you can work on your items from the comfort of your desktop using Zepel's Desktop Widget. That way, you can complete and update your team with Zepel right next to your code editor, and not even open your browser.
 
@@ -113,17 +113,17 @@ To make it even more easier, you can work on your items from the comfort of your
 
 ---
 
-## 6. Track progress of each Feature with Lists Overview
+## 6. Track features using Progress
 
 As your team starts working on the feature, you don't just want to know who is working on which item and its status, you want to know progress of the feature itself. 
 
-Lists Overview is the command center for your project. You can see progress of your entire feature, know who is responsible for overseeing the completion of the it, its current status, and its duration.
+Progress is the command center for your project. You can see progress of your entire feature, know who is responsible for overseeing the completion of the it, its current status, and its duration.
 
 [IMG]
 
-With the capability to view all your lists in Kanban to make it easier for you prioritize your feature and Table view to quickly see a timeline of what's next, product managers and team leaders can quickly get a bird's eye view of what's happening in real-time.
+With the capability to view all your Features in Kanban to make it easier for you prioritize your feature and Table view to quickly see a timeline of what's next, product managers and team leaders can quickly get a bird's eye view of what's happening in real-time.
 
-[Learn more about Lists Overview ->]({{site.url}}{% link guide/desktop-widget.md %})
+[Learn more about Progress ->]({{site.url}}{% link guide/progress.md %})
 
 ---
 

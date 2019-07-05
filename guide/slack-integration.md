@@ -40,7 +40,7 @@ What notifications to expect
 Once you connect your Slack and Zepel accounts, you’ll get a notification every time:
 
 1. You are invited to work on a new project.
-2. A new list gets added inside a project shared with you
+2. A new Feature gets added inside a project shared with you
 3. A task gets directly assigned to you
 4. A task in any of your shared projects gets completed
 5. A task assigned to you goes overdue

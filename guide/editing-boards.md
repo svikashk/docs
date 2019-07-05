@@ -2,7 +2,7 @@
 layout: default
 nav_order: 5
 has_children: false
-parent: Using Boards
+parent: Use Boards
 title: Editing Boards
 description: Edit Boards within your project to bend Zepel to fit your workflow.
 permalink: guide/boards/edit-boards/
@@ -21,27 +21,22 @@ Change the name of your Board, statuses, re-arrange columns, or edit their colou
 
 ---
 ## Change Board name
-- Head over to the Boards Tab inside your project.
-- Click on the Board's name.
-- From the dropdown, select the Board you want to change the name for.
-- Click on the settings icon next the Boards.
-- Edit and rename your Board's name on the text field in the settings pop-up.
+- Click on the Board's name from the project's sidebar.
+- Click on the settings icon next to the Board.
+- Edit and rename your Board's name using the text field in the settings pop-up.
+- Click Update.
 
 ---
 
 ## Editing statuses/columns
-- Head over to the Boards Tab inside your project.
-- Click on the Board's name.
-- From the dropdown, select the Board you want to change status for.
+- Click on the Board's name from the project's sidebar.
 - Click on the status' text to make it editable.
-- Edit and rename your status' name and hit ```[ Enter ]```.
+- Edit and rename your status' name and click outside to save your changes.
 
 ---
 
 ## Re-arranging statuses/columns
-- Head over to the Boards Tab inside your project.
-- Click on the Board's name.
-- From the dropdown, select the Board you want to re-arrange the status for.
+- Click on the Board's name from the project's sidebar.
 - Click and drag the status using your mouse to your desired position.
 
 [GIF]
@@ -49,18 +44,23 @@ Change the name of your Board, statuses, re-arrange columns, or edit their colou
 ---
 
 ## Edit the colours for a status
-- Head over to the Boards Tab inside your project.
-- Click on the Board's name.
-- From the dropdown, select the Board for which you want to change the status' colour.
-- Click on the colour next to the Board's name.
+- Click on the Board's name from the project's sidebar.
+- Click on the colour next to the status' name.
 - Select a desired colour for your status from the options.
 
 ---
 
+## Change Board's icon
+- Click on the Board's name from the project's sidebar.
+- Click on the settings icon next to the Board.
+- From the settings popup, next to the board's name, click on the icon dropdown.
+- Select an icon for your board.
+- Click Update.
+
+---
+
 ## Delete status/column
-- Head over to the Boards Tab inside your project.
-- Click on the Board's name.
-- From the dropdown, select the Board from which you want to delete the status.
+- Click on the Board's name from the project's sidebar.
 - Click on the hamburger menu positioned to the right of the status' name.
 - Click delete.
 

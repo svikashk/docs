@@ -49,7 +49,7 @@ You can order items by:
 ## Group items
 
 You can group items by:
-1. Project
+1. Features
 2. Due Date
 
 [IMG]

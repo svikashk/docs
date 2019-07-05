@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Use Cases
-nav_order: 12
+nav_order: 14
 description: "All the different ways you can use Zepel to manage your project and ship new features."
 permalink: guide/use-cases/
 ---
@@ -74,18 +74,6 @@ Here are multiple ways of how you can bring members from every team together, co
                 </div>
             </div>
         </div>
-        <div class="column">
-            <div class="card">
-                <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/engineering-managers/">
-                    <h4><b>Engineering Manager</b></h4> 
-                    <p>Manage personnel, delegate work, and track progress of features.</p> 
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="usecases-row">
         <div class="column">
             <div class="card">
                 <div class="container">

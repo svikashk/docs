@@ -2,15 +2,15 @@
 layout: default
 nav_order: 1
 has_children: false
-parent: Working with Teams
+parent: Work with Teams
 title: Collaborating with Team Members
-description: Learn how collaboration in Zepel works. See how you can collaborate members into an account or into your project.
+description: Cross team collaboration and collaboration within your team is simple and effortless. See how you can collaborate with members into an account or into your project using Zepel.
 permalink: guide/working-with-teams/collaborating-team-members/
 ---
 # Collaborating with Team Members
 {: .no_toc }
 
-After adding items into your List, it's time bring members into your project and get the most out of Zepel.
+After adding items into your Feature, it's time bring members into your project and get the most out of Zepel.
 {: .fs-6 .fw-300 }
 
 In Zepel, you can invite members into an Account or in a Project.

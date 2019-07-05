@@ -38,7 +38,7 @@ Once a project is created for your team, add a List for each feature your team w
 
 A list houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. 
 
-Normally, the [product manager]({{ site.url }}{% link guide/product-manager.md %}) would create Lists and add all the required [user stories]({{ site.url }}{% link guide/creating-work-items-inside-your-list.md %}). 
+Normally, the [product manager]({{ site.url }}{% link guide/product-manager.md %}) would create Lists and add all the required [user stories]({{ site.url }}{% link guide/creating-work-items.md %}). 
 
 Once the product manager has added all the required user stories and [descriptions]({{ site.url }}{% link guide/description.md %}) to each feature, you can sit together to give a high level estimate of how long each feature could take and help the product manager prioritize features using the Kanban view.
 

@@ -2,7 +2,7 @@
 layout: default
 nav_order: 7
 has_children: false
-parent: Using Boards
+parent: Use Boards
 title: Filtering Boards
 description: Filter your Boards to see where each item stands and who is working on what to manage workload
 permalink: guide/boards/filter-boards/
@@ -22,7 +22,7 @@ With filters in Boards, you can slice and dice an entire Board to find and learn
 You can filter Project Boards by:
 
 * **Assignees:** To view just the items assigned to specific team member(s).
-* **Lists:** To view items from specific Lists.
+* **Items from :** To view items from specific Feature or the project's List.
 * **Types:** View only items of certain type - User story, Task, Enhancement, and Bug.
 * **Sections:** To view only items under certain Sections.
 * **Tags:** To view items with certain hashtags.
@@ -31,6 +31,6 @@ You can choose to mix a combination of the filters to view your Board and manage
 
 For example, you can see [manage your team's workload]({{ site.url }}{% link guide/manage-workload.md %}) by filtering by assignees and see if you can relieve some work off them.
 
-Or you want to see what's happening in the Dev Board and see items from a List called Search, you can go to Dev Board and filter by Lists to see progress of all items in that List. Alternatively you can just visit that particular List (Search in this case) and click on the Dev Board to view only the items from that List.
+Or you want to see what's happening in the Dev Board and see items from a Feature called Search, you can go to Dev Board and filter to view items from just that Feature. Alternatively you can just visit that particular Feature (Search feature in this case) and click on the Dev Board to view only the items from that Feature.
 
-You can read more about the differences between List Board and a Project Board [over here]({{ site.url }}{% link guide/list-project-board.md %}).
+You can read more about the differences between Feature Board and a Project Board [over here]({{ site.url }}{% link guide/feature-project-board.md %}).

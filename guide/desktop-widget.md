@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desktop Widget
-nav_order: 8
+nav_order: 10
 description: View, edit, and update your work right from your desktop using Zepel's Desktop Widget.
 has_children: true
 permalink: guide/desktop-widget/

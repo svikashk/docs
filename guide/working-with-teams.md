@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Working with Teams
+title: Work with Teams
 nav_order: 4
 description: "Learn how to collaborate and work with team members in Zepel. Use multiple Boards, run Sprints, and have discussions."
 has_children: true
@@ -8,7 +8,7 @@ permalink: guide/working-with-teams/
 has_toc: true
 ---
 
-# Working with Teams
+# Work with Teams
 {: .no_toc }
 
 Building and shipping quality projects requires you to bring in team members and collaborate with them.

@@ -8,7 +8,7 @@ permalink: guide/account-structure/
 # How your Zepel account is structured 
 {: .no_toc }
 
-Zepel is structured into accounts, projects, lists, work items, and boards.
+Zepel is structured into accounts, projects, features, work items, and boards.
 {: .fs-6 .fw-300 }
 
 
@@ -20,7 +20,7 @@ Zepel is structured into accounts, projects, lists, work items, and boards.
 
 ---
 
-Below is an image of how a project with multiple lists, items, and boards fit inside your account to help you seemlessly organize and track your projects.
+Below is an image of how a project with multiple features, items, and boards fit inside your account to help you seemlessly organize and track.
 
 [IMG]
 
@@ -44,25 +44,34 @@ People collaborated in a project will be automatically added to the respective a
 
 ---
 
-## Lists
+## Features
 
-A list is a collection of actionable work that your team can execute. Each list, depending on how you've named your project, can be either a feature or a team. Lists contain actionable next steps that can be assigned and tracked. This is where work gets done.
+A Feature is a collection of actionable work that your team can plan, track, and execute. As your members across teams start to work on this feature, you can see how the entire Feature is progressing right from here.
 
 [IMG]
 
-[Read more about Lists ->]({{ site.url }}{% link guide/creating-and-organizing-lists-inside-your-project.md %})
+[Read more about Features ->]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
 ---
 
-## User Stories, Tasks, Subtasks, Enhancements, and Bugs
+## Items
 
-Your list can be broken down into smaller chunks of executable work. They can be assigned to more than one person, have due dates, estimates, and statuses.
+Your Feature can be broken down into smaller chunks of executable work. They can be assigned to more than one person, have due dates, estimates, and statuses.
+
+An item can be:
+
+- User Story
+- Task
+- Subtask
+- Bug
+- Enhancement
+- Section
 
 [IMG]
 
-The completion of all work items inside each list will determine your entire project's progress.
+The completion of all work items inside each Feature will determine your entire project's progress.
 
-[Read more about creating work items ->]({{ site.url }}{% link guide/creating-work-items-inside-your-list.md %})
+[Read more about creating work items ->]({{ site.url }}{% link guide/creating-work-items.md %})
 
 ---
 
@@ -74,6 +83,6 @@ Since most projects require members from other teams to get involved, you can ha
 
 [IMG]
 
-This allows members to track items across lists in a Board that fits their workflow.
+This allows members to track items across Features in a Board that fits their workflow.
 
 [Read more about Boards ->]({{ site.url }}{% link guide/boards.md %})

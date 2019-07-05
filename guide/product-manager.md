@@ -31,9 +31,9 @@ Since you'll require items to go through statuses to keep everyone updated of pr
 
 ---
 
-## 2. Create a List for your feature and add items
+## 2. Create a Feature and add items
 
-Lists represent the features your working on. A list houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. 
+A Feature houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. 
 
 Adding items for your feature is as simple as writing on a document. Simply hit enter to create another item. And press ```Cmd + Shift + S``` if you're on a Mac (Ctrl + Shift + S on Windows) to toggle between item types.
 
@@ -63,7 +63,7 @@ That way, your Engineering Manager knows what are the key areas of your feature 
 
 ## 5. Track progress of the feature and plan for the road ahead
 
-Give each list: 
+Give each Feature: 
 1. An owner who will oversee the specific feature 
 2. A duration to ensure the feature is built within a said timeline, and
 3. A status to keep everyone updated on progress
@@ -74,4 +74,4 @@ As your team makes progress, you'll see a quick overview of how much work is don
 
 As you add more features to your project, use the Table view or the Kanban view to prioritize and plan your future features.
 
-[Learn more about organizing Lists ->]({{ site.url }}{% link guide/creating-and-organizing-lists-inside-your-project.md %})
+[Learn more about organizing Features ->]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %})

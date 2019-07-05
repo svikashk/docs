@@ -10,10 +10,10 @@ permalink: guide/search/advanced-filter/
 # Group and Filter Items
 {: .no_toc }
 
-With a combination of filter and grouping, you can view your list just the way you want.
+With a combination of filter and grouping, you can view your Feature just the way you want.
 {: .fs-6 .fw-300 }
 
-Sometimes a simple search is not enough. What if you want to find items assigned to a developer that is due this week? With advanced filter and group, you can slice and dice your entire list to find just the item you are looking for.
+Sometimes a simple search is not enough. What if you want to find items assigned to a developer that is due this week? With advanced filter and group, you can slice and dice your entire Feature to find just the item you are looking for.
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }

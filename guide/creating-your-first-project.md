@@ -9,12 +9,12 @@ permalink: guide/get-started/creating-projects/
 ---
 # Creating your first project
 
-Projects in Zepel typically map to a team (Mobile, Web App) or any open ended product or features in your organization.
+Projects in Zepel typically map to a team (Engineering, Front End) or any open ended product (Mobile, Web App).
 {: .fs-6 .fw-300 }
 
 To create your first project in your Zepel account:
 
-- Click on the Create Project button from your projects page. The projects page is where all your projects are listed.
+- Click on the '__Create Project__' button from the All Projects page.
 
 [IMG]
 
@@ -24,8 +24,8 @@ To create your first project in your Zepel account:
 
 [IMG]
 
-- Once complete, click on the Create button.
+- Once complete, click on the '__Create__' button.
 
 - Once the project is created, you'll be taken inside your new project where you can see Boards you selected in the Boards tab. 
 
-- Next, you'll learn how to create Lists inside your project.
+Next, you'll [learn how to create Features]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) inside your project.

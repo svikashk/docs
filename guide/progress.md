@@ -1,100 +1,26 @@
 ---
 layout: default
 title: Track Feature Progress
-nav_order: 6
-description: "All the different ways you can use Zepel to manage your project and ship new features."
-permalink: guide/progress/
+nav_order: 7
+description: Track feature progress in Zepel to know how your every team is performing and plan your next steps
+permalink: guide/track-progress/
+has_children: true
 ---
 
-# Ways to use Zepel with Teams
+# Use Progress to Track Features
 {: .no_toc }
 
-Building and shipping quality features requires teams to come together and work.
+Go from task tracking to feature tracking.
 {: .fs-6 .fw-300 }
 
-Here are multiple ways of how you can bring members from every team together, collaborate, and ship on time.
+Progress in Zepel lets you track features across teams, in real-time. 
 
----
-<div class="team">
-    <h2>Use cases for teams</h2>
-    <div class="usecases-row">
-        <div class="column">
-            <div class="card">
-                <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/project-management/">
-                    <h4><b>Project Management</b></h4> 
-                    <p>Learn how you can manage your project from start to finish in Zepel.</p> 
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="column">
-            <div class="card">
-                <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/build-features/">
-                    <h4><b>Build Features Together</b></h4> 
-                    <p>Work together with Developers, Designers, and QA team.</p> 
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="usecases-row">
-        <div class="column">
-            <div class="card">
-                <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/prioritize-features/">
-                    <h4><b>Prioritize Features</b></h4> 
-                    <p>Product managers use Zepel to plan and prioritize their next features.</p> 
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="column">
-            <div class="card">
-                <div class="container">
-                <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/manage-workload/">
-                <h4><b>Manage Workload</b></h4> 
-                <p>Track what each member is working on and manage their workload.</p> 
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="persona">
-    <h2>Use cases based on roles</h2>
-    <div class="usecases-row">
-        <div class="column">
-            <div class="card">
-                <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/product-managers/">
-                    <h4><b>Product Manager</b></h4> 
-                    <p>Learn how you can manage your project from start to finish in Zepel.</p> 
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="column">
-            <div class="card">
-                <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/engineering-managers/">
-                    <h4><b>Engineering Manager</b></h4> 
-                    <p>Work together with Developers, Designers, and QA team.</p> 
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="usecases-row">
-        <div class="column">
-            <div class="card">
-                <div class="container">
-                    <a href="">
-                    <h4><b>Developer</b></h4> 
-                    <p>Engineering teams use Zepel to file, track, and fix bugs.</p> 
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+[IMG]
+
+Building features requires you to work with members from different teams or departments. By adding Boards for every team involved in building your feature, you can see progress of user stories and tasks in different teams.
+
+With Progress, you can distil all the updates your members across teams made into one meaningful information.
+
+Progress lets product mangers to plan for the road ahead while keeping track of what's happening within in the organization right now. 
+
+Instead of manually constructing reports that quickly get outdated and are time-consuming, you can use Progress for real-time status updates on your feature.

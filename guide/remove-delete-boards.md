@@ -2,7 +2,7 @@
 layout: default
 nav_order: 8
 has_children: false
-parent: Using Boards
+parent: Use Boards
 title: Remove and Delete Boards
 description: Remove or Delete unused Boards from projects.
 permalink: guide/boards/remove-delete-boards/
