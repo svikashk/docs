@@ -1,11 +1,11 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 5
 has_children: false
 parent: Run Sprints
 title: Delete Sprints
 description: Learn how to delete a Sprint in Zepel.
-permalink: guide/sprints/sprint-archive/
+permalink: guide/sprints/sprint-delete/
 ---
 ## How to delete a Sprint
 {: .no_toc }

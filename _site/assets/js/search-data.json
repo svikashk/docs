@@ -374,8 +374,8 @@
     "id": "54",
     "title": "Delete Sprints",
     "content": "How to delete a Sprint From within the Sprint, click on the Settings icon from the top-right corner. From the dropdown, click on Delete. Deleting a Sprint will delete all of your Sprint reports along with it. But you can still view the items from whichever Feature they belong to or from the Project’s List. [IMG]",
-    "url": "http://localhost:4000/guide/sprints/sprint-archive/",
-    "relUrl": "/guide/sprints/sprint-archive/"
+    "url": "http://localhost:4000/guide/sprints/sprint-delete/",
+    "relUrl": "/guide/sprints/sprint-delete/"
   },
   "55": {
     "id": "55",
