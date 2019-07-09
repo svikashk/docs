@@ -31,12 +31,15 @@ An account is where all projects your company is working live. It is usually the
 {: .no_toc }
 - Click on the name of your Company's name on the top left corner.
 - From the drop down, select Account Settings.
+
+![Click on Account Settings from the Account dropdown](/assets/uploads/zepel-account-settings.png "Account Settings")
+
 - In the Account Settings pop-up, switch to Members tab.
 - In the text field, enter the email address of your team member and click Invite.
 
-By default, all projects in Zepel are private, till you specifically collaborate a project with another team member.
+![Click on Members tab in the Account Settings popup](/assets/uploads/zepel-members-tab.png "Account Members Tab")
 
-[IMG]
+By default, all projects in Zepel are private, till you specifically collaborate a project with another team member.
 
 ---
 
@@ -49,6 +52,6 @@ You can choose to collaborate members in a project, so you can assign pieces of 
 - Head over to the members tab inside your project.
 - In the text field, enter the email address of your team member and click Invite.
 
-If a member you are trying to collaborate is not part of the account already, they will automatically get added into your account.
+![Click on Members tab in the Project](/assets/uploads/zepel-project-members.png "Project Members Tab")
 
-[IMG]
+If a member you are trying to collaborate is not part of the account already, they will automatically get added into your account.

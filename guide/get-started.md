@@ -32,7 +32,7 @@ In this article we will take you through the top 3 tips, so you can quickly brin
 
 A Feature is a collection of users stories, tasks, subtasks, bugs, and enhancements. A project can have multiple features, so you can track everything that's happening in your project.
 
-[IMG]
+![All Features in Zepel](/assets/uploads/zepel-features.png "Zepel Features")
 
 And if you have miscellaneous work that are not part of a Feature, you can add them to your project's List.
 
@@ -47,7 +47,7 @@ Once you've created a Feature inside your project, start adding items, so you ca
 - To change an item's type, right click on the item and select which type you would like to change to.
 - Hit __[ Tab ]__ to turn any item into a Subtask.
 
-[IMG]
+![Items and its types in Zepel](/assets/uploads/zepel-items.png "Items in Zepel")
 
 _<b>Keyboard Shortcuts:</b>_
 
@@ -63,7 +63,7 @@ Building features is a cross team effort. And since each team has their own way 
 
 That way, when you bring in a designer to help design your new feature, or a QA team to test your completed feature, they can all work from within the Project with a workflow that suits their need. 
 
-[IMG]
+![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")
 
 [Learn more about Boards in Zepel]({{ site.url }}{% link guide/boards.md %})
 

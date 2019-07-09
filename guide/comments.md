@@ -32,9 +32,12 @@ You can add comment to any item within your Feature or on the Feature itself.
 To add a comment:
 - Hover on any item inside your Feature. 
 - Click on the ```Expand Item``` icon from the right side of an item.
+
+![Click on Expand Item icon](/assets/uploads/expand-item.png "Expand Item Icon")
+
 - On the bottom-right side in the pop-up, enter your comment in the text field and hit ```[ Enter ]```.
 
-[IMG]
+![Enter your comment](/assets/uploads/comments-field.png "Comment text field")
 
 ---
 
@@ -48,7 +51,7 @@ Upload attachments to any comment to add more context to your conversations.
 
 All file formats, except ```.svg``` are supported. And there is a maximum file size limit of ```25 MB``` per attachment.
 
-[IMG]
+![Upload attachments to your comment](/assets/uploads/comment-attachments.png "Add Attachments to Comments")
 
 ---
 
@@ -62,4 +65,4 @@ Get your team member's attention in a conversation by using ```@``` mention.
 
 An email will be sent to the member you've mentioned along with the comment text and attachment (if any). You can mention all members in the project by typing ```@all```.
 
-[IMG]
+![Type @ to mention members in your comment](/assets/uploads/comment-mentions.png "Mention teammates in Comments")

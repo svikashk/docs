@@ -15,9 +15,9 @@ Give detailed information to each item with Descriptions.
 
 The description area is where you will add detailed explanations, background information, and acceptance criteria to items in your project. Obviously, you would want to go beyond plain-text blurbs and format your descriptions with rich styling options. 
 
-With __Markdown Formatting__ in Zepel, you can style and organize your item descriptions with headings, lists, code blocks and more. To style your item descriptions follow the Markdown Syntax guide/ below:
+With __Markdown Formatting__ in Zepel, you can style and organize your item descriptions with headings, lists, code blocks and more. To style your item descriptions follow the Markdown Syntax guide below:
 
-[IMG]
+![Add description to every item in your feature](/assets/uploads/item-descriptions.png "Item Descriptions")
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }

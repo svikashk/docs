@@ -35,7 +35,7 @@ When assigned, your team mates will be notified via Slack (if you've integrated 
 - You will now see a list of members collaborated on your project. 
 - Select a member from the drop down suggestion to assign the task to them. 
 
-[IMG]
+![Type /a to assign to team members](/assets/uploads/zepel-assign-with-keyboard.gif "Assign using Keyboard")
 
 #### <u>Using Mouse</u>
 {: .no_toc }
@@ -43,8 +43,7 @@ When assigned, your team mates will be notified via Slack (if you've integrated 
 - Select the assignee icon from the item menu.
 - From the drop down suggestion, select a member to assign the task to them.
 
-
-[IMG]
+![Right click on an item to assign to team members](/assets/uploads/zepel-assign-with-mouse.gif "Assign using Mouse")
 
 __Did you know?:__ You can assign work items to multiple team members in Zepel.
 
@@ -62,7 +61,7 @@ When a specific work item is not yet completed on the due date, member assigned 
 - From the calendar drop down, select a date.
 - Alternatively, you can just type ```Today```, ```Tomorrow```, ```Yesterday```, ```Next Monday```, or the date.
 
-[IMG]
+![Type /d to set due dates to work items](/assets/uploads/zepel-due-date-with-keyboard.gif "Set Due Date using Keyboard")
 
 #### <u>Using Mouse</u>
 {: .no_toc }
@@ -70,7 +69,7 @@ When a specific work item is not yet completed on the due date, member assigned 
 - Select the calendar icon from the item menu.
 - From the drop down suggestion, select a date to set it as the item's due date.
 
-[IMG]
+![Right click on an item to set due dates to work items](/assets/uploads/zepel-due-date-with-mouse.gif "Set Due Date using Mouse")
 
 ---
 
@@ -78,7 +77,7 @@ When a specific work item is not yet completed on the due date, member assigned 
 
 Adding statuses to your work items help the entire team stay updated on your progress. 
 
-By default, all projects will have a Default Workflow with ```Todo```, ```In Progress```, ```Resolved```, and ```Done``` statuses. You can add a new Board in your project to match statuses with your workflow.
+By default, all projects will have a Default Board with ```Todo```, ```In Progress```, ```Resolved```, and ```Done``` statuses. You can add a new Board in your project to match statuses with your workflow.
 
 [Learn how to add Boards into your project ->]({{site.url}}{% link guide/boards.md %})
 
@@ -87,7 +86,7 @@ By default, all projects will have a Default Workflow with ```Todo```, ```In Pro
 - With the cursor on the item you want to update a status for, type ```/s```.
 - From the status drop down, select the status.
 
-[IMG]
+![Type /s to set statuses to work items](/assets/uploads/zepel-status-with-keyboard.gif "Set Status using Keyboard")
 
 #### <u>Using Mouse</u>
 {: .no_toc }
@@ -95,7 +94,7 @@ By default, all projects will have a Default Workflow with ```Todo```, ```In Pro
 - Select the flag icon from the item menu.
 - From the drop down suggestion, select a status to update the item's status.
 
-[IMG]
+![Right click on an item to set status to work items](/assets/uploads/zepel-status-with-mouse.gif "Set Status using Mouse")
 
 __Pro Tip:__ As team members move items from one status to another from their Board, you can see how an entire feature is shaping up from within your Feature.
 
@@ -112,7 +111,7 @@ Estimates in Zepel are measured in points. They are useful when you'd like to vi
 - With the cursor on the item you want to estimate, type ```/e```.
 - In the text field, enter a number between 0.01 and 1000.
 
-[IMG]
+![Type /e to set an estimate to work items](/assets/uploads/zepel-estimate-with-keyboard.gif "Set an Estimate using Keyboard")
 
 #### <u>Using Mouse</u>
 {: .no_toc }
@@ -120,7 +119,7 @@ Estimates in Zepel are measured in points. They are useful when you'd like to vi
 - Select timer icon from the item menu.
 - Enter a number between 0.01 and 1000 in the text field to estimate your item.
 
-[IMG]
+![Right click on an item to set an estimate to work items](/assets/uploads/zepel-estimate-with-mouse.gif "Set an Estimate using Mouse")
 
 ---
 

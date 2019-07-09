@@ -18,4 +18,4 @@ These work items can be added into your project's List and can be worked on eith
 
 Once a project is created, you will be taken into a List with your project's name. Like Features in Zepel, you can add user stories, tasks, subtasks, enhancements, bugs, and sections.
 
-[IMG]
+![Project's List in Zepel to add miscellaneous work items](/assets/uploads/zepel-list.png "Project's List in Zepel")

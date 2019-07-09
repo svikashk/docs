@@ -19,6 +19,6 @@ To upload an attachment to an item:
 - In the attachments area, click on ```Attach a file```.
 - Select a file you want to upload from the file selector.
 
-[GIF]
+![Add attachments to every item in your feature](/assets/uploads/item-attachments.png "Item Attachments")
 
 Alternatively, you can drag and drop a file into the attachments area.

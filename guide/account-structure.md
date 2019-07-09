@@ -36,7 +36,7 @@ An account is an overarching entity that owns all your projects and houses them 
 
 A project is where members of in your organization come together to achieve a common goal. Projects can be features your company is working on, or represent teams such as Design or Data Science. 
 
-[IMG]
+![All Projects in Zepel](/assets/uploads/zepel-projects.png "Zepel Projects")
 
 People collaborated in a project will be automatically added to the respective account as a Member if they aren't already part of that account.
 
@@ -48,7 +48,7 @@ People collaborated in a project will be automatically added to the respective a
 
 A Feature is a collection of actionable work that your team can plan, track, and execute. As your members across teams start to work on this feature, you can see how the entire Feature is progressing right from here.
 
-[IMG]
+![All Features in Zepel](/assets/uploads/zepel-features.png "Zepel Features")
 
 [Read more about Features ->]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
@@ -67,7 +67,7 @@ An item can be:
 - Enhancement
 - Section
 
-[IMG]
+![Items and its types in Zepel](/assets/uploads/zepel-items.png "Items in Zepel")
 
 The completion of all work items inside each Feature will determine your entire project's progress.
 
@@ -81,7 +81,7 @@ Boards in Zepel let you and your team track progress of your work items. A Board
 
 Since most projects require members from other teams to get involved, you can have multiple Boards in your project to accomodate each team's workflow.
 
-[IMG]
+![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")
 
 This allows members to track items across Features in a Board that fits their workflow.
 

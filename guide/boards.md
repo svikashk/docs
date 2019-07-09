@@ -16,4 +16,4 @@ Boards in Zepel give every team in your project a workflow tailor-made just for 
 
 Depending on your project and the workflows it requires, you can choose to create multiple Boards within your project to move work items across a workflow and keep your team updated on progress.
 
-[IMG]
+![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")

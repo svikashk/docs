@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 5
 has_children: false
 parent: Run Sprints
 title: Archive Sprints
@@ -9,6 +9,7 @@ permalink: guide/sprints/sprint-archive/
 ---
 ## How to archive a Sprint
 {: .no_toc }
+
 
 - From within the Sprint, click on the Settings icon from the top-right corner.
 - From the dropdown, click on Archive.
