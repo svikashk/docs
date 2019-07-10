@@ -357,6 +357,10 @@ td,
 th {
   padding: 0; }
 
+.mb-0 {
+  position: relative;
+  top: 600px; }
+
 .nav-button {
   color: #fff; }
 
@@ -1103,6 +1107,7 @@ li .highlight {
   border-bottom: 0;
   border-left: 0;
   order: 2;
+  font-size: 14px !important;
   font-size: 16px !important; }
   .search-input:focus {
     outline: 0;
