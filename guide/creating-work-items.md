@@ -59,4 +59,4 @@ __Keyboard Shortcuts:__
 - Add a Section to group similar items together by typing ```*``` at the beginning of an item.
 <br><br>
 
-Next we'll see how to add assignees, due dates, statuses, and estimate to your work items, so you can start tracking them.
+If you're not working on a feature, you can add your items inside the [project's List]({{site.url}}{% link guide/add-miscellaneous-items.md %}) and [add assignees, due dates, statuses, and estimate]({{site.url}}{% link guide/add-properties.md %}) to start tracking them.

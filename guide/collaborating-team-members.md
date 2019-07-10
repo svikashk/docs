@@ -55,3 +55,5 @@ You can choose to collaborate members in a project, so you can assign pieces of 
 ![Click on Members tab in the Project](/assets/uploads/zepel-project-members.png "Project Members Tab")
 
 If a member you are trying to collaborate is not part of the account already, they will automatically get added into your account.
+
+Next we'll see how to [add assignees, due dates, statuses, and estimate]({{site.url}}{% link guide/add-properties.md %}) to your work items, so you can start tracking them.
