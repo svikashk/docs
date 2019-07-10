@@ -14,18 +14,18 @@ permalink: guide/integrations/complete-items-with-github/
 Every time you close a pull request in Github, Zepel can automatically complete its respective task on Zepel so you don't have to switch back and forth. 
 
 * Once you've connected your Zepel account with your Github repository, head over to the task in your Zepel project.
-* Click on the task's "**Edit details**" icon.
+* Click on "**Expand Item**" icon.
 
-[IMG]
+![Expand Item Icon](/assets/uploads/expand-item.png "Expand Item Icon")
 
-* On the top-right corner of the task's details page, click on the "**Copy item link**".
+* On the top-right corner of the single item popup, click on the "**Copy item link**".
 
-[IMG]
+![Copy Item Link](/assets/uploads/zepel-copy-item-link.png "Copy Item Link")
 
 * Head over to your Github repository and create a new pull request.
 * In the pull request's description, paste the item's link.
 
-[IMG]
+![Github Webhook Events](/assets/uploads/zepel-github-link-in-description.png "Github Webhook Events")
 
 * Click "**Create pull request**"
 

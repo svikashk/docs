@@ -15,7 +15,7 @@ Comment on work items to ask questions, share information, or to provide extra i
 
 With comments, you can upload files and mention people to get their attention.
 
-[IMG]
+![Enter your comment](/assets/uploads/zepel-comments.png "Comment text field")
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }

@@ -19,6 +19,6 @@ To search for an item:
 
 You can search for text, assignee, status, or hashtags.
 
-[IMG]
+![Search for all items in that Feature](/assets/uploads/zepel-items-search.png "Search Feature items")
 
 If you are looking to group and filter your items based on multiple properties, [click here]({{ site.url }}{% link guide/advanced-filter.md %}).

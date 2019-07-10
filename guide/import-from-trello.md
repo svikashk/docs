@@ -16,23 +16,23 @@ Switching from Trello to Zepel will help your team not just track actionable ite
 
 * Access the account settings popup from the menu bar on the top left corner. 
 
-[IMG]
+![Click on Account Settings in Zepel](/assets/uploads/zepel-account-settings.png "Account Settings")
 
-* Navigate to the Import tab in the account settings popup. Click on the import from Trello button.
+* Navigate to the Import tab in the account settings popup. Click on **Import from Trello** button.
 
-[IMG]
+![Click on Import from Trello button](/assets/uploads/zepel-trello-import.png "Click on Import from Trello button")
 
 * Authorise Zepel to use your Trello Account. 
 
-[IMG]
+![Grant Zepel permission to access your projects](/assets/uploads/zepel-trello-permissions.png "Grant Permissions")
 
 * Once your Trello credentials have been verified, select the Boards you want to Import.
 
-[IMG]
+![Select Boards to import from Trello to Zepel](/assets/uploads/zepel-trello-projects.png "Select Boards")
 
 * Enter the email IDs of members in your Trello Boards. Note that emails of all members are required to prevent loss of data.
 
-[IMG]
+![Confirm email id of all members in your Boards Import](/assets/uploads/zepel-trello-email-confirmation.png "Confirm email")
 
 * Confirm that you have selected the correct boards and want to start the import.
 

@@ -16,26 +16,26 @@ Moving your Asana projects onto Zepel will give you the flexibility to manage yo
 
 * Access the account settings popup from the menu bar on the top left corner. 
 
-[IMG]
+![Click on Account Settings in Zepel](/assets/uploads/zepel-account-settings.png "Account Settings")
 
-* Navigate to the Import tab in the account settings popup. Click on the import from Asana button.
+* Navigate to the Import tab in the account settings popup. Click on **Import from Asana** button.
 
-[IMG]
+![Click on Import from Asana button](/assets/uploads/zepel-asana-import.png "Click on Import from Asana button")
 
 * Grant Zepel permission to Access your Asana Projects
 
-[IMG]
+![Grant Zepel permission to access your projects](/assets/uploads/zepel-asana-permissions.png "Grant Permission")
 
 * Select the Asana Workspace you wish to import projects from
 
-[IMG]
+![Select Asana Workspace](/assets/uploads/zepel-asana-workspace.png "Select Asana Workspace")
 
 * Select the Projects you wish to import.
 
-[IMG]
+![Select projects to import from Asana to Zepel](/assets/uploads/zepel-asana-projects.png "Select Projects")
 
 * Confirm that you have chosen the projects you want to update & start the import.
 
-[IMG]
+![Confirm Asana Import](/assets/uploads/zepel-asana-importing.png "Confirm Projects")
 
 Your Asana Projects should be imported into Zepel. This may take a few minutes based on the size of your projects. You will get an email once the import is complete.

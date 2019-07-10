@@ -18,8 +18,6 @@ You can get notified every time when:
 2. Other team members complete work items in a project you are collaborated in.
 3. Items get assigned to you.
 
-[IMG]
-
 ## Customizing desktop notifications
 
 - Download the desktop widget and login to your account.
@@ -29,5 +27,3 @@ You can get notified every time when:
 - From the dropdown, click on ```Notification Settings```.
 
 - From the ```Notification Settings``` pop-up, you can choose to enable or disable notifications.
-
----

@@ -31,6 +31,8 @@ Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users.
 
 - The App should now be accessible via the launchpad or the spotlight search.
 
+![Installing Desktop Widget in Mac](/assets/uploads/zepel-desktop-widget-mac.png "Zepel Desktop Widget")
+
 ---
 
 ## Installation guide for Windows users
@@ -47,6 +49,8 @@ Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users.
 
 - The widget should now install and open on completion.
 
+![Installing Desktop Widget in Windows](/assets/uploads/zepel-desktop-widget-windows.png "Zepel Desktop Widget")
+
 ---
 
 ## Installation guide for Ubuntu users
@@ -58,3 +62,5 @@ Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users.
 - In the permissions tab, select the checkbox “Allow executing file as program”. Close the properties window.
 
 - Open the file. It should install and autostart the widget. 
+
+![Installing Desktop Widget in Linux](/assets/uploads/zepel-desktop-widget-linux.jpeg "Zepel Desktop Widget")

@@ -14,7 +14,7 @@ permalink: guide/sprints/sprint-archive/
 - From within the Sprint, click on the Settings icon from the top-right corner.
 - From the dropdown, click on Archive.
 
-[IMG]
+![Archive a Sprint from Sprint Settings](/assets/uploads/zepel-sprints-archive.png "Archive Sprint")
 
 If your Sprint contains open items, you will be asked to remove them from the Sprint before you can archive your Sprint.
 
@@ -25,8 +25,11 @@ Once the Sprint is archived, you can access your archived sprints by clicking on
 ## How to unarchive a Sprint
 
 - From the project's sidebar, click on "Archived Sprints".
+
+![Access archived Sprint from sidebar](/assets/uploads/zepel-sprints-archived-sidebar.png "Archived Sprint")
+
 - From the pop-up, choose which Sprint you'd like to view.
 - Once inside the archived Sprint, click on the Settings icon from the top-right corner.
 - From the dropdown, click on Unarchive.
 
-[IMG]
+![Unarchive Sprints](/assets/uploads/zepel-sprints-unarchive.png "Unarchive Sprints")

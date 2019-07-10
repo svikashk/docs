@@ -16,7 +16,7 @@ View and work on just the items assigned to you across projects.
 
 With My Tasks, you can view, edit, update, and complete items assigned to you. 
 
-[IMG]
+![View tasks assigned to you from My Tasks](/assets/uploads/zepel-my-tasks.png "My Tasks")
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -27,6 +27,8 @@ With My Tasks, you can view, edit, update, and complete items assigned to you.
 ---
 
 Want to group items based on when they're due? Or have items grouped by their estimates? You can view all your items in any way you like by sorting and grouping them. 
+
+![Group and Sort tasks assigned to you in My Tasks](/assets/uploads/zepel-my-tasks-group-sort.png "Group and Sort")
 
 ## Sorting items
 
@@ -45,8 +47,6 @@ You can order items by:
 1. Ascending
 2. Descending
 
-[IMG]
-
 ---
 
 ## Group items
@@ -54,8 +54,6 @@ You can order items by:
 You can group items by:
 1. Features
 2. Due Date
-
-[IMG]
 
 ---
 

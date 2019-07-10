@@ -13,9 +13,12 @@ permalink: guide/sprints/create-sprint/
 To create a new Sprint,
 
 - From the project's sidebar, click on the __( + )__ button next to Sprints.
+
+![Sprints in Zepel](/assets/uploads/zepel-sprints-create.png "Sprints in Zepel")
+
 - Give your Sprint a name.
 - Click on Create.
 
-[IMG]
+![Sprints in Zepel](/assets/uploads/zepel-sprints-create-popup.png "Sprints in Zepel")
 
 Once the Sprint is created, [add items into your Sprint]({{ site.url }}{% link guide/add-sprint-items.md %}).

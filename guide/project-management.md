@@ -22,7 +22,7 @@ Creating a project is the first thing you'd be doing once you sign up for Zepel.
 
 A project in Zepel is usually a team, like Engineering. But if you choose to name your project after a product or an initative, such as iOS App or Android App, that works too!
 
-[IMG]
+![All Projects in Zepel](/assets/uploads/zepel-projects.png "Zepel Projects")
 
 While creating a project, you will be able to add one or more Boards into your project that you can use to move your work across Boards or statuses.
 
@@ -39,7 +39,8 @@ Each Feature can have:
 2. A duration to ensure the feature is built within a said timeline, and
 3. A status to keep everyone updated on progress
 
-[IMG]
+![At least one Feature must be created to view Progress in Zepel](/assets/uploads/zepel-progress-one-feature.png "Feature Progress with one Feature")
+
 
 [Learn more about organizing Features ->]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
@@ -67,7 +68,7 @@ All items in Zepel, except Sections, can have item properties:
 3. Due Date
 4. Estimate
 
-[IMG]
+![Items and its types in Zepel](/assets/uploads/zepel-items.png "Items in Zepel")
 
 You can [add item properties]({{ site.url }}{% link guide/add-properties.md %}) by typing ```/``` to trigger all commands. Alternatively, you can open up an item's details pop-up to set or change any of the properties.
 
@@ -85,7 +86,7 @@ Sure, you can add a generic status called "Design In Progress". But does it mean
 
 With Boards in Zepel, you can add multiple Boards in your project to accomodate each of your team's workflow, so everyone can collaborate and work together.
 
-[IMG]
+![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")
 
 All trackable items across Features can move from one status to another like a traditional kanban board **and** move from one Board to another. 
 
@@ -101,13 +102,13 @@ Sometimes you want to work distraction free. Without having to look at all the o
 
 Use My Tasks in Zepel to see just the items assigned to you across all Features in all projects. 
 
-[IMG]
+![View tasks assigned to you from My Tasks](/assets/uploads/zepel-my-tasks.png "My Tasks")
 
 With the Sort, you can choose to view items assigned to you just the way you'd like. Group and sort them by due dates, sort by estimates, based on which Feature they're in, and order them by ascending or descending.
 
 To make it even more easier, you can work on your items from the comfort of your desktop using Zepel's Desktop Widget. That way, you can complete and update your team with Zepel right next to your code editor, and not even open your browser.
 
-[IMG]
+![View tasks assigned to you using Desktop Widget](/assets/uploads/zepel-desktop-widget.png "Zepel Desktop Widget")
 
 [Learn more about Desktop Widget ->]({{site.url}}{% link guide/desktop-widget.md %})
 
@@ -119,7 +120,7 @@ As your team starts working on the feature, you don't just want to know who is w
 
 Progress is the command center for your project. You can see progress of your entire feature, know who is responsible for overseeing the completion of the it, its current status, and its duration.
 
-[IMG]
+![Track Feature Progress in Zepel](/assets/uploads/zepel-features.png "Feature Progress")
 
 With the capability to view all your Features in Kanban to make it easier for you prioritize your feature and Table view to quickly see a timeline of what's next, product managers and team leaders can quickly get a bird's eye view of what's happening in real-time.
 
@@ -133,4 +134,22 @@ As your project progresses, you'll want to keep an eye on the reports to quickly
 
 Head over to the Dashboard tab on your project to see a quick overview of how your project has progressed in the last 14 days.
 
-If you're running Sprints, you can view Burnup or Burndown chart for your specific sprint from the sprints menu.
+![Cumulative Reports in Zepel](/assets/uploads/zepel-cumulative-report.png "Cumulative Reports")
+
+If you're [running Sprints]({{site.url}}{% link guide/sprints.md %}), you can view Burnup or Burndown chart for your specific sprint from the sprints menu.
+
+[Learn more about Reports ->]({{site.url}}{% link guide/reports.md %})
+
+---
+
+Ready to manage projects effortlessly?
+{: .fs-6 .fw-300 }
+[Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=project-management){: .btn .btn-purple } 
+[See other use cases]({{site.url}}{% link guide/use-cases.md %}){: .btn }
+
+#### Further Reading
+- [How Product Managers use Zepel?]({{site.url}}{% link guide/product-manager.md %})
+- [How to prioritize features?]({{site.url}}{% link guide/prioritize-features.md %})
+- [How to build features together?]({{site.url}}{% link guide/build-together.md %})
+- [How to manage workload?]({{site.url}}{% link guide/manage-workload.md %})
+- [How Developers use Zepel to stay productive]({{site.url}}{% link guide/developers.md %})

@@ -13,9 +13,9 @@ has_children: true
 Go from task tracking to feature tracking.
 {: .fs-6 .fw-300 }
 
-Progress in Zepel lets you track features across teams, in real-time. 
+Progress in Zepel lets you track features across technical disciplines, in real-time. 
 
-[IMG]
+![Track Feature Progress in Zepel](/assets/uploads/zepel-features.png "Feature Progress")
 
 Building features requires you to work with members from different teams or departments. By adding Boards for every team involved in building your feature, you can see progress of user stories and tasks in different teams.
 

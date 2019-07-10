@@ -15,6 +15,8 @@ With a combination of filter and grouping, you can view your Feature just the wa
 
 Sometimes a simple search is not enough. What if you want to find items assigned to a developer that is due this week? With advanced filter and group, you can slice and dice your entire Feature to find just the item you are looking for.
 
+![Group and filter all items in a Feature](/assets/uploads/zepel-advanced-filters.png "Group and Filter Items")
+
 ## IN THIS PAGE
 {: .no_toc .text-delta }
 
@@ -34,8 +36,6 @@ All items except Sections can be filtered based on:
 6. __Items Under Sections:__ To view items under Sections.
 
 You can click and select a combination of all 6 filter options to view just a specific set of items.
-
-[IMG]
 
 ---
 

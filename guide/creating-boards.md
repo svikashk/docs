@@ -17,22 +17,24 @@ If you need to bring in your designer and marketer to help ship your new feature
 
 Boards in Zepel help your team get context of where things stand. Add a design board, dev board, and QA board all in one project, so your team can work with their own world view without losing context of the big picture and you see what exactly is happening in every team.
 
-[IMG]
+![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")
 
 ---
 
 ### <u>How to create a new board for a project in Zepel:</u>
 - When inside the project, from the sidebar, click on __( + )__ button next to Boards.
 
-[IMG]
+![Click + button to create Boards in Zepel](/assets/uploads/zepel-boards-create.png "Click + button to create Boards")
 
 - From the Add Board popup, you can choose to [reuse a Board from other projects]({{ site.url }}{% link guide/add-board-from-another-project.md %}). But if you want to create one, click on “__Or, create a new board__” from the bottom right corner.
 
-[IMG]
+![Add or create a new Board in Zepel](/assets/uploads/zepel-create-boards-popup.png "Add or create a new Board")
 
 - Give your board a name and click on “Create”.
 
-- Add statuses to your board by clicking on the Plus [ + ] icon.
+- Add statuses to your board by clicking on the Plus [ + ] icon to the left of your last status column.
+
+![Create new statuses in a Board](/assets/uploads/zepel-boards-create-new-statuses.png "Create new statuses in a Board")
 
 Once you’ve created boards, each item, irrespective of which Feature they're in, can use statuses from the boards you created for this project. 
 

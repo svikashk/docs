@@ -17,7 +17,7 @@ To search for projects:
 - Go to All Projects page.
 - Type the name of the project you are searching for on the search bar on the right side of your screen.
 
-[IMG]
+![Search for all Projects in Zepel](/assets/uploads/zepel-projects-search.png "Search all Projects")
 
 Projects matching (or partially matching) the text you entered in the search bar will be listed below.
 

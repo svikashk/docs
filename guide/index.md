@@ -12,8 +12,6 @@ permalink: /
 Best practices, tips, and tricks on how you can manage projects with Zepel.
 {: .fs-6 .fw-300 }
 
-If you are new to Zepel, we recommend you start with our Get Started guide. If you are looking to level up your project management game, consider exploring our help articles on Work with Teams.
-
 [Get Started]({{ site.url }}{% link guide/get-started.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Contact Support](https://github.com/svikashk/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -22,7 +20,7 @@ If you are new to Zepel, we recommend you start with our Get Started guide. If y
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/working-with-teams/">
+    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/">
     <h4><b>Using with Teams</b></h4> 
     <p>Learn how to use Zepel with teams</p> 
     </a>
@@ -34,8 +32,8 @@ If you are new to Zepel, we recommend you start with our Get Started guide. If y
 <div class="card">
   <div class="container">
     <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/">
-    <h4><b>Team Use Cases</b></h4> 
-    <p>Architect & Engineer</p> 
+    <h4><b>Sprints</b></h4> 
+    <p>Plan Sprints and ship features on time</p> 
     </a>
   </div>
 </div>
@@ -48,7 +46,7 @@ If you are new to Zepel, we recommend you start with our Get Started guide. If y
   <div class="container">
     <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/boards/">
     <h4><b>Boards</b></h4> 
-    <p>Learn how to use Zepel with teams</p> 
+    <p>Use Boards to move work using Kanban</p> 
     </a>
   </div>
 </div>

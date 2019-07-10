@@ -26,22 +26,22 @@ In this article, we'll see how you can set up your Zepel account to integrate wi
 
 * Click on the "**Enable**" button next to Bitbucket.
 
-[IMG]
+![Enable Bitbucket Integration](/assets/uploads/zepel-bitbucket-integration.png "Enable Bitbucket Integration")
 
 * Now, login to your Bitbucket account and visit the repository you want to connect with your Zepel account.
 * From your repository's settings, visit Webhooks tab.
 * Click on "Add webhook" button.
 
-[IMG]
+![Add Zepel Webhook to Bitbucket](/assets/uploads/zepel-bitbucket-integration-webhook.png "Add Bitbucket Webhook")
 
 * Copy the "**Webhook URL**" that is generated in your Zepel account and paste it in the "URL" field in Bitbucket.
 
-[IMG]
+![Add URL to Bitbucket Webhook](/assets/uploads/zepel-bitbucket-integration-webhooks.png "Bitbucket Webhooks")
 
 * Since Zepel integrates only with pull request closed event, under "**Triggers**", select "**Choose from a full list of triggers**".
 * Now, uncheck "**Push**" and select "**Merged**".
 
-[IMG]
+![Bitbucket Webhook Events](/assets/uploads/zepel-bitbucket-integration-webhook-events.png "Bitbucket Webhook Events")
 
 * Click "**Save**".
 

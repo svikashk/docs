@@ -14,7 +14,7 @@ Progress is built on items and Features, the actionable chunks of Zepel, so itâ€
 
 In order to start seeing progress of features, there should be _at least_ one [Feature created]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your project.
 
-[IMG]
+![At least one Feature must be created to view Progress in Zepel](/assets/uploads/zepel-progress-one-feature.png "Feature Progress with one Feature")
 
 Once you've created Features that your team will be working on, you can then set:
 

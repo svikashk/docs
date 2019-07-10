@@ -15,4 +15,4 @@ permalink: guide/sprints/sprint-delete/
 
 Deleting a Sprint will delete all of your Sprint reports along with it. But you can still view the items from whichever Feature they belong to or from the Project's List.
 
-[IMG]
+![Delete Sprints](/assets/uploads/zepel-sprints-delete.png "Delete Sprints")

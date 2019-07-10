@@ -16,15 +16,15 @@ Merge pull request in Bitbucket and Zepel can automatically complete its respect
 * Once you've connected your Zepel account with your Bitbucket repository, head over to the task in your Zepel project.
 * Click on the task's "**Edit details**" icon.
 
-[IMG]
+![Expand Item Icon](/assets/uploads/expand-item.png "Expand Item Icon")
 
 * On the top-right corner of the task's details page, click on the "**Copy item link**".
 
-[IMG]
+![Copy Item Link](/assets/uploads/zepel-copy-item-link.png "Copy Item Link")
 
 * Head over to your Bitbucket repository.
 * In the pull request's description, paste the item's link.
 
-[IMG]
+![Bitbucket Webhook Events](/assets/uploads/zepel-bitbucket-link-in-description.png "Bitbucket Webhook Events")
 
 When you close this pull request, its respective task in Zepel will automatically get completed. And if your team has Slack integration enabled, they'll automatically be notified too.

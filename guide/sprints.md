@@ -18,4 +18,4 @@ Sprints is helpful when you want to time box work and ship your feature in phase
 
 In Zepel, you can choose to add work items across Features into your Sprint. Or from your Project's List where you've added miscellaneous items.
 
-[IMG]
+![Sprints in Zepel](/assets/uploads/zepel-sprints.png "Sprints in Zepel")

@@ -17,6 +17,8 @@ Customizable views come in handy when you are trusted with multiple items that n
 
 For example, you can choose to view items assigned to you based on when they're due and have them sorted in ascending order. That way, you can concentrate on items that are due soon, and never miss another deadline.
 
+![Views in Desktop Widget](/assets/uploads/zepel-desktop-widget-views.png "Views in Desktop Widget")
+
 ## IN THIS PAGE
 {: .no_toc .text-delta }
 
@@ -32,8 +34,6 @@ You can sort items by:
 2. Estimates
 3. Due Date
 
-[IMG]
-
 ---
 
 ## Order items
@@ -42,8 +42,6 @@ You can order items by:
 1. Ascending
 2. Descending
 
-[IMG]
-
 ---
 
 ## Group items
@@ -51,5 +49,3 @@ You can order items by:
 You can group items by:
 1. Features
 2. Due Date
-
-[IMG]
