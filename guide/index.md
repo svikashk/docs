@@ -31,7 +31,7 @@ Best practices, tips, and tricks on how you can manage projects with Zepel.
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/">
+    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/sprints/">
     <h4><b>Sprints</b></h4> 
     <p>Plan Sprints and ship features on time</p> 
     </a>
