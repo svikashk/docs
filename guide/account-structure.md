@@ -79,10 +79,8 @@ The completion of all work items inside each Feature will determine your entire 
 
 Boards in Zepel let you and your team track progress of your work items. A Board ideally represents a workflow each item flows through. 
 
-Since most projects require members from other teams to get involved, you can have multiple Boards in your project to accomodate each team's workflow.
+Since most features require members from other disciplines to get involved, you can have multiple Boards in your project, so everyone can work just the way they want.
 
 ![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")
-
-This allows members to track items across Features in a Board that fits their workflow.
 
 [Read more about Boards ->]({{ site.url }}{% link guide/boards.md %})

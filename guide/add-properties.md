@@ -83,10 +83,10 @@ By default, all projects will have a Default Board with ```Todo```, ```In Progre
 
 #### <u>Using Keyboard</u>
 {: .no_toc }
-- With the cursor on the item you want to update a status for, type ```/s```.
-- From the status drop down, select the status.
+- With the cursor on the item you want to update a status for, type ```/b``` to push the work item to a specific Board.
+- From the drop down, select the status.
 
-![Type /s to set statuses to work items](/assets/uploads/zepel-status-with-keyboard.gif "Set Status using Keyboard")
+![Type /b to set statuses to work items](/assets/uploads/zepel-status-with-keyboard.gif "Set Status using Keyboard")
 
 #### <u>Using Mouse</u>
 {: .no_toc }

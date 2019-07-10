@@ -20,7 +20,20 @@
 // Import custom overrides
 //
 
+.nav-button {
+  color: #fff;
+}
 
+.my-0 {
+  text-transform: uppercase;
+  font-weight: 400;
+  background-color: #556cd6;
+  height: 24px;
+  line-height: 24px;
+  padding: 1px 8px 0;
+  font-size: 12px;
+  border-radius: 4px;
+}
 
 .row {
   width: 100%;

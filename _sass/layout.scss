@@ -135,7 +135,8 @@ body {
 // stylelint-enable selector-max-type
 
 .site-footer {
-  position: absolute;
+  position: relative;
+  top: 750px;
   bottom: 0;
   padding-top: $sp-4;
   padding-bottom: $sp-4;
