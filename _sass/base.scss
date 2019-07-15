@@ -55,11 +55,16 @@ h1 {
   line-height: $body-heading-line-height;
 }
 
-h4 {
+h2 {
   color: #5a5ac3;
+  font-size: 21px;
+  letter-spacing: 0.4px;
 }
 
-h2,
+h4 {
+  color: #54636b;
+}
+
 h3,
 h4,
 h5,
@@ -95,7 +100,6 @@ a:not([class]) {
   background-size: 1px 1px;
 
   &:hover {
-    background-image: linear-gradient(rgba($link-color, 0.45) 0%, rgba($link-color, 0.45) 100%);
     background-size: 1px 1px;
 
   }

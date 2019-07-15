@@ -84,7 +84,7 @@ As you add more features to your project, use the Table view or the Kanban view 
 
 ---
 
-Ready to plan and prioritize features effortlessly.
+Ready to plan and prioritize features effortlessly?
 {: .fs-6 .fw-300 }
 [Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=build-together){: .btn .btn-purple } 
 [See other use cases]({{site.url}}{% link guide/use-cases.md %}){: .btn }

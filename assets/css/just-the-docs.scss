@@ -20,6 +20,10 @@
 // Import custom overrides
 //
 
+.card-title {
+  color: #5a5ac3;
+}
+
 .site-footer {
   position: relative;
   top: 600px;
@@ -33,9 +37,9 @@
   text-transform: uppercase;
   font-weight: 400;
   background-color: #7253ed;
-  height: 24px;
+  height: 28px;
   line-height: 24px;
-  padding: 1px 8px 0;
+  padding: 2px 8px 0;
   font-size: 12px;
   border-radius: 4px;
 }
