@@ -437,7 +437,7 @@ html {
       font-size: 16px !important; } }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
   font-size: inherit;
   line-height: 1.4;
   color: #5c5962;
@@ -464,13 +464,23 @@ noscript,
 table {
   margin-top: 0; }
 
-h1,
+h1 {
+  color: #474258;
+  font-weight: 700;
+  font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
+  margin-top: 1.2em;
+  margin-bottom: 0.8em;
+  line-height: 1.15; }
+
+h4 {
+  color: #5a5ac3; }
+
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
   margin-top: 1.2em;
   margin-bottom: 0.8em;
   font-weight: 500;
@@ -478,15 +488,17 @@ h6 {
   color: #27262b; }
 
 p {
-  color: #607d8b;
-  font-family: 'Lato', sans-serif;
+  color: #424f56;
+  font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
   margin-bottom: 1em;
   font-size: 18px;
   font-weight: 400;
-  line-height: 32px; }
+  line-height: 32px;
+  letter-spacing: .4px; }
 
 a {
-  color: #7253ed;
+  color: #47476f;
+  font-weight: 500;
   text-decoration: none; }
 
 a:not([class]) {
@@ -508,12 +520,13 @@ figure {
   margin: 0; }
 
 li {
-  color: #607d8b;
+  color: #424f56;
   margin: 0.25em 0; }
 
 img {
   max-width: 100%;
-  height: auto; }
+  height: auto;
+  box-shadow: 0px 2px 12px -4px rgba(0, 0, 0, 0.4); }
 
 hr {
   height: 1px;
@@ -736,17 +749,17 @@ body {
 .sidebar-icon {
   height: auto;
   position: relative;
-  top: 20px;
-  max-width: 24px;
-  max-height: 24px;
-  left: -30px; }
+  top: 27px;
+  max-width: 18px;
+  left: -34px;
+  box-shadow: none; }
 
 .navigation-list {
-  padding: 0;
+  padding-top: 8px;
+  padding-bottom: 8px;
   margin-top: 1rem;
   margin-bottom: 0;
-  list-style: none;
-  line-height: 0.9; }
+  list-style: none; }
   @media (min-width: 46.25rem) {
     .navigation-list {
       margin-top: 0; } }
@@ -791,7 +804,7 @@ body {
   padding-bottom: 0.25rem; }
   .navigation-list-link.active {
     font-weight: 600;
-    color: #27262b;
+    color: #6161ce;
     text-decoration: none; }
 
 .main-nav,
@@ -840,9 +853,9 @@ body {
 
 h1,
 .text-alpha {
-  color: #512fc9;
+  color: #474258;
   font-size: 32px !important;
-  font-weight: 300; }
+  font-weight: 700; }
   @media (min-width: 31.25rem) {
     h1,
     .text-alpha {
@@ -868,7 +881,7 @@ h3,
 
 h4,
 .text-delta {
-  color: #512fc9;
+  color: #5a5ac3;
   font-size: 11px !important;
   font-weight: 300;
   text-transform: uppercase;

@@ -2,7 +2,7 @@
 layout: default
 title: Track Feature Progress
 nav_order: 7
-icon_path: /assets/uploads/zepel-boards.png
+icon_path: /assets/uploads/progress.svg
 description: Track feature progress in Zepel to know how your every team is performing and plan your next steps
 permalink: guide/track-progress/
 has_children: true

@@ -2,7 +2,7 @@
 layout: default
 title: Use Boards
 nav_order: 5
-icon_path: /assets/uploads/zepel-boards.png
+icon_path: /assets/uploads/boards.svg
 description: "Boards in Zepel is more than just a Kanban. Learn how you can use Boards to keep track of progress across teams within a project."
 has_children: true
 permalink: guide/boards/

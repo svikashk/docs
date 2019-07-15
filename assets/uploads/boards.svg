@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>twotone-view_week-24px (3)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1646.000000, -915.000000)">
+            <g id="twotone-view_week-24px-(3)" transform="translate(1644.000000, 911.000000)">
+                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M21,4 L3,4 C2.45,4 2,4.45 2,5 L2,19 C2,19.55 2.45,20 3,20 L21,20 C21.55,20 22,19.55 22,19 L22,5 C22,4.45 21.55,4 21,4 Z M8,18 L4,18 L4,6 L8,6 L8,18 Z M14,18 L10,18 L10,6 L14,6 L14,18 Z M20,18 L16,18 L16,6 L20,6 L20,18 Z" id="Shape" fill="#5D5D78" fill-rule="nonzero"></path>
+                <path d="M10,6 L14,6 L14,18 L10,18 L10,6 Z M16,6 L20,6 L20,18 L16,18 L16,6 Z M4,6 L8,6 L8,18 L4,18 L4,6 Z" id="Shape" fill="#5D5D78" fill-rule="nonzero" opacity="0.3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

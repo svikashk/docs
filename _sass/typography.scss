@@ -7,9 +7,9 @@
 
 h1,
 .text-alpha {
-  color: #512fc9;
+  color: #474258;
   @include fs-8;
-  font-weight: 300;
+  font-weight: 700;
 }
 
 h2,
@@ -26,7 +26,7 @@ h3,
 
 h4,
 .text-delta {
-  color: #512fc9;
+  color: #5a5ac3;
   @include fs-2;
   font-weight: 300;
   text-transform: uppercase;

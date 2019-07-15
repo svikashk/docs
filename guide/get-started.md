@@ -2,7 +2,7 @@
 layout: default
 title: Get Started
 nav_order: 3
-icon_path: /assets/uploads/zepel-boards.png
+icon_path: /assets/uploads/getting-started.svg
 description: "Everything you need to know about getting started with your new Zepel account"
 has_children: true
 permalink: guide/get-started/

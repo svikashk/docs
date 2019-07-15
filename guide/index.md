@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-icon_path: /assets/uploads/zepel-boards.png
+icon_path: /assets/uploads/home.svg
 description: "Everything you need to know about using Zepel with your team"
 permalink: /
 ---
@@ -23,7 +23,7 @@ Best practices, tips, and tricks on how you can manage projects with Zepel.
   <div class="container">
     <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/">
     <h4><b>Using with Teams</b></h4> 
-    <p>Learn how to use Zepel with teams</p> 
+    <p>Learn how to use Zepel with your team</p> 
     </a>
   </div>
 </div>

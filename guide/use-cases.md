@@ -2,7 +2,7 @@
 layout: default
 title: Use Cases
 nav_order: 15
-icon_path: /assets/uploads/zepel-boards.png
+icon_path: /assets/uploads/use-cases.svg
 description: "All the different ways you can use Zepel to manage your project and ship new features."
 permalink: guide/use-cases/
 ---
