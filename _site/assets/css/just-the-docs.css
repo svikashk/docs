@@ -497,13 +497,12 @@ p {
   letter-spacing: .4px; }
 
 a {
-  color: #47476f;
+  color: #6161ce;
   font-weight: 500;
   text-decoration: none; }
 
 a:not([class]) {
   text-decoration: none;
-  background-image: linear-gradient(#eeebee 0%, #eeebee 100%);
   background-repeat: repeat-x;
   background-position: 0 100%;
   background-size: 1px 1px; }
@@ -749,7 +748,7 @@ body {
 .sidebar-icon {
   height: auto;
   position: relative;
-  top: 27px;
+  top: 26px;
   max-width: 18px;
   left: -34px;
   box-shadow: none; }
@@ -800,6 +799,7 @@ body {
 
 .navigation-list-link {
   display: block;
+  color: #47476f;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem; }
   .navigation-list-link.active {
