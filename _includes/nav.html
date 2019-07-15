@@ -8,6 +8,9 @@
             {% if page.parent == node.title or page.grand_parent == node.title %}
               {% assign first_level_url = node.url | absolute_url %}
             {% endif %}
+            {% if node.icon_path %}
+              <img src="{{ node.icon_path | absolute_url }}" class="sidebar-icon">
+            {% endif %}
             <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
             {% if node.has_children %}
               {% assign children_list = site.html_pages | sort:"nav_order" %}

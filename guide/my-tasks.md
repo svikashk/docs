@@ -2,6 +2,7 @@
 layout: default
 title: My Tasks
 nav_order: 9
+icon_path: /assets/uploads/zepel-boards.png
 description: View, edit, and update your work right from your desktop using Zepel's Desktop Widget.
 has_children: false
 permalink: guide/my-tasks/

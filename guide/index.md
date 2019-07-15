@@ -2,6 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
+icon_path: /assets/uploads/zepel-boards.png
 description: "Everything you need to know about using Zepel with your team"
 permalink: /
 ---

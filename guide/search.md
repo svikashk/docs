@@ -2,6 +2,7 @@
 layout: default
 title: Search
 nav_order: 8
+icon_path: /assets/uploads/zepel-boards.png
 description: "Learn how you can search and find any Project or Item you are working on in Zepel"
 has_children: true
 permalink: guide/search/

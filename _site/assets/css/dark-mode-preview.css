@@ -667,11 +667,20 @@ body {
       padding-top: 1rem;
       border-bottom: 1px solid #44434d; } }
 
+.sidebar-icon {
+  height: auto;
+  position: relative;
+  top: 20px;
+  max-width: 24px;
+  max-height: 24px;
+  left: -30px; }
+
 .navigation-list {
   padding: 0;
   margin-top: 1rem;
   margin-bottom: 0;
-  list-style: none; }
+  list-style: none;
+  line-height: 0.9; }
   @media (min-width: 46.25rem) {
     .navigation-list {
       margin-top: 0; } }

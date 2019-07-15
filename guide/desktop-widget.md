@@ -2,6 +2,7 @@
 layout: default
 title: Desktop Widget
 nav_order: 10
+icon_path: /assets/uploads/zepel-boards.png
 description: View, edit, and update your work right from your desktop using Zepel's Desktop Widget.
 has_children: true
 permalink: guide/desktop-widget/

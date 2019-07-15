@@ -2,6 +2,7 @@
 layout: default
 title: Reports
 nav_order: 11
+icon_path: /assets/uploads/zepel-boards.png
 description: Get a cumulative chart of your entire project or view burnup and burndown charts of your Sprint.
 has_children: false
 permalink: guide/reports/

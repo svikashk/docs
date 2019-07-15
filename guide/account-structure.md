@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_order: 2
+icon_path: /assets/uploads/zepel-boards.png
 title: Account Structure
 description: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
 permalink: guide/account-structure/

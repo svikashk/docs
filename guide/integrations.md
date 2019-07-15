@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Integrations
-nav_order: 12
+nav_order: 13
+icon_path: /assets/uploads/zepel-boards.png
 description: All the different ways you can use Zepel to manage your project and ship new features.
 permalink: guide/integrations/
 has_children: true

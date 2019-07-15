@@ -2,6 +2,7 @@
 layout: default
 title: Work with Teams
 nav_order: 4
+icon_path: /assets/uploads/zepel-boards.png
 description: "Learn how to collaborate and work with team members in Zepel. Use multiple Boards, run Sprints, and have discussions."
 has_children: true
 permalink: guide/working-with-teams/

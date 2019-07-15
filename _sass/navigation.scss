@@ -19,11 +19,21 @@
   }
 }
 
+.sidebar-icon {
+  height: auto;
+  position: relative;
+  top: 20px;
+  max-width: 24px;
+  max-height: 24px;
+  left: -30px;
+}
+
 .navigation-list {
   padding: 0;
   margin-top: $sp-4;
   margin-bottom: 0;
   list-style: none;
+  line-height: 0.9;
 
   @include mq(md) {
     margin-top: 0;

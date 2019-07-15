@@ -2,6 +2,7 @@
 layout: default
 title: Run Sprints
 nav_order: 6
+icon_path: /assets/uploads/zepel-boards.png
 description: "Run Sprints across Features your team is working on in Zepel."
 has_children: true
 permalink: guide/sprints/
