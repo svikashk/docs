@@ -22,14 +22,14 @@
 .sidebar-icon {
   height: auto;
   position: relative;
-  top: 26px;
+  top: 24px;
   max-width: 17px;
   left: -34px;
   box-shadow: none;
 }
 
 .navigation-list {
-  padding-top: 8px;
+  padding-top: 0px;
   padding-bottom: 8px;
   margin-top: $sp-4;
   margin-bottom: 0;
@@ -89,8 +89,8 @@
 .navigation-list-link {
   display: block;
   color: #47476f;
-  padding-top: $sp-1;
-  padding-bottom: $sp-1;
+  padding-top: 2px;
+  padding-bottom: 2px;
 
   &.active {
     font-weight: 600;
