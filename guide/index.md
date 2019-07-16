@@ -21,7 +21,7 @@ Best practices, tips, and tricks on how you can manage projects with Zepel.
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/">
+    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/">
     <h4 class="card-title"><b>Using with Teams</b></h4> 
     <p>Learn how to use Zepel with your team</p> 
     </a>
@@ -32,7 +32,7 @@ Best practices, tips, and tricks on how you can manage projects with Zepel.
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/sprints/">
+    <a href="{{ site.url }}{{ site.baseurl }}/sprints/">
     <h4 class="card-title"><b>Sprints</b></h4> 
     <p>Plan Sprints and ship features on time</p> 
     </a>
@@ -45,7 +45,7 @@ Best practices, tips, and tricks on how you can manage projects with Zepel.
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/boards/">
+    <a href="{{ site.url }}{{ site.baseurl }}/boards/">
     <h4 class="card-title"><b>Boards</b></h4> 
     <p>Use Boards to move work using Kanban</p> 
     </a>

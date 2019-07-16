@@ -22,7 +22,7 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/project-management/">
+                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/project-management/">
                     <h4 class="card-title"><b>Project Management</b></h4> 
                     <p>Learn how you can manage your project from start to finish in Zepel.</p> 
                     </a>
@@ -32,7 +32,7 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/build-features/">
+                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/build-features/">
                     <h4 class="card-title"><b>Build Features Together</b></h4> 
                     <p>Work together with Developers, Designers, and QA team.</p> 
                     </a>
@@ -44,7 +44,7 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/prioritize-features/">
+                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/prioritize-features/">
                     <h4 class="card-title"><b>Prioritize Features</b></h4> 
                     <p>Product managers use Zepel to plan and prioritize their next features.</p> 
                     </a>
@@ -54,7 +54,7 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/manage-workload/">
+                <a href="{{ site.url }}{{ site.baseurl }}/use-cases/manage-workload/">
                 <h4 class="card-title"><b>Manage Workload</b></h4> 
                 <p>Track what each member is working on and manage their workload.</p> 
                 </a>
@@ -68,7 +68,7 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/product-managers/">
+                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/product-managers/">
                     <h4 class="card-title"><b>Product Manager</b></h4> 
                     <p>Plan new features, get estimates, prioritize, and track its progress.</p> 
                     </a>
@@ -78,7 +78,7 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                    <a href="https://tender-mcnulty-44e8e0.netlify.com/guide/use-cases/developers/">
+                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/developers/">
                     <h4 class="card-title"><b>Developer</b></h4> 
                     <p>Track items you care about, complete them, and beat deadlines.</p> 
                     </a>
