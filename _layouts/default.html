@@ -75,5 +75,14 @@
       </div>
     </div>
   </div>
+  {% if site.add-tag-manager == true %}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id={{ site.ga_tracking }}"
+        height="0" width="0" style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+  {% endif %}
 </body>
 </html>
