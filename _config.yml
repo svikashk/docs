@@ -20,7 +20,7 @@ url: "https://tender-mcnulty-44e8e0.netlify.com" # the base hostname & protocol 
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
-# include: ["_redirects"]
+include: ["_redirects"]
 
 # Enable or disable the site search
 search_enabled: true
