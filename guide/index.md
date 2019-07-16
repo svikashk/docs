@@ -13,7 +13,7 @@ permalink: /
 Best practices, tips, and tricks on how you can manage projects with Zepel.
 {: .fs-6 .fw-300 }
 
-[Get Started]({{ site.url }}{{ site.baseurl }}{% link guide/get-started.md %}){: .btn .btn-index .fs-5 .mb-4 .mb-md-0 .mr-2 } <a id="support" href="help@zepel.io">Contact Support</a>{: .btn-index-new .fs-5 .mb-4 .mb-md-0 }
+[Get Started]({{ site.url }}{{ site.baseurl }}{% link guide/get-started.md %}){: .btn .btn-index .fs-5 .mb-4 .mb-md-0 .mr-2 } <a id="support" href="">Contact Support</a>{: .btn-index-new .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

@@ -3,7 +3,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
 {% include head.html %}
 <body>
-
   <div class="page-wrap">
     <div class="side-bar">
       <a href="{{ site.url }}{{ site.baseurl }}" class="site-title fs-6 lh-tight">{{ site.title }}</a>
@@ -76,29 +75,5 @@
       </div>
     </div>
   </div>
-  <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>
-  <script>
-
-    window.intercomSettings = {
-      email: "HELP@YOUR-APP.COM",
-      name: "John Doe",
-      user_id: "123",
-      created_at: 1234567890,
-      app_id: "jycxm5qz"
-      custom_launcher_selector: '#support'
-    };
-  </script>
-  
-  <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/jycxm5qz';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
 </body>
 </html>
