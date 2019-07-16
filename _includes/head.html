@@ -2,6 +2,10 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
+  {% if site.dont-allow-tracking == true %}
+    <meta name="robots" content="noindex">
+  {% endif %}
+
   {% if site.plugins.jekyll-seo == nil %}
     <title>{{ page.title }} - {{ site.title }}</title>
 
@@ -16,21 +20,21 @@
 
   <link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | absolute_url }}">
 
-  {% if site.ga_tracking != nil %}
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', '{{ site.ga_tracking }}', '{{ site.url }}');
-      ga('send', 'pageview');
-    </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-  {% endif %}
-
   {% if site.search_enabled != nil %}
     <script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
   {% endif %}
   <script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}"></script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if site.add-tag-manager == true %}
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','{{ site.ga_tracking }}');</script>
+    <!-- End Google Tag Manager -->
+  {% endif %}
 
-{% seo %}
+  {% seo %}
 </head>
