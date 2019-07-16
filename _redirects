@@ -1,1 +1,2 @@
 /guide/assets/*              /assets/:splat
+/guide/*                     /:splat
