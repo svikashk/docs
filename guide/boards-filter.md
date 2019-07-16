@@ -5,7 +5,7 @@ has_children: false
 parent: Use Boards
 title: Filtering Boards
 description: Filter your Boards to see where each item stands and who is working on what to manage workload
-permalink: guide/boards/filter-boards/
+permalink: boards/filter-boards/
 ---
 # Filtering Boards
 {: .no_toc }
@@ -29,19 +29,19 @@ You can filter Project Boards by:
 
 You can choose to mix a combination of the filters to view your Board and manage your project. 
 
-For example, you can see [manage your team's workload]({{ site.url }}{% link guide/manage-workload.md %}) by filtering by assignees and see if you can relieve some work off them.
+For example, you can see [manage your team's workload]({{ site.url }}{{ site.baseurl }}{% link guide/manage-workload.md %}) by filtering by assignees and see if you can relieve some work off them.
 
 Or you want to see what's happening in the Dev Board and see items from a Feature called Search, you can go to Dev Board and filter to view items from just that Feature. Alternatively you can just visit that particular Feature (Search feature in this case) and click on the Dev Board to view only the items from that Feature.
 
-You can read more about the differences between Feature Board and a Project Board [over here]({{ site.url }}{% link guide/feature-project-board.md %}).
+You can read more about the differences between Feature Board and a Project Board [over here]({{ site.url }}{{ site.baseurl }}{% link guide/feature-project-board.md %}).
 
 ## To Filter a Board
 - Click on the Board's name from the project's sidebar.
 - Once inside the Board, click on the __Add Filter__ button.
 
-![Add Filters button inside a Board](/assets/uploads/zepel-boards-add-filters-button.png "Click on Add Filters button")
+![Add Filters button inside a Board](/guide/assets/uploads/zepel-boards-add-filters-button.png "Click on Add Filters button")
 
 - From the filters sidebar, click and choose properties you want to filter your Board by.
 - As you select, you will see the changes reflect on your Board.
 
-![Filters panel inside a Board in Zepel](/assets/uploads/zepel-boards-filters.png "Board's Filter panel")
+![Filters panel inside a Board in Zepel](/guide/assets/uploads/zepel-boards-filters.png "Board's Filter panel")

@@ -5,7 +5,7 @@ has_children: false
 parent: Desktop Widget
 title: Views
 description: View your work items just the way you want with Zepel's desktop widget.
-permalink: guide/desktop-widget/views/
+permalink: desktop-widget/views/
 ---
 # Customize how you view items assigned to you
 {: .no_toc }
@@ -17,7 +17,7 @@ Customizable views come in handy when you are trusted with multiple items that n
 
 For example, you can choose to view items assigned to you based on when they're due and have them sorted in ascending order. That way, you can concentrate on items that are due soon, and never miss another deadline.
 
-![Views in Desktop Widget](/assets/uploads/zepel-desktop-widget-views.png "Views in Desktop Widget")
+![Views in Desktop Widget](/guide/assets/uploads/zepel-desktop-widget-views.png "Views in Desktop Widget")
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }

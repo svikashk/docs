@@ -5,7 +5,7 @@ has_children: false
 parent: Desktop Widget
 title: Desktop Notifications
 description: Customize desktop notifications to meet your needs with Zepel's Desktop Widget.
-permalink: guide/desktop-widget/notifications/
+permalink: desktop-widget/notifications/
 ---
 # Desktop notifications and settings
 {: .no_toc }

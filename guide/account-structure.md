@@ -4,7 +4,7 @@ nav_order: 2
 icon_path: /assets/uploads/accounts.svg
 title: Account Structure
 description: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
-permalink: guide/account-structure/
+permalink: account-structure/
 ---
 # How your Zepel account is structured 
 {: .no_toc }
@@ -37,11 +37,11 @@ An account is an overarching entity that owns all your projects and houses them 
 
 A project is where members of in your organization come together to achieve a common goal. Projects can be features your company is working on, or represent teams such as Design or Data Science. 
 
-![All Projects in Zepel](/assets/uploads/zepel-projects.png "Zepel Projects")
+![All Projects in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Projects")
 
 People collaborated in a project will be automatically added to the respective account as a Member if they aren't already part of that account.
 
-[Read more about Projects ->]({{ site.url }}{% link guide/creating-your-first-project.md %})
+[Read more about Projects ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
 
 ---
 
@@ -49,9 +49,9 @@ People collaborated in a project will be automatically added to the respective a
 
 A Feature is a collection of actionable work that your team can plan, track, and execute. As your members across teams start to work on this feature, you can see how the entire Feature is progressing right from here.
 
-![All Features in Zepel](/assets/uploads/zepel-features.png "Zepel Features")
+![All Features in Zepel](/guide/assets/uploads/zepel-features.png "Zepel Features")
 
-[Read more about Features ->]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
+[Read more about Features ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
 ---
 
@@ -68,11 +68,11 @@ An item can be:
 - Enhancement
 - Section
 
-![Items and its types in Zepel](/assets/uploads/zepel-items.png "Items in Zepel")
+![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
 The completion of all work items inside each Feature will determine your entire project's progress.
 
-[Read more about creating work items ->]({{ site.url }}{% link guide/creating-work-items.md %})
+[Read more about creating work items ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %})
 
 ---
 
@@ -82,6 +82,6 @@ Boards in Zepel let you and your team track progress of your work items. A Board
 
 Since most features require members from other disciplines to get involved, you can have multiple Boards in your project, so everyone can work just the way they want.
 
-![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")
+![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")
 
-[Read more about Boards ->]({{ site.url }}{% link guide/boards.md %})
+[Read more about Boards ->]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})

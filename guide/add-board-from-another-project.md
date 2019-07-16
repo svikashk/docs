@@ -5,7 +5,7 @@ has_children: false
 parent: Using Boards
 title: Reuse a Board from another Project
 description: Learn how to create Boards within a project and track progress.
-permalink: guide/boards/add-existing-board/
+permalink: boards/add-existing-board/
 ---
 # Reuse a Board from another Project
 {: .no_toc }

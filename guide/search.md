@@ -5,7 +5,7 @@ nav_order: 8
 icon_path: /assets/uploads/search.svg
 description: "Learn how you can search and find any Project or Item you are working on in Zepel"
 has_children: true
-permalink: guide/search/
+permalink: search/
 has_toc: true
 ---
 

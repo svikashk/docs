@@ -3,7 +3,7 @@ layout: default
 nav_order: 2
 title: Build Features Together on Zepel
 description: Learn how to work with Developers, Designers, and QA members together on Zepel.
-permalink: guide/use-cases/build-features/
+permalink: use-cases/build-features/
 nav_exclude: true
 ---
 # Build Features Together
@@ -24,7 +24,7 @@ In this article, we'll see you how you can bring in members from every team toge
 
 Give your project a name. Most projects in Zepel are named after a team, like Engineering. But if you prefer naming your project after an open ended product like Web App or Mobile, that works well too! 
 
-![All Projects in Zepel](/assets/uploads/zepel-projects.png "Zepel Projects")
+![All Projects in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Projects")
 
 When creating a project, you'll be asked to add Boards that teams can use to track and manage their work.
 
@@ -34,9 +34,9 @@ When creating a project, you'll be asked to add Boards that teams can use to tra
 
 Once you've created a project, its time create Features. Features in Zepel is a collection of actionable items - user stories, tasks, subtasks, bugs, and enhancements - that can be tracked and executed. 
 
-![At least one Feature must be created to view Progress in Zepel](/assets/uploads/zepel-progress-one-feature.png "Feature Progress with one Feature")
+![At least one Feature must be created to view Progress in Zepel](/guide/assets/uploads/zepel-progress-one-feature.png "Feature Progress with one Feature")
 
-[Learn more about organizing Features ->]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
+[Learn more about organizing Features ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
 ---
 
@@ -46,7 +46,7 @@ To start tracking your feature, [add items]({{site.url}}{% link guide/creating-w
 
 Use Sections to organize your Feature. [Add assignees and due dates]({{site.url}}{% link guide/add-properties.md %}) to delegate work to team members. That way, everyone knows who is working on what and help you ship your feature faster.
 
-![Items and its types in Zepel](/assets/uploads/zepel-items.png "Items in Zepel")
+![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
 __NOTE:__ Sometimes, you'll find you need to work on items that don't belong to a specific feature. Product wide tech debts or bugs. You can quickly add them into your [project's List]({{site.url}}{% link guide/add-miscellaneous-items.md %}).
 
@@ -62,7 +62,7 @@ Once you've created a Items inside your Feature, its time to add a Board for eve
 
 With a Board tailor-made for every team, each member can work just the way they want without settling for a generic "In Progress" status. 
 
-![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")
+![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")
 
 Your designer would move their work in Design Board. And once your desiger is ready with design, your front-end developer can pick it up from Design Board and start moving it across his Development Board.
 
@@ -76,7 +76,7 @@ Zepel fits the way your team works. Whether you decide to use Sprints or Kanban 
 
 Want to run a Sprint? Simply create one, add Sprint items, and delegate work.
 
-![Sprints in Zepel](/assets/uploads/zepel-sprints.png "Sprints in Zepel")
+![Sprints in Zepel](/guide/assets/uploads/zepel-sprints.png "Sprints in Zepel")
 
 If you prefer a simple Kanban process, simply push work items to a Board and [assign it to a team member]({{site.url}}{% link guide/add-properties.md %}) and watch them make progress with using [Reports]({{site.url}}{% link guide/reports.md %}).
 
@@ -88,7 +88,7 @@ And the best part? Your team members get to focus on just the things they care a
 
 While members from every team pick up items assigned to them move them across statuses and Boards, you can see how your feature take its shape and progress across teams.
 
-![Track Feature Progress in Zepel](/assets/uploads/zepel-features.png "Feature Progress")
+![Track Feature Progress in Zepel](/guide/assets/uploads/zepel-features.png "Feature Progress")
 
 If you want to see what each team is working on, you can simply click on their respective Board and get a quick glance of what's happening. And if you head over to Progress, you can get a quick status of how much your feature has progressed.
 

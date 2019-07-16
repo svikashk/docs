@@ -5,7 +5,7 @@ has_children: false
 parent: Using Boards
 title: Feature Board vs Project Board
 description: Filter your Boards to see where each item stands and who is working on what to manage workload
-permalink: guide/boards/feature-board-project-board/
+permalink: boards/feature-board-project-board/
 ---
 # Difference between Feature Board and Project Board
 {: .no_toc }
@@ -18,11 +18,11 @@ For example, if you have two Features named Search and Reports with Dev Board be
 
 [IMG]
 
-If your project board is used in multiple Features within your project, you will be able to view all items across Features. You can choose to [filter your Board]({{ site.url }}{% link guide/boards-filter.md %}) based on a specific Feature to view just those items.
+If your project board is used in multiple Features within your project, you will be able to view all items across Features. You can choose to [filter your Board]({{ site.url }}{{ site.baseurl }}{% link guide/boards-filter.md %}) based on a specific Feature to view just those items.
 
 Project Boards can also be Favourited to quickly access them from the sidebar.
 
-Project Boards are useful when you want to see where work stands across Features. For example, you might want to see what all work is happening in different features in the Dev Board. The project board also comes in handy when you want to [manage your team's workload]({{ site.url }}{% link guide/manage-workload.md %}).
+Project Boards are useful when you want to see where work stands across Features. For example, you might want to see what all work is happening in different features in the Dev Board. The project board also comes in handy when you want to [manage your team's workload]({{ site.url }}{{ site.baseurl }}{% link guide/manage-workload.md %}).
 
 ---
 

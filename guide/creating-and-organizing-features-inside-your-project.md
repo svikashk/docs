@@ -5,7 +5,7 @@ has_children: false
 parent: Get Started
 title: Create Features
 description: Learn how to create and organize multiple Features inside your project.
-permalink: guide/get-started/creating-features/
+permalink: get-started/creating-features/
 ---
 # Creating Features inside your project
 
@@ -16,7 +16,7 @@ With Features in Zepel, you can break your project by specific features your tea
 
 This gives you the ability to easily organize your entire team based on the features they're working and drill into the details for each of them.
 
-![All Features in Zepel](/assets/uploads/zepel-features.png "Zepel Features")
+![All Features in Zepel](/guide/assets/uploads/zepel-features.png "Zepel Features")
 
 ---
 
@@ -26,7 +26,7 @@ This gives you the ability to easily organize your entire team based on the feat
 
 - Give your Feature a name. 
 
-![Create a Feature in Zepel](/assets/uploads/create-features.png "Create Feature in Zepel")
+![Create a Feature in Zepel](/guide/assets/uploads/create-features.png "Create Feature in Zepel")
 
 - Since projects in Zepel can have multiple Boards, you can select a default Board for your Feature. Click on the "Set Default Feature Board" drop down. You'll see a list of boards available in your project that can be set as the default board for your feature.
 
@@ -34,9 +34,9 @@ This gives you the ability to easily organize your entire team based on the feat
 
 - Give your Feature a description (if needed) to give your team more context.
 
-![Create a Feature Popup](/assets/uploads/create-features-popup.png "Create Feature Popup")
+![Create a Feature Popup](/guide/assets/uploads/create-features-popup.png "Create Feature Popup")
 
 - Click "Create" button.
 
-Once your Feature is created, you can now [create actionable work items]({{ site.url }}{% link guide/creating-work-items.md %}) to track and complete your Feature.
+Once your Feature is created, you can now [create actionable work items]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) to track and complete your Feature.
 

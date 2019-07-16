@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 title: How product managers use Zepel to plan and ship features
 description: Are you a product manager looking to ship quality features? See how product managers use Zepel project management tool to prioritize and work with teams to build features
-permalink: guide/use-cases/product-managers/
+permalink: use-cases/product-managers/
 nav_exclude: true
 ---
 # How product managers use Zepel
@@ -23,11 +23,11 @@ As a product manager, you'd want to bring all the features your team will be wor
 
 A project in Zepel is usually a team, like Engineering. But if you choose to name your project after a product or an initiative, such as Web App or Android or iOS, that works too!
 
-![All Projects in Zepel](/assets/uploads/zepel-projects.png "Zepel Projects")
+![All Projects in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Projects")
 
 Since you'll require items to go through statuses to keep everyone updated of progress, you can choose to add one or more Boards while creating your project. Not to worry, you can add them from within the project too. 
 
-[Learn how to create a project ->]({{ site.url }}{% link guide/creating-your-first-project.md %})
+[Learn how to create a project ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
 
 ---
 
@@ -37,7 +37,7 @@ A Feature houses all actionable items - user stories, tasks, subtasks, bugs, and
 
 [Adding items]({{site.url}}{% link guide/creating-work-items.md %}) for your feature is as simple as writing on a document. Simply hit enter to create another item. And press ```Cmd + Shift + S``` if you're on a Mac (Ctrl + Shift + S on Windows) to toggle between item types.
 
-![Items and its types in Zepel](/assets/uploads/zepel-items.png "Items in Zepel")
+![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
 [Use Descriptions]({{site.url}}{% link guide/description.md %}) to add more details to each work item. For example, product managers use description as a place to add acceptance criteria for user stories and attach files below it to share files for further references.
 
@@ -49,7 +49,7 @@ Once you've added user stories and enhancements for your feature, bring in the r
 
 Have [contextual conversations]({{site.url}}{% link guide/comments.md %}) on each work item and get your development team to break down each user story into subtasks.
 
-![Enter your comment](/assets/uploads/zepel-comments.png "Comment text field")
+![Enter your comment](/guide/assets/uploads/zepel-comments.png "Comment text field")
 
 Breaking down user stories into subtasks helps your team clarity and understanding of what they'll have to build and hence will be able to add estimations with better accuracy.
 
@@ -61,7 +61,7 @@ Now that you have a rough estimate of how long each user story will take to get 
 
 [Use the advanced filters]({{site.url}}{% link guide/advanced-filter.md %}) to slice and dice all items. Sort your items by Estimate and start adding hashtags ```#``` to denote priorities.
 
-![Group and filter all items in a Feature](/assets/uploads/zepel-hashtag-priorities.png "Group and Filter Items")
+![Group and filter all items in a Feature](/guide/assets/uploads/zepel-hashtag-priorities.png "Group and Filter Items")
 
 That way, you get to know what key areas of your feature needs more attention and delegate it to team members appropriately.
 
@@ -74,13 +74,13 @@ Give each Feature:
 2. A duration to ensure the feature is built within a said timeline, and
 3. A status to keep everyone updated on progress
 
-![All Features in Zepel](/assets/uploads/zepel-features.png "Zepel Features")
+![All Features in Zepel](/guide/assets/uploads/zepel-features.png "Zepel Features")
 
 As your team makes progress, you'll see a quick overview of how much work is done. And of course, you can always get a deeper understanding of the progress with reports.
 
 As you add more features to your project, use the Table view or the Kanban view to prioritize and plan your future features.
 
-[Learn more about organizing Features ->]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
+[Learn more about organizing Features ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
 ---
 

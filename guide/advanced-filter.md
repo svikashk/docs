@@ -5,7 +5,7 @@ has_children: false
 parent: Search
 title: Advanced Filter
 description: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
-permalink: guide/search/advanced-filter/
+permalink: search/advanced-filter/
 ---
 # Group and Filter Items
 {: .no_toc }
@@ -15,7 +15,7 @@ With a combination of filter and grouping, you can view your Feature just the wa
 
 Sometimes a simple search is not enough. What if you want to find items assigned to a developer that is due this week? With advanced filter and group, you can slice and dice your entire Feature to find just the item you are looking for.
 
-![Group and filter all items in a Feature](/assets/uploads/zepel-advanced-filters.png "Group and Filter Items")
+![Group and filter all items in a Feature](/guide/assets/uploads/zepel-advanced-filters.png "Group and Filter Items")
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }

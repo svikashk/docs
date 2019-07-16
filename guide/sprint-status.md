@@ -5,7 +5,7 @@ has_children: false
 parent: Run Sprints
 title: Sprint Status
 description: Learn more about Sprint's statuses in Zepel.
-permalink: guide/sprints/sprint-status/
+permalink: sprints/sprint-status/
 ---
 # Sprint Status in Zepel
 {: .no_toc }

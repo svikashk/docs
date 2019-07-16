@@ -5,7 +5,7 @@ nav_order: 5
 icon_path: /assets/uploads/boards.svg
 description: "Boards in Zepel is more than just a Kanban. Learn how you can use Boards to keep track of progress across teams within a project."
 has_children: true
-permalink: guide/boards/
+permalink: boards/
 has_toc: true
 ---
 
@@ -17,4 +17,4 @@ Boards in Zepel give every team in your project a workflow tailor-made just for 
 
 Depending on your project and the workflows it requires, you can choose to create multiple Boards within your project to move work items across a workflow and keep your team updated on progress.
 
-![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")
+![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")

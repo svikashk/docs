@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 title: Manage team's workload to route work efficiently
 description: Learn how you can manage your team's workload and understand your team's capacity with Zepel.
-permalink: guide/use-cases/manage-workload/
+permalink: use-cases/manage-workload/
 nav_exclude: true
 ---
 # Manage team's workload and route work efficiently
@@ -19,7 +19,7 @@ In this article, we'll see how you can quickly get an understanding of where eac
 
 ## 1. Give each team a workflow tailor-made just for them
 
-Once you've [created a Feature]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your project and [added user stories and tasks]({{ site.url }}{% link guide/creating-work-items.md %}) within them, you should add Boards for each discipline involved in helping you ship your feature. 
+Once you've [created a Feature]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your project and [added user stories and tasks]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) within them, you should add Boards for each discipline involved in helping you ship your feature. 
 
 For example, you'd need a Designer to help design the feature, a development team to build the feature, and QA team to test it. [Add a Board]({{site.url}}{% link guide/creating-boards.md %}) for each of these disciplines.
 
@@ -29,9 +29,9 @@ So, how do you fit all their workflow into a single project project management t
 
 In Zepel, you can give each discipline a Board within your project. That way, every time your team mates work on the feature, they can work just the way they want and be more productive.
 
-![Boards in Zepel](/assets/uploads/zepel-boards.png "Boards in Zepel")
+![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")
 
-[Learn how to add Boards ->]({{ site.url }}{% link guide/creating-boards.md %})
+[Learn how to add Boards ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-boards.md %})
 
 ---
 
@@ -41,9 +41,9 @@ Head over to your team's Board to see where each item stands. With just a click,
 
 Slice and dice your team's Board using advanced filters to see who is working on which feature and its current status. This helps you take informed decisions and add more people to work a specific feature and keep your priorities on track. 
 
-![Filters panel inside a Board in Zepel](/assets/uploads/zepel-boards-filters.png "Board's Filter panel")
+![Filters panel inside a Board in Zepel](/guide/assets/uploads/zepel-boards-filters.png "Board's Filter panel")
 
-[Learn how to use advanced Filters for Boards ->]({{ site.url }}{% link guide/boards-filter.md %})
+[Learn how to use advanced Filters for Boards ->]({{ site.url }}{{ site.baseurl }}{% link guide/boards-filter.md %})
 
 ---
 

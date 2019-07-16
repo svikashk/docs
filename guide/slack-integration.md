@@ -5,7 +5,7 @@ parent: Integrations
 has_children: false
 title: Integrating Slack with Zepel
 description: Connect your Zepel account with Slack to receive notifications and updates on your project.
-permalink: guide/integrations/slack/
+permalink: integrations/slack/
 
 
 ---
@@ -22,16 +22,16 @@ That's exactly what Zepel's Slack integration should solve for you. Once you con
 * Once you're in your Zepel account, on the top left corner, click on your Account's name.
 * From the dropdown, click on "**Account Settings**".
 
-![Click on Account Settings from Accounts dropdown](/assets/uploads/account-settings.png "Account Settings")
+![Click on Account Settings from Accounts dropdown](/guide/assets/uploads/account-settings.png "Account Settings")
 
 * In the "**Account Settings**" popup, head over to the "**Integrations**" tab. You'll find a list of all Integrations available in Zepel in this tab.
 
-![Head over to Integrations tab in Account Settings](/assets/uploads/integrations-tab.png "Integrations tab in Account Settings")
+![Head over to Integrations tab in Account Settings](/guide/assets/uploads/integrations-tab.png "Integrations tab in Account Settings")
 
 * Next to Slack, click on the "**Enable**" button.
 * Click on "**Authorize**" to give Zepel permissions to send updates to your Slack account.
 
-![Authorize Zepel in Slack to send you notifications](/assets/uploads/authorize-zepel-in-slack.png "Authorize in Slack")
+![Authorize Zepel in Slack to send you notifications](/guide/assets/uploads/authorize-zepel-in-slack.png "Authorize in Slack")
 
 Don't worry, Zepel will only send you notifications as messages to your Slackbot and cannot post any messages on your behalf. 
 
@@ -45,4 +45,4 @@ Once you connect your Slack and Zepel accounts, you’ll get a notification ever
 4. A task in any of your shared projects gets completed
 5. A task assigned to you goes overdue
 
-![Get Zepel project notifications in Slack](/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")
+![Get Zepel project notifications in Slack](/guide/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")

@@ -5,7 +5,7 @@ has_children: false
 parent: Work with Teams
 title: Add Properties to Items
 description: Start collaborating on projects with your team in Zepel. Assign, set due dates, set statuses, and estimate your work items.
-permalink: guide/working-with-teams/add-properties/
+permalink: working-with-teams/add-properties/
 ---
 # Delegate work and track progress
 {: .no_toc }
@@ -25,7 +25,7 @@ At the end of this help article, you would have learned how to assign, set due d
 
 ## Assign items
 
-Once you've [collaborated your project with team members]({{ site.url }}{% link guide/collaborating-team-members.md %}), you can start delegating pieces of work to them by assigning work items from your Feature. 
+Once you've [collaborated your project with team members]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}), you can start delegating pieces of work to them by assigning work items from your Feature. 
 
 When assigned, your team mates will be notified via Slack (if you've integrated your account with Slack) and email.
 
@@ -35,7 +35,7 @@ When assigned, your team mates will be notified via Slack (if you've integrated 
 - You will now see a list of members collaborated on your project. 
 - Select a member from the drop down suggestion to assign the task to them. 
 
-![Type /a to assign to team members](/assets/uploads/zepel-assign-with-keyboard.gif "Assign using Keyboard")
+![Type /a to assign to team members](/guide/assets/uploads/zepel-assign-with-keyboard.gif "Assign using Keyboard")
 
 #### <u>Using Mouse</u>
 {: .no_toc }
@@ -43,7 +43,7 @@ When assigned, your team mates will be notified via Slack (if you've integrated 
 - Select the assignee icon from the item menu.
 - From the drop down suggestion, select a member to assign the task to them.
 
-![Right click on an item to assign to team members](/assets/uploads/zepel-assign-with-mouse.gif "Assign using Mouse")
+![Right click on an item to assign to team members](/guide/assets/uploads/zepel-assign-with-mouse.gif "Assign using Mouse")
 
 __Did you know?:__ You can assign work items to multiple team members in Zepel.
 
@@ -61,7 +61,7 @@ When a specific work item is not yet completed on the due date, member assigned 
 - From the calendar drop down, select a date.
 - Alternatively, you can just type ```Today```, ```Tomorrow```, ```Yesterday```, ```Next Monday```, or the date.
 
-![Type /d to set due dates to work items](/assets/uploads/zepel-due-date-with-keyboard.gif "Set Due Date using Keyboard")
+![Type /d to set due dates to work items](/guide/assets/uploads/zepel-due-date-with-keyboard.gif "Set Due Date using Keyboard")
 
 #### <u>Using Mouse</u>
 {: .no_toc }
@@ -69,7 +69,7 @@ When a specific work item is not yet completed on the due date, member assigned 
 - Select the calendar icon from the item menu.
 - From the drop down suggestion, select a date to set it as the item's due date.
 
-![Right click on an item to set due dates to work items](/assets/uploads/zepel-due-date-with-mouse.gif "Set Due Date using Mouse")
+![Right click on an item to set due dates to work items](/guide/assets/uploads/zepel-due-date-with-mouse.gif "Set Due Date using Mouse")
 
 ---
 
@@ -86,7 +86,7 @@ By default, all projects will have a Default Board with ```Todo```, ```In Progre
 - With the cursor on the item you want to update a status for, type ```/b``` to push the work item to a specific Board.
 - From the drop down, select the status.
 
-![Type /b to set statuses to work items](/assets/uploads/zepel-status-with-keyboard.gif "Set Status using Keyboard")
+![Type /b to set statuses to work items](/guide/assets/uploads/zepel-status-with-keyboard.gif "Set Status using Keyboard")
 
 #### <u>Using Mouse</u>
 {: .no_toc }
@@ -94,7 +94,7 @@ By default, all projects will have a Default Board with ```Todo```, ```In Progre
 - Select the flag icon from the item menu.
 - From the drop down suggestion, select a status to update the item's status.
 
-![Right click on an item to set status to work items](/assets/uploads/zepel-status-with-mouse.gif "Set Status using Mouse")
+![Right click on an item to set status to work items](/guide/assets/uploads/zepel-status-with-mouse.gif "Set Status using Mouse")
 
 __Pro Tip:__ As team members move items from one status to another from their Board, you can see how an entire feature is shaping up from within your Feature.
 
@@ -111,7 +111,7 @@ Estimates in Zepel are measured in points. They are useful when you'd like to vi
 - With the cursor on the item you want to estimate, type ```/e```.
 - In the text field, enter a number between 0.01 and 1000.
 
-![Type /e to set an estimate to work items](/assets/uploads/zepel-estimate-with-keyboard.gif "Set an Estimate using Keyboard")
+![Type /e to set an estimate to work items](/guide/assets/uploads/zepel-estimate-with-keyboard.gif "Set an Estimate using Keyboard")
 
 #### <u>Using Mouse</u>
 {: .no_toc }
@@ -119,7 +119,7 @@ Estimates in Zepel are measured in points. They are useful when you'd like to vi
 - Select timer icon from the item menu.
 - Enter a number between 0.01 and 1000 in the text field to estimate your item.
 
-![Right click on an item to set an estimate to work items](/assets/uploads/zepel-estimate-with-mouse.gif "Set an Estimate using Mouse")
+![Right click on an item to set an estimate to work items](/guide/assets/uploads/zepel-estimate-with-mouse.gif "Set an Estimate using Mouse")
 
 ---
 

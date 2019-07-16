@@ -5,7 +5,7 @@ has_children: false
 parent: Work with Teams
 title: Comments and Conversations
 description: Start collaborating on projects with your team in Zepel. Comment, mention people, and share files within your conversation.
-permalink: guide/working-with-teams/comments/
+permalink: working-with-teams/comments/
 ---
 # Have contextual conversations with team members
 {: .no_toc }
@@ -15,7 +15,7 @@ Comment on work items to ask questions, share information, or to provide extra i
 
 With comments, you can upload files and mention people to get their attention.
 
-![Enter your comment](/assets/uploads/zepel-comments.png "Comment text field")
+![Enter your comment](/guide/assets/uploads/zepel-comments.png "Comment text field")
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -33,11 +33,11 @@ To add a comment:
 - Hover on any item inside your Feature. 
 - Click on the ```Expand Item``` icon from the right side of an item.
 
-![Click on Expand Item icon](/assets/uploads/expand-item.png "Expand Item Icon")
+![Click on Expand Item icon](/guide/assets/uploads/expand-item.png "Expand Item Icon")
 
 - On the bottom-right side in the pop-up, enter your comment in the text field and hit ```[ Enter ]```.
 
-![Enter your comment](/assets/uploads/comments-field.png "Comment text field")
+![Enter your comment](/guide/assets/uploads/comments-field.png "Comment text field")
 
 ---
 
@@ -51,7 +51,7 @@ Upload attachments to any comment to add more context to your conversations.
 
 All file formats, except ```.svg``` are supported. And there is a maximum file size limit of ```25 MB``` per attachment.
 
-![Upload attachments to your comment](/assets/uploads/comment-attachments.png "Add Attachments to Comments")
+![Upload attachments to your comment](/guide/assets/uploads/comment-attachments.png "Add Attachments to Comments")
 
 ---
 
@@ -65,4 +65,4 @@ Get your team member's attention in a conversation by using ```@``` mention.
 
 An email will be sent to the member you've mentioned along with the comment text and attachment (if any). You can mention all members in the project by typing ```@all```.
 
-![Type @ to mention members in your comment](/assets/uploads/comment-mentions.png "Mention teammates in Comments")
+![Type @ to mention members in your comment](/guide/assets/uploads/comment-mentions.png "Mention teammates in Comments")

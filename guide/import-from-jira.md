@@ -5,7 +5,7 @@ has_children: false
 parent: Import Projects
 title: Import from Jira
 description: Move your Jira projects to Zepel and start managing projects with ease.
-permalink: guide/import/Jira/
+permalink: import/Jira/
 ---
 # Importing Jira Projects into Zepel
 {: .no_toc }
@@ -18,23 +18,23 @@ Switching to Zepel over Jira lets you work on your projects without bringing you
 
 * Access the account settings popup from the menu bar on the top left corner. 
 
-![Click on Account Settings in Zepel](/assets/uploads/zepel-account-settings.png "Account Settings")
+![Click on Account Settings in Zepel](/guide/assets/uploads/zepel-account-settings.png "Account Settings")
 
 * Navigate to the Import tab in the account settings popup. Click on **Import from JIRA** button.
 
-![Click on Import from JIRA button](/assets/uploads/zepel-jira-import.png "Click on Import from JIRA button")
+![Click on Import from JIRA button](/guide/assets/uploads/zepel-jira-import.png "Click on Import from JIRA button")
 
 * Enter your Jira credentials to view your projects. Please note that you need to be a Jira admin to access all your projects through the API. 
 
-![Log in to your JIRA account to access your projects](/assets/uploads/zepel-jira-login.png "Log in to JIRA")
+![Log in to your JIRA account to access your projects](/guide/assets/uploads/zepel-jira-login.png "Log in to JIRA")
 
 * Select the projects that you want to import into Zepel. You may choose upto 10 projects at a time. 
 
-![Select JIRA projects you'd like to import](/assets/uploads/zepel-jira-projects.png "Select JIRA projects to import")
+![Select JIRA projects you'd like to import](/guide/assets/uploads/zepel-jira-projects.png "Select JIRA projects to import")
 
 * Once you have selected and confirmed the projects you want to import, click the "**Import**" to start the import.
 
-![Importing JIRA projects](/assets/uploads/zepel-jira-importing.png "Importing JIRA projects")
+![Importing JIRA projects](/guide/assets/uploads/zepel-jira-importing.png "Importing JIRA projects")
 
 The import can take anywhere between a few seconds to a couple of hours based on the size of your Jira projects and the number of issues being imported. 
 
@@ -46,4 +46,4 @@ Any new team members on Jira (who are not in Zepel) will get added as new member
 
 #### Further Reading:
 
-* [How Jira projects get structured in Zepel]({{ site.url }}{% link guide/jira-projects-structure.md %})
+* [How Jira projects get structured in Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/jira-projects-structure.md %})

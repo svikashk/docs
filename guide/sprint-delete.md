@@ -5,7 +5,7 @@ has_children: false
 parent: Run Sprints
 title: Delete Sprints
 description: Learn how to delete a Sprint in Zepel.
-permalink: guide/sprints/sprint-delete/
+permalink: sprints/sprint-delete/
 ---
 ## How to delete a Sprint
 {: .no_toc }
@@ -15,4 +15,4 @@ permalink: guide/sprints/sprint-delete/
 
 Deleting a Sprint will delete all of your Sprint reports along with it. But you can still view the items from whichever Feature they belong to or from the Project's List.
 
-![Delete Sprints](/assets/uploads/zepel-sprints-delete.png "Delete Sprints")
+![Delete Sprints](/guide/assets/uploads/zepel-sprints-delete.png "Delete Sprints")

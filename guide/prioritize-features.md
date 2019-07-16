@@ -3,7 +3,7 @@ layout: default
 nav_order: 3
 title: Prioritize Features in Zepel
 description: Prioritizing the right feature is hard. Learn how you can plan an entire feature and prioritize on Zepel to help your team build features that move the needle.
-permalink: guide/use-cases/prioritize-features/
+permalink: use-cases/prioritize-features/
 nav_exclude: true
 ---
 # Plan and prioritize the right features
@@ -27,7 +27,7 @@ Don't worry about prioritizing the feature at first.
 
 Add acceptance criteria for your user stories within the [Description]({{site.url}}{% link guide/description.md %}) to help everyone understand what's expected of them.
 
-![Items and its types in Zepel](/assets/uploads/zepel-items.png "Items in Zepel")
+![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
 ---
 
@@ -43,7 +43,7 @@ You need to quickly distil all the progress your developer team, designer, and Q
 
 With [Progress]({{site.url}}{% link guide/progress.md %}), you can get a quick snapshot of how much progress your team has made and how far away they are from completing the feature.
 
-![Progress of Features as a Table in Zepel](/assets/uploads/zepel-progress-table.png "Feature Progress as a Table")
+![Progress of Features as a Table in Zepel](/guide/assets/uploads/zepel-progress-table.png "Feature Progress as a Table")
 
 ---
 
@@ -55,7 +55,7 @@ With the right thought process and the context of your team's current feature pr
 
 From the Progress tab, switch to Kanban view to see all your features neatly stacked based on their current status.
 
-![Progress of Features as a Kanban in Zepel](/assets/uploads/zepel-progress-kanban.png "Feature Progress as a Kanban")
+![Progress of Features as a Kanban in Zepel](/guide/assets/uploads/zepel-progress-kanban.png "Feature Progress as a Kanban")
 
 Rearrange features within the Todo column to prioritize. The higher your feature on the Todo column, the higher the priority. 
 

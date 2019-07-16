@@ -5,7 +5,7 @@ nav_order: 6
 icon_path: /assets/uploads/sprints.svg
 description: "Run Sprints across Features your team is working on in Zepel."
 has_children: true
-permalink: guide/sprints/
+permalink: sprints/
 has_toc: true
 ---
 
@@ -19,4 +19,4 @@ Sprints is helpful when you want to time box work and ship your feature in phase
 
 In Zepel, you can choose to add work items across Features into your Sprint. Or from your Project's List where you've added miscellaneous items.
 
-![Sprints in Zepel](/assets/uploads/zepel-sprints.png "Sprints in Zepel")
+![Sprints in Zepel](/guide/assets/uploads/zepel-sprints.png "Sprints in Zepel")

@@ -5,7 +5,7 @@ has_children: false
 parent: Search
 title: Search Items
 description: Search and find any items from within your Feature.
-permalink: guide/search/search-items/
+permalink: search/search-items/
 ---
 # Search through your Feature to find any Item
 {: .no_toc }
@@ -19,6 +19,6 @@ To search for an item:
 
 You can search for text, assignee, status, or hashtags.
 
-![Search for all items in that Feature](/assets/uploads/zepel-items-search.png "Search Feature items")
+![Search for all items in that Feature](/guide/assets/uploads/zepel-items-search.png "Search Feature items")
 
-If you are looking to group and filter your items based on multiple properties, [click here]({{ site.url }}{% link guide/advanced-filter.md %}).
+If you are looking to group and filter your items based on multiple properties, [click here]({{ site.url }}{{ site.baseurl }}{% link guide/advanced-filter.md %}).

@@ -5,7 +5,7 @@ has_children: false
 parent: Get Started
 title: Create work items
 description: Learn how you can create user stories, enhacements, bugs, tasks, and subtasks inside your Feature.
-permalink: guide/get-started/creating-items/
+permalink: get-started/creating-items/
 ---
 # Creating work items
 
@@ -14,33 +14,33 @@ Now that you've created a Feature inside your Project, let us go ahead and start
 
 At the end of this help article, you will be able to create user stories, tasks, subtasks, enhacements, bugs, and sections.
 
-![Items and its types in Zepel](/assets/uploads/zepel-items.png "Items in Zepel")
+![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
 As you can see from the above image, work items inside your Feature can be a:
 
 ## 1. User Story:
 
-![User Story in Zepel](/assets/uploads/zepel-user-story.png "User Story in Zepel")
+![User Story in Zepel](/guide/assets/uploads/zepel-user-story.png "User Story in Zepel")
 
 ## 2. Task:
 
-![Task in Zepel](/assets/uploads/zepel-task.png "Task in Zepel")
+![Task in Zepel](/guide/assets/uploads/zepel-task.png "Task in Zepel")
 
 ## 3. Subtask:
 
-![Subtask in Zepel](/assets/uploads/zepel-subtask.png "Subtask in Zepel")
+![Subtask in Zepel](/guide/assets/uploads/zepel-subtask.png "Subtask in Zepel")
 
 ## 4. Enhancement:
 
-![Enhancement in Zepel](/assets/uploads/zepel-enhancement.png "Enhancement in Zepel")
+![Enhancement in Zepel](/guide/assets/uploads/zepel-enhancement.png "Enhancement in Zepel")
 
 ## 5. Bug:
 
-![Bug in Zepel](/assets/uploads/zepel-bug.png "Bug in Zepel")
+![Bug in Zepel](/guide/assets/uploads/zepel-bug.png "Bug in Zepel")
 
 ## 6. Section:
 
-![Section in Zepel](/assets/uploads/zepel-section.png "User Story in Zepel")
+![Section in Zepel](/guide/assets/uploads/zepel-section.png "User Story in Zepel")
 
 Sections can be used to group similar work items inside your Feature together to provide your team with more context.
 

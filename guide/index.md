@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 icon_path: /assets/uploads/home.svg
 description: "Everything you need to know about using Zepel with your team"
-permalink: /guide/
+permalink: /
 ---
 
 # Zepel Knowledge Base
@@ -13,7 +13,7 @@ permalink: /guide/
 Best practices, tips, and tricks on how you can manage projects with Zepel.
 {: .fs-6 .fw-300 }
 
-[Get Started]({{ site.url }}{% link guide/get-started.md %}){: .btn .btn-index .fs-5 .mb-4 .mb-md-0 .mr-2 } [Contact Support](https://github.com/svikashk/docs){: .btn-index-new .fs-5 .mb-4 .mb-md-0 }
+[Get Started]({{ site.url }}{{ site.baseurl }}{% link guide/get-started.md %}){: .btn .btn-index .fs-5 .mb-4 .mb-md-0 .mr-2 } [Contact Support](https://github.com/svikashk/docs){: .btn-index-new .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

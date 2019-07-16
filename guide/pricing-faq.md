@@ -5,7 +5,7 @@ nav_order: 12
 icon_path: /assets/uploads/pricing.svg
 description: All frequently asked questions about Zepel's pricing, answered.
 has_children: false
-permalink: guide/pricing-faq/
+permalink: pricing-faq/
 has_toc: true
 ---
 

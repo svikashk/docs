@@ -5,7 +5,7 @@ nav_order: 4
 icon_path: /assets/uploads/team-work.svg
 description: "Learn how to collaborate and work with team members in Zepel. Use multiple Boards, run Sprints, and have discussions."
 has_children: true
-permalink: guide/working-with-teams/
+permalink: working-with-teams/
 has_toc: true
 ---
 

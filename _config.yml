@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Zepel Guide
 description: Best practices, tips, and tricks on how to manage projects with Zepel.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://tender-mcnulty-44e8e0.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/guide" # the subpath of your site, e.g. /blog
+url: "https://tender-mcnulty-44e8e0.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]

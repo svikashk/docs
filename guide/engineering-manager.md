@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 title: How engineering managers use Zepel to plan and ship features
 description: Learn how engineering managers use Zepel to work with product managers to plan features and manage the workload of the engineering team to route work efficiently.
-permalink: guide/use-cases/engineering-managers/
+permalink: use-cases/engineering-managers/
 nav_exclude: true
 ---
 # How engineering managers use Zepel
@@ -28,7 +28,7 @@ A project in Zepel is usually a team, like Engineering, Backend, or Frontend. Bu
 
 While creating your project, add Boards your team will use to move items across statuses. If you find your project needs more Boards as your team makes progress on the feature, you can add them from within the project.
 
-[Learn how to create a project ->]({{ site.url }}{% link guide/creating-your-first-project.md %})
+[Learn how to create a project ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
 
 ---
 
@@ -38,9 +38,9 @@ Once a project is created for your team, add a List for each feature your team w
 
 A list houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. 
 
-Normally, the [product manager]({{ site.url }}{% link guide/product-manager.md %}) would create Lists and add all the required [user stories]({{ site.url }}{% link guide/creating-work-items.md %}). 
+Normally, the [product manager]({{ site.url }}{{ site.baseurl }}{% link guide/product-manager.md %}) would create Lists and add all the required [user stories]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}). 
 
-Once the product manager has added all the required user stories and [descriptions]({{ site.url }}{% link guide/description.md %}) to each feature, you can sit together to give a high level estimate of how long each feature could take and help the product manager prioritize features using the Kanban view.
+Once the product manager has added all the required user stories and [descriptions]({{ site.url }}{{ site.baseurl }}{% link guide/description.md %}) to each feature, you can sit together to give a high level estimate of how long each feature could take and help the product manager prioritize features using the Kanban view.
 
 [IMG]
 
@@ -50,7 +50,7 @@ Once the product manager has added all the required user stories and [descriptio
 
 Collaborate with team members and start breaking down user stories into actionable subtasks based on the acceptance criteria added in the description area. Breaking down user stories into subtasks will give your team clarity and help them estimate better.
 
-With the help your team members, [give each user story an estimate]({{ site.url }}{% link guide/add-properties.md %}) after discussing with your team on the how they'll execute them.
+With the help your team members, [give each user story an estimate]({{ site.url }}{{ site.baseurl }}{% link guide/add-properties.md %}) after discussing with your team on the how they'll execute them.
 
 Based on the estimates provided by you and your team, the product manager can now add priority to key user stories from the advanced filter page, and help you and your team focus on the things that are important.
 
@@ -66,7 +66,7 @@ The owner for the list is usually the person who will oversee the specific featu
 
 When its time to begin working on the feature, you can start assigning the prioritized set of user stories and enhancements to your team members.
 
-Answer questions to team members on specific items using [comments]({{ site.url }}{% link guide/comments.md %}) and give them all the information they need to build the feature. 
+Answer questions to team members on specific items using [comments]({{ site.url }}{{ site.baseurl }}{% link guide/comments.md %}) and give them all the information they need to build the feature. 
 
 [IMG]
 

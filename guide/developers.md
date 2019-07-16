@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 title: How Developers use Zepel to complete work and beat deadlines
 description: Are you a Developer tired of using slow, clunky project management tools? Learn how you can effortlessly track and beat deadlines with Zepel
-permalink: guide/use-cases/developers/
+permalink: use-cases/developers/
 nav_exclude: true
 ---
 # How Developers complete work and beat deadlines
@@ -25,7 +25,7 @@ Break it down further by creating subtasks, categorize with hashtags, and drill 
 
 Simply type ``` / ``` to add any of the item properties so you can always keep your team updated on your progress.
 
-![Items and its types in Zepel](/assets/uploads/zepel-items.png "Items in Zepel")
+![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
 ---
 
@@ -35,7 +35,7 @@ Sometimes you just want to work with none of the distractions. Without all the o
 
 Head over to My Tasks to view just the items assigned to you and work distraction free. Mould it fit your needs by sorting and grouping items based on due dates, estimates, or simply by alphabetical.
 
-![View tasks assigned to you from My Tasks](/assets/uploads/zepel-my-tasks.png "My Tasks")
+![View tasks assigned to you from My Tasks](/guide/assets/uploads/zepel-my-tasks.png "My Tasks")
 
 If you haven't already, you should also add a Board to your project that fits your workflow. Not to worry about disrupting your designer's workflow. In Zepel, every team can add Boards within a project. That way, everyone gets to work just the way they want.
 
@@ -47,7 +47,7 @@ Zepel fits right into your dev workflow. [Integrate]({{site.url}}{% link guide/i
 
 And inform everyone of this update simply by integrating your Zepel account with Slack.
 
-![Get Zepel project notifications in Slack](/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")
+![Get Zepel project notifications in Slack](/guide/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")
 
 (Look ma, no hands!)
 
@@ -57,7 +57,7 @@ And inform everyone of this update simply by integrating your Zepel account with
 
 Why wait for pages to load when you can track your items and keep your team members updated right from your Desktop? 
 
-![View tasks assigned to you using Desktop Widget](/assets/uploads/zepel-desktop-widget.png "Zepel Desktop Widget")
+![View tasks assigned to you using Desktop Widget](/guide/assets/uploads/zepel-desktop-widget.png "Zepel Desktop Widget")
 
 With the [desktop widget]({{site.url}}{% link guide/desktop-widget.md %}), you can view, edit, update, and complete your items right from your desktop. 
 

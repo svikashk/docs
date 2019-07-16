@@ -5,7 +5,7 @@ has_children: false
 parent: Desktop Widget
 title: Installation guide
 description: Learn how to install and use Desktop widget on different platforms
-permalink: guide/desktop-widget/installing/
+permalink: desktop-widget/installing/
 ---
 # Installing Desktop Widget on different platforms
 {: .no_toc }
@@ -31,7 +31,7 @@ Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users.
 
 - The App should now be accessible via the launchpad or the spotlight search.
 
-![Installing Desktop Widget in Mac](/assets/uploads/zepel-desktop-widget-mac.png "Zepel Desktop Widget")
+![Installing Desktop Widget in Mac](/guide/assets/uploads/zepel-desktop-widget-mac.png "Zepel Desktop Widget")
 
 ---
 
@@ -49,7 +49,7 @@ Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users.
 
 - The widget should now install and open on completion.
 
-![Installing Desktop Widget in Windows](/assets/uploads/zepel-desktop-widget-windows.png "Zepel Desktop Widget")
+![Installing Desktop Widget in Windows](/guide/assets/uploads/zepel-desktop-widget-windows.png "Zepel Desktop Widget")
 
 ---
 
@@ -63,4 +63,4 @@ Zepel Desktop Widget is available for Mac, Windows, and Ubuntu users.
 
 - Open the file. It should install and autostart the widget. 
 
-![Installing Desktop Widget in Linux](/assets/uploads/zepel-desktop-widget-linux.jpeg "Zepel Desktop Widget")
+![Installing Desktop Widget in Linux](/guide/assets/uploads/zepel-desktop-widget-linux.jpeg "Zepel Desktop Widget")

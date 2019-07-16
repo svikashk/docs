@@ -5,12 +5,12 @@ has_children: false
 parent: Using Boards
 title: Change default Board
 description: Change a Features's default Board within your project.
-permalink: guide/boards/default-boards/
+permalink: boards/default-boards/
 ---
 # Change a Feature's default Board
 {: .no_toc }
 
-While creating a Feature within your project, you would have [set a default Board for it]({{ site.url }}{% link guide/creating-and-organizing-features-inside-your-project.md %}).
+While creating a Feature within your project, you would have [set a default Board for it]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}).
 {: .fs-6 .fw-300 }
 
 In this article, we'll see how you can change a Feature's default Board.
