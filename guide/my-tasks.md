@@ -38,8 +38,6 @@ You can sort items by:
 2. Estimates
 3. Due Date
 
-[IMG]
-
 ---
 
 ## Order items
