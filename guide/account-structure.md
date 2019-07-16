@@ -23,7 +23,7 @@ Zepel is structured into accounts, projects, features, work items, and boards.
 
 Below is an image of how a project with multiple features, items, and boards fit inside your account to help you seemlessly organize and track.
 
-[IMG]
+![Account Structure in Zepel](/guide/assets/uploads/zepel-account-structure.png "Zepel Structure")
 
 Let us jump in to see what they are and how they work.
 
@@ -49,9 +49,13 @@ People collaborated in a project will be automatically added to the respective a
 
 A Feature is a collection of actionable work that your team can plan, track, and execute. As your members across teams start to work on this feature, you can see how the entire Feature is progressing right from here.
 
+[Read more about Features ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
+
 ![All Features in Zepel](/guide/assets/uploads/zepel-features.png "Zepel Features")
 
-[Read more about Features ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
+If you are not working on a feature right now, you can add your work items inside your project's List.
+
+[Read about List ->]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %})
 
 ---
 
