@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 icon_path: /assets/uploads/home.svg
 description: "Everything you need to know about using Zepel with your team"
-permalink: /
+permalink: /guide/
 ---
 
 # Zepel Knowledge Base
