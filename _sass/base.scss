@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
+  font-family: -apple-system, BlinkMacSystemFont, "Hind", "Segoe UI";
   font-size: inherit;
   line-height: $body-line-height;
   color: $body-text-color;
@@ -49,7 +49,7 @@ table {
 h1 {
   color: #474258;
   font-weight: 700;
-  font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
+  // font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
   margin-top: 1.2em;
   margin-bottom: 0.8em;
   line-height: $body-heading-line-height;
@@ -69,7 +69,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
+  // font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
   margin-top: 1.2em;
   margin-bottom: 0.8em;
   font-weight: 500;
@@ -79,7 +79,7 @@ h6 {
 
 p {
   color: #424f56;
-  font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
+  // font-family: ‘Hind’, -apple-system, BlinkMacSystemFont, “Segoe UI”;
   margin-bottom: 1em;
   font-size: 18px;
   font-weight: 400;
