@@ -17,7 +17,7 @@ View, edit, and update your work right from your desktop.
 
 With the desktop widget, you no longer have to open up your browser, log in, and navigate to the task assigned to you, just to update progress on a work item. 
 
-[Download Desktop Widget](https://zepel.io/downloads/destop-widget/?utm_source=zepelguide&utm_medium=topnav){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[Download Desktop Widget](https://zepel.io/downloads/destop-widget/?utm_source=zepelguide&utm_medium=desktop-widget){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
 ![View tasks assigned to you using Desktop Widget](/guide/assets/uploads/zepel-desktop-widget.png "Zepel Desktop Widget")
 
