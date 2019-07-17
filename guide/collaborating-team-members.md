@@ -56,4 +56,4 @@ You can choose to collaborate members in a project, so you can assign pieces of 
 
 If a member you are trying to collaborate is not part of the account already, they will automatically get added into your account.
 
-Next we'll see how to [add assignees, due dates, statuses, and estimate]({{site.url}}{% link guide/add-properties.md %}) to your work items, so you can start tracking them.
+Next we'll see how to [add assignees, due dates, statuses, and estimate]({{ site.url }}{{ site.baseurl }}{% link guide/add-properties.md %}) to your work items, so you can start tracking them.

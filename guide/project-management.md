@@ -58,7 +58,7 @@ You can create:
 5. Bugs
 6. Sections
 
-[Learn how you can quickly create a list of items ->]({{site.url}}{% link guide/creating-work-items.md %})
+[Learn how you can quickly create a list of items ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %})
 
 But of course, creating a list of items alone isn't enough. You'll want to delegate it, set a deadline, and track its progress.
 
@@ -74,7 +74,7 @@ You can [add item properties]({{ site.url }}{{ site.baseurl }}{% link guide/add-
 
 __NOTE:__ Sometimes, you'll find you need to work on items that don't belong to a specific feature. Product wide tech debts or bugs. You can quickly add them into your project's List.
 
-[Learn how you can delegate and track work items ->]({{site.url}}{% link guide/add-properties.md %})
+[Learn how you can delegate and track work items ->]({{ site.url }}{{ site.baseurl }}{% link guide/add-properties.md %})
 
 ---
 
@@ -92,7 +92,7 @@ All trackable items across Features can move from one status to another like a t
 
 That means, when your designer is ready with the mockups for your frontend developer to pick it up, the item can move from ```Design - Done``` to ```Dev - Todo```.
 
-[Learn how to set statuses and manage workflows ->]({{site.url}}{% link guide/boards.md %})
+[Learn how to set statuses and manage workflows ->]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
 
 ---
 
@@ -110,7 +110,7 @@ To make it even more easier, you can work on your items from the comfort of your
 
 ![View tasks assigned to you using Desktop Widget](/guide/assets/uploads/zepel-desktop-widget.png "Zepel Desktop Widget")
 
-[Learn more about Desktop Widget ->]({{site.url}}{% link guide/desktop-widget.md %})
+[Learn more about Desktop Widget ->]({{ site.url }}{{ site.baseurl }}{% link guide/desktop-widget.md %})
 
 ---
 
@@ -124,7 +124,7 @@ Progress is the command center for your project. You can see progress of your en
 
 With the capability to view all your Features in Kanban to make it easier for you prioritize your feature and Table view to quickly see a timeline of what's next, product managers and team leaders can quickly get a bird's eye view of what's happening in real-time.
 
-[Learn more about Progress ->]({{site.url}}{% link guide/progress.md %})
+[Learn more about Progress ->]({{ site.url }}{{ site.baseurl }}{% link guide/progress.md %})
 
 ---
 
@@ -136,20 +136,20 @@ Head over to the Dashboard tab on your project to see a quick overview of how yo
 
 ![Cumulative Reports in Zepel](/guide/assets/uploads/zepel-cumulative-report.png "Cumulative Reports")
 
-If you're [running Sprints]({{site.url}}{% link guide/sprints.md %}), you can view Burnup or Burndown chart for your specific sprint from the sprints menu.
+If you're [running Sprints]({{ site.url }}{{ site.baseurl }}{% link guide/sprints.md %}), you can view Burnup or Burndown chart for your specific sprint from the sprints menu.
 
-[Learn more about Reports ->]({{site.url}}{% link guide/reports.md %})
+[Learn more about Reports ->]({{ site.url }}{{ site.baseurl }}{% link guide/reports.md %})
 
 ---
 
 Ready to manage projects effortlessly?
 {: .fs-6 .fw-300 }
 [Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=project-management){: .btn .btn-purple } 
-[See other use cases]({{site.url}}{% link guide/use-cases.md %}){: .btn }
+[See other use cases]({{site.url}}{{ site.baseurl }}{% link guide/use-cases.md %}){: .btn }
 
 #### Further Reading
-- [How Product Managers use Zepel?]({{site.url}}{% link guide/product-manager.md %})
-- [How to prioritize features?]({{site.url}}{% link guide/prioritize-features.md %})
-- [How to build features together?]({{site.url}}{% link guide/build-together.md %})
-- [How to manage workload?]({{site.url}}{% link guide/manage-workload.md %})
-- [How Developers use Zepel to stay productive]({{site.url}}{% link guide/developers.md %})
+- [How Product Managers use Zepel?]({{site.url}}{{ site.baseurl }}{% link guide/product-manager.md %})
+- [How to prioritize features?]({{site.url}}{{ site.baseurl }}{% link guide/prioritize-features.md %})
+- [How to build features together?]({{site.url}}{{ site.baseurl }}{% link guide/build-together.md %})
+- [How to manage workload?]({{site.url}}{{ site.baseurl }}{% link guide/manage-workload.md %})
+- [How Developers use Zepel to stay productive]({{site.url}}{{ site.baseurl }}{% link guide/developers.md %})
