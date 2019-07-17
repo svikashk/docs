@@ -16,6 +16,7 @@ namespace :deploy do
   end
 
   task :production do
+    sh "git checkout master;git pull;"
     sh "JEKYLL_ENV=production jekyll build --config _config.yml,production/_config_production.yml"
     sh "s3_website push --force --config-dir production/"
   end
