@@ -59,4 +59,4 @@ __Keyboard Shortcuts:__
 - Add a Section to group similar items together by typing ```*``` at the beginning of an item.
 <br><br>
 
-If you're not working on a feature, you can add your items inside the [project's List]({{site.url}}{% link guide/add-miscellaneous-items.md %}) and [add assignees, due dates, statuses, and estimate]({{site.url}}{% link guide/add-properties.md %}) to start tracking them.
+If you're not working on a feature, you can add your items inside the [project's List]({{site.url}}{% link guide/add-miscellaneous-items.md %}) and [add assignees]({{site.url}}{% link guide/assign.md %}), [due dates]({{site.url}}{% link guide/set-due-dates.md %}), [statuses]({{site.url}}{% link guide/set-board-statuses.md %}), and [estimate]({{site.url}}{% link guide/set-estimates.md %}) to start tracking them.
