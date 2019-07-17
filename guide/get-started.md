@@ -17,7 +17,7 @@ New to Zepel? Welcome! 🤗
 
 Zepel is the project management tool that makes it effortless for you to manage and track progress across teams.
 
-Once you've signed up and created a project for your team, you are only 3 steps away from tracking progress of your feature. 
+Once you've signed up and [created a project]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %}) for your team, you are only 3 steps away from tracking progress of your feature. 
 
 In this article we will take you through the top 3 tips, so you can quickly bring in members from every team to start building and tracking features.
 

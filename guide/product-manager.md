@@ -9,7 +9,7 @@ nav_exclude: true
 # How product managers use Zepel
 {: .no_toc }
 
-Product managers take the big picture, distill it into features, break and [prioritize them]({{site.url}}{% link guide/prioritize-features.md %}) using user stories.
+Product managers take the big picture, distill it into features, break and [prioritize them]({{ site.url }}{{ site.baseurl }}{% link guide/prioritize-features.md %}) using user stories.
 
 Since product managers work with every team, being able to quickly see what each team is working on __and__ know what's happening with the feature is key to plan and prioritize for the road ahead.
 
@@ -35,11 +35,11 @@ Since you'll require items to go through statuses to keep everyone updated of pr
 
 A Feature houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. 
 
-[Adding items]({{site.url}}{% link guide/creating-work-items.md %}) for your feature is as simple as writing on a document. Simply hit enter to create another item. And press ```Cmd + Shift + S``` if you're on a Mac (Ctrl + Shift + S on Windows) to toggle between item types.
+[Adding items]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) for your feature is as simple as writing on a document. Simply hit enter to create another item. And press ```Cmd + Shift + S``` if you're on a Mac (Ctrl + Shift + S on Windows) to toggle between item types.
 
 ![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
-[Use Descriptions]({{site.url}}{% link guide/description.md %}) to add more details to each work item. For example, product managers use description as a place to add acceptance criteria for user stories and attach files below it to share files for further references.
+[Use Descriptions]({{ site.url }}{{ site.baseurl }}{% link guide/description.md %}) to add more details to each work item. For example, product managers use description as a place to add acceptance criteria for user stories and attach files below it to share files for further references.
 
 ---
 
@@ -47,7 +47,7 @@ A Feature houses all actionable items - user stories, tasks, subtasks, bugs, and
 
 Once you've added user stories and enhancements for your feature, bring in the rest of the team to estimate and understand the complexity involved in building the feature.
 
-Have [contextual conversations]({{site.url}}{% link guide/comments.md %}) on each work item and get your development team to break down each user story into subtasks.
+Have [contextual conversations]({{ site.url }}{{ site.baseurl }}{% link guide/comments.md %}) on each work item and get your development team to break down each user story into subtasks.
 
 ![Enter your comment](/guide/assets/uploads/zepel-comments.png "Comment text field")
 
@@ -59,7 +59,7 @@ Breaking down user stories into subtasks helps your team clarity and understandi
 
 Now that you have a rough estimate of how long each user story will take to get built, its time to prioritize them.
 
-[Use the advanced filters]({{site.url}}{% link guide/advanced-filter.md %}) to slice and dice all items. Sort your items by Estimate and start adding hashtags ```#``` to denote priorities.
+[Use the advanced filters]({{ site.url }}{{ site.baseurl }}{% link guide/advanced-filter.md %}) to slice and dice all items. Sort your items by Estimate and start adding hashtags ```#``` to denote priorities.
 
 ![Group and filter all items in a Feature](/guide/assets/uploads/zepel-hashtag-priorities.png "Group and Filter Items")
 
@@ -87,10 +87,10 @@ As you add more features to your project, use the Table view or the Kanban view 
 Ready to plan and prioritize features effortlessly?
 {: .fs-6 .fw-300 }
 [Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=build-together){: .btn .btn-purple } 
-[See other use cases]({{site.url}}{% link guide/use-cases.md %}){: .btn }
+[See other use cases]({{ site.url }}{{ site.baseurl }}{% link guide/use-cases.md %}){: .btn }
 
 #### Further Reading
-- [How to build features together?]({{site.url}}{% link guide/build-together.md %})
-- [How to prioritize features?]({{site.url}}{% link guide/prioritize-features.md %})
-- [How to manage workload?]({{site.url}}{% link guide/manage-workload.md %})
-- [How Developers stay productive with Zepel]({{site.url}}{% link guide/developers.md %})
+- [How to build features together?]({{ site.url }}{{ site.baseurl }}{% link guide/build-together.md %})
+- [How to prioritize features?]({{ site.url }}{{ site.baseurl }}{% link guide/prioritize-features.md %})
+- [How to manage workload?]({{ site.url }}{{ site.baseurl }}{% link guide/manage-workload.md %})
+- [How Developers stay productive with Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/developers.md %})

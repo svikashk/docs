@@ -9,7 +9,7 @@ nav_exclude: true
 # Plan and prioritize the right features
 {: .no_toc }
 
-[Product managers]({{site.url}}{% link guide/product-manager.md %}) use Zepel to plan their next set of features and to prioritize them.
+[Product managers]({{ site.url }}{{ site.baseurl }}{% link guide/product-manager.md %}) use Zepel to plan their next set of features and to prioritize them.
 
 Prioritizing features is hard mostly because the needs of your business is ever changing. What was a top priority few weeks ago could easily be something you can't afford to spend time on right now. 
 
@@ -23,9 +23,9 @@ In this article, we'll show how you can see what your team's working on, their p
 
 Don't worry about prioritizing the feature at first. 
 
-[Create a Feature]({{site.url}}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your project and put together all [user stories and tasks]({{site.url}}{% link guide/creating-work-items.md %}) you'd ideally want to accomplish.
+[Create a Feature]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your project and put together all [user stories and tasks]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) you'd ideally want to accomplish.
 
-Add acceptance criteria for your user stories within the [Description]({{site.url}}{% link guide/description.md %}) to help everyone understand what's expected of them.
+Add acceptance criteria for your user stories within the [Description]({{ site.url }}{{ site.baseurl }}{% link guide/description.md %}) to help everyone understand what's expected of them.
 
 ![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
@@ -41,7 +41,7 @@ But knowing where each user story stands isn't going to be enough if you want to
 
 You need to quickly distil all the progress your developer team, designer, and QA team made into useful information to make sense out of them.
 
-With [Progress]({{site.url}}{% link guide/progress.md %}), you can get a quick snapshot of how much progress your team has made and how far away they are from completing the feature.
+With [Progress]({{ site.url }}{{ site.baseurl }}{% link guide/progress.md %}), you can get a quick snapshot of how much progress your team has made and how far away they are from completing the feature.
 
 ![Progress of Features as a Table in Zepel](/guide/assets/uploads/zepel-progress-table.png "Feature Progress as a Table")
 
@@ -69,16 +69,16 @@ Making sure each feature has an owner will drive responsibility and ensure that 
 
 Take it a step further by adding a duration to ensure the feature is built within a timeline. After all, no body wants the feature to get dragged on forever.
 
-[Read more about delegating features ->]({{site.url}}{% link guide/using-progress.md %})
+[Read more about delegating features ->]({{ site.url }}{{ site.baseurl }}{% link guide/using-progress.md %})
 
 ---
 
 Prioritize features effortlessly and ship on time.
 {: .fs-6 .fw-300 }
 [Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=prioritize-features){: .btn .btn-purple } 
-[See other use cases]({{site.url}}{% link guide/use-cases.md %}){: .btn }
+[See other use cases]({{ site.url }}{{ site.baseurl }}{% link guide/use-cases.md %}){: .btn }
 
 #### Further Reading
-- [How Product Managers use Zepel?]({{site.url}}{% link guide/product-manager.md %})
-- [How to build features together?]({{site.url}}{% link guide/build-together.md %})
-- [How to manage workload?]({{site.url}}{% link guide/manage-workload.md %})
+- [How Product Managers use Zepel?]({{ site.url }}{{ site.baseurl }}{% link guide/product-manager.md %})
+- [How to build features together?]({{ site.url }}{{ site.baseurl }}{% link guide/build-together.md %})
+- [How to manage workload?]({{ site.url }}{{ site.baseurl }}{% link guide/manage-workload.md %})

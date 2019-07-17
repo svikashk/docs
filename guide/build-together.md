@@ -42,13 +42,13 @@ Once you've created a project, its time create Features. Features in Zepel is a 
 
 ## 3. Add Items
 
-To start tracking your feature, [add items]({{site.url}}{% link guide/creating-work-items.md %}) - User Stories, Tasks, Subtasks, Bugs, and Enhancements.. 
+To start tracking your feature, [add items]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) - User Stories, Tasks, Subtasks, Bugs, and Enhancements.. 
 
-Use Sections to organize your Feature. [Add assignees and due dates]({{site.url}}{% link guide/add-properties.md %}) to delegate work to team members. That way, everyone knows who is working on what and help you ship your feature faster.
+Use Sections to organize your Feature. [Add assignees and due dates]({{ site.url }}{{ site.baseurl }}{% link guide/add-properties.md %}) to delegate work to team members. That way, everyone knows who is working on what and help you ship your feature faster.
 
 ![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
-__NOTE:__ Sometimes, you'll find you need to work on items that don't belong to a specific feature. Product wide tech debts or bugs. You can quickly add them into your [project's List]({{site.url}}{% link guide/add-miscellaneous-items.md %}).
+__NOTE:__ Sometimes, you'll find you need to work on items that don't belong to a specific feature. Product wide tech debts or bugs. You can quickly add them into your [project's List]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %}).
 
 ---
 
@@ -66,7 +66,7 @@ With a Board tailor-made for every team, each member can work just the way they 
 
 Your designer would move their work in Design Board. And once your desiger is ready with design, your front-end developer can pick it up from Design Board and start moving it across his Development Board.
 
-[Learn how to set statuses and manage workflows ->]({{site.url}}{% link guide/boards.md %})
+[Learn how to set statuses and manage workflows ->]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
 
 ---
 
@@ -78,9 +78,9 @@ Want to run a Sprint? Simply create one, add Sprint items, and delegate work.
 
 ![Sprints in Zepel](/guide/assets/uploads/zepel-sprints.png "Sprints in Zepel")
 
-If you prefer a simple Kanban process, simply push work items to a Board and [assign it to a team member]({{site.url}}{% link guide/add-properties.md %}) and watch them make progress with using [Reports]({{site.url}}{% link guide/reports.md %}).
+If you prefer a simple Kanban process, simply push work items to a Board and [assign it to a team member]({{ site.url }}{{ site.baseurl }}{% link guide/add-properties.md %}) and watch them make progress with using [Reports]({{ site.url }}{{ site.baseurl }}{% link guide/reports.md %}).
 
-And the best part? Your team members get to focus on just the things they care about without losing context of the big picture using our [Desktop Widget]({{site.url}}{% link guide/desktop-widget.md %}).
+And the best part? Your team members get to focus on just the things they care about without losing context of the big picture using our [Desktop Widget]({{ site.url }}{{ site.baseurl }}{% link guide/desktop-widget.md %}).
 
 ---
 
@@ -92,16 +92,16 @@ While members from every team pick up items assigned to them move them across st
 
 If you want to see what each team is working on, you can simply click on their respective Board and get a quick glance of what's happening. And if you head over to Progress, you can get a quick status of how much your feature has progressed.
 
-[Learn more about Progress ->]({{site.url}}{% link guide/progress.md %})
+[Learn more about Progress ->]({{ site.url }}{{ site.baseurl }}{% link guide/progress.md %})
 
 ---
 
 Ready to build features together?
 {: .fs-6 .fw-300 }
 [Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=build-together){: .btn .btn-purple } 
-[See other use cases]({{site.url}}{% link guide/use-cases.md %}){: .btn }
+[See other use cases]({{ site.url }}{{ site.baseurl }}{% link guide/use-cases.md %}){: .btn }
 
 #### Further Reading
-- [How Product Managers use Zepel?]({{site.url}}{% link guide/product-manager.md %})
-- [How to prioritize features?]({{site.url}}{% link guide/prioritize-features.md %})
-- [How to manage workload?]({{site.url}}{% link guide/manage-workload.md %})
+- [How Product Managers use Zepel?]({{ site.url }}{{ site.baseurl }}{% link guide/product-manager.md %})
+- [How to prioritize features?]({{ site.url }}{{ site.baseurl }}{% link guide/prioritize-features.md %})
+- [How to manage workload?]({{ site.url }}{{ site.baseurl }}{% link guide/manage-workload.md %})

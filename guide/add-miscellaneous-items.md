@@ -20,4 +20,4 @@ Once a project is created, you will be taken into a List with your project's nam
 
 ![Project's List in Zepel to add miscellaneous work items](/guide/assets/uploads/zepel-list.png "Project's List in Zepel")
 
-Next we'll see [how to collaborate]({{site.url}}{% link guide/collaborating-team-members.md %}) and [deletegate work]({{site.url}}{% link guide/add-properties.md %}), so you can start tracking them.
+Next we'll see [how to collaborate]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}) and [deletegate work]({{ site.url }}{{ site.baseurl }}{% link guide/add-properties.md %}), so you can start tracking them.
