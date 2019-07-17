@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 5
+nav_order: 8
 has_children: false
 parent: Work with Teams
 title: Attach files
