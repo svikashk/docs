@@ -2,7 +2,7 @@
 layout: default
 nav_order: 3
 has_children: false
-parent: Using Boards
+parent: Use Boards
 title: Reuse a Board from another Project
 description: Learn how to create Boards within a project and track progress.
 permalink: boards/add-existing-board/

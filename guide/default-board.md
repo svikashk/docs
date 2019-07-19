@@ -2,7 +2,7 @@
 layout: default
 nav_order: 4
 has_children: false
-parent: Using Boards
+parent: Use Boards
 title: Change default Board
 description: Change a Features's default Board within your project.
 permalink: boards/default-boards/

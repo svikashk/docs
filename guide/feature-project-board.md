@@ -1,8 +1,8 @@
 ---
 layout: default
-nav_order: 6
+nav_order: 7
 has_children: false
-parent: Using Boards
+parent: Use Boards
 title: Feature Board vs Project Board
 description: Filter your Boards to see where each item stands and who is working on what to manage workload
 permalink: boards/feature-board-project-board/
