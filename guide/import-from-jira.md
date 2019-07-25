@@ -34,7 +34,7 @@ Note: You need to be a JIRA admin to access all your projects through the API.
 
 ![Select JIRA projects you'd like to import](/guide/assets/uploads/zepel-jira-projects.png "Select JIRA projects to import")
 
-* Enter the email address of members you'd like to import into Zepel. 
+* Click on the checkboxes to select members you want to import and enter their email addresses.
 
 Note: If you decide not to import certain members, any related to that user will not be imported.
 
