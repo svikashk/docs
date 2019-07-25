@@ -24,13 +24,21 @@ Switching to Zepel over Jira lets you work on your projects without bringing you
 
 ![Click on Import from JIRA button](/guide/assets/uploads/zepel-jira-import.png "Click on Import from JIRA button")
 
-* Enter your Jira credentials to view your projects. Please note that you need to be a Jira admin to access all your projects through the API. 
+* Enter your JIRA credentials to view your projects. You will need to create a token in JIRA and use that to access your JIRA projects. You can read about creating a token [over here](https://confluence.atlassian.com/cloud/api-tokens-938839638.html). 
+
+Note: You need to be a JIRA admin to access all your projects through the API. 
 
 ![Log in to your JIRA account to access your projects](/guide/assets/uploads/zepel-jira-login.png "Log in to JIRA")
 
-* Select the projects that you want to import into Zepel. You may choose upto 10 projects at a time. 
+* Select the projects that you want to import into Zepel. 
 
 ![Select JIRA projects you'd like to import](/guide/assets/uploads/zepel-jira-projects.png "Select JIRA projects to import")
+
+* Enter the email address of members you'd like to import into Zepel. 
+
+Note: If you decide not to import certain members, any related to that user will not be imported.
+
+![Enter email address of your team members](/guide/assets/uploads/zepel-jira-email-import.png)
 
 * Once you have selected and confirmed the projects you want to import, click the "**Import**" to start the import.
 
