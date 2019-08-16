@@ -3,9 +3,10 @@ layout: default
 nav_order: 1
 has_children: false
 parent: Track Feature Progress
-title: Using Progress
-description: Learn how to use Progress in Zepel to track feature progress and plan for the road ahead.
-permalink: track-progress/using-progress
+title: Using Progress to Track Features
+description: View your work items just the way you want with Zepel's desktop widget.
+permalink: track-progress/using-progress/
+
 ---
 # How to use Progress?
 {: .no_toc }
