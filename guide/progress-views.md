@@ -5,7 +5,7 @@ has_children: false
 parent: Track Feature Progress
 title: Different Views in Progress
 description: Learn how to use Progress in Zepel to track feature progress and plan for the road ahead.
-permalink: track-progress/progress-views
+permalink: track-progress/progress-views/
 ---
 # Views in Progress
 {: .no_toc }
