@@ -3,11 +3,11 @@ layout: default
 nav_order: 4
 has_children: false
 parent: Get Started
-title: Add miscellaneous work items
+title: Using List
 description: Add miscellaneous items that do not belong to a feature into your Project's List.
 permalink: get-started/add-miscellaneous-work-items/
 ---
-# Add miscellaneous work items
+# Using List in Zepel
 
 Any work item that isn't part of a feature, goes into your project's List.
 {: .fs-6 .fw-300 }
