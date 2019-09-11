@@ -6,14 +6,6 @@
     <meta name="robots" content="noindex">
   {% endif %}
 
-  {% if site.plugins.jekyll-seo == nil %}
-    <title>{{ page.title }} - {{ site.title }}</title>
-
-    {% if page.description %}
-    <meta name="Description" content="{{ page.description }}">
-    {% endif %}
-  {% endif %}
-
   <link rel="shortcut icon" href="{{ "favicon.ico" | absolute_url }}" type="image/x-icon">
   
   <link href="https://fonts.googleapis.com/css?family=Hind:400,500,700&display=swap" rel="stylesheet" type='text/css'>
@@ -27,5 +19,7 @@
   <script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}" async></script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% seo %}
+  
+  <title>{{ page.title }}</title>
+  {% seo title=false %}
 </head>
