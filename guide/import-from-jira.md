@@ -5,7 +5,7 @@ has_children: false
 parent: Import Projects
 title: Import from Jira
 description: Move your Jira projects to Zepel and start managing projects with ease.
-permalink: import/Jira/
+permalink: import/jira/
 ---
 # Importing Jira Projects into Zepel
 {: .no_toc }
