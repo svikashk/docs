@@ -119,4 +119,8 @@ pre.highlight {
     border-top-left-radius: 0;
     border-top-right-radius: 0;
   }
+ 
+  &.markdown +.highlighter-rouge {
+    letter-spacing: 1.5px;
+  }
 }

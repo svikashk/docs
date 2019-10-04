@@ -60,25 +60,25 @@ Use "hash" before the text for each level of heading
 
 Wrap text within a single asterix or underscore for italics and two asterix or underscores to make them bold
 
-<div class="code-example" markdown="1">
+<div class="code-example markdown" markdown="1">
 __This text is also bold__
 </div>
 ``` markdown
 __This text is also bold__
 ```
 
-<div class="code-example" markdown="1">
+<div class="code-example markdown" markdown="1">
 *This text is italicized*
 </div>
 ```markdown
 *This text is italicized*
 ```
 
-<div class="code-example" markdown="1">
-This line has _**bold formatting** within italics_
+<div class="code-example markdown" markdown="1">
+This line has *__bold formatting__ within italics*
 </div>
 ```markdown
-This line has _**bold formatting** within italics_
+This line has *__bold formatting__ within italics*
 ```
 
 ---
