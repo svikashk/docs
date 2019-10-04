@@ -153,7 +153,7 @@ As Abe Lincoln once said:
 
 Use 3 underscores to create a horizontal line
 
-<div class="code-example" markdown="1">
+<div class="code-example markdown" markdown="1">
 ___
 </div>
 ```markdown
