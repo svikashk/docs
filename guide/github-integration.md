@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 2
 parent: Integrations
 has_children: false
 title: Integrating Github with Zepel
@@ -27,9 +27,6 @@ In this article, we'll see how you can set up your Zepel account to integrate wi
 ![Head over to Integrations tab in Account Settings](/guide/assets/uploads/integrations-tab.png "Integrations tab in Account Settings")
 
 * Click on the "**Enable**" button next to Github.
-
-![Enable Github Integration](/guide/assets/uploads/zepel-github-integration.png "Enable Github Integration")
-
 * Now, login to your Github account and visit the repository you want to connect with your Zepel account.
 * From your repository's settings, visit Webhooks tab.
 * Click on "**Add webhook**" button.
@@ -48,4 +45,4 @@ In this article, we'll see how you can set up your Zepel account to integrate wi
 
 * Click on "**Add Webhook**".
 
-Your Zepel account is now integrated with your Github repository. Read how you can complete tasks every time you close a pull request.
+Your Zepel account is now integrated with your Github repository. Read how you can [complete tasks every time you close a pull request]({{ site.url }}{{ site.baseurl }}{% link guide/complete-with-github.md %}).
