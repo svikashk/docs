@@ -24,7 +24,7 @@ In this article, we'll see how you can set up your Zepel account to integrate wi
 
 ![Head over to Integrations tab in Account Settings](/guide/assets/uploads/integrations-tab.png "Integrations tab in Account Settings")
 
-* Click on the "**Enable**" button next to Github.
+* Click on the "**Enable**" button next to GitLab.
 * Now, login to your GitLab account and visit the project you want to connect with your Zepel account.
 * From within your project's settings, click on Integrations.
 
