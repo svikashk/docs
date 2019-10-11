@@ -1,13 +1,13 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 7
 parent: Integrations
 has_children: false
-title: Autocomplete items through Github
+title: Autocomplete items through Gitlab
 description: Autocomplete items in Zepel when you merge pull requests in Github.
-permalink: integrations/complete-items-with-github/
+permalink: integrations/complete-items-with-gitlab/
 ---
-# Complete items in Zepel with Github integration
+# Complete items in Zepel with Gitlab integration
 
 {: .no_toc }
 

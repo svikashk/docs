@@ -1,19 +1,17 @@
 ---
 layout: default
-nav_order: 2
+nav_order: 6
 parent: Integrations
 has_children: false
-title: Integrating Github with Zepel
-description: Integrate your Zepel account with Github to link items to pull requests.
-permalink: integrations/github/
+title: Integrating Gitlab with Zepel
+description: Integrate your Zepel account with Gitlab to link items to pull requests.
+permalink: integrations/gitlab/
 ---
-# How to integrate Github with Zepel?
+# How to integrate Gitlab with Zepel?
 
 {: .no_toc }
 
-Sometimes your dev team can merge and close a pull request, but forget to complete the task. That can leave you with outdated information. With Zepel's Github integration, your developers can now simply close a pull request and Zepel will complete the task for them.
-
-In this article, we'll see how you can set up your Zepel account to integrate with your Github repository.
+In this article, we'll see how you can set up your Zepel account to integrate with your Gitlab repository.
 
 ## Integrate Zepel with Github
 

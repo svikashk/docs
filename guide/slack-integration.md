@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 1
 parent: Integrations
 has_children: false
 title: Integrating Slack with Zepel
