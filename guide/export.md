@@ -18,11 +18,11 @@ Zepel lets you import all your data from Features
 
 - From the top-right corner, click on Settings icon.
 
-![Items and its types in Zepel](/guide/assets/uploads/feature-settings.png "Items in Zepel")
+![Feature Settings in Zepel](/guide/assets/uploads/feature-settings.png)
 
 - From the settings drop down, click on Export.
 
-![Items and its types in Zepel](/guide/assets/uploads/feature-settings-export.png "Items in Zepel")
+![Click Export](/guide/assets/uploads/feature-settings-export.png)
 
 - From the Export popup, you can select which format you'd like to export your data and which data you want to export.
 
@@ -32,4 +32,4 @@ You can export your data in 3 formats:
 2. Plain Text
 3. JSON 
 
-![Items and its types in Zepel](/guide/assets/uploads/feature-export-popup.png "Items in Zepel")
+![Exporting from Zepel](/guide/assets/uploads/feature-export-popup.png)

@@ -27,4 +27,4 @@ Merge pull request in Bitbucket and Zepel can automatically complete its respect
 
 ![Bitbucket Webhook Events](/guide/assets/uploads/zepel-bitbucket-link-in-description.png "Bitbucket Webhook Events")
 
-When you close this pull request, its respective task in Zepel will automatically get completed. And if your team has Slack integration enabled, they'll automatically be notified too.
+When you close this pull request, its respective task in Zepel will automatically get completed. And if your team has [Slack integration enabled]({{ site.url }}{{ site.baseurl }}{% link guide/slack-integration.md %}), they'll automatically be notified too.
