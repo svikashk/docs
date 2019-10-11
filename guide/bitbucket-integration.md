@@ -25,9 +25,6 @@ In this article, we'll see how you can set up your Zepel account to integrate wi
 ![Head over to Integrations tab in Account Settings](/guide/assets/uploads/integrations-tab.png "Integrations tab in Account Settings")
 
 * Click on the "**Enable**" button next to Bitbucket.
-
-![Enable Bitbucket Integration](/guide/assets/uploads/zepel-bitbucket-integration.png "Enable Bitbucket Integration")
-
 * Now, login to your Bitbucket account and visit the repository you want to connect with your Zepel account.
 * From your repository's settings, visit Webhooks tab.
 * Click on "Add webhook" button.
@@ -45,4 +42,4 @@ In this article, we'll see how you can set up your Zepel account to integrate wi
 
 * Click "**Save**".
 
-Your Zepel account is now integrated with your Github repository. Read how you can complete tasks every time you merge a pull request.
+Your Zepel account is now integrated with your Github repository. Read how you can [complete tasks every time you merge a pull request]({{ site.url }}{{ site.baseurl }}{% link guide/complete-with-bitbucket.md %}).
