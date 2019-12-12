@@ -7,7 +7,7 @@ description: "Learn how Zepel works with documentation, how to use, best practic
 permalink: /
 ---
 
-# Zepel Product Guide And Knowledge Base
+# Zepel Product Guide
 {: .fs-9 }
 
 Best practices, tips, and tricks on how you can plan features and manage projects with Zepel.
