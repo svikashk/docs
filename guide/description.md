@@ -171,7 +171,7 @@ Format code inline by wrapping it in backticks ( ` )
 `<html></html>`
 ```
 
-Use 3 backticks (```) to delimit multi-line code blocks
+**NOTE:** Use 3 backticks (```) to delimit multi-line code blocks. If you're trying to add a code block after a paragraph, be sure to leave an empty line after the paragraph.
 
 ---
 
