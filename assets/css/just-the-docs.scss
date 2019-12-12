@@ -20,8 +20,127 @@
 // Import custom overrides
 //
 
+@media (min-width: 900px){
+
+  .row {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 130px;
+  }
+
+  .highlight-row {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 130px;
+  }
+
+  .column {
+    width: 50%;
+    float: left;
+    margin-bottom: 20px;
+  }
+
+  .highlight-column {
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+  }
+
+  .card {
+    box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.05);
+    transition: 0.3s;
+    margin-left: 10px;
+    border: 1px solid #e7e8e9;
+    margin-right: 10px;
+    border-radius: 4px;
+  }
+
+  .card:hover {
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.07);
+    border-color: #5a5ac3;
+  }
+
+  .highlight-card {
+    box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.05);
+    transition: 0.3s;
+    margin-left: 10px;
+    border: 1px solid #bcbced;
+    margin-right: 10px;
+    border-radius: 4px;
+  }
+
+  .highlight-card:hover {
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.07);
+    border-color: #5a5ac3;
+  }
+  
+}
+
+@media (max-width: 899px){
+
+  .row {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 130px;
+  }
+  
+  .highlight-row {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 130px;
+  }
+
+  .column {
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+  }
+
+  .highlight-column {
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+  }
+
+  .card {
+    box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.05);
+    transition: 0.3s;
+    margin-left: 10px;
+    border: 1px solid #bcbced;
+    margin-right: 10px;
+    border-radius: 4px;
+  }
+
+  .card:hover {
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.07);
+    border-color: #5a5ac3;
+  }
+
+  .highlight-card {
+    box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.05);
+    transition: 0.3s;
+    margin-left: 10px;
+    border: 1px solid #e7e8e9;
+    margin-right: 10px;
+    border-radius: 4px;
+  }
+
+  .highlight-card:hover {
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.07);
+    border-color: #5a5ac3;
+  }
+
+
+}
+
+.highlight-card-title {
+  color: #424f56;
+  font-weight: 500;
+}
+
 .card-title {
   color: #5a5ac3;
+  font-weight: 500;
 }
 
 .site-footer {
@@ -48,12 +167,6 @@
   padding-left: 20px;
 }
 
-.row {
-  width: 100%;
-  margin-top: 20px;
-  margin-bottom: 130px;
-}
-
 .usecases-row {
   width: 100%;
   margin-top: 40px;
@@ -66,35 +179,25 @@
 
 }
 
-.column {
-  width: 50%;
-  float: left;
-  margin-bottom: 20px;
-}
-
-.card {
-  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.05);
-  transition: 0.3s;
-  margin-left: 10px;
-  border: 1px solid #e7e8e9;
-  margin-right: 10px;
-  border-radius: 4px;
-}
-
-.card:hover {
-  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.07);
-}
-
 .container {
 padding: 2px 16px;
 }
+
+.highlight-container {
+  padding: 2px 16px;
+  background: #fafaff none repeat scroll 0 0;;
+  }
 
 .container a {
   white-space: normal !important;
 }
 
+.highlight-container a {
+  white-space: normal !important;
+}
+
 blockquote {
-    background: #f9f9f9;
+    background: #ffffff;
     border-left: 10px solid #ccc;
     margin: 1.5em 10px;
     padding: 0.5em 10px;
