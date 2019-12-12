@@ -35,7 +35,7 @@ An account is an overarching entity that owns all your projects and houses them 
 
 ## Projects 
 
-A project is where members of in your organization come together to achieve a common goal. Projects can be features your company is working on, or represent teams such as Design or Data Science. 
+A project is where members of your organization come together to achieve a common goal. Projects can be named after teams such as Design or Data Science, but can also map to a product or initiative your company is working on (Android App, iOS App).
 
 ![All Projects in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Projects")
 
