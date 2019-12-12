@@ -23,7 +23,7 @@ Best practices, tips, and tricks on how you can plan features and manage project
   <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}/use-cases/">
     <h4 class="card-title"><b>Using with Teams</b></h4> 
-    <p>Learn how to use Zepel with your team</p> 
+    <p>Learn how to collaborate and use Zepel with your team.</p> 
     </a>
   </div>
 </div>
@@ -34,7 +34,7 @@ Best practices, tips, and tricks on how you can plan features and manage project
   <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}/sprints/">
     <h4 class="card-title"><b>Sprints</b></h4> 
-    <p>Plan Sprints and ship features on time</p> 
+    <p>See how to plan and run Sprints to ship features on time.</p> 
     </a>
   </div>
 </div>
@@ -47,7 +47,18 @@ Best practices, tips, and tricks on how you can plan features and manage project
   <div class="container">
     <a href="{{ site.url }}{{ site.baseurl }}/boards/">
     <h4 class="card-title"><b>Boards</b></h4> 
-    <p>Use Boards to move work using Kanban</p> 
+    <p>Read how to use Boards to move work around using Kanban.</p> 
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <div class="container">
+    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/">
+    <h4 class="card-title"><b>Use Cases</b></h4> 
+    <p>Learn how to use Zepel for various use cases.</p> 
     </a>
   </div>
 </div>

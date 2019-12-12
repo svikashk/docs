@@ -15,7 +15,7 @@ has_toc: true
 New to Zepel? Welcome! 🤗
 {: .fs-6 .fw-300 }
 
-Zepel is the project management tool that makes it effortless for you to manage and track progress across teams.
+Zepel is the project management tool that makes it effortless for you to plan features, manage, and track its progress across teams.
 
 Once you've signed up and [created a project]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %}) for your team, you are only 3 steps away from tracking progress of your feature. 
 

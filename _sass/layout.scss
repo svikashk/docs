@@ -39,6 +39,19 @@
     width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
     min-width: $nav-width;
   }
+
+  .logo {
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    margin-right: 10px;
+    max-width: 30%;
+    box-shadow: none;
+
+    @media (min-width: 46.25rem) and (max-width: 70rem) {
+      display: none;
+    }
+  }
 }
 
 .main-content-wrap {
@@ -56,7 +69,7 @@
 }
 
 .main-content {
-  padding-top: 100px;
+  padding-top: 25px;
   // padding-top: $gutter-spacing-sm;
   @include container;
 
