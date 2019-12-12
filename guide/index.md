@@ -3,11 +3,11 @@ layout: default
 title: Zepel Guide
 nav_order: 1
 icon_path: /assets/uploads/home.svg
-description: "Everything you need to know about using Zepel with your team"
+description: "Learn how Zepel works with documentation, how to use, best practices, and tips to get maximum value out of Zepel"
 permalink: /
 ---
 
-# Zepel Knowledge Base
+# Zepel Product Guide And Knowledge Base
 {: .fs-9 }
 
 Best practices, tips, and tricks on how you can plan features and manage projects with Zepel.
