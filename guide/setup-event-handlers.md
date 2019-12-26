@@ -4,7 +4,7 @@ nav_order: 3
 parent: Integrations
 has_children: false
 title: Setup Event Handlers for Version Control System
-description: Setting up event handlers for Github, Bitbucket, and Gitlab in Zepel
+description: Setting up event handlers for Github, Bitbucket, and Gitlab in Zepel. This allows you to automatically move items from one status to another while remaining in your regular workflow.
 permalink: integrations/setup-event-handlers/
 ---
 # Setting up event handlers for Github, Bitbucket, and GitLab
