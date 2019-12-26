@@ -4,7 +4,7 @@ nav_order: 3
 parent: Integrations
 has_children: false
 title: Setup Event Handlers for Version Control System
-description: Autocomplete items in Zepel when you merge pull requests in Github.
+description: Setting up event handlers for Github, Bitbucket, and Gitlab in Zepel
 permalink: integrations/setup-event-handlers/
 ---
 # Setting up event handlers for Github, Bitbucket, and GitLab
