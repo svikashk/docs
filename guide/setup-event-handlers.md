@@ -15,7 +15,7 @@ With the Zepel's GitHub, Bitbucket, and GitLab integration, you can move any ite
 
 The event handlers in Zepel are setup on a per project basis.
 
-* To configure event handlers in your project make sure that you've first enabled the integration for Github, Bitbucket, or GitLab.
+* To configure event handlers in your project make sure that you've first enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}).
 
 * Once you've enabled the integration, go to the project for which you want to setup event handlers.
 
