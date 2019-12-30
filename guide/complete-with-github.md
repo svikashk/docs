@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 9
 parent: Integrations
 has_children: false
 title: Autocomplete items through Github

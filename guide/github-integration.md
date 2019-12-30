@@ -38,11 +38,23 @@ In this article, we'll see how you can set up your Zepel account to integrate wi
 
 ![Add URL to Github Webhook](/guide/assets/uploads/zepel-github-integration-webhooks.png "Github Webhooks")
 
-* Since Zepel integrates only with pull request closed event, under "**Which events would you like to trigger this webhook?**", select "**Let me select individual events**".
-* Now, uncheck "**Pushes**" and select "**Pull requests**".
+* Under "**Which events would you like to trigger this webhook?**", click on the radio-button "**Let me select individual events**".
+
+![Select Webhook Events](/guide/assets/uploads/zepel-github-integration-select-events.png "Click on the radio-button")
+
+* Now, select "**Pushes**" and "**Pull requests**".
 
 ![Github Webhook Events](/guide/assets/uploads/zepel-github-integration-webhook-events.png "Github Webhook Events")
 
 * Click on "**Add Webhook**".
 
-Your Zepel account is now integrated with your Github repository. Read how you can [complete tasks every time you close a pull request]({{ site.url }}{{ site.baseurl }}{% link guide/complete-with-github.md %}).
+Your Zepel account is now integrated with your Github repository. 
+
+---
+
+**Read Next:** 
+
+1. [Learn how to link item to a branch.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %})
+1. [See how to link a Zepel item to commit.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %})
+1. [Read how to associate an item to a pull request.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %})
+1. [How to automatically move items based on your Git workflows.]({{ site.url }}{{ site.baseurl }}{% link guide/setup-git-triggers.md %})

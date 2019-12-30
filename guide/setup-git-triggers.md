@@ -1,13 +1,13 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 5
 parent: Integrations
 has_children: false
-title: Setup Event Handlers for Version Control System
+title: Setup Git Workflow Triggers
 description: Setting up event handlers for Github, Bitbucket, and Gitlab in Zepel. This allows you to automatically move items from one status to another while remaining in your regular workflow.
-permalink: integrations/setup-event-handlers/
+permalink: integrations/setup-git-workflow-triggers/
 ---
-# Setting up event handlers for Github, Bitbucket, and GitLab
+# Setting up triggers to automate workflows for Github, Bitbucket, and GitLab
 
 {: .no_toc }
 
@@ -30,3 +30,12 @@ The event handlers in Zepel are setup on a per project basis.
 * Click "**Create new event handler**" to create this event handler.
 
 * You can create more event handlers and streamline your entire development process by clicking on "**Add new event handler**".
+
+---
+
+__Further Reading:__ 
+
+1. [How to automatically move items based on your Git workflows]({{ site.url }}{{ site.baseurl }}{% link guide/setup-git-triggers.md %})
+1. [Link item to a branch]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %})
+1. [Link item to commit]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %})
+1. [Link item to a pull request]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %})

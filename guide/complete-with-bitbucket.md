@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 5
+nav_order: 10
 parent: Integrations
 has_children: false
 title: Autocomplete items through Bitbucket

@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 7
+nav_order: 11
 parent: Integrations
 has_children: false
 title: Autocomplete items through GitLab

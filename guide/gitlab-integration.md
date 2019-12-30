@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 6
+nav_order: 4
 parent: Integrations
 has_children: false
 title: Integrating GitLab with Zepel

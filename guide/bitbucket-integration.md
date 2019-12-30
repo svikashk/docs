@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 3
 parent: Integrations
 has_children: false
 title: Integrating Bitbucket with Zepel
