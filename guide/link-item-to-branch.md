@@ -4,7 +4,7 @@ nav_order: 6
 parent: Integrations
 has_children: false
 title: Link Item To Branch
-description: Setting up event handlers for Github, Bitbucket, and Gitlab in Zepel. This allows you to automatically move items from one status to another while remaining in your regular workflow.
+description: Learn how to link a work item in Zepel to a Branch using Github, Bitbucket, or Gitlab.
 permalink: integrations/link-item-to-branch/
 ---
 # Linking an Item to a Branch

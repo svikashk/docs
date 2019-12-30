@@ -4,7 +4,7 @@ nav_order: 8
 parent: Integrations
 has_children: false
 title: Link Item To Pull Request
-description: Setting up event handlers for Github, Bitbucket, and Gitlab in Zepel. This allows you to automatically move items from one status to another while remaining in your regular workflow.
+description: Learn how to link a work item in Zepel to a Pull Request using Github, Bitbucket, or Gitlab.
 permalink: integrations/link-item-to-pr/
 ---
 # Linking an Item to a Pull Request

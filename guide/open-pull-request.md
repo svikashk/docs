@@ -4,7 +4,7 @@ nav_order: 9
 parent: Integrations
 has_children: false
 title: Open Pull Request From Zepel
-description: Setting up event handlers for Github, Bitbucket, and Gitlab in Zepel. This allows you to automatically move items from one status to another while remaining in your regular workflow.
+description: Learn how to open a new Pull Request in Github, Bitbucket, or Gitlab using Zepel's UI.
 permalink: integrations/open-pull-request/
 ---
 # Opening a Pull Request from within Zepel
