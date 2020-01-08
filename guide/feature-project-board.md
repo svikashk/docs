@@ -13,11 +13,13 @@ permalink: boards/feature-board-project-board/
 
 ## Project Boards
 
-Project Boards allow you to gain visibility across all the features that are being worked on within the project. Project Boards in Zepel are visible on the sidebar within your project. Zepel lets you add multiple boards within a project. That way, you can add a separate Board for Development, QA, Design, and so on. Each of these Boards can be used by multiple Features. 
+Project Boards allow you to gain visibility across all the features that are being worked on within the project. 
 
 For example, if you have two Features named Search and Reports with Dev Board being used in both the Features, you will view all items from both the Features on the Dev Board if you open it from the project sidebar.
 
 ![Project Boards in Zepel](/guide/assets/uploads/zepel-project-boards.png "Project Boards")
+
+Project Boards in Zepel are visible on the sidebar within your project. Zepel lets you add multiple boards within a project. That way, you can add a separate Board for Development, QA, Design, and so on. Each of these Boards can be used by multiple Features. 
 
 If your project board is used in multiple Features within your project, you will be able to view all items across Features. You can choose to [filter your Board]({{ site.url }}{{ site.baseurl }}{% link guide/boards-filter.md %}) based on a specific Feature to view just those items.
 
