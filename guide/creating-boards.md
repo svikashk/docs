@@ -4,6 +4,7 @@ nav_order: 1
 has_children: false
 parent: Use Boards
 title: Create a new Board
+page_title: Create a new Board
 description: Learn how to create Boards within a project and track progress.
 permalink: boards/creating-boards/
 ---

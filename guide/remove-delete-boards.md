@@ -4,6 +4,7 @@ nav_order: 6
 has_children: false
 parent: Use Boards
 title: Remove and Delete Boards
+page_title: Remove and Delete Boards
 description: Remove or Delete unused Boards from projects.
 permalink: boards/remove-delete-boards/
 ---

@@ -2,6 +2,7 @@
 layout: default
 nav_order: 3
 title: Prioritize Features in Zepel
+page_title: Prioritize Features in Zepel
 description: Prioritizing the right feature is hard. Learn how you can plan an entire feature and prioritize on Zepel to help your team build features that move the needle.
 permalink: use-cases/prioritize-features/
 nav_exclude: true

@@ -4,6 +4,7 @@ nav_order: 5
 has_children: false
 parent: Use Boards
 title: Filtering Boards
+page_title: Filtering Boards
 description: Filter your Boards to see where each item stands and who is working on what to manage workload
 permalink: boards/filter-boards/
 ---

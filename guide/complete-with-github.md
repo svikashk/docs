@@ -1,11 +1,11 @@
 ---
 layout: default
-nav_order: 9
-parent: Integrations
 has_children: false
 title: Autocomplete items through Github
+page_title: Autocomplete items through Github
 description: Autocomplete items in Zepel when you merge pull requests in Github.
 permalink: integrations/complete-items-with-github/
+nav_exclude: true
 ---
 # Complete items in Zepel with Github integration
 

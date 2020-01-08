@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Zepel Guide
+title: Zepel Guide and Documentation
+page_title: Home
 nav_order: 1
 icon_path: /assets/uploads/home.svg
 description: Learn how Zepel works, how to use, best practices, and tips to get maximum value out of Zepel with docs and product guide.

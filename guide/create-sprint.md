@@ -4,6 +4,7 @@ nav_order: 1
 has_children: false
 parent: Run Sprints
 title: Create Sprint
+page_title: Create Sprint
 description: Learn how to create Sprints in Zepel
 permalink: sprints/create-sprint/
 ---

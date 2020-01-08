@@ -3,7 +3,8 @@ layout: default
 nav_order: 4
 parent: Integrations
 has_children: false
-title: Integrating GitLab with Zepel
+title: How to integrate GitLab
+page_title: GitLab
 description: Integrate your Zepel account with GitLab to link items to pull requests.
 permalink: integrations/gitlab/
 ---

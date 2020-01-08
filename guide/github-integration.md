@@ -3,7 +3,8 @@ layout: default
 nav_order: 2
 parent: Integrations
 has_children: false
-title: Integrating Github with Zepel
+title: How to integrate Github with Zepel
+page_title: Github
 description: Integrate your Zepel account with Github to link items to pull requests.
 permalink: integrations/github/
 ---
@@ -14,6 +15,8 @@ permalink: integrations/github/
 Sometimes your dev team can merge and close a pull request, but forget to complete the task. That can leave you with outdated information. With Zepel's Github integration, your developers can now simply close a pull request and Zepel will complete the task for them.
 
 In this article, we'll see how you can set up your Zepel account to integrate with your Github repository.
+
+__Before you begin:__ Ensure that you have Admin permissions for the GitHub repository.
 
 ## Integrate Zepel with Github
 
@@ -58,3 +61,4 @@ Your Zepel account is now integrated with your Github repository.
 1. [See how to link a Zepel item to commit.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %})
 1. [Read how to associate an item to a pull request.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %})
 1. [How to automatically move items based on your Git workflows.]({{ site.url }}{{ site.baseurl }}{% link guide/setup-git-triggers.md %})
+1. [Open pull requests from within Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/open-pull-request.md %})

@@ -2,6 +2,7 @@
 layout: default
 nav_order: 1
 title: Manage team's workload to route work efficiently
+page_title: Manage team's workload to route work efficiently
 description: Learn how you can manage your team's workload and understand your team's capacity with Zepel.
 permalink: use-cases/manage-workload/
 nav_exclude: true

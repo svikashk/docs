@@ -4,6 +4,7 @@ nav_order: 4
 has_children: false
 parent: Work with Teams
 title: Set Board Statuses
+page_title: Set Board Statuses
 description: Set and update Board statuses, so everyone knows where each work stands and is always in sync.
 permalink: working-with-teams/board-statuses/
 ---

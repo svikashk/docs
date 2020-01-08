@@ -4,6 +4,7 @@ nav_order: 1
 has_children: false
 parent: Work with Teams
 title: Collaborating with Team Members
+page_title: Collaborating with Team Members
 description: Cross team collaboration and collaboration within your team is simple and effortless. See how you can collaborate with members into an account or into your project using Zepel.
 permalink: working-with-teams/collaborating-team-members/
 ---

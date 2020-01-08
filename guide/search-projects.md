@@ -4,6 +4,7 @@ nav_order: 1
 has_children: false
 parent: Search
 title: Search Projects
+page_title: Search Projects
 description: Search and find projects you are working on.
 permalink: search/search-projects/
 ---

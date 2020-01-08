@@ -4,6 +4,7 @@ nav_order: 3
 has_children: false
 parent: Use Boards
 title: Move Items To Another Board
+page_title: Move Items To Another Board
 description: Learn how to handoff work from one Board to another.
 permalink: boards/move-items/
 ---

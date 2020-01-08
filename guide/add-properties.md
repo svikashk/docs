@@ -3,6 +3,7 @@ layout: default
 nav_order: 2
 has_children: false
 title: Add Properties to Items
+page_title: Add Properties to Items
 description: Start collaborating on projects with your team in Zepel. Assign, set due dates, set statuses, and estimate your work items.
 permalink: working-with-teams/add-properties/
 nav_exclude: true

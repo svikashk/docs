@@ -4,11 +4,14 @@ nav_order: 9
 parent: Integrations
 has_children: false
 title: Open Pull Request From Zepel
+page_title: Open Pull Request From Zepel
 description: Learn how to open a new Pull Request in Github, Bitbucket, or Gitlab using Zepel's UI.
 permalink: integrations/open-pull-request/
 ---
 # Opening a Pull Request from within Zepel
 {: .no_toc }
+
+__Before you begin:__ Ensure that you've [enabled the integration for Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}).
 
 If an item in Zepel is [linked to a branch]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %}), you can quickly open a pull request and view the number of lines changed from within Zepel.
 

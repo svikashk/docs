@@ -2,6 +2,7 @@
 layout: default
 nav_order: 1
 title: How Developers use Zepel to complete work and beat deadlines
+page_title: How Developers use Zepel to complete work and beat deadlines
 description: Are you a Developer tired of using slow, clunky project management tools? Learn how you can effortlessly track and beat deadlines with Zepel
 permalink: use-cases/developers/
 nav_exclude: true

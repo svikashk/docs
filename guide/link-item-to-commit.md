@@ -4,15 +4,16 @@ nav_order: 7
 parent: Integrations
 has_children: false
 title: Link Item To Commit
+page_title: Link Item To Commit
 description: Learn how to link a work item in Zepel to a Commit using Github, Bitbucket, or Gitlab.
 permalink: integrations/link-item-to-commit/
 ---
 # Linking an Item to a Commit
 {: .no_toc }
 
-An item in Zepel can be associated to a Commit in your version control system.
-
 __Before you begin:__ Ensure that you've [enabled the integration for Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}).
+
+An item in Zepel can be associated to a Commit in your version control system.
 
 A commit can be associated to an item by using the item ID
 
@@ -43,3 +44,4 @@ __Read Next:__
 1. [How to automatically move items based on your Git workflows]({{ site.url }}{{ site.baseurl }}{% link guide/setup-git-triggers.md %})
 1. [Link item to a branch]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %})
 1. [Link item to a pull request]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %})
+1. [Open pull requests from within Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/open-pull-request.md %})

@@ -4,6 +4,7 @@ nav_order: 5
 has_children: false
 parent: Work with Teams
 title: Estimate Work
+page_title: Estimate Work
 description: Estimate work your team is working in Zepel. That way, you get an idea on how long each feature will take.
 permalink: working-with-teams/estimates/
 ---

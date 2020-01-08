@@ -4,6 +4,7 @@ nav_order: 3
 has_children: false
 parent: Run Sprints
 title: Add Sprint Duration
+page_title: Add Sprint Duration
 description: Learn how to add a duration for your Sprint.
 permalink: sprints/sprint-duration/
 ---
