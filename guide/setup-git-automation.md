@@ -3,8 +3,8 @@ layout: default
 nav_order: 5
 parent: Integrations
 has_children: false
-title: Setup Git Workflow Triggers
-page_title: Setup Git Workflow Triggers
+title: Setup Git Workflow Automation
+page_title: Setup Git Workflow Automation
 description: Learn how to set up workflow triggers for Github, Bitbucket, and Gitlab in Zepel to automatically update statuses of linked items.
 permalink: integrations/setup-git-workflow-triggers/
 ---
@@ -38,7 +38,6 @@ The event handlers in Zepel are setup on a per project basis.
 
 __Further Reading:__ 
 
-1. [How to automatically move items based on your Git workflows]({{ site.url }}{{ site.baseurl }}{% link guide/setup-git-triggers.md %})
 1. [Link item to a branch]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %})
 1. [Link item to commit]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %})
 1. [Link item to a pull request]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %})
