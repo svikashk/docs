@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pricing FAQ
+page_title: Pricing FAQ
 nav_order: 12
 icon_path: /assets/uploads/pricing.svg
 description: All frequently asked questions about Zepel's pricing, answered.

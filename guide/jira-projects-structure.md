@@ -4,6 +4,7 @@ nav_order: 2
 has_children: false
 parent: Import Projects
 title: Mapping Jira projects in Zepel
+page_title: Mapping Jira projects in Zepel
 description: Move your Jira projects to Zepel and start managing projects with ease.
 permalink: import/jira-zepel-structure/
 ---

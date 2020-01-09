@@ -4,6 +4,7 @@ nav_order: 7
 has_children: false
 parent: Work with Teams
 title: Item Description
+page_title: Item Description
 description: Use markdown to share more information to user stories, tasks, enhancements, bugs, and subtasks. 
 permalink: working-with-teams/description/
 ---

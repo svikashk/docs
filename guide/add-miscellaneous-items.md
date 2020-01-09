@@ -4,6 +4,7 @@ nav_order: 4
 has_children: false
 parent: Get Started
 title: Using List
+page_title: Using List
 description: Add miscellaneous items that do not belong to a feature into your Project's List.
 permalink: get-started/add-miscellaneous-work-items/
 ---

@@ -4,6 +4,7 @@ nav_order: 2
 has_children: false
 parent: Get Started
 title: Create Features
+page_title: Create Features
 description: Learn how to create and organize multiple Features inside your project.
 permalink: get-started/creating-features/
 ---

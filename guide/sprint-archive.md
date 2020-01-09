@@ -4,6 +4,7 @@ nav_order: 5
 has_children: false
 parent: Run Sprints
 title: Archive Sprints
+page_title: Archive Sprints
 description: Learn how to archive or unarchive a Sprint in Zepel.
 permalink: sprints/sprint-archive/
 ---

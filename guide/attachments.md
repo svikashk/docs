@@ -4,6 +4,7 @@ nav_order: 8
 has_children: false
 parent: Work with Teams
 title: Attach files
+page_title: Attach files
 description: Upload and attach files to any item to share assets required to ship your projects on time.
 permalink: working-with-teams/attachment/
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Export
+page_title: Export
 nav_order: 16
 icon_path: /assets/uploads/export.svg
 description: Exporting data out of Zepel

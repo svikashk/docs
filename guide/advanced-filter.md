@@ -4,6 +4,7 @@ nav_order: 3
 has_children: false
 parent: Search
 title: Advanced Filter
+page_title: Advanced Filter
 description: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
 permalink: search/advanced-filter/
 ---

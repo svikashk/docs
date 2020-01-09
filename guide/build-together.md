@@ -2,6 +2,7 @@
 layout: default
 nav_order: 2
 title: Build Features Together on Zepel
+page_title: Build Features Together on Zepel
 description: Learn how to work with Developers, Designers, and QA members together on Zepel.
 permalink: use-cases/build-features/
 nav_exclude: true

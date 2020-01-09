@@ -4,6 +4,7 @@ nav_order: 2
 has_children: false
 parent: Desktop Widget
 title: Views
+page_title: Views
 description: View your work items just the way you want with Zepel's desktop widget.
 permalink: desktop-widget/views/
 ---

@@ -3,7 +3,8 @@ layout: default
 nav_order: 1
 parent: Integrations
 has_children: false
-title: Integrating Slack with Zepel
+title: Integrating with Slack
+page_title: Slack
 description: Connect your Zepel account with Slack to receive notifications and updates on your project.
 permalink: integrations/slack/
 

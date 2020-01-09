@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Move
+page_title: Move
 nav_order: 8
 icon_path: /assets/uploads/move.svg
 description: "Moving and reorganizing your work items in Zepel"

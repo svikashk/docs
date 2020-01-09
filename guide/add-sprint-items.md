@@ -4,6 +4,7 @@ nav_order: 2
 has_children: false
 parent: Run Sprints
 title: Add Sprint Items
+page_title: Add Sprint Items
 description: Learn how to add items across features into your Sprint
 permalink: sprints/add-sprint-items/
 ---

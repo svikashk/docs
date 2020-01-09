@@ -4,6 +4,7 @@ nav_order: 1
 has_children: false
 parent: Desktop Widget
 title: Installation guide
+page_title: Installation guide
 description: Learn how to install and use Desktop widget on different platforms
 permalink: desktop-widget/installing/
 ---

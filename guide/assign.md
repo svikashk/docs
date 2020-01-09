@@ -4,6 +4,7 @@ nav_order: 2
 has_children: false
 parent: Work with Teams
 title: Assign Work
+page_title: Assign Work
 description: Start assigning work items to your team members in Zepel.
 permalink: working-with-teams/assign/
 ---

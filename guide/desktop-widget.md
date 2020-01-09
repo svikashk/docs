@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Desktop Widget
+page_title: Desktop Widget
 nav_order: 10
 icon_path: /assets/uploads/widget.svg
 description: View, edit, and update your work right from your desktop using Zepel's Desktop Widget.

@@ -1,9 +1,10 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 3
 parent: Integrations
 has_children: false
-title: Integrating Bitbucket with Zepel
+title: Integrating with Bitbucket
+page_title: Bitbucket
 description: Integrate your Zepel account with Bitbucket to link items to your pull requests.
 permalink: integrations/bitbucket/
 ---

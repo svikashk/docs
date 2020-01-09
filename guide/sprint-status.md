@@ -4,6 +4,7 @@ nav_order: 4
 has_children: false
 parent: Run Sprints
 title: Sprint Status
+page_title: Sprint Status
 description: Learn more about Sprint's statuses in Zepel.
 permalink: sprints/sprint-status/
 ---

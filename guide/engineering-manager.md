@@ -2,6 +2,7 @@
 layout: default
 nav_order: 1
 title: How engineering managers use Zepel to plan and ship features
+page_title: How engineering managers use Zepel to plan and ship features
 description: Learn how engineering managers use Zepel to work with product managers to plan features and manage the workload of the engineering team to route work efficiently.
 permalink: use-cases/engineering-managers/
 nav_exclude: true

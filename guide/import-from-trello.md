@@ -4,6 +4,7 @@ nav_order: 4
 has_children: false
 parent: Import Projects
 title: Import from Trello
+page_title: Trello
 description: Move your Trello projects to Zepel and start managing projects with ease.
 permalink: import/trello/
 ---

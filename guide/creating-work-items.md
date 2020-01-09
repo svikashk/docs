@@ -4,6 +4,7 @@ nav_order: 3
 has_children: false
 parent: Get Started
 title: Create work items
+page_title: Create work items
 description: Learn how you can create user stories, enhacements, bugs, tasks, and subtasks inside your Feature.
 permalink: get-started/creating-items/
 ---

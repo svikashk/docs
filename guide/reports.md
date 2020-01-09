@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reports
+page_title: Reports
 nav_order: 11
 icon_path: /assets/uploads/reports.svg
 description: Get a cumulative chart of your entire project or view burnup and burndown charts of your Sprint.
