@@ -14,7 +14,7 @@ permalink: integrations/setup-git-workflow-automation/
 {: .no_toc }
 
 __Before you begin:__ 
-- Ensure that you've enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}) or [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}).
+- Ensure that you've enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}).
 - Check to see that you have linked at least one item to a [commit]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %}), [pull request]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %}), or a [branch]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %}).
 
 ---
