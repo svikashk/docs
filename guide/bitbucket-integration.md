@@ -46,7 +46,7 @@ __Before you begin:__ Ensure that you have Admin permissions for the Bitbucket r
 
 * Click "**Save**".
 
-Your Zepel account is now integrated with your Github repository. 
+Your Zepel account is now integrated with your Bitbucket repository. 
 
 ---
 
