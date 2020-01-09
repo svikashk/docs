@@ -5,10 +5,11 @@ parent: Integrations
 has_children: false
 title: Setup Git Workflow Automation
 page_title: Setup Git Workflow Automation
-description: Learn how to set up workflow triggers for Github, Bitbucket, and Gitlab in Zepel to automatically update statuses of linked items.
+description: Learn how to set up workflow triggers for Github and Bitbucket in Zepel to automatically update statuses of linked items.
 permalink: integrations/setup-git-workflow-automation/
 ---
-# Setting up triggers to automate workflows for Github, Bitbucket, and GitLab
+
+# Setting up triggers to automate workflows for Github and Bitbucket
 
 {: .no_toc }
 
