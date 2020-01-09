@@ -12,7 +12,7 @@ permalink: integrations/github/
 
 {: .no_toc }
 
-Sometimes your dev team can merge and close a pull request, but forget to complete the task. That can leave you with outdated information. With Zepel's Github integration, your developers can now simply close a pull request and Zepel will complete the task for them.
+Sometimes your dev team can merge and close a pull request, but forget to complete the task. That can leave you with outdated information. With Zepel's Github integration, your developers need not worry about that at all. You can automatically move items from one status to another based on your Git workflow, track commits, create pull requests, and more!
 
 In this article, we'll see how you can set up your Zepel account to integrate with your Github repository.
 
