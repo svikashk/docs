@@ -11,7 +11,9 @@ permalink: integrations/link-item-to-commit/
 # Linking an Item to a Commit
 {: .no_toc }
 
-__Before you begin:__ Ensure that you've [enabled the integration for Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}).
+__Before you begin:__ Ensure that you've enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}) or [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}).
+
+---
 
 An item in Zepel can be associated to a Commit in your version control system.
 
