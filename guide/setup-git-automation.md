@@ -22,8 +22,6 @@ With the Zepel's integration with GitHub, you can move any item from one status 
 
 The event handlers in Zepel are setup on a per project basis.
 
-<!-- * To configure event handlers in your project make sure that you've first enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}). -->
-
 * Once you've enabled the integration, go to the project for which you want to setup event handlers.
 
 * Click on "**Git Workflow Automation**" from the left sidebar.
