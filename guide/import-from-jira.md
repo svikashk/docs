@@ -4,6 +4,7 @@ nav_order: 1
 has_children: false
 parent: Import Projects
 title: Import from Jira
+page_title: Jira
 description: Move your Jira projects to Zepel and start managing projects with ease.
 permalink: import/jira/
 ---

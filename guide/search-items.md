@@ -4,6 +4,7 @@ nav_order: 2
 has_children: false
 parent: Search
 title: Search Items
+page_title: Search Items
 description: Search and find any items from within your Feature.
 permalink: search/search-items/
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Import Projects
+page_title: Import Projects
 nav_order: 14
 icon_path: /assets/uploads/import.svg
 description: Not too pleased with other project management tools? Switch to Zepel for FREE. Import projects without data loss.

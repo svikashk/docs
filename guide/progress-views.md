@@ -4,6 +4,7 @@ nav_order: 2
 has_children: false
 parent: Track Feature Progress
 title: Different Views in Progress
+page_title: Different Views in Progress
 description: Learn how to use Progress in Zepel to track feature progress and plan for the road ahead.
 permalink: track-progress/progress-views/
 ---

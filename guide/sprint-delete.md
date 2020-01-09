@@ -4,6 +4,7 @@ nav_order: 6
 has_children: false
 parent: Run Sprints
 title: Delete Sprints
+page_title: Delete Sprints
 description: Learn how to delete a Sprint in Zepel.
 permalink: sprints/sprint-delete/
 ---

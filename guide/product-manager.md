@@ -2,6 +2,7 @@
 layout: default
 nav_order: 1
 title: How product managers use Zepel to plan and ship features
+page_title: How product managers use Zepel to plan and ship features
 description: Are you a product manager looking to ship quality features? See how product managers use Zepel project management tool to prioritize and work with teams to build features
 permalink: use-cases/product-managers/
 nav_exclude: true

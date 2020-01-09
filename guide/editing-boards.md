@@ -4,6 +4,7 @@ nav_order: 2
 has_children: false
 parent: Use Boards
 title: Editing Boards
+page_title: Editing Boards
 description: Edit Boards within your project to bend Zepel to fit your workflow.
 permalink: boards/edit-boards/
 ---

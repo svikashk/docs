@@ -1,11 +1,11 @@
 ---
 layout: default
-nav_order: 7
-parent: Integrations
 has_children: false
 title: Autocomplete items through GitLab
+page_title: Autocomplete items through GitLab
 description: Autocomplete items in Zepel when you close merge requests in GitLab.
 permalink: integrations/complete-items-with-gitlab/
+nav_exclude: true
 ---
 # Complete items in Zepel with GitLab integration
 

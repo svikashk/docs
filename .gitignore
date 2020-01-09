@@ -14,3 +14,5 @@ package-lock.json
 package.json
 node_modules/*
 .jekyll-cache
+.DS_Store
+assets/.DS_Store

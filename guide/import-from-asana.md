@@ -4,6 +4,7 @@ nav_order: 3
 has_children: false
 parent: Import Projects
 title: Import from Asana
+page_title: Asana
 description: Move your Asana projects to Zepel and start managing projects with ease.
 permalink: import/asana/
 ---

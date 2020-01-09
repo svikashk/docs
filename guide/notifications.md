@@ -4,6 +4,7 @@ nav_order: 3
 has_children: false
 parent: Desktop Widget
 title: Desktop Notifications
+page_title: Desktop Notifications
 description: Customize desktop notifications to meet your needs with Zepel's Desktop Widget.
 permalink: desktop-widget/notifications/
 ---

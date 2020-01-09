@@ -4,6 +4,7 @@ nav_order: 3
 has_children: false
 parent: Work with Teams
 title: Set Due Date
+page_title: Set Due Date
 description: Set due dates to each work item in Zepel so everyone in your team meets the deadline.
 permalink: working-with-teams/due-dates/
 ---

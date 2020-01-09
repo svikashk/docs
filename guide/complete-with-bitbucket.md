@@ -1,11 +1,11 @@
 ---
 layout: default
-nav_order: 5
-parent: Integrations
 has_children: false
 title: Autocomplete items through Bitbucket
+page_title: Autocomplete items through Bitbucket
 description: Autocomplete items in Zepel when you merge pull requests in Bitbucket.
 permalink: integrations/complete-items-with-bitbucket/
+nav_exclude: true
 ---
 # Complete items in Zepel with Bitbucket integration
 

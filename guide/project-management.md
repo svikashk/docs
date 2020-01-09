@@ -2,6 +2,7 @@
 layout: default
 nav_order: 1
 title: Project Management
+page_title: Project Management
 description: Learn how to use Zepel for managing projects from start to finish.
 permalink: use-cases/project-management/
 nav_exclude: true

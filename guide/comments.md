@@ -4,6 +4,7 @@ nav_order: 6
 has_children: false
 parent: Work with Teams
 title: Comments and Conversations
+page_title: Comments and Conversations
 description: Start collaborating on projects with your team in Zepel. Comment, mention people, and share files within your conversation.
 permalink: working-with-teams/comments/
 ---

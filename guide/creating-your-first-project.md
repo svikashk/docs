@@ -4,6 +4,7 @@ nav_order: 1
 has_children: false
 parent: Get Started
 title: Create your first project
+page_title: Create your first project
 description: Learn how to create your project in Zepel.
 permalink: get-started/creating-projects/
 ---
