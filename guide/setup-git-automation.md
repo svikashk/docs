@@ -5,10 +5,10 @@ parent: Integrations
 has_children: false
 title: Setup Git Workflow Automation
 page_title: Setup Git Workflow Automation
-description: Learn how to set up workflow triggers for Github, Bitbucket, and Gitlab in Zepel to automatically update statuses of linked items.
+description: Learn how to set up workflow triggers for Github and Bitbucket in Zepel to automatically update statuses of linked items.
 permalink: integrations/setup-git-workflow-automation/
 ---
-# Setting up triggers to automate workflows for Github, Bitbucket, and GitLab
+# Setting up triggers to automate workflows for Github and Bitbucket
 
 {: .no_toc }
 
@@ -21,8 +21,6 @@ __Before you begin:__
 With the Zepel's integration with GitHub, you can move any item from one status to another in a board, or even from one board to another while staying in your regular workflow. 
 
 The event handlers in Zepel are setup on a per project basis.
-
-<!-- * To configure event handlers in your project make sure that you've first enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}). -->
 
 * Once you've enabled the integration, go to the project for which you want to setup event handlers.
 
