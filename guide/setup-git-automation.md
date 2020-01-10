@@ -5,24 +5,23 @@ parent: Integrations
 has_children: false
 title: Setup Git Workflow Automation
 page_title: Setup Git Workflow Automation
-description: Learn how to set up workflow triggers for Github, Bitbucket, and Gitlab in Zepel to automatically update statuses of linked items.
+description: Learn how to set up workflow triggers for GitHub, Bitbucket, and GitLab in Zepel to automatically update statuses of linked items.
 permalink: integrations/setup-git-workflow-automation/
 ---
-# Setting up triggers to automate workflows for Github
+
+# Setting up triggers to automate workflows for Github, Bitbucket, and GitLab
 
 {: .no_toc }
 
 __Before you begin:__ 
-- Ensure that you've [enabled the integration for Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}).
-- Ensure that you've linked an item to at least a [commit]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %}), [pull request]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %}), or a [branch]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %}).
+- Ensure that you've enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}).
+- Check to see that you have linked at least one item to a [commit]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %}), [pull request]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %}), or a [branch]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %}).
 
 ---
 
 With the Zepel's integration with GitHub, you can move any item from one status to another in a board, or even from one board to another while staying in your regular workflow. 
 
 The event handlers in Zepel are setup on a per project basis.
-
-<!-- * To configure event handlers in your project make sure that you've first enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}). -->
 
 * Once you've enabled the integration, go to the project for which you want to setup event handlers.
 

@@ -12,9 +12,11 @@ permalink: integrations/bitbucket/
 
 {: .no_toc }
 
-If your dev team merge and close a pull request, but forget to complete the task, you are left with outdated information. And that doesn't help. With Zepel's Bitbucket integration, your developers can now simply close a pull request and Zepel will complete the task for them.
+With Zepel's Bitbucket integration, you can now automatically move a linked item from one status to another, create pull requests, track commits, and more!
 
-In this article, we'll see how you can set up your Zepel account to integrate with your Bitbucket repository:
+In this article, we'll see how you can set up your Zepel account to integrate with your Bitbucket repository.
+
+__Before you begin:__ Ensure that you have Admin permissions for the Bitbucket repository.
 
 * Once you're in your Zepel account, on the top left corner, click on your Account's name.
 * From the dropdown, click on "**Account Settings**".
@@ -36,11 +38,22 @@ In this article, we'll see how you can set up your Zepel account to integrate wi
 
 ![Add URL to Bitbucket Webhook](/guide/assets/uploads/zepel-bitbucket-integration-webhooks.png "Bitbucket Webhooks")
 
-* Since Zepel integrates only with pull request closed event, under "**Triggers**", select "**Choose from a full list of triggers**".
-* Now, uncheck "**Push**" and select "**Merged**".
+* Under "**Triggers**", select "**Choose from a full list of triggers**".
+* Now, make sure that under "**Repository**", "**Push**" is selected. 
+* Under "**Pull Requests**", make sure that "**Created**", "**Updated**", "**Merged**", and "**Declined**" are selected.
 
 ![Bitbucket Webhook Events](/guide/assets/uploads/zepel-bitbucket-integration-webhook-events.png "Bitbucket Webhook Events")
 
 * Click "**Save**".
 
-Your Zepel account is now integrated with your Github repository. Read how you can [complete tasks every time you merge a pull request]({{ site.url }}{{ site.baseurl }}{% link guide/complete-with-bitbucket.md %}).
+Your Zepel account is now integrated with your Bitbucket repository. 
+
+---
+
+**Read Next:** 
+
+1. [Learn how to link item to a branch.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %})
+1. [See how to link a Zepel item to commit.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %})
+1. [Read how to associate an item to a pull request.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %})
+1. [How to automatically move items based on your Git workflows.]({{ site.url }}{{ site.baseurl }}{% link guide/setup-git-automation.md %})
+1. [Open pull requests from within Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/open-pull-request.md %})

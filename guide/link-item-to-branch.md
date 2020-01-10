@@ -11,7 +11,9 @@ permalink: integrations/link-item-to-branch/
 # Linking an Item to a Branch
 {: .no_toc }
 
-__Before you begin:__ Ensure that you've [enabled the integration for Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}).
+__Before you begin:__ Ensure that you've enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}).
+
+---
 
 An item in Zepel can be associated to a Branch in your version control system.
 

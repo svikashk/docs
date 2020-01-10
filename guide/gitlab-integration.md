@@ -12,7 +12,9 @@ permalink: integrations/gitlab/
 
 {: .no_toc }
 
-In this article, we'll see how you can set up your Zepel account to integrate with your GitLab repository.
+In this article, we'll see how you can set up your Zepel account to integrate with your GitLab project.
+
+__Before you begin:__ Ensure that you have Maintainer permissions for the GitLab project.
 
 ## Integrate Zepel with GitLab
 
@@ -34,11 +36,20 @@ In this article, we'll see how you can set up your Zepel account to integrate wi
 
 ![Add Zepel URL and Secret to GitLab Integrations](/guide/assets/uploads/zepel-gitlab-integration-webhooks.png)
 
-* Since Zepel integrates only with pull request closed event, under "**Trigger**", ensure **only** "**Merge request events**" is selected.
-* Uncheck all the other options under Trigger.
+* Under "**Trigger**", ensure "**Pushes**" and "**Pull requests**" are selected.
 
 ![GitLab Trigger Events for Zepel](/guide/assets/uploads/zepel-gitlab-integration-webhook-events.png)
 
-* Click on "**Add Webhook**".
+* Click on "**Save Changes**".
 
-Your Zepel account is now integrated with your GitLab project. Read how you can [complete tasks every time you close a pull request]({{ site.url }}{{ site.baseurl }}{% link guide/complete-with-gitlab.md %}).
+Your Zepel account is now integrated with your GitLab project.
+
+---
+
+**Read Next:** 
+
+1. [Learn how to link item to a branch.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %})
+1. [See how to link a Zepel item to commit.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %})
+1. [Read how to associate an item to a pull request.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %})
+1. [How to automatically move items based on your Git workflows.]({{ site.url }}{{ site.baseurl }}{% link guide/setup-git-automation.md %})
+1. [Open pull requests from within Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/open-pull-request.md %})
