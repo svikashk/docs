@@ -2,6 +2,12 @@
 // The basic two column layout
 //
 
+.caption
+{
+  width: 100%;
+  text-align: center;
+}
+
 .page-wrap {
   @include mq(md) {
     position: absolute;

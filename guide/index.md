@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zepel Guide and Documentation
+title: Zepel Guide and Help Docs
 page_title: Home
 nav_order: 1
 icon_path: /assets/uploads/home.svg

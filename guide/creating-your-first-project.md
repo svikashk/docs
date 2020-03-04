@@ -21,12 +21,8 @@ To create your first project in your Zepel account:
 
 - In the project create dialogue, enter your project's name.
 
-- Select a Board you'd like to add to your project. The Boards you select will automatically get added to your new project. You can select multiple Boards to add to your project.
-
-![Create a Project Popup](/guide/assets/uploads/create-projects-popup.png "Create Project Popup")
-
 - Once complete, click on the '__Create__' button.
 
-- Once the project is created, you'll be taken inside your new project where you can see Boards you selected in the Boards tab. 
+- Once the project is created, you'll be taken inside your new project. 
 
 Next, you'll [learn how to create Features]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) inside your project.

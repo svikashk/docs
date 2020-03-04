@@ -29,15 +29,7 @@ This gives you the ability to easily organize your entire team based on the feat
 
 ![Create a Feature in Zepel](/guide/assets/uploads/create-features.png "Create Feature in Zepel")
 
-- Since projects in Zepel can have multiple Boards, you can select a default Board for your Feature. Click on the "Set Default Feature Board" drop down. You'll see a list of boards available in your project that can be set as the default board for your feature.
-
-- Select one board from the drop down.
-
-- Give your Feature a description (if needed) to give your team more context.
-
-![Create a Feature Popup](/guide/assets/uploads/create-features-popup.png "Create Feature Popup")
-
-- Click "Create" button.
+- Click "__Create__" button.
 
 Once your Feature is created, you can now [create actionable work items]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) to track and complete your Feature.
 
