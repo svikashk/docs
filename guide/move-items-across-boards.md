@@ -33,6 +33,8 @@ With multiple Boards in each project in Zepel, you can move work from one Board 
 
 - From the drop down, scroll down to view all the Boards you want to push to and set a status for the work item in the new Board.
 
+![Item Details Popup](/guide/assets/uploads/zepel-move-items-across-boards-popup.png "Details Popup in Zepel")
+
 ## From within a Feature/List
 
 - Once inside the Feature/List where your work item is present, to the right extreme, the Board icon represents which Board the item currently sets at.
@@ -42,3 +44,5 @@ With multiple Boards in each project in Zepel, you can move work from one Board 
 - Using the drop down, scroll down to view all the Boards you want to push to and set a status for the work item in the new Board.
 
 - Alternatively, you can open up the Item Details popup as well to do this.
+
+![Item Status Icon](/guide/assets/uploads/zepel-move-items-across-boards-icon.png "Item Status Icon")
