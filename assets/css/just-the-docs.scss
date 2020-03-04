@@ -20,6 +20,10 @@
 // Import custom overrides
 //
 
+.task-list-item-checkbox:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
 @media (min-width: 900px){
 
   .row {

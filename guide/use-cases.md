@@ -24,7 +24,7 @@ Here are multiple ways of how you can bring members from every team together, co
             <div class="card">
                 <div class="container">
                     <a href="{{ site.url }}{{ site.baseurl }}/use-cases/project-management/">
-                    <h4 class="card-title"><b>Project Management</b></h4> 
+                    <h4 class="card-title"><b>Software Development Project</b></h4> 
                     <p>Learn how you can manage your project from start to finish in Zepel.</p> 
                     </a>
                 </div>
@@ -33,9 +33,9 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/build-features/">
-                    <h4 class="card-title"><b>Build Features Together</b></h4> 
-                    <p>Work together with Developers, Designers, and QA team.</p> 
+                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/prioritize-features/">
+                    <h4 class="card-title"><b>Prioritize Features</b></h4> 
+                    <p>Product managers use Zepel to plan and prioritize their next features.</p> 
                     </a>
                 </div>
             </div>
@@ -45,9 +45,9 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                 <div class="container">
-                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/prioritize-features/">
-                    <h4 class="card-title"><b>Prioritize Features</b></h4> 
-                    <p>Product managers use Zepel to plan and prioritize their next features.</p> 
+                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/client-project-management/">
+                    <h4 class="card-title"><b>Manage Client Projects</b></h4> 
+                    <p>Learn how to organize and manage multiple client projects in Zepel.</p> 
                     </a>
                 </div>
             </div>
@@ -63,6 +63,7 @@ Here are multiple ways of how you can bring members from every team together, co
         </div>
     </div>
 </div>
+
 <div class="persona">
     <h2>Use cases based on roles</h2>
     <div class="usecases-row">
