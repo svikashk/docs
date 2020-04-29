@@ -24,7 +24,6 @@ include: ["_redirects"]
 
 # Enable or disable the site search
 search_enabled: true
-add-tag-manager: false
 
 # Aux links for the upper right navigation
 aux_links:
