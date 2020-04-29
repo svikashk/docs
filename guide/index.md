@@ -14,7 +14,7 @@ permalink: /
 Best practices, tips, and tricks on how you can plan features and manage projects with Zepel.
 {: .fs-6 .fw-300 }
 
-[Get Started]({{ site.url }}{{ site.baseurl }}{% link guide/get-started.md %}){: .btn .btn-index .fs-5 .mb-4 .mb-md-0 .mr-2 } <a id="support" href="">Contact Support</a>{: .btn-index-new .fs-5 .mb-4 .mb-md-0 }
+[Get Started]({{ site.url }}{{ site.baseurl }}{% link guide/get-started.md %}){: .btn .btn-index .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
@@ -22,9 +22,9 @@ Best practices, tips, and tricks on how you can plan features and manage project
 <div class="column">
 <div class="card">
   <div class="container">
-    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/">
-    <h4 class="card-title"><b>Using with Teams</b></h4> 
-    <p>Learn how to collaborate and use Zepel with your team.</p> 
+    <a href="{{ site.url }}{{ site.baseurl }}/videos/">
+    <h4 class="card-title"><b>Video Tutorials</b></h4> 
+    <p>Watch videos of how you can use Zepel and get maximum value for your team.</p> 
     </a>
   </div>
 </div>
