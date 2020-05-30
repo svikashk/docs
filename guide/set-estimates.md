@@ -44,3 +44,15 @@ Estimates in Zepel are measured in points. They are useful when you'd like to vi
 - Enter a number between 0.01 and 1000 in the text field and press Enter.
 
 ![Zepel's single item popup to add properties](/guide/assets/uploads/zepel-popup.png "Single Item Popup")
+
+---
+
+## Aggregated Soft Estimation
+
+When you add an estimate to a subtask, it will automatically get aggregated to its respective item.
+
+This aggregated soft estimate is set on an item, on a Section, and on the entire Feature. This allows you to see the effort needed to complete an item, a specific section in your feature, and the entire feature itself, without having to manually set an estimate everywhere.
+
+When you complete items, the aggregated estimation updates automatically to show you much work is completed versus how much work is pending.
+
+![Aggregated Soft Estimation in Zepel](/guide/assets/uploads/estimation-aggregate.gif "Aggregated Soft Estimation")
