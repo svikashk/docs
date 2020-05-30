@@ -8,6 +8,7 @@ page_title: Create Features
 description: Learn how to create and organize multiple Features inside your project.
 permalink: get-started/creating-features/
 ---
+
 # Creating Features inside your project
 
 Now that you've created a project, let us go ahead and to create Features in your project. 
@@ -33,3 +34,22 @@ This gives you the ability to easily organize your entire team based on the feat
 
 Once your Feature is created, you can now [create actionable work items]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) to track and complete your Feature.
 
+---
+
+## Create multiple Features to quickly plan your roadmap
+
+You can create multiple Features from the Progress tab to quickly plan your roadmap. This is particularly helpful for product managers to communicate priorities and roadmap by dragging-and-dropping the highest priorities to the top of the Todo column and setting its duration.
+
+- Click on the __( + )__ icon next to the "**Todo**" or "**In Progress**" column.
+
+![Create a Feature in Zepel](/guide/assets/uploads/zepel-create-multiple-features-plus-button.png "Create Feature in Zepel")
+
+- In the "__Create Feature__" pop-up, click on the "__Create multiple features__" toggle.
+
+![Create multiple features in Zepel](/guide/assets/uploads/zepel-create-multiple-features-toggle.png "Click the toggle to create multiple features")
+
+- In the text box, enter the names of the Features you want to create. __Ensure that you create only one feature name per line__
+
+![One feature name per line](/guide/assets/uploads/zepel-create-multiple-features-one-per-line.png "One feature name per line")
+
+- Click "__Create__" button.
