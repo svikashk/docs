@@ -5,7 +5,7 @@ has_children: false
 parent: Use Boards
 title: Feature Board vs Project Board
 page_title: Feature Board vs Project Board
-description: Filter your Boards to see where each item stands and who is working on what to manage workload
+description: Learn what is the difference between a Feature board and a Project board in Zepel. See how you can use them within your team.
 permalink: boards/feature-board-project-board/
 ---
 # Difference between Feature Board and Project Board

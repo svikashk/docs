@@ -11,17 +11,17 @@
   <link rel="preconnect" href="https://fonts.googleapis.com/css?family=Hind:400,500,700&display=swap" rel="stylesheet" type='text/css'>
   <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
   
-
+  <link rel="stylesheet" href="{{ "/assets/css/bootstrap.min.css" | absolute_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | absolute_url }}">
 
   {% if site.search_enabled != nil %}
     <script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}" async></script>
   {% endif %}
-
+  <script type="text/javascript" src="{{ "/assets/js/bootstrap.min.js" | absolute_url }}" async></script>
   <script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}" async></script>
-
+  <script type="text/javascript" src="{{ "/assets/js/jquery.js" | absolute_url }}" async></script>
+  <script type="text/javascript" src="{{ "/assets/js/nav-scroll.js" | absolute_url }}" async></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
   <title>{{ page.title }}</title>
   {% seo title=false %}
 </head>
