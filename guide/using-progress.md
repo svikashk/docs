@@ -5,7 +5,7 @@ has_children: false
 parent: Track Feature Progress
 title: Using Progress to Track Features
 page_title: Using Progress to Track Features
-description: View your work items just the way you want with Zepel's desktop widget.
+description: Don't just track tasks. Track an entire feature and see how much progress you've made across teams. Learn how to do it in Zepel.
 permalink: track-progress/using-progress/
 
 ---

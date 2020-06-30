@@ -5,7 +5,7 @@ has_children: false
 parent: Search
 title: Advanced Filter
 page_title: Advanced Filter
-description: What are the building blocks of Zepel? Learn how accounts in Zepel are structured. 
+description: Advanced filters enable you to find just the thing you care about. Learn how to use it in Zepel.
 permalink: search/advanced-filter/
 ---
 # Group and Filter Items

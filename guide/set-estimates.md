@@ -33,6 +33,14 @@ Estimates in Zepel are measured in points. They are useful when you'd like to vi
 
 ---
 
+### <u>Set an Estimate in Bulk</u>
+{: .no_toc }
+- From within the Feature, left-click and drag the mouse to mult-select items.
+- This will open the item menu. Select the timer icon from the item menu.
+- Enter a number between 0.01 and 1000 in the text field to estimate your item.
+
+---
+
 ### <u>Using Single Item Popup</u>
 {: .no_toc }
 - Hover on any item inside your Feature. 
