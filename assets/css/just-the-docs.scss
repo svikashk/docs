@@ -29,13 +29,13 @@
   .row {
     width: 100%;
     margin-top: 20px;
-    margin-bottom: 130px;
+    // margin-bottom: 130px;
   }
 
   .highlight-row {
     width: 100%;
     margin-top: 20px;
-    margin-bottom: 130px;
+    // margin-bottom: 130px;
   }
 
   .column {
@@ -54,6 +54,7 @@
     box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.05);
     transition: 0.3s;
     margin-left: 10px;
+    padding:2px 16px;
     border: 1px solid #e7e8e9;
     margin-right: 10px;
     border-radius: 4px;
@@ -85,13 +86,13 @@
   .row {
     width: 100%;
     margin-top: 20px;
-    margin-bottom: 130px;
+    // margin-bottom: 130px;
   }
   
   .highlight-row {
     width: 100%;
     margin-top: 20px;
-    margin-bottom: 130px;
+    // margin-bottom: 130px;
   }
 
   .column {
@@ -110,6 +111,7 @@
     box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.05);
     transition: 0.3s;
     margin-left: 10px;
+    padding:2px 16px;
     border: 1px solid #bcbced;
     margin-right: 10px;
     border-radius: 4px;
@@ -219,7 +221,7 @@ blockquote {
 // Import custom color scheme scss
 //
 
-{% if site.color_scheme == "dark" %}
+{% if site.color_scheme == "dark"  %}
 @import "./color_schemes/dark.scss";
 {% endif %}
 

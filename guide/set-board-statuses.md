@@ -35,6 +35,14 @@ By default, all projects will have a Default Board with ```Todo```, ```In Progre
 
 ---
 
+### <u>Set Board Status in Bulk</u>
+{: .no_toc }
+- From within the Feature, left-click and drag the mouse to mult-select items.
+- This will open the item menu. Select the flag icon from the item menu.
+- From the drop down suggestion, select a status to update the item's status.
+
+---
+
 ### <u>Using Single Item Popup</u>
 {: .no_toc }
 - Hover on any item inside your Feature. 

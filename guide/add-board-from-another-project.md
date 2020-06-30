@@ -5,7 +5,7 @@ has_children: false
 parent: Use Boards
 title: Reuse a Board from another Project
 page_title: Reuse a Board from another Project
-description: Learn how to create Boards within a project and track progress.
+description: You can re-use a board that was already created from another project in Zepel. Learn how to do it with this guide.
 permalink: boards/add-existing-board/
 ---
 # Reuse a Board from another Project

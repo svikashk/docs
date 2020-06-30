@@ -29,11 +29,19 @@ When assigned, your team mates will be notified via Slack (if you've integrated 
 {: .no_toc }
 - From within the Feature, right click on the item you want to assign a team member to.
 - Select the assignee icon from the item menu.
-- From the drop down suggestion, select a member to assign the task to them.
+- From the drop down suggestion, select a member to assign the item to them.
 
 ![Right click on an item to assign to team members](/guide/assets/uploads/zepel-assign-with-mouse.gif "Assign using Mouse")
 
 __Did you know?:__ You can assign work items to multiple team members in Zepel.
+
+---
+
+### <u>Bulk Assign Items</u>
+{: .no_toc }
+- From within the Feature, left-click and drag the mouse to mult-select items.
+- This will open the item menu. Select the assignee icon from the item menu.
+- From the drop down suggestion, select a member to assign an item to them.
 
 ---
 

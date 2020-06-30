@@ -35,6 +35,14 @@ When a specific work item is not yet completed on the due date, member assigned 
 
 ---
 
+### <u>Set Due Date in Bulk</u>
+{: .no_toc }
+- From within the Feature, left-click and drag the mouse to mult-select items.
+- This will open the item menu. Select the calendar icon from the item menu.
+- From the calendar dropdown, select a date to set it as the item's due date.
+
+---
+
 ### <u>Using Single Item Popup</u>
 {: .no_toc }
 - Hover on any item inside your Feature. 
