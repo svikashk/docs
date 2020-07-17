@@ -48,15 +48,29 @@ People collaborated in a project will be automatically added to the respective a
 
 ## Features
 
-A Feature is a collection of actionable work that your team can plan, track, and execute. As your members across teams start to work on this feature, you can see how the entire Feature is progressing right from here.
+A Feature is a collection of actionable work that your team can plan, track, and execute. As members across teams start to work on this feature, you can see how the entire Feature is progressing right from here.
 
 [Read more about Features ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
 ![All Features in Zepel](/guide/assets/uploads/zepel-features.png "Zepel Features")
 
+---
+
+## List
+
 If you are not working on a feature right now, you can add your work items inside your project's List.
 
-[Read about List ->]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %})
+This includes things like:
+
+- Bugs customers report
+- Tech debt your team needs to work on
+- Simple tasks
+
+To put it simply, if you wouldn't name your Git branch as `feature/feature-name` then you'd put that work item inside your List.
+
+[Read about project's List ->]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %})
+
+![Project's List in Zepel to add miscellaneous work items](/guide/assets/uploads/zepel-list.png "Project's List in Zepel")
 
 ---
 
