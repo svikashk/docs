@@ -52,6 +52,7 @@ Here are multiple ways of how you can bring members from every team together, co
                 <h4 class="card-title"><b>Manage Workload</b></h4> 
                 <p>Track what each member is working on and manage their workload.</p> 
                 </a>
+            </div>
         </div>
     </div>
 </div>
