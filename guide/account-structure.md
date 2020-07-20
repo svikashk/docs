@@ -66,7 +66,7 @@ This includes things like:
 - Tech debt your team needs to work on
 - Simple tasks
 
-To put it simply, if you wouldn't name your Git branch as `feature/feature-name` then you'd put that work item inside your List.
+To put it simply, if you wouldn't name your Git branch as `feature/name-of-the-feature` then you'd put that work item inside your List.
 
 [Read about project's List ->]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %})
 
