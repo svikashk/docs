@@ -55,6 +55,24 @@ Here are multiple ways of how you can bring members from every team together, co
             </div>
         </div>
     </div>
+    <div class="usecases-row">
+        <div class="column">
+            <div class="card">
+                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/list-vs-features/">
+                    <h4 class="card-title"><b>List vs Features</b></h4> 
+                    <p>Learn when to use List or Feature within your project.</p> 
+                    </a>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+                <a href="{{ site.url }}{{ site.baseurl }}/use-cases/how-to-run-sprints-using-zepel/">
+                <h4 class="card-title"><b>How to run Sprints using Zepel</b></h4> 
+                <p>Follow this five step process to run an effective Sprint using Zepel.</p> 
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="persona">

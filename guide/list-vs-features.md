@@ -17,7 +17,7 @@ This is a common question we get from our new customers in Zepel. So, we thought
 
 ## When should you use a Feature?
 
-If your development team is going to create a branch called `feature/feature-name` then you should [create a Feature]({{site.url}}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) for it in Zepel.
+If your development team is going to create a branch called `feature/name-of-the-feature` then you should [create a Feature]({{site.url}}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) for it in Zepel.
 
 ---
 
@@ -98,5 +98,5 @@ All of these items can be tracked on a **Board**, added to a **Sprint**, spec’
 
 Ready to build great software together?
 {: .fs-6 .fw-300 }
-[Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=project-management){: .btn .btn-purple } 
+[Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=list-vs-features){: .btn .btn-purple } 
 [See other use cases]({{site.url}}{{ site.baseurl }}{% link guide/use-cases.md %}){: .btn }
