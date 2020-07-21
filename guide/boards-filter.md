@@ -30,7 +30,7 @@ You can filter Project Boards by:
 
 You can choose to mix a combination of the filters to view your Board and manage your project. 
 
-For example, you can see [manage your team's workload]({{ site.url }}{{ site.baseurl }}{% link guide/manage-workload.md %}) by filtering by assignees and see if you can relieve some work off them.
+For example, you can [manage your team's workload]({{ site.url }}{{ site.baseurl }}{% link guide/manage-workload.md %}) by filtering by assignees and see if you can relieve some work off them.
 
 Or you want to see what's happening in the Dev Board and see items from a Feature called Search, you can go to Dev Board and filter to view items from just that Feature. Alternatively you can just visit that particular Feature (Search feature in this case) and click on the Dev Board to view only the items from that Feature.
 
