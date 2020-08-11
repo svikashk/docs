@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 6
+nav_order: 7
 parent: Integrations
 has_children: false
 title: Link Features to Branch

@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 5
+nav_order: 6
 parent: Integrations
 has_children: false
 title: Setup Git Workflow Automation
