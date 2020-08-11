@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 2
+nav_order: 3
 parent: Integrations
 has_children: false
 title: How to integrate Github with Zepel

@@ -29,5 +29,5 @@ Every time you close a pull request in Github, Zepel can automatically complete 
 
 * Click "**Create pull request**"
 
-When you close this pull request, its respective task in Zepel will automatically get completed. And if your team has Slack integration enabled, they'll automatically be notified too.
+When you close this pull request, its respective task in Zepel will automatically get completed. And if your team has [Slack integration]({{site.url}}{{ site.baseurl }}{% link guide/link-with-slack.md %}) enabled, they'll automatically be notified too.
 

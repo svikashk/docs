@@ -1,22 +1,34 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 2
 parent: Integrations
 has_children: false
-title: Integrating with Slack
-page_title: Slack
-description: Connect your Zepel account with Slack to receive notifications and updates on your project.
+title: Integrating with Slackbot
+page_title: Slackbot Integration
+description: Connect your Zepel account with Slackbot to receive notifications and updates on your project.
 permalink: integrations/slack/
 
 
 ---
-# How to integrate Slack account with Zepel?
+# How to integrate Zepel with Slackbot?
 
 {: .no_toc }
 
 Of course, you have a million things to do. So how do you ensure that you stay on top of your projects updates? How do you make sure you know when due dates approach, tasks get assigned to you or a bottleneck gets completed?
 
 That's exactly what Zepel's Slack integration should solve for you. Once you connect your Zepel and Slack accounts, you can be sure that you get notified of important updates as and when they happen. 
+
+**What notifications to expect:**
+
+Once you connect your Slack and Zepel accounts, you’ll get a notification every time:
+
+1. You are invited to work on a new project.
+2. A new Feature gets added inside a project shared with you
+3. A task gets directly assigned to you
+4. A task in any of your shared projects gets completed
+5. A task assigned to you goes overdue
+
+![Get Zepel project notifications in Slack](/guide/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")
 
 ## Integrate Zepel With Your Slack Account:
 
@@ -34,16 +46,4 @@ That's exactly what Zepel's Slack integration should solve for you. Once you con
 
 ![Authorize Zepel in Slack to send you notifications](/guide/assets/uploads/authorize-zepel-in-slack.png "Authorize in Slack")
 
-Don't worry, Zepel will only send you notifications as messages to your Slackbot and cannot post any messages on your behalf. 
-
-What notifications to expect
-
-Once you connect your Slack and Zepel accounts, you’ll get a notification every time:
-
-1. You are invited to work on a new project.
-2. A new Feature gets added inside a project shared with you
-3. A task gets directly assigned to you
-4. A task in any of your shared projects gets completed
-5. A task assigned to you goes overdue
-
-![Get Zepel project notifications in Slack](/guide/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")
+Don't worry, Zepel will only send you notifications as messages to your Slackbot and cannot post any messages on your behalf.

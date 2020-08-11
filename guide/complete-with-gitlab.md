@@ -29,5 +29,5 @@ Every time you submit a new merge request in GitLab, Zepel can automatically com
 
 * Click "**Submit merge request**"
 
-When you close this merge request, its respective item in Zepel will automatically get completed. And if your team has [Slack integration enabled]({{ site.url }}{{ site.baseurl }}{% link guide/slack-integration.md %}), they'll automatically be notified too.
+When you close this merge request, its respective item in Zepel will automatically get completed. And if your team has [Slack integration enabled]({{ site.url }}{{ site.baseurl }}{% link guide/link-with-slack.md %}), they'll automatically be notified too.
 

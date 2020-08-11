@@ -11,9 +11,6 @@ permalink: boards/creating-boards/
 # How to create a new Board within a Project
 {: .no_toc }
 
-Tasks with Todo, In-Progress, and Done don't give your team much meaning when you're Work with Teams.
-{: .fs-6 .fw-300 }
-
 If you need to bring in your designer and marketer to help ship your new feature, adding new statuses to the same board simply won't cut it. 
 
 Boards in Zepel help your team get context of where things stand. Add a design board, dev board, and QA board all in one project, so your team can work with their own world view without losing context of the big picture and you see what exactly is happening in every team.

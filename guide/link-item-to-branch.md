@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 7
+nav_order: 8
 parent: Integrations
 has_children: false
 title: Link Item To Branch
