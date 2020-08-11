@@ -77,7 +77,7 @@ Clicking on the item will open up the item’s details pop-up where you can view
 
 ## Step 3: Tracking items and filtering to view specific items
 
-Like any kanban board tool, you can move an item from one column to another to show progress. If you have [Slack integration enabled]({{site.url}}{{ site.baseurl }}{% link guide/slack-integration.md %}), Zepel will automatically inform your team about this progress.
+Like any kanban board tool, you can move an item from one column to another to show progress. If you have [Slack integration enabled]({{site.url}}{{ site.baseurl }}{% link guide/link-with-slack.md %}), Zepel will automatically inform your team about this progress.
 
 Additionally, Zepel will also show you the total number of items inside each column. This can come in handy to get a quick glance of how many items are in each column.
 

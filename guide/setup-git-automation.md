@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 5
+nav_order: 6
 parent: Integrations
 has_children: false
 title: Setup Git Workflow Automation
@@ -19,7 +19,7 @@ __Before you begin:__
 
 ---
 
-With the Zepel's integration with GitHub, you can move any item from one status to another in a board, or even from one board to another while staying in your regular workflow. 
+With the Zepel's integration with Git, you can move any item from one status to another in a board, or even from one board to another while staying in your regular workflow. 
 
 The event handlers in Zepel are setup on a per project basis.
 
