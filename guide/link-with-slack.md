@@ -18,17 +18,48 @@ When you link a project to Zepel, you can customize what notifications you recei
 
 Below is a list of all the notifications you can choose to receive:
 
+**General**
+
 - Project Member Added
 - Feature Created
+
+**Items**
+
+- Item Status Changed
+- Item Completed
+- External Link Added to an Item
+- Item Comment Added
+
+**Feature Progress**
+
 - Feature Owner is Set
 - Feature Duration is Set
 - Feature Status Changed
 - Feature is marked as Completed
-- Branch is linked to a Feature
-- Pull Request is linked to a Feature
-- Feature is completed via a Git integration
+- Feature Comment Added
 
-You can choose to receive these notifications on either a public or a private channel. All members in the Slack channel will be able to view the notification. However, only members who are part of the project can view/edit them inside Zepel.
+**Item Git Events**
+- Commit Linked to Item
+- Branch Linked to Item
+- Pull Request Linked to Item
+- Item Status Changed via Commit
+- Item Status Changed via Pull Request
+- Item Completed via Git
+
+**Feature Git Events**
+
+- Branch Linked to Feature
+- Pull Request Linked to Feature
+- Feature Completed via Git
+
+**Sprints**
+
+- Sprint Created
+- Sprint Scheduled
+
+**You can choose to not receive some of the notifications by removing the tick mark from the checkbox next to the notification's name.**
+
+You can enable these notifications for either a public or a private channel. All members in the Slack channel will be able to view the notification. However, only members who are part of the project can view/edit them inside Zepel.
 
 ## Steps to link a project with a Slack channel
 
@@ -59,11 +90,5 @@ You can choose to receive these notifications on either a public or a private ch
 <br>
 
 Your project will now be linked with the Slack channel you chose.
-
-**You can choose to not receive some of the notifications by removing the tick mark from the checkbox next to the notification's name.**
-
-<br>
-
-![Zepel notifications in Slack](/guide/assets/uploads/zepel-slack-notifications.png)
 
 ---
