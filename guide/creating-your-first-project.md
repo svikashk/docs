@@ -3,26 +3,26 @@ layout: default
 nav_order: 1
 has_children: false
 parent: Get Started
-title: Create your first project
-page_title: Create your first project
-description: Learn how to create your project in Zepel.
+title: Create your first squad
+page_title: Create your first squad
+description: Learn how to create your squad in Zepel.
 permalink: get-started/creating-projects/
 ---
-# Creating your first project
+# Creating your first squad
 
-Projects in Zepel typically map to a team (Engineering, Front End) or any open ended product (Mobile, Web App).
+Squads in Zepel typically map to a team (Engineering, Front End) or any open ended product (Mobile, Web App).
 {: .fs-6 .fw-300 }
 
-To create your first project in your Zepel account:
+To create your first squad in your Zepel account:
 
-- Click on the '__Create Project__' button from the All Projects page.
+- Click on the '__Create Squad__' button from the All Squads page.
 
-![Create a Project in Zepel](/guide/assets/uploads/create-projects.png "Create Zepel Project")
+![Create a Squad in Zepel](/guide/assets/uploads/create-projects.png "Create Zepel Squad")
 
-- In the project create dialogue, enter your project's name.
+- In the squad create dialogue, enter your squad's name.
 
 - Once complete, click on the '__Create__' button.
 
-- Once the project is created, you'll be taken inside your new project. 
+- Once the squad is created, you'll be taken inside your new squad. 
 
-Next, you'll [learn how to create Features]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) inside your project.
+Next, you'll [learn how to create Features]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) inside your squad.
