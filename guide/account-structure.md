@@ -10,7 +10,7 @@ permalink: account-structure/
 # How your Zepel account is structured 
 {: .no_toc }
 
-Zepel is structured into accounts, projects, features, work items, and boards.
+Zepel is structured into accounts, squads, features, work items, and boards.
 {: .fs-6 .fw-300 }
 
 
@@ -89,7 +89,7 @@ An item can be:
 
 ![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
-The completion of all work items inside each Feature will determine your entire project's progress.
+The completion of all work items inside each Feature will determine your entire squad's progress.
 
 [Read more about creating work items ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %})
 
@@ -99,7 +99,7 @@ The completion of all work items inside each Feature will determine your entire 
 
 Boards in Zepel let you and your team track progress of your work items. A Board ideally represents a workflow each item flows through. 
 
-Since most features require members from other disciplines to get involved, you can have multiple Boards in your project, so everyone can work just the way they want.
+Since most features require members from other disciplines to get involved, you can have multiple Boards in your squad, so everyone can work just the way they want.
 
 ![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")
 
