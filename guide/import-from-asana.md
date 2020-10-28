@@ -2,7 +2,7 @@
 layout: default
 nav_order: 3
 has_children: false
-parent: Import Squads
+parent: Import Projects as Squads
 title: Import from Asana
 page_title: Asana
 description: Move your Asana projects to Zepel squads and start managing these squads with ease.
@@ -39,4 +39,4 @@ Moving your Asana projects onto Zepel squads will give you the flexibility to ma
 
 ![Confirm Asana Import](/guide/assets/uploads/zepel-asana-importing.png "Confirm Asana Projects")
 
-Your Asana Projects should be imported as Squads into Zepel. This may take a few minutes based on the size of your projects. You will get an email once the import is complete.
+Your Asana Projects should be imported as Squads into Zepel. This may take a few minutes based on the size of your squads. You will get an email once the import is complete.

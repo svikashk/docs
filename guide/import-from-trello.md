@@ -2,18 +2,18 @@
 layout: default
 nav_order: 4
 has_children: false
-parent: Import Projects
+parent: Import Projects as Squads
 title: Import from Trello
 page_title: Trello
-description: Move your Trello projects to Zepel and start managing projects with ease.
+description: Move your Trello projects to Zepel squads and start managing these squads with ease.
 permalink: import/trello/
 ---
 # Importing Trello Boards into Zepel
 {: .no_toc }
 
-With the one-click importer, you can move your Trello projects into Zepel without loosing any of your data, so you can continue working on your projects from where you left off. After your project is imported, you’ll see all your Trello cards as trackable items with assignees, due dates, statuses, and even comments right where they belong.
+With the one-click importer, you can move your Trello projects into Zepel as squads without loosing any of your data, so you can continue working on your squads from where you left off. After your Trello project is imported, you’ll see all your Trello cards as trackable items with assignees, due dates, statuses, and even comments right where they belong.
 
-Switching from Trello to Zepel will help your team not just track actionable items, but also plan new features, prioritize them, and get meaningful reports on how your project and feature is progressing.
+Switching from Trello to Zepel will help your team not just track actionable items, but also plan new features, prioritize them, and get meaningful reports on how your squad and feature is progressing.
 
 * Access the account settings popup from the menu bar on the top left corner. 
 
@@ -37,4 +37,4 @@ Switching from Trello to Zepel will help your team not just track actionable ite
 
 * Confirm that you have selected the correct boards and want to start the import.
 
-Your Trello Boards should be imported as separate Zepel Projects in a few minutes.
+Your Trello Boards should be imported as separate Zepel Squads in a few minutes.
