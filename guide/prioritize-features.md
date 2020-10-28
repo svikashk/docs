@@ -24,7 +24,7 @@ In this article, we'll show how you can see what your team's working on, their p
 
 Don't worry about prioritizing the feature at first. 
 
-[Create a Feature]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your project and put together all [user stories and tasks]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) you'd ideally want to accomplish.
+[Create a Feature]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your squad and put together all [user stories and tasks]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) you'd ideally want to accomplish.
 
 Add acceptance criteria for your user stories within the [Description]({{ site.url }}{{ site.baseurl }}{% link guide/description.md %}) to help everyone understand what's expected of them.
 
@@ -36,7 +36,7 @@ Add acceptance criteria for your user stories within the [Description]({{ site.u
 
 Your team is most likely working on a couple of other features, completed few user stories, and made some progress.
 
-Since all features your team is working on is inside your project, this makes it effortless for you as the product manager to see what's happening in the feature and who is working on which user story or enhancement.
+Since all features your team is working on is inside your squad, this makes it effortless for you as the product manager to see what's happening in the feature and who is working on which user story or enhancement.
 
 But knowing where each user story stands isn't going to be enough if you want to get a bird's eye view of what's happening. 
 

@@ -20,15 +20,15 @@ In this article, we'll see how you can quickly get an understanding of where eac
 
 ## 1. Give each team a workflow tailor-made just for them
 
-Once you've [created a Feature]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your project and [added user stories and tasks]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) within them, you should add Boards for each discipline involved in helping you ship your feature. 
+Once you've [created a Feature]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your squad and [added user stories and tasks]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) within them, you should add Boards for each discipline involved in helping you ship your feature. 
 
 For example, you'd need a Designer to help design the feature, a development team to build the feature, and QA team to test it. [Add a Board]({{ site.url }}{{ site.baseurl }}{% link guide/creating-boards.md %}) for each of these disciplines.
 
 Building features requires teams to come together and collaborate. At first, its usually just the [product manager]({{ site.url }}{{ site.baseurl }}{% link guide/product-manager.md %}), engineering manager, developers, and the designer. And as your feature nears completion, you'll want to bring in your QA team to ensure the feature is bug free and even your marketing team to help get the word out.
 
-So, how do you fit all their workflow into a single project project management tool? Create separate projects? Surely, not! Because then how would you collaborate and [build features together]({{ site.url }}{{ site.baseurl }}{% link guide/build-together.md %})?
+So, how do you fit all their workflow into a single squad project management tool? Create separate squads? Surely, not! Because then how would you collaborate and [build features together]({{ site.url }}{{ site.baseurl }}{% link guide/build-together.md %})?
 
-In Zepel, you can give each discipline a Board within your project. That way, every time your team mates work on the feature, they can work just the way they want and be more productive.
+In Zepel, you can give each discipline a Board within your squad. That way, every time your team mates work on the feature, they can work just the way they want and be more productive.
 
 ![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")
 

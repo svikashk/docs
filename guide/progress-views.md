@@ -31,6 +31,6 @@ Progress of features can be tracked from 3 different views:
 
 ---
 
-**Grid View:** The Grid view is helpful when you just want to see all the features being worked on in the project. 
+**Grid View:** The Grid view is helpful when you just want to see all the features being worked on in the squad. 
 
 ![Progress of Features as a Grid in Zepel](/guide/assets/uploads/zepel-progress-grid.png "Feature Progress as a Grid")

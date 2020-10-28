@@ -16,7 +16,7 @@ Customize notification settings to fit the way you work.
 
 You can get notified every time when:
 1. A new Sprint is started.
-2. Other team members complete work items in a project you are collaborated in.
+2. Other team members complete work items in a squad you are collaborated in.
 3. Items get assigned to you.
 
 ## Customizing desktop notifications

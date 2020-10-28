@@ -13,7 +13,7 @@ has_toc: true
 # My Tasks
 {: .no_toc }
 
-View and work on just the items assigned to you across projects.
+View and work on just the items assigned to you across squads.
 {: .fs-6 .fw-300 }
 
 With My Tasks, you can view, edit, update, and complete items assigned to you. 

@@ -18,17 +18,17 @@ In this article, we'll see how a product manager uses Zepel to effortlessly keep
 
 ---
 
-## 1. Create a Project for your team
+## 1. Create a Squad for your team
 
-As a product manager, you'd want to bring all the features your team will be working on under one single project. 
+As a product manager, you'd want to bring all the features your team will be working on under one single squad. 
 
-A project in Zepel is usually a team, like Engineering. But if you choose to name your project after a product or an initiative, such as Web App or Android or iOS, that works too!
+A squad in Zepel is usually a team, like Engineering. But if you choose to name your squad after a product or an initiative, such as Web App or Android or iOS, that works too!
 
-![All Projects in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Projects")
+![All Squads in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Squads")
 
-Since you'll require items to go through statuses to keep everyone updated of progress, you can choose to add one or more Boards while creating your project. Not to worry, you can add them from within the project too. 
+Since you'll require items to go through statuses to keep everyone updated of progress, you can choose to add one or more Boards while creating your squad. Not to worry, you can add them from within the squad too. 
 
-[Learn how to create a project ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
+[Learn how to create a squad ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
 
 ---
 
@@ -79,7 +79,7 @@ Give each Feature:
 
 As your team makes progress, you'll see a quick overview of how much work is done. And of course, you can always get a deeper understanding of the progress with reports.
 
-As you add more features to your project, use the Table view or the Kanban view to prioritize and plan your future features.
+As you add more features to your squad, use the Table view or the Kanban view to prioritize and plan your future features.
 
 [Learn more about organizing Features ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
