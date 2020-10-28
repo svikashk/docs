@@ -14,7 +14,7 @@ permalink: track-progress/using-progress/
 
 Progress is built on items and Features, the actionable chunks of Zepel, so it’s always clear on who is responsible for each piece of work, when it’s due, and how it bubbles up to progress of your feature across teams.
 
-In order to start seeing progress of features, there should be _at least_ one [Feature created]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your project.
+In order to start seeing progress of features, there should be _at least_ one [Feature created]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your squad.
 
 ![At least one Feature must be created to view Progress in Zepel](/guide/assets/uploads/zepel-progress-one-feature.png "Feature Progress with one Feature")
 

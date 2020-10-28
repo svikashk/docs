@@ -21,9 +21,9 @@ __Before you begin:__
 
 With the Zepel's integration with Git, you can move any item from one status to another in a board, or even from one board to another while staying in your regular workflow. 
 
-The event handlers in Zepel are setup on a per project basis.
+The event handlers in Zepel are setup on a per squad basis.
 
-* Once you've enabled the integration, go to the project for which you want to setup event handlers.
+* Once you've enabled the integration, go to the squad for which you want to setup event handlers.
 
 * Click on "**Git Workflow Automation**" from the left sidebar.
 
@@ -37,7 +37,7 @@ The event handlers in Zepel are setup on a per project basis.
 
 ![Create Git Workflow Automation](/guide/assets/uploads/zepel-create-git-workflow-automation.png "Git Workflow Automation")
 
-* Next, select the status to which you'd like to move the linked item to when the event you selected occurs. If you have more than one board within the project, the menu will auto populate with all the boards and its respective statuses for you to select.
+* Next, select the status to which you'd like to move the linked item to when the event you selected occurs. If you have more than one board within the squad, the menu will auto populate with all the boards and its respective statuses for you to select.
 
 * Click "**Create**" to create this event handler.
 

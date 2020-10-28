@@ -19,13 +19,13 @@ permalink: sprints/sprint-archive/
 
 If your Sprint contains open items, you will be asked to remove them from the Sprint before you can archive your Sprint.
 
-Once the Sprint is archived, you can access your archived sprints by clicking on "Archived Sprints" from the project's sidebar.
+Once the Sprint is archived, you can access your archived sprints by clicking on "Archived Sprints" from the squad's sidebar.
 
 ---
 
 ## How to unarchive a Sprint
 
-- From the project's sidebar, click on "Archived Sprints".
+- From the squad's sidebar, click on "Archived Sprints".
 
 ![Access archived Sprint from sidebar](/guide/assets/uploads/zepel-sprints-archived-sidebar.png "Archived Sprint")
 

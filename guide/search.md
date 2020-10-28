@@ -4,13 +4,13 @@ title: Search
 page_title: Search
 nav_order: 8
 icon_path: /assets/uploads/search.svg
-description: "Learn how you can search and find any Project or Item you are working on in Zepel"
+description: "Learn how you can search and find any Squad or Item you are working on in Zepel"
 has_children: true
 permalink: search/
 has_toc: true
 ---
 
-# Searching through Projects and Items
+# Searching through Squads and Items
 {: .no_toc }
 
 Find anything in your account using simple Search. 🔎

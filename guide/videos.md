@@ -28,7 +28,7 @@ Watch video tutorials on how you to use Zepel and how you can get the maximum va
 ## List vs Feature
 {: .fs-7 }
 
-### Learn when to use a project's List and a Feature by comparing the two.
+### Learn when to use a squad's List and a Feature by comparing the two.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/hiqXSMETu84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

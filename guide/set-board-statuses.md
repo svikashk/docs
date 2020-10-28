@@ -12,9 +12,9 @@ permalink: working-with-teams/board-statuses/
 
 Adding statuses to your work items help the entire team stay updated on your progress. 
 
-By default, all projects will have a Default Board with ```Todo```, ```In Progress```, ```Resolved```, and ```Done``` statuses. You can add a new Board in your project to match statuses with your workflow.
+By default, all squads will have a Default Board with ```Todo```, ```In Progress```, ```Resolved```, and ```Done``` statuses. You can add a new Board in your squad to match statuses with your workflow.
 
-[Learn how to add Boards into your project ->]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
+[Learn how to add Boards into your squad ->]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
 
 ### <u>Using Keyboard</u>
 {: .no_toc }

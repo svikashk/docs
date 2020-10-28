@@ -4,7 +4,7 @@ title: Use Cases
 page_title: Use Cases
 nav_order: 15
 icon_path: /assets/uploads/use-cases.svg
-description: "All the different ways you can use Zepel to manage your project and ship new features."
+description: "All the different ways you can use Zepel to manage your squad and ship new features."
 permalink: use-cases/
 ---
 
@@ -23,8 +23,8 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                     <a href="{{ site.url }}{{ site.baseurl }}/use-cases/project-management/">
-                    <h4 class="card-title"><b>Software Development Project</b></h4> 
-                    <p>Learn how you can manage your project from start to finish in Zepel.</p> 
+                    <h4 class="card-title"><b>Software Development Squad</b></h4> 
+                    <p>Learn how you can manage your squad from start to finish in Zepel.</p> 
                     </a>
             </div>
         </div>
@@ -41,8 +41,8 @@ Here are multiple ways of how you can bring members from every team together, co
         <div class="column">
             <div class="card">
                     <a href="{{ site.url }}{{ site.baseurl }}/use-cases/client-project-management/">
-                    <h4 class="card-title"><b>Manage Client Projects</b></h4> 
-                    <p>Learn how to organize and manage multiple client projects in Zepel.</p> 
+                    <h4 class="card-title"><b>Manage Client Squads</b></h4> 
+                    <p>Learn how to organize and manage multiple client squads in Zepel.</p> 
                     </a>
             </div>
         </div>
@@ -60,7 +60,7 @@ Here are multiple ways of how you can bring members from every team together, co
             <div class="card">
                     <a href="{{ site.url }}{{ site.baseurl }}/use-cases/list-vs-features/">
                     <h4 class="card-title"><b>List vs Features</b></h4> 
-                    <p>Learn when to use List or Feature within your project.</p> 
+                    <p>Learn when to use List or Feature within your squad.</p> 
                     </a>
             </div>
         </div>

@@ -4,7 +4,7 @@ title: Reports
 page_title: Reports
 nav_order: 11
 icon_path: /assets/uploads/reports.svg
-description: Get a cumulative chart of your entire project or view burnup and burndown charts of your Sprint.
+description: Get a cumulative chart of your entire squad or view burnup and burndown charts of your Sprint.
 has_children: false
 permalink: reports/
 has_toc: true
@@ -13,7 +13,7 @@ has_toc: true
 # Reports
 {: .no_toc }
 
-Zepel gives you a Cumulative chart of your entire project, and Burn up and Burn down chart for your Sprints.
+Zepel gives you a Cumulative chart of your entire squad, and Burn up and Burn down chart for your Sprints.
 {: .fs-6 .fw-300 }
 
 ## IN THIS PAGE
@@ -26,7 +26,7 @@ Zepel gives you a Cumulative chart of your entire project, and Burn up and Burn 
 
 ## Cumulative Chart
 
-The cumulative chart in Zepel shows you how your entire project is progressing. It shows a cumulative report of all items across all the features your team is working on based on which status they are in.
+The cumulative chart in Zepel shows you how your entire squad is progressing. It shows a cumulative report of all items across all the features your team is working on based on which status they are in.
 
 ![Cumulative Reports in Zepel](/guide/assets/uploads/zepel-cumulative-report.png "Cumulative Reports")
 
