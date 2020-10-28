@@ -34,7 +34,7 @@ An account is an overarching entity that owns all your projects and houses them 
 
 ---
 
-## Projects 
+## Squads 
 
 A project is where members of your organization come together to achieve a common goal. Projects can be named after teams such as Design or Data Science, but can also map to a product or initiative your company is working on (Android App, iOS App).
 
