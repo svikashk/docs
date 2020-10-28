@@ -10,7 +10,7 @@ permalink: get-started/creating-items/
 ---
 # Creating work items
 
-Now that you've created a Feature inside your Project, let us go ahead and start adding work items. 
+Now that you've created a Feature inside your Squad, let us go ahead and start adding work items. 
 {: .fs-6 .fw-300 }
 
 At the end of this help article, you will be able to create user stories, tasks, subtasks, enhacements, bugs, and sections.
@@ -60,4 +60,4 @@ __Keyboard Shortcuts:__
 - Add a Section to group similar items together by typing ```*``` at the beginning of an item.
 <br><br>
 
-If you're not working on a feature, you can add your items inside the [project's List]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %}). Of course, every item except a Section can have [multiple assignees]({{ site.url }}{{ site.baseurl }}{% link guide/assign.md %}), [due dates]({{ site.url }}{{ site.baseurl }}{% link guide/set-due-dates.md %}), [board statuses]({{ site.url }}{{ site.baseurl }}{% link guide/set-board-statuses.md %}), and an [estimate]({{ site.url }}{{ site.baseurl }}{% link guide/set-estimates.md %}), so you can quickly start tracking them.
+If you're not working on a feature, you can add your items inside the [squad's List]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %}). Of course, every item except a Section can have [multiple assignees]({{ site.url }}{{ site.baseurl }}{% link guide/assign.md %}), [due dates]({{ site.url }}{{ site.baseurl }}{% link guide/set-due-dates.md %}), [board statuses]({{ site.url }}{{ site.baseurl }}{% link guide/set-board-statuses.md %}), and an [estimate]({{ site.url }}{{ site.baseurl }}{% link guide/set-estimates.md %}), so you can quickly start tracking them.
