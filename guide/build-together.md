@@ -21,19 +21,19 @@ In this article, we'll see you how you can bring in members from every team toge
 
 ---
 
-## 1. Create a Project
+## 1. Create a Squad
 
-Give your project a name. Most projects in Zepel are named after a team, like Engineering. But if you prefer naming your project after an open ended product like Web App or Mobile, that works well too! 
+Give your squad a name. Most squads in Zepel are named after a team, like Engineering. But if you prefer naming your squad after an open ended product like Web App or Mobile, that works well too! 
 
-![All Projects in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Projects")
+![All Squads in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Squads")
 
-When creating a project, you'll be asked to add Boards that teams can use to track and manage their work.
+When creating a squad, you'll be asked to add Boards that teams can use to track and manage their work.
 
 ---
 
 ## 2. Create Features
 
-Once you've created a project, its time create Features. Features in Zepel is a collection of actionable items - user stories, tasks, subtasks, bugs, and enhancements - that can be tracked and executed. 
+Once you've created a squad, its time create Features. Features in Zepel is a collection of actionable items - user stories, tasks, subtasks, bugs, and enhancements - that can be tracked and executed. 
 
 ![At least one Feature must be created to view Progress in Zepel](/guide/assets/uploads/zepel-progress-one-feature.png "Feature Progress with one Feature")
 
@@ -49,7 +49,7 @@ Use Sections to organize your Feature. [Add assignees and due dates]({{ site.url
 
 ![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
-__NOTE:__ Sometimes, you'll find you need to work on items that don't belong to a specific feature. Product wide tech debts or bugs. You can quickly add them into your [project's List]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %}).
+__NOTE:__ Sometimes, you'll find you need to work on items that don't belong to a specific feature. Product wide tech debts or bugs. You can quickly add them into your [squad's List]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %}).
 
 ---
 
