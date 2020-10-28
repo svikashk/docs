@@ -5,13 +5,13 @@ has_children: false
 parent: Use Boards
 title: Change default Board
 page_title: Change default Board
-description: Change a Features's default Board within your project.
+description: Change a Features's default Board within your squad.
 permalink: boards/default-boards/
 ---
 # Change a Feature's default Board
 {: .no_toc }
 
-While creating a Feature within your project, you would have [set a default Board for it]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}).
+While creating a Feature within your squad, you would have [set a default Board for it]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}).
 {: .fs-6 .fw-300 }
 
 In this article, we'll see how you can change a Feature's default Board.
@@ -24,7 +24,7 @@ In this article, we'll see how you can change a Feature's default Board.
 
 - From the pop-up, select a board that you want to set as default board.
 
-__Note:__ Only Boards added in a project can be set as a default board for a Feature.
+__Note:__ Only Boards added in a squad can be set as a default board for a Feature.
 
 - Click on <b>Set default</b> button.
 

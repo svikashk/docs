@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 title: How Developers use Zepel to complete work and beat deadlines
 page_title: How Developers use Zepel to complete work and beat deadlines
-description: Are you a Developer tired of using slow, clunky project management tools? Learn how you can effortlessly track and beat deadlines with Zepel
+description: Are you a Developer tired of using slow, clunky squad management tools? Learn how you can effortlessly track and beat deadlines with Zepel
 permalink: use-cases/developers/
 nav_exclude: true
 ---
@@ -38,7 +38,7 @@ Head over to My Tasks to view just the items assigned to you and work distractio
 
 ![View tasks assigned to you from My Tasks](/guide/assets/uploads/zepel-my-tasks.png "My Tasks")
 
-If you haven't already, you should also add a Board to your project that fits your workflow. Not to worry about disrupting your designer's workflow. In Zepel, every team can add Boards within a project. That way, everyone gets to work just the way they want.
+If you haven't already, you should also add a Board to your squad that fits your workflow. Not to worry about disrupting your designer's workflow. In Zepel, every team can add Boards within a squad. That way, everyone gets to work just the way they want.
 
 ---
 
@@ -48,7 +48,7 @@ Zepel fits right into your dev workflow. [Integrate]({{ site.url }}{{ site.baseu
 
 And inform everyone of this update simply by integrating your Zepel account with Slack.
 
-![Get Zepel project notifications in Slack](/guide/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")
+![Get Zepel squad notifications in Slack](/guide/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")
 
 (Look ma, no hands!)
 
