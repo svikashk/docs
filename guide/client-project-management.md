@@ -1,24 +1,24 @@
 ---
 layout: default
 nav_order: 1
-title: How to manage projects for clients
-page_title: Project Management
-description: Learn how to manage and organize client projects, so you can deliver projects on time, every time.
+title: How to build software as a client services company
+page_title: Client Software Management
+description: Learn how to manage and build software as a client services company, so you can deliver different software to different clients on time, every time.
 permalink: use-cases/client-project-management/
 nav_exclude: true
 ---
-# How to organize and manage client projects
+# How to build software as a client services company
 {: .no_toc }
 
-Managing multiple clients and delivering quality software can be tricky. 
+Managing multiple clients and delivering quality software for each of them can be tricky. 
 
-Regardless of how your team is structured, you can organize client projects in Zepel in such a way that you never drop the ball.
+Regardless of how your team is structured, you can build software in Zepel in such a way that you never drop the ball.
 
 Follow along with this article and see how you can level up your development process, keep all your clients updated, and deliver quality software every time.
 
 ---
 
-## 1. Create your first project
+## 1. Create your first squad
 
 __Key Goals:__
 
@@ -29,19 +29,19 @@ __Key Goals:__
         </div>
 </div>
 
-Creating a project is the first thing you'll be doing once you sign up for Zepel. 
+Creating a squad is the first thing you'll be doing once you sign up for Zepel. 
 
-A project in Zepel is where a cross-functional team collaborates with a client and work on developing software and features. 
+A squad in Zepel is where a cross-functional team collaborates with a client and work on developing software and features. 
 
-To get the maximum value, services and agency teams __create a project for each client__. This allows teams such as yours to quickly jump between projects and see where work stands for each client.
+To get the maximum value, services and agency teams __create a squad for each client__. This allows teams such as yours to quickly jump between squads and see where work stands for each client.
 
-![All Projects in Zepel](/guide/assets/uploads/zepel-client-projects.png "Zepel Projects")
+![All Squads in Zepel](/guide/assets/uploads/zepel-client-projects.png "Zepel Squads")
 <div class="caption">
-<small>Acme Corp named each project after their clients' name.</small>
+<small>Acme Corp named each squad after their clients' name.</small>
 </div>
 <br>
 
-[Learn how to create a project ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %}){: .btn .btn-purple }
+[Learn how to create a squad ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %}){: .btn .btn-purple }
 
 ---
 
@@ -63,9 +63,9 @@ __Key Goals:__
         </div>
 </div>
 
-Now that you've created a project for your client, it's time to create Features.
+Now that you've created a squad for your client, it's time to create Features.
 
-A Feature in Zepel is a collection of actionable items - user stories, tasks, subtasks, bugs, and enhancements - that can be tracked and executed. Each project can have multiple Features.
+A Feature in Zepel is a collection of actionable items - user stories, tasks, subtasks, bugs, and enhancements - that can be tracked and executed. Each squad can have multiple Features.
 
 __If you're already used to agile methodologies and its terminologies, think of a feature as an epic.__
 
@@ -117,7 +117,7 @@ After you've created items to plan your Feature, you can have [conversations wit
 </div>
 <br>
 
-__NOTE: If you want to add miscellaneous bugs, smaller user stories, and tasks that do not belong to a Feature, you can add them to the [project's List]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %}) which is located above the Dashboard.__
+__NOTE: If you want to add miscellaneous bugs, smaller user stories, and tasks that do not belong to a Feature, you can add them to the [squad's List]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %}) which is located above the Dashboard.__
 
 [Learn how you can quickly create a list of items ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}){: .btn .btn-purple }
 
@@ -154,7 +154,7 @@ The advantages of adding a separate Board for each team includes:
 
 ![Boards in Zepel](/guide/assets/uploads/zepel-client-boards.png "Boards in Zepel")
 <div class="caption">
-<small>Dev Board shows all the items that are being worked on by the development team in the project. Add filters to manage workload.</small>
+<small>Dev Board shows all the items that are being worked on by the development team in the squad. Add filters to manage workload.</small>
 </div>
 <br>
 
@@ -162,14 +162,14 @@ The advantages of adding a separate Board for each team includes:
 
 ---
 
-That's it, your client project is all set up! 
+That's it, your client squad is all set up! 
 {: .fs-6 .fw-300 }
 
 You can now effortlessly plan new features, [collaborate with team members and clients]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}), plan and [run Sprints]({{ site.url }}{{ site.baseurl }}{% link guide/sprints.md %}), work distraction-free with [My Tasks]({{ site.url }}{{ site.baseurl }}{% link guide/my-tasks.md %}), and identify opportunities to [remove inefficiencies with reports]({{ site.url }}{{ site.baseurl }}{% link guide/reports.md %}).
 
 ---
 
-Ready to effortlessly manage client projects?
+Ready to effortlessly build software together?
 {: .fs-6 .fw-300 }
 [Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=client-project-management){: .btn .btn-purple } 
 [See other use cases]({{site.url}}{{ site.baseurl }}{% link guide/use-cases.md %}){: .btn }
