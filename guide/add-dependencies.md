@@ -11,7 +11,7 @@ permalink: working-with-teams/dependencies/
 # Add Dependencies
 {: .no_toc }
 
-Set dependencies between multiple work items in your project and work together with more context.
+Set dependencies between multiple work items in your squad and work together with more context.
 {: .fs-6 .fw-300 }
 
 With Dependencies in Zepel, you can set any item as:

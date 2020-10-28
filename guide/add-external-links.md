@@ -50,7 +50,7 @@ If you add a link apart from the ones provided above, it will fall under the `Ot
 
 ### <u>Add an external link to a Feature</u>
 {: .no_toc }
-- Go to the Progress tab inside your project.
+- Go to the Progress tab inside your squad.
 - On the top-right corner of the Feature, click on ```...``` icon.
 - From the menu, click ```Edit```.
 
