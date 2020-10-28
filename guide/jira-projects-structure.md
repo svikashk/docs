@@ -2,20 +2,20 @@
 layout: default
 nav_order: 2
 has_children: false
-parent: Import Projects
-title: Mapping Jira projects in Zepel
-page_title: Mapping Jira projects in Zepel
-description: Move your Jira projects to Zepel and start managing projects with ease.
+parent: Import Projects as Squads
+title: Mapping Jira projects in Zepel Squads
+page_title: Mapping Jira projects in Zepel Squads
+description: Move your Jira projects to Zepel squads and start managing these squads with ease.
 permalink: import/jira-zepel-structure/
 ---
-# How your Jira projects will look in Zepel
+# How your Jira projects will look in Zepel as squads
 {: .no_toc }
 
-This article will help you understand what your Jira projects will look like [after it is imported into Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/import-from-jira.md %}).
+This article will help you understand what your Jira projects will look like [after it is imported into Zepel as squads]({{ site.url }}{{ site.baseurl }}{% link guide/import-from-jira.md %}).
 
 | <center>Jira</center>      | <center>Zepel</center>          |
 |:-------------|:------------------|
-| Jira Projects | **[Projects:]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md%})** <br>Jira projects get imported into Zepel as projects. |
+| Jira Projects | **[Squads:]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md%})** <br>Jira projects get imported into Zepel as Squads. |
 | Epics | **[Features:]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})** <br>All Jira Issues of type "Epic" get imported into Zepel as separate Feature. <br><br>All issues linked to epic will be imported as items inside the Feature. Additional properties (like status, estimate etc) of an Epic are lost when the epic is moved from Jira to Zepel.|
 | Workflows | **[Boards:]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})** <br>Workflows from Jira get imported into Zepel as boards. Each workflow in the Jira project becomes a separate board. Each status of the workflow gets a unique column. <br><br>Note that workflows in Zepel have only one start state and one end state. During the import, the first start state in the JIRA workflow becomes the start state in Zepel. The End State with the most number of items in the Jira workflow gets chosen as the end state in Zepel.      |
 | Boards | - |
