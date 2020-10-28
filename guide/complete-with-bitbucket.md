@@ -13,7 +13,7 @@ nav_exclude: true
 
 Merge pull request in Bitbucket and Zepel can automatically complete its respective task. That way, you can focus on your work and need not worry about keeping the information updated in Zepel.
 
-* Once you've connected your Zepel account with your Bitbucket repository, head over to the task in your Zepel project.
+* Once you've connected your Zepel account with your Bitbucket repository, head over to the task in your Zepel squad.
 * Click on the task's "**Edit details**" icon.
 
 ![Expand Item Icon](/guide/assets/uploads/expand-item.png "Expand Item Icon")
