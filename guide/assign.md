@@ -11,14 +11,14 @@ permalink: working-with-teams/assign/
 # Assign work to team members
 {: .no_toc }
 
-Once you've [collaborated your project with team members]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}), you can start delegating pieces of work to them by assigning work items from your Feature. 
+Once you've [collaborated your squad with team members]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}), you can start delegating pieces of work to them by assigning work items from your Feature. 
 
 When assigned, your team mates will be notified via Slack (if you've integrated your account with Slack) and email.
 
 ### <u>Using Keyboard</u>
 {: .no_toc }
 - With the cursor on the item you want to assign to, type ``` /a ```.
-- You will now see a list of members collaborated on your project. 
+- You will now see a list of members collaborated on your squad. 
 - Select a member from the drop down suggestion to assign the task to them. 
 
 ![Type /a to assign to team members](/guide/assets/uploads/zepel-assign-with-keyboard.gif "Assign using Keyboard")
