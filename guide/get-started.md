@@ -32,29 +32,43 @@ In this article we will take you through the top 3 tips, so you can quickly brin
 
 ## Collect Requests from several sources using Streams
 
-Streams in Zepel helps you gather all the customer requests posted across multiple popular sources such as Intercom, Canny, etc., in one place.  
-talk about connecting with intercom, canny, and adding internal requests.
+Streams in Zepel helps you gather all the customer requests posted across multiple popular sources such as Intercom, Canny, etc., in one place. Apart from this, your team can also create internal requests for any feature, bug, or enhancement.
 
-- talk about using tags to prioritize
+Furthermore, you can add priorities to these requests such as `low`, `medium`, and `high` using the `tags` feature to help you prioritize your work better. 
 
 ---
 
 ## Create a Squad
 
-- what is a squad?
+A squad represents an individual, cross-functional, self-organizing team in an organization that aims to achieve a common goal. Similarly, in Zepel also, squads are used to map to such teams and are usually named after a product or an initiative the company is working on. 
 
-- how to create a squad?
-[Creating a Squad]({{ site.url }}{{ site.baseurl }}{% link guide\creating-your-first-project.md %})
+*Examples of squads: Android App, Web App, iOS App.*
+
+[Learn how to create a Squad in Zepel]({{ site.url }}{{ site.baseurl }}{% link guide\creating-your-first-project.md %}).
 
 ---
 
 ## Delegate Requests from Streams to a Squad
 
-- take prioritized requests and delegate to a squad by linking to a feature or item
+In addition to prioritizing requests as mentioned earlier, you can delegate to a squad by linking to a feature or item. Here's how you can do it:
 
-- explain how for feature.
+### Delegating Requests to a Feature
 
-- explain how for item.
+- Click on the prioritized request that you wish to delegate 
+
+- Under the `Link to Item/Feature` section on the right pane of the request details pop-up, enter the desired feature's name or ID.
+
+- Or click on `create a new feature` to delegate the request to a new feature.
+
+### Delegating Requests to an Item
+
+- Click on the prioritized request that you wish to delegate 
+
+- Under the `Link to Item/Feature` section on the right pane of the request details pop-up, enter the desired item's name or ID.
+
+- Or click on `create a new item` to delegate the request to a new feature.
+
+*Note: You can view the linked item/feature right below the `Link to Item/Feature` section.* 
 
 ---
 
