@@ -32,7 +32,8 @@ In this article we will take you through the top 3 tips, so you can quickly brin
 
 ## Collect Requests from several sources using Streams
 
-- talk about connecting with intercom, canny, and adding internal requests.
+Streams in Zepel helps you gather all the customer requests posted across multiple popular sources such as Intercom, Canny, etc., in one place.  
+talk about connecting with intercom, canny, and adding internal requests.
 
 - talk about using tags to prioritize
 
@@ -43,6 +44,7 @@ In this article we will take you through the top 3 tips, so you can quickly brin
 - what is a squad?
 
 - how to create a squad?
+[Creating a Squad]({{ site.url }}{{ site.baseurl }}{% link guide\creating-your-first-project.md %})
 
 ---
 
@@ -96,3 +98,4 @@ That way, when you bring in a designer to help design your new feature, or a QA 
 [Learn more about Boards in Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
 
 Go ahead, start your first squad in Zepel. It'll only take a minute to see how effortless it is to work on features with cross team collaboration and track progress across teams.
+
