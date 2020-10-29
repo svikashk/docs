@@ -16,9 +16,9 @@ has_toc: true
 New to Zepel? Welcome! 🤗
 {: .fs-6 .fw-300 }
 
-Zepel is the squad management tool that makes it effortless for you to plan features, manage, and track its progress across teams.
+Zepel is the project management tool that makes it effortless for you to collect customer requests and errors from several sources, prioritize, and track its development progress every step of the way.
 
-Once you've signed up and [created a squad]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %}) for your team, you are only 3 steps away from tracking progress of your feature. 
+Once you've signed up, you are only 3 steps away from tracking progress of your feature. 
 
 In this article we will take you through the top 3 tips, so you can quickly bring in members from every team to start building and tracking features.
 
@@ -27,6 +27,32 @@ In this article we will take you through the top 3 tips, so you can quickly brin
 
 1. TOC
 {:toc}
+
+---
+
+## Collect Requests from several sources using Streams
+
+- talk about connecting with intercom, canny, and adding internal requests.
+
+- talk about using tags to prioritize
+
+---
+
+## Create a Squad
+
+- what is a squad?
+
+- how to create a squad?
+
+---
+
+## Delegate Requests from Streams to a Squad
+
+- take prioritized requests and delegate to a squad by linking to a feature or item
+
+- explain how for feature.
+
+- explain how for item.
 
 ---
 

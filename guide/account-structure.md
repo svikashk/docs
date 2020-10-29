@@ -36,7 +36,7 @@ An account is an overarching entity that owns all your squads and houses them to
 
 ## Squads 
 
-A squad is where members of your organization come together to achieve a common goal. Squads can be named after teams such as Design or Data Science, but can also map to a product or initiative your company is working on (Android App, iOS App).
+A squad is where members of your organization come together to achieve a common goal. Squads can be named after a product or initiative your company is working on. For example, Android App, iOS App, Web App.
 
 ![All Squads in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Squads")
 
