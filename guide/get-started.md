@@ -40,9 +40,11 @@ Furthermore, you can add priorities to these requests such as `low`, `medium`, a
 
 ## Create a Squad
 
-A squad represents an individual, cross-functional, self-organizing team in an organization that aims to achieve a common goal. Similarly, in Zepel also, squads are used to map to such teams and are usually named after a product or an initiative the company is working on. 
+A squad represents an individual, cross-functional, self-organizing team in an organization that aims to achieve a common goal. Similarly, in Zepel also, squads are used to map to such teams and are usually named after them or after an open ended product the company is working on. 
 
-*Examples of squads: Android App, Web App, iOS App.*
+*Examples of squads named after teams: Engineering, Front End, Marketing.*
+
+*Examples of squads named after open ended products: Android App, Web App, iOS App.*
 
 [Learn how to create a Squad in Zepel]({{ site.url }}{{ site.baseurl }}{% link guide\creating-your-first-project.md %}).
 
