@@ -10,8 +10,7 @@ permalink: get-started/creating-projects/
 ---
 # Creating your first squad
 
-Squads in Zepel typically map to a team (Engineering, Front End) or any open ended product (Mobile, Web App).
-{: .fs-6 .fw-300 }
+Squads in Zepel typically map to any open ended product — for example: Android App, Web App.
 
 To create your first squad in your Zepel account:
 

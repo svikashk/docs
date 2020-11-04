@@ -40,8 +40,6 @@ An account is where all squads your company is working live. It is usually the n
 
 ![Click on Members tab in the Account Settings popup](/guide/assets/uploads/zepel-members-tab.png "Account Members Tab")
 
-By default, all squads in Zepel are private, till you specifically collaborate a squad with another team member.
-
 ---
 
 ## Collaborate in a Squad
@@ -54,6 +52,8 @@ You can choose to collaborate members in a squad, so you can assign pieces of wo
 - In the text field, enter the email address of your team member and click Invite.
 
 ![Click on Members tab in the Squad](/guide/assets/uploads/zepel-project-members.png "Squad Members Tab")
+
+By default, all squads in Zepel are private, till you specifically add a member into a squad.
 
 If a member you are trying to collaborate is not part of the account already, they will automatically get added into your account.
 

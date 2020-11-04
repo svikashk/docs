@@ -11,10 +11,9 @@ permalink: boards/add-existing-board/
 # Reuse a Board from another Squad
 {: .no_toc }
 
-Every time your team works on a new squad, they don't have to spend time re-creating their workflow from scratch. 
-{: .fs-6 .fw-300 }
+Think the other squad's workflow is efficient? Want to try implementing that for your own squad?
 
-Your dev team can simply add their board from their previous squad and start working on the new squad without any fuss.
+In this article, we'll walk you through how you can duplicate other squad's workflow in just a few clicks.
 
 ---
 
@@ -30,4 +29,6 @@ Your dev team can simply add their board from their previous squad and start wor
 
 ![Click + button to create Boards in Zepel](/guide/assets/uploads/zepel-add-boards.png "Click + button to create Boards")
 
-After clicking on Add Board, boards you selected (along with their status columns) will be added to your current squad and can be used to set statuses for all items in your squad. 
+After clicking on Add Board, boards you selected (along with their status columns) will be added to your current squad and can be used to set statuses for all items in your squad.
+
+Of course, if you're not satisfied with it, you can always make changes and [edit the Board]({{ site.url }}{{ site.baseurl }}{% link guide/editing-boards.md %}).

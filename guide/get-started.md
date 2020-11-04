@@ -18,9 +18,7 @@ New to Zepel? Welcome! 🤗
 
 Zepel is the project management tool that makes it effortless for you to collect customer requests and errors from several sources, prioritize, and track its development progress every step of the way.
 
-Once you've signed up, you are only 3 steps away from tracking progress of your feature. 
-
-In this article we will take you through the top 3 tips, so you can quickly bring in members from every team to start building and tracking features.
+Once you've signed up, you are only 5 steps away from tracking progress of your development.
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -32,43 +30,43 @@ In this article we will take you through the top 3 tips, so you can quickly brin
 
 ## Collect Requests from several sources using Streams
 
-Streams in Zepel helps you gather all the customer requests posted across multiple popular sources such as Intercom, Canny, etc., in one place. Apart from this, your team can also create internal requests for any feature, bug, or enhancement.
+Streams in Zepel helps you gather all customer requests and errors logged across multiple sources such as Intercom, Canny, etc., in one place. Apart from this, your team can also create internal requests.
 
-Furthermore, you can add priorities to these requests such as `low`, `medium`, and `high` using the `tags` feature to help you prioritize your work better. 
+You can tag these requests and prioritize them as `low`, `medium`, and `high` to help you focus on the most important work at all times. Custom tags are helpful when you want to segment requests and filter them based on several conditions.
 
 ---
 
 ## Create a Squad
 
-A squad represents an individual, cross-functional, self-organizing team in an organization that aims to achieve a common goal. Similarly, in Zepel also, squads are used to map to such teams and are usually named after them or after an open ended product the company is working on. 
-
-*Examples of squads named after teams: Engineering, Front End, Marketing.*
+A squad represents an individual, cross-functional, self-organizing team in an organization that aims to achieve a common goal. Similarly, in Zepel also, squads are used to map to such teams and are usually named after a product or an initiative the company is working on.
 
 *Examples of squads named after open ended products: Android App, Web App, iOS App.*
 
-[Learn how to create a Squad in Zepel]({{ site.url }}{{ site.baseurl }}{% link guide\creating-your-first-project.md %}).
+[Learn how to create a Squad in Zepel →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
 
 ---
 
 ## Delegate Requests from Streams to a Squad
 
-In addition to prioritizing requests as mentioned earlier, you can delegate to a squad by linking to a feature or item. Here's how you can do it:
+In addition to prioritizing requests as mentioned earlier, you can delegate to a squad by linking the prioritized request to a feature or an item. Here's how you can do it:
 
 ### Delegating Requests to a Feature
+{: .no_toc }
 
 - Click on the prioritized request that you wish to delegate 
 
 - Under the `Link to Item/Feature` section on the right pane of the request details pop-up, enter the desired feature's name or ID.
 
-- Or click on `create a new feature` to delegate the request to a new feature.
+- Or click on `Create a new feature` to delegate the request to a new feature.
 
 ### Delegating Requests to an Item
+{: .no_toc }
 
 - Click on the prioritized request that you wish to delegate 
 
 - Under the `Link to Item/Feature` section on the right pane of the request details pop-up, enter the desired item's name or ID.
 
-- Or click on `create a new item` to delegate the request to a new feature.
+- Or click on `Create a new item` to delegate the request to a new item.
 
 *Note: You can view the linked item/feature right below the `Link to Item/Feature` section.* 
 
@@ -76,7 +74,7 @@ In addition to prioritizing requests as mentioned earlier, you can delegate to a
 
 ## Create Feature to plan and track progress
 
-A Feature is a collection of users stories, tasks, subtasks, bugs, and enhancements. A squad can have multiple features, so you can track everything that's happening in your squad.
+A Feature is a collection of users stories, tasks, subtasks, bugs, and enhancements. Just as how a squad might work on multiple features, you can create multiple features in Zepel and track everything that's happening in your squad.
 
 ![All Features in Zepel](/guide/assets/uploads/zepel-features.png "Zepel Features")
 

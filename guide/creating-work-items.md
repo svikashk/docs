@@ -10,8 +10,7 @@ permalink: get-started/creating-items/
 ---
 # Creating work items
 
-Now that you've created a Feature inside your Squad, let us go ahead and start adding work items. 
-{: .fs-6 .fw-300 }
+Now that you've [created a Feature]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) inside your Squad, let us go ahead and start adding work items.
 
 At the end of this help article, you will be able to create user stories, tasks, subtasks, enhacements, bugs, and sections.
 

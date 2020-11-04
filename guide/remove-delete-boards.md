@@ -11,8 +11,7 @@ permalink: boards/remove-delete-boards/
 # How to remove and delete Boards
 {: .no_toc }
 
-You can choose to remove a Board from your squad or delete the Board itself.
-{: .fs-6 .fw-300 }
+You can choose to remove a Board from your squad or delete the Board entirely.
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }

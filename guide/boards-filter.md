@@ -11,12 +11,12 @@ permalink: boards/filter-boards/
 # Filtering Boards
 {: .no_toc }
 
-Filter Boards to view and work on only the items you care.
+Filter Boards to view and work on just the items you care.
 {: .fs-6 .fw-300 }
 
-Even if you are already within your team's Board, simply looking at the Board can be hard to find what you're looking at. What if you want to find items assigned to a developer who is working on a specific feature? 
+Even if you are already within a Board, simply looking at it can be hard to find what you're looking at. Especially when you have many items. What if you want to find items assigned to a developer who is working on a specific feature? 
 
-With filters in Boards, you can slice and dice an entire Board to find and learn who is working on which feature, what functionality, and its current status.
+With filters in Boards, you can slice and dice an entire Board to find and learn who is working on what and its current status.
 
 ---
 

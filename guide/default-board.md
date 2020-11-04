@@ -11,9 +11,6 @@ permalink: boards/default-boards/
 # Change a Feature's default Board
 {: .no_toc }
 
-While creating a Feature within your squad, you would have [set a default Board for it]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}).
-{: .fs-6 .fw-300 }
-
 In this article, we'll see how you can change a Feature's default Board.
 
 - Once inside a Feature, you will see the Feature's default board mentioned.

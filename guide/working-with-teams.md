@@ -13,7 +13,7 @@ has_toc: true
 # Work with Teams
 {: .no_toc }
 
-Building and shipping quality squads requires you to bring in team members and collaborate with them.
+Building and shipping quality software requires you to bring in team members and collaborate with them.
 {: .fs-6 .fw-300 }
 
-With Zepel, you can bring members from any team into your squad, delegate work, share files, have conversations, and track progress in every team.
+With Zepel, you can bring members into your squad, delegate work, share files, have conversations, and track progress in every team.

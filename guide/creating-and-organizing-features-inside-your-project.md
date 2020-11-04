@@ -11,8 +11,7 @@ permalink: get-started/creating-features/
 
 # Creating Features inside your squad
 
-Now that you've created a squad, let us go ahead and to create Features in your squad. 
-{: .fs-6 .fw-300 }
+Now that you've [created a squad]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %}), let us go ahead and create Features in your squad.
 
 With Features in Zepel, you can break your squad by specific features your team is working on. That way, you get to neatly organize your entire squad and see where each feature stands.
 
@@ -53,3 +52,5 @@ You can create multiple Features from the Progress tab to quickly plan your road
 ![One feature name per line](/guide/assets/uploads/zepel-create-multiple-features-one-per-line.png "One feature name per line")
 
 - Click "__Create__" button.
+
+Next, you'll [learn how to create work items]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) inside your Feature.

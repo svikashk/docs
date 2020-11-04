@@ -11,9 +11,9 @@ permalink: working-with-teams/assign/
 # Assign work to team members
 {: .no_toc }
 
-Once you've [collaborated your squad with team members]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}), you can start delegating pieces of work to them by assigning work items from your Feature. 
+Once you've [collaborated members into your squad]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}), you can start delegating pieces of work to them by assigning work items from your Feature. 
 
-When assigned, your team mates will be notified via Slack (if you've integrated your account with Slack) and email.
+When assigned, your team mates will be [notified via Slack]({{ site.url }}{{ site.baseurl }}{% link guide/link-with-slack.md %}) (if you've integrated your account with Slack) and email.
 
 ### <u>Using Keyboard</u>
 {: .no_toc }
