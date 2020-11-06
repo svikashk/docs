@@ -59,7 +59,7 @@ Now, each time a new post is added in Canny, it's automatically pushed to Stream
 
 - Click `Add`. 
 
-[API & Webhooks in Canny with Webhook URL box highlighted]
+![API & Webhooks in Canny with Webhook URL box highlighted](/guide/assets/uploads/canny-webhook-url.png)
 
 - Once the `Webhook URL` gets added, from the same page, copy the `Secret API Key`. 
 
