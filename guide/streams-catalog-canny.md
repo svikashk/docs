@@ -63,7 +63,7 @@ Now, each time a new post is added in Canny, it's automatically pushed to Stream
 
 - Once the `Webhook URL` gets added, from the same page, copy the `Secret API Key`. 
 
-- Switch back to Zepel. In the `Canny` souce pop-up in your Zepel account, paste the copied `Secret API Key` under `API Access Token`.
+- Switch back to Zepel. In the `Canny` source pop-up in your Zepel account, paste the copied `Secret API Key` under `API Access Token`.
 
 [Integrate with Canny pop-up in Zepel with API section highlighted] 
 
