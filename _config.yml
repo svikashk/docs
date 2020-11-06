@@ -27,7 +27,7 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Login to Zepel":
+  "Log in":
     - "https://zepel.io/login/?utm_source=zepelguide&utm_medium=topnav"
 
 # Color scheme currently only supports "dark" or nil (default)

@@ -81,8 +81,6 @@ Want to run a Sprint? Simply create one, add Sprint items, and delegate work.
 
 If you prefer a simple Kanban process, simply push work items to a Board and [assign it to a team member]({{ site.url }}{{ site.baseurl }}{% link guide/add-properties.md %}) and watch them make progress with using [Reports]({{ site.url }}{{ site.baseurl }}{% link guide/reports.md %}).
 
-And the best part? Your team members get to focus on just the things they care about without losing context of the big picture using our [Desktop Widget]({{ site.url }}{{ site.baseurl }}{% link guide/desktop-widget.md %}).
-
 ---
 
 ## 6. Watch features progress
