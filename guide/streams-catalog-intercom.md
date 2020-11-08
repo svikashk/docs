@@ -65,7 +65,7 @@ By integrating Intercom with Zepel, customer feedback & their requests will not 
 
 - Now, on the left sidebar under `Configure` section, navigate to `Webhooks`.
 
-![Webhooks Under Configure in Intercom](/guide/assets/uploads/intercom-configure-webhooks.png)
+![Webhooks Under Configure Section in Intercom](/guide/assets/uploads/intercom-configure-webhooks.png)
 
 - Paste the `Webhook URL` you copied from yourr Zepel account under `Your request endpoint URL`.
 
