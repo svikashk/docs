@@ -4,7 +4,7 @@ title: My Tasks
 page_title: My Tasks
 nav_order: 9
 icon_path: /assets/uploads/my-tasks.svg
-description: View, edit, and update your work right from your desktop using Zepel's Desktop Widget.
+description: View, edit, and update your work right using My Tasks.
 has_children: false
 permalink: my-tasks/
 has_toc: true
@@ -56,5 +56,3 @@ You can group items by:
 2. Due Date
 
 ---
-
-Alternatively, you can also download [Zepel's Desktop Widget]({{ site.url }}{{ site.baseurl }}{% link guide/desktop-widget.md %}) to do all of these right from the comfort of your desktop. 
