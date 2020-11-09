@@ -26,9 +26,17 @@ __Before you begin:__ Make sure you have a subscription to Zepel Streams and hav
 ## Adding Internal Requests
 
 - Head over to the `Streams` tab inside your account.
+
 - Click on the `Create Request` button.
+
+![Create Internal Request button](/guide/assets/uploads/streams-internal-requests.png)
+
 - In the create request pop-up, enter a title for your request.
+
 - Optionally, you can also add a detailed description for your request.
+
 - Click `Create` button.
+
+![Create Internal Request Streams](/guide/assets/uploads/streams-create-internal-request.png)
 
 An internal request will be created with the details you entered along with the name and registered email address of who added the request.

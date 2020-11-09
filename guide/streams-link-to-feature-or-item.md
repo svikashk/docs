@@ -5,7 +5,7 @@ has_children: false
 parent: Streams
 title: Link to Feature or Item
 page_title: Link to Feature or Item
-description: How to tag a request or error using Streams in Zepel
+description: Link a request in Streams to a Feature or an Item that is worked on by a Squad
 permalink: streams/link-request-to-feature-or-item/
 ---
 
@@ -47,3 +47,14 @@ __Before you begin:__ Make sure you have a subscription to Zepel Streams and hav
 - Click on `Create new feature` to create a new feature. Or `Create new item` to create a new item.
 - You can confirm the name of your Feature or Item before you create them.
 - Once the new Feature/Item is created, it will automatically be linked to the request. 
+
+---
+
+## Unlink a Feature/Item from a request
+
+- Navigate to the Streams tab in your Zepel account.
+- Click on the request from which you want to unlink a feature or an item.
+- Once the request details pop-up opens, on the right side you'll see all the linked features and items.
+- Click on the hamburger menu on the top-right corner of the linked feature or item.
+- From the menu, click `Unlink`.
+- The request will no longer be linked to a feature or an item.

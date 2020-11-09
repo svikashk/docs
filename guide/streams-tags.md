@@ -45,6 +45,6 @@ __Before you begin:__ Make sure you have a subscription to Zepel Streams and hav
 
 ## Removing a tag from a request
 
-- Opem the request for which you want to remove a tag.
+- Open the request for which you want to remove a tag.
 - Scroll down to the `Tags` section.
 - To the right of the tag you want to remove, click on the `x` mark.

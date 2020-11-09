@@ -5,7 +5,7 @@ has_children: false
 parent: Streams
 title: Discussions
 page_title: Discussions
-description: How to tag a request or error using Streams in Zepel
+description: Start discussions around a request or an error log in Streams
 permalink: streams/discussions/
 ---
 
@@ -28,6 +28,6 @@ With discussions, you can:
 
 ## Starting a discussion
 
-- Open the request for which you want to starrt a discussion.
+- Open the request for which you want to start a discussion.
 - Scroll down to the discussions section.
 - Type in your comment in the text field and hit `[Enter]` to submit it.

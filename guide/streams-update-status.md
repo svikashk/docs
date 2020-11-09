@@ -12,7 +12,7 @@ permalink: streams/update-status/
 # Update Status of a Request
 {: .no_toc }
 
-You can update the status of the requests to keep teammates in sync and aligned on the same goals.
+You can update the status of the requests to keep teammates in sync and aligned with the same goals.
 
 You can set the following statuses for a request:
 
@@ -22,7 +22,7 @@ You can set the following statuses for a request:
 - Icebox
 - Closed
 
-You can update the status either from the Streams page or from the request details pop-up.
+You can update the status either in the Streams page or in the request details pop-up.
 
 ---
 
