@@ -54,18 +54,6 @@ And inform everyone of this update simply by integrating your Zepel account with
 
 ---
 
-## 4. Complete from the comfort of your Desktop
-
-Why wait for pages to load when you can track your items and keep your team members updated right from your Desktop? 
-
-![View tasks assigned to you using Desktop Widget](/guide/assets/uploads/zepel-desktop-widget.png "Zepel Desktop Widget")
-
-With the [desktop widget]({{ site.url }}{{ site.baseurl }}{% link guide/desktop-widget.md %}), you can view, edit, update, and complete your items right from your desktop. 
-
-And the best part? You even get notified when things change or when items get assigned to you!
-
----
-
 Don't just meet deadlines. Beat 'em!
 {: .fs-6 .fw-300 }
 [Try Zepel for FREE](https://zepel.io/?utm_source=zepelguide&utm_medium=usecases&utm_campaign=build-together){: .btn .btn-purple } 
