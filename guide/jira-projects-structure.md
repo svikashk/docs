@@ -2,10 +2,10 @@
 layout: default
 nav_order: 2
 has_children: false
-parent: Import Projects as Squads
-title: Mapping Jira projects in Zepel Squads
-page_title: Mapping Jira projects in Zepel Squads
-description: Move your Jira projects to Zepel squads and start managing these squads with ease.
+parent: Import from Trello, Asana, or JIRA
+title: Mapping Jira projects in Zepel
+page_title: Mapping Jira projects in Zepel
+description: Move your Jira projects to Zepel and start building software with ease.
 permalink: import/jira-zepel-structure/
 ---
 # How your Jira projects will look in Zepel as squads

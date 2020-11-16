@@ -29,7 +29,7 @@ A squad in Zepel is usually a team, like Engineering, Backend, or Frontend. But 
 
 While creating your squad, add Boards your team will use to move items across statuses. If you find your squad needs more Boards as your team makes progress on the feature, you can add them from within the squad.
 
-[Learn how to create a squad ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
+[Learn how to create a squad →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
 
 ---
 

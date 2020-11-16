@@ -2,7 +2,7 @@
 layout: default
 nav_order: 3
 has_children: false
-parent: Import Projects as Squads
+parent: Import from Trello, Asana, or JIRA
 title: Import from Asana
 page_title: Asana
 description: Move your Asana projects to Zepel squads and start managing these squads with ease.

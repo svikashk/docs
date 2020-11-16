@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Import Projects as Squads
-page_title: Import Squads
+title: Import from Trello, Asana, or JIRA
+page_title: Import
 nav_order: 14
 icon_path: /assets/uploads/import.svg
-description: Not too pleased with other project management tools? Switch to Zepel for FREE. Import projects from other tools as squads into Zepel without data loss.
+description: Not too pleased with other project management tools? Switch to Zepel for FREE. Import from Trello, Asana, or JIRA without data loss.
 permalink: import/
 has_children: true
 ---

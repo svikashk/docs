@@ -53,9 +53,9 @@ Once you’ve created a Sprint and give it a name. Make sure the Sprint name is 
 
 This helps your team to stay aligned and focussed.
 
-Once you’ve added the Sprint’s name, it’s time to set a duration for the sprint. 
+Once you’ve added the Sprint’s name, it’s time to [set a duration]({{ site.url }}{{ site.baseurl }}{% link guide/sprint-duration.md %}) for the sprint. Make sure you **select both a start and an end date** for your sprint.
 
-Many teams prefer the sprint’s duration to be two weeks. Depending on the start date you’ve selected, your sprint’s status will change to:
+Depending on the start date you’ve selected, your sprint’s status will change to:
 
 - **Scheduled** - If your current date is before the start date
 - **In Progress** - If you’re past the start date, but not the end date.

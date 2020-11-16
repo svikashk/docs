@@ -22,45 +22,9 @@ Here are multiple ways of how you can bring members from every team together, co
     <div class="usecases-row">
         <div class="column">
             <div class="card">
-                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/project-management/">
-                    <h4 class="card-title"><b>Software Development Squad</b></h4> 
-                    <p>Learn how you can manage your squad from start to finish in Zepel.</p> 
-                    </a>
-            </div>
-        </div>
-        <div class="column">
-            <div class="card">
                     <a href="{{ site.url }}{{ site.baseurl }}/use-cases/prioritize-features/">
                     <h4 class="card-title"><b>Prioritize Features</b></h4> 
                     <p>Product managers use Zepel to plan and prioritize their next features.</p> 
-                    </a>
-            </div>
-        </div>
-    </div>
-    <div class="usecases-row">
-        <div class="column">
-            <div class="card">
-                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/client-project-management/">
-                    <h4 class="card-title"><b>Manage Client Squads</b></h4> 
-                    <p>Learn how to organize and manage multiple client squads in Zepel.</p> 
-                    </a>
-            </div>
-        </div>
-        <div class="column">
-            <div class="card">
-                <a href="{{ site.url }}{{ site.baseurl }}/use-cases/manage-workload/">
-                <h4 class="card-title"><b>Manage Workload</b></h4> 
-                <p>Track what each member is working on and manage their workload.</p> 
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="usecases-row">
-        <div class="column">
-            <div class="card">
-                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/list-vs-features/">
-                    <h4 class="card-title"><b>List vs Features</b></h4> 
-                    <p>Learn when to use List or Feature within your squad.</p> 
                     </a>
             </div>
         </div>
@@ -70,6 +34,24 @@ Here are multiple ways of how you can bring members from every team together, co
                 <h4 class="card-title"><b>How to run Sprints using Zepel</b></h4> 
                 <p>Follow this five step process to run an effective Sprint using Zepel.</p> 
                 </a>
+            </div>
+        </div>
+    </div>
+    <div class="usecases-row">
+        <div class="column">
+            <div class="card">
+                <a href="{{ site.url }}{{ site.baseurl }}/use-cases/manage-workload/">
+                <h4 class="card-title"><b>Manage Workload</b></h4> 
+                <p>Track what each member is working on and manage their workload.</p> 
+                </a>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+                    <a href="{{ site.url }}{{ site.baseurl }}/use-cases/list-vs-features/">
+                    <h4 class="card-title"><b>List vs Features</b></h4> 
+                    <p>Learn when to use List or Feature within your squad.</p> 
+                    </a>
             </div>
         </div>
     </div>
