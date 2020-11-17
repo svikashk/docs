@@ -32,7 +32,7 @@ Streams is where all your customer requests from several sources are consolidate
 
 A squad is where members come together to achieve a common goal. Squads can be named after a product or initiative your company is working on. For example, Android App, iOS App, Web App.
 
-![All Squads in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Squads")
+![All Squads in Zepel](/guide/assets/uploads/zepel-squads.png "Zepel Squads")
 
 People collaborated in a squad will be automatically added to the respective account as a Member if they aren't already part of that account.
 
@@ -42,7 +42,7 @@ People collaborated in a squad will be automatically added to the respective acc
 
 ## Features
 
-A Feature is a collection of actionable work that your team can plan, track, and execute. As members across teams start to work on this feature, you can see how the entire Feature is progressing right from here.
+A Feature is a collection of actionable work that your team can plan, track, and execute. As members of your squad start to work on this feature, you can see how the entire Feature is progressing right from here.
 
 [Read more about Features →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
@@ -62,8 +62,6 @@ This includes things like:
 To put it simply, if you'd name your Git branch as `feature/name-of-the-feature` then you'd create a feature. Everything else goes inside the List.
 
 [Read about squad's List →]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %})
-
-![Squad's List in Zepel to add miscellaneous work items](/guide/assets/uploads/zepel-list.png "Squad's List in Zepel")
 
 ---
 
@@ -87,12 +85,3 @@ The completion of all work items inside each Feature will determine your entire 
 [Read more about creating work items →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %})
 
 ---
-
-## Boards
-
-Boards in Zepel let you and your team track progress of your work items. A Board ideally represents a workflow each item flows through. 
-
-![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")
-
-[Read more about Boards →]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
-

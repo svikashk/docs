@@ -6,6 +6,7 @@ nav_order: 17
 icon_path: /assets/uploads/videos.svg
 description: Watch video tutorials on how you to use Zepel and how you can get the maximum value out of Zepel for your team.
 permalink: /videos/
+nav_exclude: true
 ---
 
 # Zepel Video Tutorials and Guide

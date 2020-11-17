@@ -36,7 +36,7 @@ As a product manager, you'd want to bring all the features your team will be wor
 
 A squad in Zepel is usually named after a product or an initiative, such as Web App or Android or iOS.
 
-![All Squads in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Squads")
+![All Squads in Zepel](/guide/assets/uploads/zepel-squads.png "Zepel Squads")
 
 You can [collaborate members of your squad]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}) who will be working on your prioritized customer feedback.
 
