@@ -5,17 +5,17 @@ has_children: false
 parent: Import from Trello, Asana, or JIRA
 title: Import from Jira
 page_title: Jira
-description: Move your Jira projects to Zepel Squads and start managing these squads with ease.
+description: Move your Jira projects to Zepel and start working together with ease.
 permalink: import/jira/
 ---
-# Importing Jira Projects into Zepel Squads
+# Importing Jira Projects into Zepel
 {: .no_toc }
 
-The one click importer will help you move your projects out of Jira to test in Zepel as squads, so you can get started right away. After your squad is imported, you’ll see all your Jira issues as trackable items with assignees, due dates, statuses, and even comments right where they belong.
+The one click importer will help you move your projects out of Jira and into Zepel, so you can get started right away. After it's imported, you’ll see all your Jira issues as trackable items with assignees, due dates, statuses, and even comments right where they belong.
 
-Switching to Zepel over Jira lets you work on your squads without bringing you or your team down with complexity or clutter.
+Switching to Zepel over Jira lets you work with your squad members without bringing you or your team down with complexity or clutter.
 
-## How to import your Jira project into Zepel Squad
+## How to import your Jira project into Zepel
 
 * Access the account settings popup from the menu bar on the top left corner. 
 
@@ -31,7 +31,7 @@ Note: You need to be a JIRA admin to access all your JIRA projects through the A
 
 ![Log in to your JIRA account to access your projects](/guide/assets/uploads/zepel-jira-login.png "Log in to JIRA")
 
-* Select the JIRA projects that you want to import as squads into Zepel. 
+* Select the JIRA projects that you want to import into Zepel. 
 
 ![Select JIRA projects you'd like to import](/guide/assets/uploads/zepel-jira-projects.png "Select JIRA projects to import")
 
