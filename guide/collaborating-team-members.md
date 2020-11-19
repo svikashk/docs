@@ -11,7 +11,7 @@ permalink: working-with-teams/collaborating-team-members/
 # Collaborating with Team Members
 {: .no_toc }
 
-After adding items into your Feature, it's time bring members into your squad and get the most out of Zepel.
+After adding items into your Feature, it's time to bring members into your squad and get the most out of Zepel.
 {: .fs-6 .fw-300 }
 
 In Zepel, you can invite members into an Account or in a Squad.
@@ -26,7 +26,7 @@ In Zepel, you can invite members into an Account or in a Squad.
 
 ## Collaborate into an Account
 
-An account is where all squads your company is working live. It is usually the name of your company. So, all members of your company would be inside an account.
+An account is where all squads, your company is working on, live. It is usually the name of your company. So, all members of your company would be inside an account.
 
 ### <u>To collaborate members into your company account:</u>
 {: .no_toc }
