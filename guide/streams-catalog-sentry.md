@@ -39,11 +39,11 @@ Here’s how you set up the Sentry + Zepel integration and create or merge reque
 
 - On the page that appears, you will be asked to choose your Zepel account that you wish to connect with Sentry.
 
-![Choose Zepel Account in Sentry](/guide/assets/uploads/choose-zepel-account-in-sentry.png)
+![Choose Zepel Account in Sentry](/guide/assets/uploads/choose-zepel-account-for-sentry.png)
 
 *Note: If you don’t have an existing Zepel account, you will be prompted to create one for your organization.* 
 
-![Create Zepel Account in Sentry](/guide/assets/uploads/create-zepel-account-in-sentry.png)
+![Create Zepel Account in Sentry](/guide/assets/uploads/create-zepel-account-for-sentry.png)
 
 - You will be taken to the Zepel App and a popup will be displayed with a message that says ‘Sentry has been enabled’.
 
