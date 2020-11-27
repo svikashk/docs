@@ -29,19 +29,17 @@ Follow the steps shown below to connect GitHub Issues with Zepel and work on bui
 
 - Click on the Developer Settings tab.
 
-[Developer Settings Tab in GitHub]()
+[Developer Settings Tab in GitHub](/guide/assets/uploads/developer-settings-in-github.png)
 
 - Select the Personal access tokens tab and click `Generate new token`.
 
-[Generate new token button in GitHub]() 
-
 - On the page that appears, give your access token a name and select the scope - `user:email`.  
 
-[New Access Token Page in GitHub]
+[New Access Token Page in GitHub](/guide/assets/uploads/new-access-token-page-github-issue.png)
 
 - Copy the access token that has been generated.
 
-[Access Token in GitHub]
+[Access Token in GitHub](/guide/assets/uploads/access-token-github-issues.png)
 
 - Move to the Zepel Streams page, click the `Add Source` button, and then select GitHub from the list of integration sources.
 
@@ -49,7 +47,7 @@ Follow the steps shown below to connect GitHub Issues with Zepel and work on bui
 
 - Copy the `webhook url` that appears in the popup once the integration has been enabled.
 
-[Webhook URL for GitHub Issues  in Zepel Streams]()
+[Webhook URL for GitHub Issues  in Zepel Streams](/guide/assets/uploads/webhook-url-github-issues.png)
 
 - Go back to the GitHub homepage, select the desired repository, and click on settings. 
 
@@ -59,7 +57,7 @@ Follow the steps shown below to connect GitHub Issues with Zepel and work on bui
 
 - Click on the `Add webhook` button.
 
-[Add Webhook in GitHub]
+[Add Webhook in GitHub](/guide/assets/uploads/add-webhook-github-issues.png)
 
 ---
 
@@ -71,11 +69,11 @@ Follow the steps shown below to connect GitHub Issues with Zepel and work on bui
 
 - Give the request a title and a description and click on `Submit new issue`.
 
-[Create New Issue in GitHub Issues]()
+[Create New Issue in GitHub Issues](/guide/assets/uploads/create-issue-in-github-issues.png)
 
  *Tip: Use the label option to create a label called `zepel` to help you organize all your requests from GitHub Issues within Zepel Streams.*
 
- [Zepel Label in GitHub Issues]()
+ [Zepel Label in GitHub Issues](/guide/assets/uploads/create-zepel-label-github-issues.png)
 
  *Note: You can view all the issues from GitHub Issues as requests under the Requests section on the Zepel Streams page.*
 
