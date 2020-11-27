@@ -58,7 +58,7 @@ Follow the steps shown below to connect GitHub Issues with Zepel and work on bui
 
 - Click on the `Add webhook` button.
 
-![Add Webhook in GitHub](/guide/assets/uploads/add-webhook-github-issues.png)
+![Add Webhook in GitHub](/guide/assets/uploads/add-webhooks-github-issues.png)
 
 ---
 
