@@ -8,16 +8,36 @@ page_title: Set Board Statuses
 description: Set and update Board statuses, so everyone knows where each work stands and is always in sync.
 permalink: working-with-teams/board-statuses/
 ---
+
 # Update Board Statuses
+{: .no_toc }
 
 Adding statuses to your work items help the entire team stay updated on your progress. 
 
-By default, all projects will have a Default Board with ```Todo```, ```In Progress```, ```Resolved```, and ```Done``` statuses. You can add a new Board in your project to match statuses with your workflow.
+By default, once you [create a squad]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %}), a Default Board with ```Todo```, ```In Progress```, ```Resolved```, and ```Done``` statuses will be created for you. You can also [add a new Board]({{ site.url }}{{ site.baseurl }}{% link guide/creating-boards.md %}) in your squad to match your own workflow.
 
-[Learn how to add Boards into your project ->]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
+In this article, we'll see how you can update statuses for an item.
+
+## IN THIS PAGE
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## From within a Board
+
+- From within your squad, click on the board from the left side bar.
+- To update the status of an item, you can drag and drop any item from one column to another.
+
+---
+
+## From within a Feature
 
 ### <u>Using Keyboard</u>
 {: .no_toc }
+
 - With the cursor on the item you want to update a status for, type ```/b``` to push the work item to a specific Board.
 - From the drop down, select the status.
 
@@ -27,6 +47,7 @@ By default, all projects will have a Default Board with ```Todo```, ```In Progre
 
 ### <u>Using Mouse</u>
 {: .no_toc }
+
 - From the Feature, right click on the item you want to the update status.
 - Select the flag icon from the item menu.
 - From the drop down suggestion, select a status to update the item's status.
@@ -37,6 +58,7 @@ By default, all projects will have a Default Board with ```Todo```, ```In Progre
 
 ### <u>Set Board Status in Bulk</u>
 {: .no_toc }
+
 - From within the Feature, left-click and drag the mouse to mult-select items.
 - This will open the item menu. Select the flag icon from the item menu.
 - From the drop down suggestion, select a status to update the item's status.
@@ -45,6 +67,7 @@ By default, all projects will have a Default Board with ```Todo```, ```In Progre
 
 ### <u>Using Single Item Popup</u>
 {: .no_toc }
+
 - Hover on any item inside your Feature. 
 - Click on the ```Expand Item``` icon from the right side of an item.
 

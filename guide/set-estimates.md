@@ -12,7 +12,7 @@ permalink: working-with-teams/estimates/
 
 Add an estimate to your work item, so you can see an approximate estimate of how long your work will take to get completed.
 
-Estimates in Zepel are measured in points. They are useful when you'd like to view Burnup and Burndown charts for your Sprint. Or when you Filter your Feature.
+Estimates in Zepel are measured in points. They are useful when you'd like to view Burnup and Burndown charts for your Sprint.
 
 ### <u>Using Keyboard</u>
 {: .no_toc }

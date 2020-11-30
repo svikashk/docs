@@ -4,7 +4,7 @@ nav_order: 2
 has_children: false
 title: Add Properties to Items
 page_title: Add Properties to Items
-description: Start collaborating on projects with your team in Zepel. Assign, set due dates, set statuses, and estimate your work items.
+description: Start collaborating on squads with your team in Zepel. Assign, set due dates, set statuses, and estimate your work items.
 permalink: working-with-teams/add-properties/
 nav_exclude: true
 search_exclude: true
@@ -27,14 +27,14 @@ At the end of this help article, you would have learned how to assign, set due d
 
 ## Assign items
 
-Once you've [collaborated your project with team members]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}), you can start delegating pieces of work to them by assigning work items from your Feature. 
+Once you've [collaborated your squad with team members]({{ site.url }}{{ site.baseurl }}{% link guide/collaborating-team-members.md %}), you can start delegating pieces of work to them by assigning work items from your Feature. 
 
 When assigned, your team mates will be notified via Slack (if you've integrated your account with Slack) and email.
 
 ### <u>Using Keyboard</u>
 {: .no_toc }
 - With the cursor on the item you want to assign to, type ``` /a ```.
-- You will now see a list of members collaborated on your project. 
+- You will now see a list of members collaborated on your squad. 
 - Select a member from the drop down suggestion to assign the task to them. 
 
 ![Type /a to assign to team members](/guide/assets/uploads/zepel-assign-with-keyboard.gif "Assign using Keyboard")
@@ -111,9 +111,9 @@ When a specific work item is not yet completed on the due date, member assigned 
 
 Adding statuses to your work items help the entire team stay updated on your progress. 
 
-By default, all projects will have a Default Board with ```Todo```, ```In Progress```, ```Resolved```, and ```Done``` statuses. You can add a new Board in your project to match statuses with your workflow.
+By default, all squads will have a Default Board with ```Todo```, ```In Progress```, ```Resolved```, and ```Done``` statuses. You can add a new Board in your squad to match statuses with your workflow.
 
-[Learn how to add Boards into your project ->]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
+[Learn how to add Boards into your squad →]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
 
 ### <u>Using Keyboard</u>
 {: .no_toc }

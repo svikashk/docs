@@ -11,7 +11,7 @@ permalink: sprints/add-sprint-items/
 # How to add items into a Sprint
 {: .no_toc }
 
-You can add items into a Sprint from within a Feature/Project's List or by using the item's details popup.
+You can add items into a Sprint from within a Feature/Squad's List or by using the item's details popup.
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -21,9 +21,9 @@ You can add items into a Sprint from within a Feature/Project's List or by using
 
 ---
 
-## From within a Feature/Project's List
+## From within a Feature/Squad's List
 
-- Use the project's sidebar and head to a Feature/Project's List.
+- Use the squad's sidebar and head to a Feature/Squad's List.
 - Right click on the item you want to add to the Sprint.
 - From the right click menu, click on the Sprint name to add it to the Sprint.
 

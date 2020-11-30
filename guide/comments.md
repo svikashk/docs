@@ -5,7 +5,7 @@ has_children: false
 parent: Work with Teams
 title: Comments and Conversations
 page_title: Comments and Conversations
-description: Start collaborating on projects with your team in Zepel. Comment, mention people, and share files within your conversation.
+description: Start collaborating on squads with your team in Zepel. Comment, mention people, and share files within your conversation.
 permalink: working-with-teams/comments/
 ---
 # Have contextual conversations with team members
@@ -61,9 +61,9 @@ All file formats, except ```.svg``` are supported. And there is a maximum file s
 Get your team member's attention in a conversation by using ```@``` mention.
 
 - Type ```@``` in the comments text field.
-- The drop down will show you a list of members who are collaborated in your current project.
+- The drop down will show you a list of members who are collaborated in your current squad.
 - Select a member from the drop down, type your comment and hit ```[ Enter ]```.
 
-An email will be sent to the member you've mentioned along with the comment text and attachment (if any). You can mention all members in the project by typing ```@all```.
+An email will be sent to the member you've mentioned along with the comment text and attachment (if any). You can mention all members in the squad by typing ```@all```.
 
 ![Type @ to mention members in your comment](/guide/assets/uploads/comment-mentions.png "Mention teammates in Comments")

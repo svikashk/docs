@@ -5,7 +5,7 @@ has_children: false
 parent: Use Boards
 title: Editing Boards
 page_title: Editing Boards
-description: Edit Boards within your project to bend Zepel to fit your workflow.
+description: Edit Boards within your squad to bend Zepel to fit your workflow.
 permalink: boards/edit-boards/
 ---
 # Edit Boards to fit your workflow
@@ -22,7 +22,7 @@ Change the name of your Board, statuses, re-arrange columns, or edit their colou
 
 ---
 ## Change Board name
-- Click on the Board's name from the project's sidebar.
+- Click on the Board's name from the squad's sidebar.
 - Click on the settings icon next to the Board.
 
 ![Board Settings in Zepel](/guide/assets/uploads/zepel-boards-settings.png "Click on Settings icon")
@@ -35,7 +35,7 @@ Change the name of your Board, statuses, re-arrange columns, or edit their colou
 ---
 
 ## Editing statuses/columns
-- Click on the Board's name from the project's sidebar.
+- Click on the Board's name from the squad's sidebar.
 - Click on the status' text to make it editable.
 - Edit and rename your status' name and click outside to save your changes.
 
@@ -44,7 +44,7 @@ Change the name of your Board, statuses, re-arrange columns, or edit their colou
 ---
 
 ## Re-arranging statuses/columns
-- Click on the Board's name from the project's sidebar.
+- Click on the Board's name from the squad's sidebar.
 - Click and drag the status using your mouse to your desired position.
 
 ![Rearrange a status column in Zepel](/guide/assets/uploads/zepel-boards-status-rearrange.gif "Rearrange Status Column")
@@ -52,7 +52,7 @@ Change the name of your Board, statuses, re-arrange columns, or edit their colou
 ---
 
 ## Change the colours for a status
-- Click on the Board's name from the project's sidebar.
+- Click on the Board's name from the squad's sidebar.
 - Click on the colour next to the status' name.
 - Select a desired colour for your status from the options.
 
@@ -61,7 +61,7 @@ Change the name of your Board, statuses, re-arrange columns, or edit their colou
 ---
 
 ## Change Board's icon
-- Click on the Board's name from the project's sidebar.
+- Click on the Board's name from the squad's sidebar.
 - Click on the settings icon next to the Board.
 
 ![Board Settings in Zepel](/guide/assets/uploads/zepel-boards-settings.png "Click on Settings icon")
@@ -75,11 +75,11 @@ Change the name of your Board, statuses, re-arrange columns, or edit their colou
 ---
 
 ## Delete status/column
-- Click on the Board's name from the project's sidebar.
+- Click on the Board's name from the squad's sidebar.
 - Click on the hamburger menu positioned to the right of the status' name.
 - Click delete.
 
 ![Delete a status column in Zepel](/guide/assets/uploads/zepel-boards-delete-column.png "Click on the status's hamburger menu")
 
-__NOTE:__ If the same Board is used in other projects, all changes will reflect on all the projects.
+__NOTE:__ If the same Board is used in other squads, all changes will reflect on all the squads.
 

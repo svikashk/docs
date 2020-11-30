@@ -39,7 +39,7 @@ On the other hand, bugs, small functionalities that requires only one user story
 
 ## Using Features in Zepel
 
-A team can work on multiple features. So, once you create a project for your team, you can create and name the feature your team will be working on. 
+A team can work on multiple features. So, once you create a squad for your team, you can create and name the feature your team will be working on. 
 
 The product or engineering manager can spec the feature with user stories, tasks, enhancements, and bugs. These items can be grouped together by using Sections. And of course, teams can [assign]({{site.url}}{{ site.baseurl }}{% link guide/assign.md %}), estimate, [set due dates]({{site.url}}{{ site.baseurl }}{% link guide/set-due-dates.md %}), [statuses]({{site.url}}{{ site.baseurl }}{% link guide/set-board-statuses.md %}), [add descriptions]({{site.url}}{{ site.baseurl }}{% link guide/description.md %}), [file attachments]({{site.url}}{{ site.baseurl }}{% link guide/attachments.md %}), and [more]({{site.url}}{{ site.baseurl }}{% link guide/working-with-teams.md %})!
 
@@ -84,7 +84,7 @@ And by going to the [Progress]({{site.url}}{{ site.baseurl }}{% link guide/progr
 
 ## Using List in Zepel
 
-Once you’ve created a project for your team, you’ll notice a List created by default. It is named after your project. If your project name is Web App, your list will be `Web App List`. Every project can have only one list. 
+Once you’ve created a squad for your team, you’ll notice a List created by default. It is named after your squad. If your squad name is Web App, your list will be `Web App List`. Every squad can have only one list. 
 
 The List is where you’ll add:
 - that bug reported by a customer

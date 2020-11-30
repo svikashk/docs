@@ -12,9 +12,9 @@ permalink: integrations/gitlab/
 
 {: .no_toc }
 
-In this article, we'll see how you can set up your Zepel account to integrate with your GitLab project.
+In this article, we'll see how you can set up your Zepel account to integrate with your GitLab squad.
 
-__Before you begin:__ Ensure that you have Maintainer permissions for the GitLab project.
+__Before you begin:__ Ensure that you have Maintainer permissions for the GitLab squad.
 
 ## Integrate Zepel with GitLab
 
@@ -28,8 +28,8 @@ __Before you begin:__ Ensure that you have Maintainer permissions for the GitLab
 ![Head over to Integrations tab in Account Settings](/guide/assets/uploads/integrations-tab.png "Integrations tab in Account Settings")
 
 * Click on the "**Enable**" button next to GitLab.
-* Now, login to your GitLab account and visit the project you want to connect with your Zepel account.
-* From within your project's settings, click on Integrations.
+* Now, login to your GitLab account and visit the squad you want to connect with your Zepel account.
+* From within your squad's settings, click on Integrations.
 
 * Copy the "**Webhook URL**" that is generated in your Zepel account and paste it in the "**URL**" field in GitLab.
 * Copy the "**Webhook Secret**" that is generated in your Zepel account and paste it in the "**Secret Token**" field in GitLab.
@@ -42,7 +42,7 @@ __Before you begin:__ Ensure that you have Maintainer permissions for the GitLab
 
 * Click on "**Save Changes**".
 
-Your Zepel account is now integrated with your GitLab project.
+Your Zepel account is now integrated with your GitLab squad.
 
 ---
 

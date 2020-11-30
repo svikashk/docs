@@ -16,11 +16,11 @@ has_toc: true
 New to Zepel? Welcome! 🤗
 {: .fs-6 .fw-300 }
 
-Zepel is the project management tool that makes it effortless for you to plan features, manage, and track its progress across teams.
+Zepel is the project management tool that makes it effortless for you to go from customer requests to shipped software painlessly.
 
-Once you've signed up and [created a project]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %}) for your team, you are only 3 steps away from tracking progress of your feature. 
+Once you've signed up, you are only 3 steps away from tracking progress of software development.
 
-In this article we will take you through the top 3 tips, so you can quickly bring in members from every team to start building and tracking features.
+Let's jump in and see how you can get started quickly.
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -30,43 +30,58 @@ In this article we will take you through the top 3 tips, so you can quickly brin
 
 ---
 
-## Create Feature to plan and track progress
+## Step 1: Create a Squad
 
-A Feature is a collection of users stories, tasks, subtasks, bugs, and enhancements. A project can have multiple features, so you can track everything that's happening in your project.
+In Zepel, you don't create a project. You create a Squad.
+
+A squad is where a cross functional team comes together to achieve a common goal.
+
+For example, you could name your squad as *Web App*, *Android App*, or *iOS app*.
+
+To create a squad, click on the `Create Squad` button.
+
+![Create a Squad in Zepel](/guide/assets/uploads/create-squads.png "Create Zepel Squad")
+
+[Learn more about creating a Squad →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
+
+---
+
+## Step 2: Create Features your Squad will be working on
+
+Your squad builds features and fixes bugs. So, Zepel calls them as they are instead of creating an epic confusion.
+
+Once you've created a squad, you can create multiple features and track their progress using the [Progress]({{ site.url }}{{ site.baseurl }}{% link guide/progress.md %}).
+
+To create a Feature, simply click the `Create Feature` button.
 
 ![All Features in Zepel](/guide/assets/uploads/zepel-features.png "Zepel Features")
 
-And if you have miscellaneous work that are not part of a Feature, you can add them to your project's List.
+[Learn more about creating features →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
 ---
 
-## Create Items
+## Step 3: Create Actionable Items for your Feature
 
-Items and its types - Stories, Enhancements, Bugs, Tasks, and Subtasks - are at the core of Zepel. You can delegate, set deadlines, and track statuses of your work. 
+But of course, your feature has several moving parts.
 
-Once you've created a Feature inside your project, start adding items, so you can keep your team on same page.
+Small tasks that need to be completed. Enhancements that need to be added. And several interactions that you'd define as user stories.
 
-- To change an item's type, right click on the item and select which type you would like to change to.
-- Hit __[ Tab ]__ to turn any item into a Subtask.
+That's why once you've created a feature, you can create multiple items of type task, subtask, user stories, enhancements, and bugs. And to make it easier to organize, you can create Sections and group similar items together.
 
 ![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
-_<b>Keyboard Shortcuts:</b>_
+This way, your squad isn't just checking off an isolated issue. They get to see everything that's needed to build the feature and achieve an outcome.
 
-- Turn any item into a task by typing ```-``` at the beginning of an item.
-- Toggle between item types using __Ctrl + Shift + S__ (or __Cmd + Shift + S__ if you use a Mac).
-- Add a Section to group similar items together by typing ```*``` at the beginning of an item.
+**"But our team also fixes bugs!", you say. And we hear you.**
 
----
+That's why every squad has a list. 
 
-## Add Boards for every workflow
+This is where miscellaneous bugs get added. Or tech debts.
 
-Building features is a cross team effort. And since each team has their own way of working, you can add a Board tailor-made just for them. 
+[Learn how to create items →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %})
 
-That way, when you bring in a designer to help design your new feature, or a QA team to test your completed feature, they can all work from within the Project with a workflow that suits their need. 
+--- 
 
-![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")
+Once you've created items, they can be assigned, estimated, have due dates, comments, descriptions, [and more]({{ site.url }}{{ site.baseurl }}{% link guide/working-with-teams.md %})!
 
-[Learn more about Boards in Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
-
-Go ahead, start your first project in Zepel. It'll only take a minute to see how effortless it is to work on features with cross team collaboration and track progress across teams.
+And then, you can choose to track their progress either on a [Kanban Board]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %}) or using [Sprints]({{ site.url }}{{ site.baseurl }}{% link guide/sprints.md %}).

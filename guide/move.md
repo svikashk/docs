@@ -12,7 +12,7 @@ has_toc: true
 # Moving Features and Work Items
 {: .no_toc }
 
-Reorganize your projects by moving: 
+Reorganize your squads by moving: 
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -22,11 +22,11 @@ Reorganize your projects by moving:
 
 ---
 
-## Move Features To Another Project
+## Move Features To Another Squad
 
-- Go to the Project where your planned Feature is housed.
+- Go to the Squad where your planned Feature is housed.
 
-- Click on Progress tab from the project sidebar.
+- Click on Progress tab from the squad sidebar.
 
 ![Feature Progress in Zepel](/guide/assets/uploads/feature-move-menu.png "Progress")
 
@@ -38,7 +38,7 @@ Reorganize your projects by moving:
 
 ![Select Move](/guide/assets/uploads/feature-move-menu-select.png "Select Move")
 
-- From the Move Feature popup, select which project you'd like to move this Feature to.
+- From the Move Feature popup, select which squad you'd like to move this Feature to.
 
 - If you'd like to retain your Assignees and Comments while moving, click on checkboxes.
 
@@ -46,10 +46,10 @@ Reorganize your projects by moving:
 
 ---
 
-## Move Items Within The Project
+## Move Items Within The Squad
 
 
-- To move an Item within your project, say from List to a Feature or from one Feature to another:
+- To move an Item within your squad, say from List to a Feature or from one Feature to another:
 
 - Go to the item you want to move.
 
@@ -61,7 +61,7 @@ Reorganize your projects by moving:
 
 ![Click on Move Item Icon](/guide/assets/uploads/move-item-top-right.png "Click on Move Item Icon")
 
-- Click on the dropdown. By default, you'll see the current Project, List/Feature, and Section the item currently resides at.
+- Click on the dropdown. By default, you'll see the current Squad, List/Feature, and Section the item currently resides at.
 
 - Select to which Feature you'd like to move the Item to. You can select to which Section you'd like to move the item to as well.
 
@@ -75,9 +75,9 @@ Reorganize your projects by moving:
 
 ---
 
-## Move Items To Another Project
+## Move Items To Another Squad
 
-- To move an Item to another project:
+- To move an Item to another squad:
 
 - Go to the item you want to move.
 
@@ -89,11 +89,11 @@ Reorganize your projects by moving:
 
 ![Click on Move Item Icon](/guide/assets/uploads/move-item-top-right.png "Click on Move Item Icon")
 
-- Click on the dropdown. By default, you'll see the current Project, List/Feature, and Section the item currently resides at.
+- Click on the dropdown. By default, you'll see the current Squad, List/Feature, and Section the item currently resides at.
 
-- Click on the Project to select which Project you'd like to move to.
+- Click on the Squad to select which Squad you'd like to move to.
 
-- Select to which Feature inside the new Project you'd like to move the Item to. You can select to which Section you'd like to move the item to as well.
+- Select to which Feature inside the new Squad you'd like to move the Item to. You can select to which Section you'd like to move the item to as well.
 
 ![Click on Move Item Icon](/guide/assets/uploads/move-item-project.png "Click on Move Item Icon")
 

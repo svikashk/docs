@@ -2,22 +2,22 @@
 layout: default
 nav_order: 4
 has_children: false
-parent: Import Projects
+parent: Import from Trello, Asana, or JIRA
 title: Import from Trello
 page_title: Trello
-description: Move your Trello projects to Zepel and start managing projects with ease.
+description: Move your Trello projects to Zepel and start working together with ease.
 permalink: import/trello/
 ---
 # Importing Trello Boards into Zepel
 {: .no_toc }
 
-With the one-click importer, you can move your Trello projects into Zepel without loosing any of your data, so you can continue working on your projects from where you left off. After your project is imported, you’ll see all your Trello cards as trackable items with assignees, due dates, statuses, and even comments right where they belong.
+With the one-click importer, you can move your Trello projects into Zepel without loosing any of your data, so you can continue working togetherr from where you left off. After your Trello project is imported, you’ll see all your Trello cards as trackable items with assignees, due dates, statuses, and even comments right where they belong.
 
-Switching from Trello to Zepel will help your team not just track actionable items, but also plan new features, prioritize them, and get meaningful reports on how your project and feature is progressing.
+Switching from Trello to Zepel will help your team not just track actionable items, but also plan new features, prioritize them, and get meaningful reports.
 
 * Access the account settings popup from the menu bar on the top left corner. 
 
-![Click on Account Settings in Zepel](/guide/assets/uploads/zepel-account-settings.png "Account Settings")
+![Click on Account Settings in Zepel](/guide/assets/uploads/account-settings.png "Account Settings")
 
 * Navigate to the Import tab in the account settings popup. Click on **Import from Trello** button.
 
@@ -37,4 +37,4 @@ Switching from Trello to Zepel will help your team not just track actionable ite
 
 * Confirm that you have selected the correct boards and want to start the import.
 
-Your Trello Boards should be imported as separate Zepel Projects in a few minutes.
+Your Trello Boards should be imported into Zepel in a few minutes. Once the import is complete, you'll receive an email.

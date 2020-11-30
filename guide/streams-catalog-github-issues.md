@@ -4,13 +4,13 @@ nav_order: 5
 has_children: false
 grand_parent: Streams
 parent: Sources Catalog
-title: How to Integrate GitHub Issues With Zepel
-page_title: github issues
-description: How to Integrate GitHub Issues With Zepel
+title: Send GitHub Issues to Zepel
+page_title: GitHub Issues
+description: Learn how to send GitHub issues to Zepel for effortless prioritization.
 permalink: streams/sources-catalog/github-issues/
 ---
 
-# How to Integrate GitHub Issues With Zepel
+# How to Connect GitHub Issues With Zepel
 
 {: .no_toc }
 

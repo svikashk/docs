@@ -6,11 +6,11 @@ grand_parent: Streams
 parent: Sources Catalog
 title: Connect Sentry with Zepel
 page_title: Sentry
-description: How to send feature requests from Sentry to Streams in Zepel
+description: How to send issues from Sentry to Streams in Zepel
 permalink: streams/sources-catalog/sentry/
 ---
 
-# How to Integrate Sentry With Zepel
+# How to Connect Sentry With Zepel
 
 {: .no_toc }
 

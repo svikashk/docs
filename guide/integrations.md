@@ -4,7 +4,7 @@ title: Integrations
 page_title: Integrations
 nav_order: 13
 icon_path: /assets/uploads/integrations.svg
-description: All the different ways you can use Zepel to manage your project and ship new features.
+description: All the different ways you can use Zepel to manage your squad and ship new features.
 permalink: integrations/
 has_children: true
 ---
