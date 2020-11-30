@@ -14,7 +14,7 @@ permalink: boards/move-items/
 When you are building products and features, you need to handoff work.
 {: .fs-6 .fw-300 }
 
-With multiple Boards in each project in Zepel, you can move work from one Board to another
+With multiple Boards in each squad in Zepel, you can move work from one Board to another
 
 
 ## IN THIS PAGE

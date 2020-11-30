@@ -18,6 +18,6 @@ Run Sprints across Features your team is working on in Zepel.
 
 Sprints is helpful when you want to time box work and ship your feature in phases.
 
-In Zepel, you can choose to add work items across Features into your Sprint. Or from your Project's List where you've added miscellaneous items.
+In Zepel, you can choose to add work items across Features into your Sprint. Or from your Squad's List where you've added miscellaneous items.
 
 ![Sprints in Zepel](/guide/assets/uploads/zepel-sprints.png "Sprints in Zepel")

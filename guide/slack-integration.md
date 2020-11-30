@@ -5,7 +5,7 @@ parent: Integrations
 has_children: false
 title: Integrating with Slackbot
 page_title: Slackbot Integration
-description: Connect your Zepel account with Slackbot to receive notifications and updates on your project.
+description: Connect your Zepel account with Slackbot to receive notifications and updates on your squad.
 permalink: integrations/slack/
 
 
@@ -14,7 +14,7 @@ permalink: integrations/slack/
 
 {: .no_toc }
 
-Of course, you have a million things to do. So how do you ensure that you stay on top of your projects updates? How do you make sure you know when due dates approach, tasks get assigned to you or a bottleneck gets completed?
+Of course, you have a million things to do. So how do you ensure that you stay on top of your squads updates? How do you make sure you know when due dates approach, tasks get assigned to you or a bottleneck gets completed?
 
 That's exactly what Zepel's Slack integration should solve for you. Once you connect your Zepel and Slack accounts, you can be sure that you get notified of important updates as and when they happen. 
 
@@ -22,13 +22,13 @@ That's exactly what Zepel's Slack integration should solve for you. Once you con
 
 Once you connect your Slack and Zepel accounts, you’ll get a notification every time:
 
-1. You are invited to work on a new project.
-2. A new Feature gets added inside a project shared with you
+1. You are invited to work on a new squad.
+2. A new Feature gets added inside a squad shared with you
 3. A task gets directly assigned to you
-4. A task in any of your shared projects gets completed
+4. A task in any of your shared squads gets completed
 5. A task assigned to you goes overdue
 
-![Get Zepel project notifications in Slack](/guide/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")
+![Get Zepel squad notifications in Slack](/guide/assets/uploads/zepel-notifications-on-slack.png "Zepel notifications in Slack")
 
 ## Integrate Zepel With Your Slack Account:
 

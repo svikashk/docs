@@ -8,12 +8,12 @@ description: Exporting data out of Zepel
 permalink: export/
 ---
 
-# Export projects out of Zepel
+# Export squads out of Zepel
 {: .no_toc }
 
 Zepel lets you import all your data from Features
 
-- Visit the project from which you want to export your Feature from.
+- Visit the squad from which you want to export your Feature from.
 
 - Click on the Feature you want to export.
 

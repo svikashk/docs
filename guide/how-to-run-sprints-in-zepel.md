@@ -19,7 +19,7 @@ Running a scrum sprint using Zepel is as simple as following these five steps. L
 
 ## Step 1: Create items inside a Feature or List
 
-Once you’ve created a project for your team, you can add items inside a List or Features. We’ve previously talked about when you should use [List vs Features]({{site.url}}{{ site.baseurl }}{% link guide/list-vs-features.md %}). 
+Once you’ve created a squad for your team, you can add items inside a List or Features. We’ve previously talked about when you should use [List vs Features]({{site.url}}{{ site.baseurl }}{% link guide/list-vs-features.md %}). 
 
 But here’s the quick overview.
 
@@ -27,7 +27,7 @@ If your team is going to create a branch with the name `feature/name-of-the-feat
 
 Everything else like bugs, chores, and simple tasks can be [added into the List]({{site.url}}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %}).
 
-You can create as many Features as you want by clicking on the **(+)** icon from the left sidebar. On the other hand, there can be only one List per project and that's created for you when you create the project.
+You can create as many Features as you want by clicking on the **(+)** icon from the left sidebar. On the other hand, there can be only one List per squad and that's created for you when you create the squad.
 
 You create and [add user stories, tasks, subtasks, enhancements, or bugs]({{site.url}}{{ site.baseurl }}{% link guide/creating-work-items.md %}) inside a Feature or a List. 
 
@@ -47,15 +47,15 @@ Each of these items can have:
 
 ## Step 2: Create a Sprint 
 
-You can [create a Sprint]({{site.url}}{{ site.baseurl }}{% link guide/create-sprint.md %}) within your project by clicking on the **(+) button** from the left sidebar. 
+You can [create a Sprint]({{site.url}}{{ site.baseurl }}{% link guide/create-sprint.md %}) within your squad by clicking on the **(+) button** from the left sidebar. 
 
 Once you’ve created a Sprint and give it a name. Make sure the Sprint name is easily understandable, memorable, and is related to the sprint goal. 
 
 This helps your team to stay aligned and focussed.
 
-Once you’ve added the Sprint’s name, it’s time to set a duration for the sprint. 
+Once you’ve added the Sprint’s name, it’s time to [set a duration]({{ site.url }}{{ site.baseurl }}{% link guide/sprint-duration.md %}) for the sprint. Make sure you **select both a start and an end date** for your sprint.
 
-Many teams prefer the sprint’s duration to be two weeks. Depending on the start date you’ve selected, your sprint’s status will change to:
+Depending on the start date you’ve selected, your sprint’s status will change to:
 
 - **Scheduled** - If your current date is before the start date
 - **In Progress** - If you’re past the start date, but not the end date.
@@ -103,7 +103,7 @@ This helps teams to quickly use this as their scrum board and keep track of the 
 
 If you prefer creating a dedicated scrum board for your sprint, you can do that too!
 
-All you have to do is, [create a new board]({{site.url}}{{ site.baseurl }}{% link guide/creating-boards.md %}) inside your project and name it as scrum board. Once that is done, move all the sprint items from their respective to the scrum board. You can click here to read how you can [move items from one board to another board]({{site.url}}{{ site.baseurl }}{% link guide/move-items-across-boards.md %}).
+All you have to do is, [create a new board]({{site.url}}{{ site.baseurl }}{% link guide/creating-boards.md %}) inside your squad and name it as scrum board. Once that is done, move all the sprint items from their respective to the scrum board. You can click here to read how you can [move items from one board to another board]({{site.url}}{{ site.baseurl }}{% link guide/move-items-across-boards.md %}).
 
 Once this is done, you’ll be able to track all the items from a dedicated scrum board.
 

@@ -13,7 +13,7 @@ permalink: sprints/create-sprint/
 
 To create a new Sprint,
 
-- From the project's sidebar, click on the __( + )__ button next to Sprints.
+- From the squad's sidebar, click on the __( + )__ button next to Sprints.
 
 ![Sprints in Zepel](/guide/assets/uploads/zepel-sprints-create.png "Sprints in Zepel")
 

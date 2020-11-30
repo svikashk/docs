@@ -13,7 +13,7 @@ nav_exclude: true
 
 Every time you close a pull request in Github, Zepel can automatically complete its respective task on Zepel so you don't have to switch back and forth. 
 
-* Once you've connected your Zepel account with your Github repository, head over to the task in your Zepel project.
+* Once you've connected your Zepel account with your Github repository, head over to the task in your Zepel squad.
 * Click on "**Expand Item**" icon.
 
 ![Expand Item Icon](/guide/assets/uploads/expand-item.png "Expand Item Icon")

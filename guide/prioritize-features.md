@@ -10,67 +10,69 @@ nav_exclude: true
 # Plan and prioritize the right features
 {: .no_toc }
 
-[Product managers]({{ site.url }}{{ site.baseurl }}{% link guide/product-manager.md %}) use Zepel to plan their next set of features and to prioritize them.
+[Product managers]({{ site.url }}{{ site.baseurl }}{% link guide/product-manager.md %}) use Zepel to consolidate requests from several sources, segment, and prioritize features, customer requests, and error logs.
 
-Prioritizing features is hard mostly because the needs of your business is ever changing. What was a top priority few weeks ago could easily be something you can't afford to spend time on right now. 
-
-Which is why it's key to be able to see what's happening within your team and use that context when planning and prioritizing your next bunch of features.
-
-In this article, we'll show how you can see what your team's working on, their progress, and how you can use that context to plan your next set of features and prioritize them.
+In this article, we'll show how you can prioritize these requests and align your squad on the desired outcome painlessly.
 
 ---
 
-## 1. Put User Stories together and plan your feature
+## 1. Bring requests from multiple sources
 
-Don't worry about prioritizing the feature at first. 
+Requests, features, and errors get reported from multiple sources. And they come from multiple customers.
 
-[Create a Feature]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) within your project and put together all [user stories and tasks]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) you'd ideally want to accomplish.
+Before you can even think about prioritization, it's important to first bring all of these requests together. 
 
-Add acceptance criteria for your user stories within the [Description]({{ site.url }}{{ site.baseurl }}{% link guide/description.md %}) to help everyone understand what's expected of them.
+This is where Streams comes into play.
 
-![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
+![Zepel Streams](/guide/assets/uploads/zepel-streams.png)
 
----
+Streams in Zepel is the easiest way for you to collect, unify, and prioritize your customers' needs. By connecting with multiple sources, you can bring in first-party data from your customers.
 
-## 2. Understand your team's current progress
+You can bring in product feedback from live chat apps, bugs reported via helpdesks, feature requests, errors from monitoring tools, and even internal requests.
 
-Your team is most likely working on a couple of other features, completed few user stories, and made some progress.
-
-Since all features your team is working on is inside your project, this makes it effortless for you as the product manager to see what's happening in the feature and who is working on which user story or enhancement.
-
-But knowing where each user story stands isn't going to be enough if you want to get a bird's eye view of what's happening. 
-
-You need to quickly distil all the progress your developer team, designer, and QA team made into useful information to make sense out of them.
-
-With [Progress]({{ site.url }}{{ site.baseurl }}{% link guide/progress.md %}), you can get a quick snapshot of how much progress your team has made and how far away they are from completing the feature.
-
-![Progress of Features as a Table in Zepel](/guide/assets/uploads/zepel-progress-table.png "Feature Progress as a Table")
+[Connect to one of the sources from our catalog →]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog.md %})
 
 ---
 
-## 3. See features in Kanban to Prioritize
+## 2. Merge and consolidate duplicate requests
 
-The entire thought process of prioritizing features is a whole different beast altogether. We've put together a process and wrote in detail about how you should think about prioritizing your feature [over here](https://blog.zepel.io/prioritize-product-feature-backlog/?utm_source=zepelguide&utm_medium=prioritize-features).
+Of course, when requests come in from several sources and several customers, you're going to have a few duplicates. Especially for some of your most requested updates.
 
-With the right thought process and the context of your team's current feature progress, you can now view and rearrange your features in a Kanban and start prioritizing them.
+Once you've connected a few sources and have requests flowing in, you can open the duplicate requests and merge it with the original.
 
-From the Progress tab, switch to Kanban view to see all your features neatly stacked based on their current status.
+This way, when you look at your stream, you're less likely to feel overwhelmed by the number of requests. And you'll gain clarity into exactly how often a customer requests for a feature or a bug fix.
 
-![Progress of Features as a Kanban in Zepel](/guide/assets/uploads/zepel-progress-kanban.png "Feature Progress as a Kanban")
-
-Rearrange features within the Todo column to prioritize. The higher your feature on the Todo column, the higher the priority. 
+[Learn how to merge duplicate requests →]({{ site.url }}{{ site.baseurl }}{% link guide/streams-merge.md %})
 
 ---
 
-## 4. Delegate top priority features
+## 3. Segment & Filter
 
-Once your features are prioritized and ready to be worked on, give your feature an owner who will oversee the completion of the feature. 
+Of course, not all requests are equal. You might want to give your enterprise customers the red carpet treatment they expect. And to do that you'd want to gain visibility into the kind of requests they've been asking.
 
-Making sure each feature has an owner will drive responsibility and ensure that the feature is completed with the quality your customers need.
+With [custom tags]({{ site.url }}{{ site.baseurl }}{% link guide/streams-tags.md %}), you can tag any request as, for example, "VIP Customer", filter them, and view just those requests.
 
-Take it a step further by adding a duration to ensure the feature is built within a timeline. After all, no body wants the feature to get dragged on forever.
+And with the ability to toggle views based on the sources you've enabled, you can combine your tagged segment and view requests based on just a specific source.
 
-[Read more about delegating features ->]({{ site.url }}{{ site.baseurl }}{% link guide/using-progress.md %})
+---
+
+## 4. Prioritize and delegate to a squad
+
+Now that you've filtered and segmented your requests, you can add "**High Priority**", "**Medium Priority**", or "**Low Priority**" as a tag to each of them.
+
+You can later filter and view requests based on their priorities. This can act as a guiding view for your entire team and help align them on the prioritized outcomes.
+
+Once you've added prioritized, you can easily delegate them to a squad. This can be achieved by linking the request either to a Feature a squad is working on or an item.
+
+As the squad makes progress in the feature, you'll be able view their progress right next to the request.
+
+---
+
+## 5. Track progress of the feature
+
+Once your features are prioritized and delegated to a squad, you can spec how the feature should behave by adding detailed user stories, tasks, and enhancements. Developers can spend time focussing on completing them by running a Sprint and tracking each of them on a Kanban Board.
+
+As developers make progress, you'll be able to track the feature's progress all the way to its completion.
 
 ---
 
@@ -81,5 +83,5 @@ Prioritize features effortlessly and ship on time.
 
 #### Further Reading
 - [How Product Managers use Zepel?]({{ site.url }}{{ site.baseurl }}{% link guide/product-manager.md %})
-- [How to build features together?]({{ site.url }}{{ site.baseurl }}{% link guide/build-together.md %})
 - [How to manage workload?]({{ site.url }}{{ site.baseurl }}{% link guide/manage-workload.md %})
+- [How Developers stay productive with Zepel]({{ site.url }}{{ site.baseurl }}{% link guide/developers.md %})

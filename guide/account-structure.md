@@ -10,19 +10,7 @@ permalink: account-structure/
 # How your Zepel account is structured 
 {: .no_toc }
 
-Zepel is structured into accounts, projects, features, work items, and boards.
-{: .fs-6 .fw-300 }
-
-
-## IN THIS PAGE
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-Below is an image of how a project with multiple features, items, and boards fit inside your account to help you seemlessly organize and track.
+Below is an image of how your account is structure.
 
 ![Account Structure in Zepel](/guide/assets/uploads/zepel-account-structure.png "Zepel Structure")
 
@@ -30,27 +18,35 @@ Let us jump in to see what they are and how they work.
 
 ## Accounts
 
-An account is an overarching entity that owns all your projects and houses them together under one subdomain - ```https://comapanyname.zepel.io```. An account is usually the name of your company where people are added either as a Member or an Admin.
+An account is an overarching entity that owns all your squads and a stream of customer requests under one subdomain - ```https://comapanyname.zepel.io```. An account is usually the name of your company where people are added either as a Member or an Admin.
 
 ---
 
-## Projects 
+## Streams
 
-A project is where members of your organization come together to achieve a common goal. Projects can be named after teams such as Design or Data Science, but can also map to a product or initiative your company is working on (Android App, iOS App).
+Streams is where all your customer requests from several sources are consolidated and prioritized. Once prioritized, it can be delegated to specific squad for it to be worked on.
 
-![All Projects in Zepel](/guide/assets/uploads/zepel-projects.png "Zepel Projects")
+[Read more about Streams →]({{ site.url }}{{ site.baseurl }}{% link guide/streams.md %})
 
-People collaborated in a project will be automatically added to the respective account as a Member if they aren't already part of that account.
+---
 
-[Read more about Projects ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
+## Squads 
+
+A squad is where members come together to achieve a common goal. Squads can be named after a product or initiative your company is working on. For example, Android App, iOS App, Web App.
+
+![All Squads in Zepel](/guide/assets/uploads/zepel-squads.png "Zepel Squads")
+
+People collaborated in a squad will be automatically added to the respective account as a Member if they aren't already part of that account.
+
+[Read more about Squads →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
 
 ---
 
 ## Features
 
-A Feature is a collection of actionable work that your team can plan, track, and execute. As members across teams start to work on this feature, you can see how the entire Feature is progressing right from here.
+A Feature is a collection of actionable work that your team can plan, track, and execute. As members of your squad start to work on this feature, you can see how the entire Feature is progressing right from here.
 
-[Read more about Features ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
+[Read more about Features →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %})
 
 ![All Features in Zepel](/guide/assets/uploads/zepel-features.png "Zepel Features")
 
@@ -58,25 +54,22 @@ A Feature is a collection of actionable work that your team can plan, track, and
 
 ## List
 
-If you are not working on a feature right now, you can add your work items inside your project's List.
+If you are not working on a feature right now, you can add your work items inside your squad's List.
 
 This includes things like:
 
-- Bugs customers report
-- Tech debt your team needs to work on
-- Simple tasks
+- Unexpected Bugs
+- Tech debt
 
-To put it simply, if you wouldn't name your Git branch as `feature/name-of-the-feature` then you'd put that work item inside your List.
+To put it simply, if you'd name your Git branch as `feature/name-of-the-feature` then you'd create a feature. Everything else goes inside the List.
 
-[Read about project's List ->]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %})
-
-![Project's List in Zepel to add miscellaneous work items](/guide/assets/uploads/zepel-list.png "Project's List in Zepel")
+[Read about squad's List →]({{ site.url }}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %})
 
 ---
 
 ## Items
 
-Your Feature can be broken down into smaller chunks of executable work. They can be assigned to more than one person, have due dates, estimates, and statuses.
+Your Feature can be broken down into smaller chunks of executable work. They can be assigned, have due dates, estimates, and statuses.
 
 An item can be:
 
@@ -89,18 +82,12 @@ An item can be:
 
 ![Items and its types in Zepel](/guide/assets/uploads/zepel-items.png "Items in Zepel")
 
-The completion of all work items inside each Feature will determine your entire project's progress.
+The completion of all work items inside each Feature will determine your entire squad's progress.
 
-[Read more about creating work items ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %})
+[Read more about creating work items →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %})
 
 ---
 
-## Boards
+Once you've created items, they can be assigned, estimated, have due dates, comments, descriptions, [and more]({{ site.url }}{{ site.baseurl }}{% link guide/working-with-teams.md %})!
 
-Boards in Zepel let you and your team track progress of your work items. A Board ideally represents a workflow each item flows through. 
-
-Since most features require members from other disciplines to get involved, you can have multiple Boards in your project, so everyone can work just the way they want.
-
-![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")
-
-[Read more about Boards ->]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %})
+And then, you can choose to track their progress either on a [Kanban Board]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %}) or using [Sprints]({{ site.url }}{{ site.baseurl }}{% link guide/sprints.md %}).

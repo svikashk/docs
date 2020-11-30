@@ -21,7 +21,7 @@ In this article, we’ll walk you through three simple steps on how you can achi
 
 ## Step 1: Add work items into the List/Feature
 
-Once you’ve created a project for your team, you can add items into a List/Feature. 
+Once you’ve created a squad for your team, you can add items into a List/Feature. 
 
 We’ve written in detail about [when you should use a List and Feature in this article]({{site.url}}{{ site.baseurl }}{% link guide/list-vs-features.md %}). But here’s the overview:
 
@@ -43,19 +43,19 @@ This allows you to set expectations on what the feature should and shouldn’t d
 
 ---
 
-## Step 2: Create/Add a Kanban Board to your project
+## Step 2: Create/Add a Kanban Board to your squad
 
 Once you’ve created items inside a List/Feature, you can track them on a Kanban Board. 
 
 To make things simpler and easier for you, every item you create in Zepel will be added to a board automatically. This allows teams to quickly capture work items (thanks to Zepel’s document like interface) by simply hitting enter. 
 
-To help you get started quickly, a Board called “System Workflow” is created in your project. All items will be added to the first column of this board. 
+To help you get started quickly, a Board called “System Workflow” is created in your squad. All items will be added to the first column of this board. 
 
-If you prefer to have the items added to a different board, say “Dev Board”, you can [change your default board]({{site.url}}{{ site.baseurl }}{% link guide/default-board.md %}) from the top of the List/Feature. And Zepel will automatically move them. Just make sure you have another Board added to your project.
+If you prefer to have the items added to a different board, say “Dev Board”, you can [change your default board]({{site.url}}{{ site.baseurl }}{% link guide/default-board.md %}) from the top of the List/Feature. And Zepel will automatically move them. Just make sure you have another Board added to your squad.
 
 ![Change Default Board in Zepel](/guide/assets/uploads/zepel-change-default-board.png)
 
-To add another board to your project, all you have to do is click on the **(+) button** on the left sidebar. From the pop-up, you can choose to [add an existing Board from another project]({{site.url}}{{ site.baseurl }}{% link guide/add-board-from-another-project.md %}) or [create a new one]({{site.url}}{{ site.baseurl }}{% link guide/creating-boards.md %}).
+To add another board to your squad, all you have to do is click on the **(+) button** on the left sidebar. From the pop-up, you can choose to [add an existing Board from another squad]({{site.url}}{{ site.baseurl }}{% link guide/add-board-from-another-project.md %}) or [create a new one]({{site.url}}{{ site.baseurl }}{% link guide/creating-boards.md %}).
 
 When you open up your kanban board with all the items in it, you’ll notice the items (represented as cards) will show:
 
@@ -96,7 +96,7 @@ Once you’re inside your Kanban Board, click on “**Add Filters**” button. F
 You can filter by:
 
 * **Assignees:** To view just the items assigned to specific team member(s).
-* **Items from :** To view items from specific Feature or the project’s List.
+* **Items from :** To view items from specific Feature or the squad’s List.
 * **Types:** View only items of certain type - User story, Task, Enhancement, and Bug.
 * **Sections:** To view only items under certain Sections.
 * **Tags:** To view items with certain hashtags.

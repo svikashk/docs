@@ -5,16 +5,16 @@ has_children: false
 parent: Work with Teams
 title: Collaborating with Team Members
 page_title: Collaborating with Team Members
-description: Cross team collaboration and collaboration within your team is simple and effortless. See how you can collaborate with members into an account or into your project using Zepel.
+description: Cross team collaboration and collaboration within your team is simple and effortless. See how you can collaborate with members into an account or into your squad using Zepel.
 permalink: working-with-teams/collaborating-team-members/
 ---
 # Collaborating with Team Members
 {: .no_toc }
 
-After adding items into your Feature, it's time bring members into your project and get the most out of Zepel.
+After adding items into your Feature, it's time to bring members into your squad and get the most out of Zepel.
 {: .fs-6 .fw-300 }
 
-In Zepel, you can invite members into an Account or in a Project.
+In Zepel, you can invite members into an Account or in a Squad.
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -26,7 +26,7 @@ In Zepel, you can invite members into an Account or in a Project.
 
 ## Collaborate into an Account
 
-An account is where all projects your company is working live. It is usually the name of your company. So, all members of your company would be inside an account.
+An account is where all squads, your company is working on, live. It is usually the name of your company. So, all members of your company would be inside an account.
 
 ### <u>To collaborate members into your company account:</u>
 {: .no_toc }
@@ -40,20 +40,20 @@ An account is where all projects your company is working live. It is usually the
 
 ![Click on Members tab in the Account Settings popup](/guide/assets/uploads/zepel-members-tab.png "Account Members Tab")
 
-By default, all projects in Zepel are private, till you specifically collaborate a project with another team member.
-
 ---
 
-## Collaborate in a Project
+## Collaborate in a Squad
 
-You can choose to collaborate members in a project, so you can assign pieces of work to them and work together.
+You can choose to collaborate members in a squad, so you can assign pieces of work to them and work together.
 
-### <u>To collaborate members into a project:</u>
+### <u>To collaborate members into a squad:</u>
 {: .no_toc }
-- Head over to the members tab inside your project.
+- Head over to the members tab inside your squad.
 - In the text field, enter the email address of your team member and click Invite.
 
-![Click on Members tab in the Project](/guide/assets/uploads/zepel-project-members.png "Project Members Tab")
+![Click on Members tab in the Squad](/guide/assets/uploads/zepel-project-members.png "Squad Members Tab")
+
+By default, all squads in Zepel are private, till you specifically add a member into a squad.
 
 If a member you are trying to collaborate is not part of the account already, they will automatically get added into your account.
 

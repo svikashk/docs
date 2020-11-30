@@ -19,23 +19,23 @@ In this article, we'll see how engineering managers use Zepel to manage workload
 
 ---
 
-## 1. Create a Project for your team
+## 1. Create a Squad for your team
 
-As an engineering manager, you'd want to house all the features your team will be working on under one single project. 
+As an engineering manager, you'd want to house all the features your team will be working on under one single squad. 
 
-A project in Zepel is usually a team, like Engineering, Backend, or Frontend. But if you choose to name your project after a product or an initiative, such as Web App or Android or iOS, that works too.
+A squad in Zepel is usually a team, like Engineering, Backend, or Frontend. But if you choose to name your squad after a product or an initiative, such as Web App or Android or iOS, that works too.
 
 [IMG]
 
-While creating your project, add Boards your team will use to move items across statuses. If you find your project needs more Boards as your team makes progress on the feature, you can add them from within the project.
+While creating your squad, add Boards your team will use to move items across statuses. If you find your squad needs more Boards as your team makes progress on the feature, you can add them from within the squad.
 
-[Learn how to create a project ->]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
+[Learn how to create a squad →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
 
 ---
 
 ## 2. Create a List for your feature and prioritize
 
-Once a project is created for your team, add a List for each feature your team will be working on. 
+Once a squad is created for your team, add a List for each feature your team will be working on. 
 
 A list houses all actionable items - user stories, tasks, subtasks, bugs, and enhancements - for a specific feature. 
 

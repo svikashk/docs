@@ -20,7 +20,7 @@ Progress of features can be tracked from 3 different views:
 
 **Kanban View:** The Kanban view shows you a quick status of the feature's progress. Similar to any Kanban, you can move a Feature card across statuses to update feature progress. Or move a Feature card within the status to prioritize specific features.
 
-![Progress of Features as a Kanban in Zepel](/guide/assets/uploads/zepel-progress-kanban.png "Feature Progress as a Kanban")
+![Progress of Features as a Kanban in Zepel](/guide/assets/uploads/zepel-features.png "Feature Progress as a Kanban")
 
 
 ---
@@ -31,6 +31,6 @@ Progress of features can be tracked from 3 different views:
 
 ---
 
-**Grid View:** The Grid view is helpful when you just want to see all the features being worked on in the project. 
+**Grid View:** The Grid view is helpful when you just want to see all the features being worked on in the squad. 
 
 ![Progress of Features as a Grid in Zepel](/guide/assets/uploads/zepel-progress-grid.png "Feature Progress as a Grid")
