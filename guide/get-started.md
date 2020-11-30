@@ -40,7 +40,7 @@ For example, you could name your squad as *Web App*, *Android App*, or *iOS app*
 
 To create a squad, click on the `Create Squad` button.
 
-![Create a Squad in Zepel](/guide/assets/uploads/create-projects.png "Create Zepel Squad")
+![Create a Squad in Zepel](/guide/assets/uploads/create-squads.png "Create Zepel Squad")
 
 [Learn more about creating a Squad →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-your-first-project.md %})
 
@@ -51,6 +51,8 @@ To create a squad, click on the `Create Squad` button.
 Your squad builds features and fixes bugs. So, Zepel calls them as they are instead of creating an epic confusion.
 
 Once you've created a squad, you can create multiple features and track their progress using the [Progress]({{ site.url }}{{ site.baseurl }}{% link guide/progress.md %}).
+
+To create a Feature, simply click the `Create Feature` button.
 
 ![All Features in Zepel](/guide/assets/uploads/zepel-features.png "Zepel Features")
 

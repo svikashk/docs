@@ -17,7 +17,7 @@ Switching from Trello to Zepel will help your team not just track actionable ite
 
 * Access the account settings popup from the menu bar on the top left corner. 
 
-![Click on Account Settings in Zepel](/guide/assets/uploads/zepel-account-settings.png "Account Settings")
+![Click on Account Settings in Zepel](/guide/assets/uploads/account-settings.png "Account Settings")
 
 * Navigate to the Import tab in the account settings popup. Click on **Import from Trello** button.
 

@@ -26,6 +26,8 @@ An account is an overarching entity that owns all your squads and a stream of cu
 
 Streams is where all your customer requests from several sources are consolidated and prioritized. Once prioritized, it can be delegated to specific squad for it to be worked on.
 
+[Read more about Streams →]({{ site.url }}{{ site.baseurl }}{% link guide/streams.md %})
+
 ---
 
 ## Squads 
@@ -85,3 +87,7 @@ The completion of all work items inside each Feature will determine your entire 
 [Read more about creating work items →]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %})
 
 ---
+
+Once you've created items, they can be assigned, estimated, have due dates, comments, descriptions, [and more]({{ site.url }}{{ site.baseurl }}{% link guide/working-with-teams.md %})!
+
+And then, you can choose to track their progress either on a [Kanban Board]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %}) or using [Sprints]({{ site.url }}{{ site.baseurl }}{% link guide/sprints.md %}).

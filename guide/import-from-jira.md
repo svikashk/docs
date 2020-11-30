@@ -19,7 +19,7 @@ Switching to Zepel over Jira lets you work with your squad members without bring
 
 * Access the account settings popup from the menu bar on the top left corner. 
 
-![Click on Account Settings in Zepel](/guide/assets/uploads/zepel-account-settings.png "Account Settings")
+![Click on Account Settings in Zepel](/guide/assets/uploads/account-settings.png "Account Settings")
 
 * Navigate to the Import tab in the account settings popup. Click on **Import from JIRA** button.
 

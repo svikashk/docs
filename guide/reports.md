@@ -42,7 +42,7 @@ The burn up and burn down charts in Zepel shows you how your entire Sprint is pr
 
 Both burn up and burn down charts in Zepel will get generated only after the [Sprint's status changes to In Progress]({{ site.url }}{{ site.baseurl }}{% link guide/sprint-duration.md %}).
 
-![Burnup and Burn down reports in Zepel](/guide/assets/uploads/zepel-burnup-reports.png "Burnup Report in Zepel")
+![Burnup and Burn down reports in Zepel](/guide/assets/uploads/zepel-sprints.png "Burnup Report in Zepel")
 
 If any item is completed after the Sprint's end date, it will reflect on the graph to suggest an item was completed after the Sprint's end date.
 

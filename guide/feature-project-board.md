@@ -17,7 +17,7 @@ Squad Boards allow you to gain visibility across all the features that are being
 
 For example, if you have two Features named Search and Reports with Dev Board being used in both the Features, you will view all items from both the Features on the Dev Board if you open it from the squad sidebar.
 
-![Squad Boards in Zepel](/guide/assets/uploads/zepel-project-boards.png "Squad Boards")
+![Squad Boards in Zepel](/guide/assets/uploads/zepel-squad-boards.png "Squad Boards")
 
 Squad Boards in Zepel are visible on the sidebar within your squad. Zepel lets you add multiple boards within a squad. That way, you can add a separate Board for Development, QA, Design, and so on. Each of these Boards can be used by multiple Features. 
 

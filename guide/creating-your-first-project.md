@@ -16,7 +16,7 @@ To create your first squad in your Zepel account:
 
 - Click on the '__Create Squad__' button from the All Squads page.
 
-![Create a Squad in Zepel](/guide/assets/uploads/create-projects.png "Create Zepel Squad")
+![Create a Squad in Zepel](/guide/assets/uploads/create-squads.png "Create Zepel Squad")
 
 - In the squad create dialogue, enter your squad's name.
 

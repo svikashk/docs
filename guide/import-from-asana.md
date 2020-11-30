@@ -17,7 +17,7 @@ Moving your Asana projects onto Zepel will give you the flexibility to work with
 
 * Access the account settings popup from the menu bar on the top left corner. 
 
-![Click on Account Settings in Zepel](/guide/assets/uploads/zepel-account-settings.png "Account Settings")
+![Click on Account Settings in Zepel](/guide/assets/uploads/account-settings.png "Account Settings")
 
 * Navigate to the Import tab in the account settings popup. Click on **Import from Asana** button.
 

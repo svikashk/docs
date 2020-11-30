@@ -25,7 +25,9 @@ Zepel supports the following sources:
 
 - [Intercom]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-intercom.md %})
 - [Canny]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-canny.md %})
-- [API](https://zepel.io/developers/api/v1/#streams)
+- [Sentry]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-sentry.md %})
+- [GitHub Issues]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-github-issues.md %})
+- [API](https://zepel.io/developers/api/v2/#streams)
 - [Internal Requests]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-internal-requests.md %})
 
 ![Zepel Streams](/guide/assets/uploads/zepel-streams.png)
@@ -33,7 +35,5 @@ Zepel supports the following sources:
 The below sources are coming soon:
 
 - Zendesk
-- Sentry
 - Slack
 - Bugsnag
-- GitHub Issues

@@ -9,7 +9,7 @@ permalink: import/
 has_children: true
 ---
 
-# Import Projects to Zepel Squads
+# Import Projects to Zepel
 {: .no_toc }
 
 Move your projects from other project management tools as squads into Zepel, without loosing any data. 
