@@ -11,7 +11,6 @@ permalink: streams/sources-catalog/github-issues/
 ---
 
 # How to Connect GitHub Issues With Zepel
-
 {: .no_toc }
 
 Github issues are a great way to let end users of your code report bugs, ask for new features, and discuss enhancements to the code.
@@ -20,12 +19,18 @@ By Integrating Github with Zepel, you can now funnel all these requests into Zep
 
 Follow the steps shown below to connect GitHub Issues with Zepel and work on building better software products painlessly.
 
-
-
 ---
 
+**Before you begin:** Make sure you’re logged in to your GitHub account and have Streams subscription enabled in your Zepel account.
 
-## **Connecting GitHub Issues with Zepel**
+## IN THIS PAGE
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+## Connecting GitHub Issues with Zepel
 - Go to the User Settings in GitHub.
 
 - Click on the Developer Settings tab.
@@ -62,7 +67,7 @@ Follow the steps shown below to connect GitHub Issues with Zepel and work on bui
 
 ---
 
-## **Creating a Zepel Streams Request from GitHub Issues**
+## Creating a Zepel Streams Request from GitHub Issues
 
 - Go to your desired repository in GitHub and select the `Issues` tab.
 
