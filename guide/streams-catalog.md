@@ -24,6 +24,7 @@ This enables you and your team to:
 Zepel supports the following sources:
 
 - [Intercom]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-intercom.md %})
+- [Zendesk]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-zendesk.md %})
 - [Canny]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-canny.md %})
 - [Sentry]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-sentry.md %})
 - [GitHub Issues]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-github-issues.md %})
@@ -34,6 +35,5 @@ Zepel supports the following sources:
 
 The below sources are coming soon:
 
-- Zendesk
 - Slack
 - Bugsnag
