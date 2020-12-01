@@ -11,7 +11,6 @@ permalink: streams/sources-catalog/sentry/
 ---
 
 # How to Connect Sentry With Zepel
-
 {: .no_toc }
 
 Sentry helps you identify bugs, issues, or errors in your software and fix them proactively rather than address them once they’ve been raised by your customers. 
@@ -20,10 +19,20 @@ This integration enables you to create new requests or merge to existing request
 
 This way you can ensure that the features you’re building are customer-centric.
 
-Here’s how you set up the Sentry + Zepel integration and create or merge requests from Sentry issues:
+Here’s how you set up the Sentry + Zepel integration and create or merge requests from Sentry issues.
 
 ---
-## **Connecting Sentry with Zepel**
+
+**Before you begin:** Make sure you’re logged in to your Sentry account and have Streams subscription enabled in your Zepel account.
+
+## IN THIS PAGE
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+## Connecting Sentry with Zepel
 
 - Go to the Settings tab on the left sidebar in Sentry.
 
@@ -52,7 +61,7 @@ Here’s how you set up the Sentry + Zepel integration and create or merge reque
 
 ---
 
-## **Creating a Zepel Streams Request from Sentry**
+## Creating a Zepel Streams Request from Sentry
 
 -  Go to `Issues` in Sentry and select an issue to create a request for.
 

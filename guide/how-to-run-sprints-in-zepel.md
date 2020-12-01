@@ -31,7 +31,7 @@ You can create as many Features as you want by clicking on the **(+)** icon from
 
 You create and [add user stories, tasks, subtasks, enhancements, or bugs]({{site.url}}{{ site.baseurl }}{% link guide/creating-work-items.md %}) inside a Feature or a List. 
 
-![Features in Zepel](/guide/assets/uploads/zepel-features-new.png)
+![Features in Zepel](/guide/assets/uploads/zepel-items.png)
 
 Each of these items can have:
 
