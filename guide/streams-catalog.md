@@ -28,6 +28,7 @@ Zepel supports the following sources:
 - [Canny]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-canny.md %})
 - [Sentry]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-sentry.md %})
 - [GitHub Issues]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-github-issues.md %})
+- [Monday.com]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-monday.md %})
 - [API](https://zepel.io/developers/api/v2/#streams)
 - [Internal Requests]({{ site.url }}{{ site.baseurl }}{% link guide/streams-catalog-internal-requests.md %})
 
