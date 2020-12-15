@@ -10,7 +10,6 @@ permalink: integrations/link-features-to-branch/
 ---
 
 # Link Features to Branch
-
 {: .no_toc }
 
 __Before you begin:__ 
@@ -18,6 +17,15 @@ __Before you begin:__
 - Ensure that you've enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}).
 
 ---
+
+## IN THIS PAGE
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+## Linking feature to a new branch
 
 A Feature in Zepel can be linked to a Branch. 
 
@@ -69,6 +77,40 @@ Once your Feature is linked to a branch, you don't have to do any additional ste
 
 
 Note: You can link a Feature to multiple branches. 
+
+---
+
+## Link feature to an existing branch
+
+- From the left side nav bar inside a squad, click on `Git Workflow Automation`.
+
+![Click on Git Workflow Automation from sidebar](/guide/assets/uploads/zepel-git-workflow-automation.png "Git Workflow Automation")
+
+- Click on the `Connect to Git repository` button.
+
+![Connect Zepel to git repository](/guide/assets/uploads/zepel-connect-git-repository.png)
+
+- If you haven't already, you'll be asked to connect to GitHub, Bitbucket, or GitLab.
+
+- Once connected with your Git service, you'll be prompted to select which repository you'd like to link to this squad.
+
+- Select the repositories using the checkboxes.
+
+![Select repositories](/guide/assets/uploads/zepel-select-repositories.png)
+
+- Now, use the left side nav bar inside your squad to navigate to the feature that you'd like to link to an existing branch.
+
+- Click `Link this feature to`.
+
+![Click link to feature](/guide/assets/uploads/zepel-link-to-feature.png)
+
+- If you've got multiple repositories linked to your squad, then you'll be asked to pick a repository first.
+
+- Next, from the select branch pop-up, use the search field to search for an existing branch from your repository that you'd like to link to the feature.
+
+- Click `Link to feature`.
+
+![Search branches in the repository](/guide/assets/uploads/zepel-search-branch-link-feature.png)
 
 ---
 
