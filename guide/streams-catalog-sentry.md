@@ -44,7 +44,7 @@ Here’s how you set up the Sentry + Zepel integration and create or merge reque
 
 - Click on the `Accept & Install` button.  
 
-![Accept & Install Button in Sentry](/guide/assets/uploads/accept&install-in-sentry.png)
+![Accept & Install Button in Sentry](/guide/assets/uploads/accept-install-in-sentry.png)
 
 - On the page that appears, you will be asked to choose your Zepel account that you wish to connect with Sentry.
 
