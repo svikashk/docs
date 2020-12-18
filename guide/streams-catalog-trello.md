@@ -1,12 +1,12 @@
 ---
 layout: default
-nav_order: 8
+nav_order: 9
 has_children: false
 grand_parent: Streams
 parent: Sources Catalog
 title: Send Trello tasks to Zepel
 page_title: Trello
-description: Learn how to send Trello tasks to Zepel for effortless prioritization.
+description: Learn how to send Trello tasks to Streams in Zepel for effortless prioritization.
 permalink: streams/sources-catalog/trello/
 ---
 
@@ -26,6 +26,8 @@ By connecting Trello with Zepel, your team now has a platform called Streams to 
 
 - Make sure you have Streams subscription enabled in your Zepel account.
 
+---
+
 ## IN THIS PAGE
 {: .no_toc .text-delta }
 
@@ -38,7 +40,7 @@ By connecting Trello with Zepel, your team now has a platform called Streams to 
  
  - Go to the Zepel Streams tab.
 
- - Click on the `Add Source` button and select Trello from the list of integrations available.
+ - Click on the `Add Source` button and select Trello from the list of sources available.
 
  - Select the `Enable Trello` button.
 
