@@ -58,14 +58,14 @@ By connecting Trello with Zepel, your team now has a platform called Streams to 
 
 ![Add a board button in Zepel](/guide/assets/uploads/add-a-board-in-zepel.png)
 
-
+---
 ## Sending cards from Trello to Streams
 
 You can send any card as a request to Zepel Streams with the help of a simple label `Zepel`. To do that:
 
 - Go to your desired Trello board.
 
-*Note: You can send tasks from only those boards that have the Streams catalog of sources enabled.*
+*Note: You can send tasks only from the boards that are connected Streams in Zepel.*
 
 - Click on the card you wish to send as a request.
 
