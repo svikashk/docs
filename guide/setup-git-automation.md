@@ -29,6 +29,8 @@ The event handlers in Zepel are setup on a per squad basis.
 
 ![Click on Git Workflow Automation from sidebar](/guide/assets/uploads/zepel-git-workflow-automation.png "Git Workflow Automation")
 
+* Click "**Create new Git automation**".
+
 * Select the event you would like to listen for. Currently Zepel supports "**Pull request opened**", "**Pull request merged**", and "**Commit added**" events.
 
 * If you would like to setup this event for any branch, select "**Any**". If you're using a multi-branch development workflow, you can choose to enter the name of the branch where this event will occur.
