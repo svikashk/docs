@@ -62,17 +62,19 @@ Now that you've filtered and segmented your requests, you can add "**High Priori
 
 You can later filter and view requests based on their priorities. This can act as a guiding view for your entire team and help align them on the prioritized outcomes.
 
-Once you've added prioritized, you can easily delegate them to a squad. This can be achieved by linking the request either to a Feature a squad is working on or an item.
+Once you've prioritized, you can easily delegate them to a squad. This can be achieved by linking the request either to a Feature a squad is working on or an item.
 
 As the squad makes progress in the feature, you'll be able view their progress right next to the request.
+
+[Learn how to delegate requests to a Squad →]({{ site.url }}{{ site.baseurl }}{% link guide/streams-link-to-feature-or-item.md %})
 
 ---
 
 ## 5. Track progress of the feature
 
-Once your features are prioritized and delegated to a squad, you can spec how the feature should behave by adding detailed user stories, tasks, and enhancements. Developers can spend time focussing on completing them by running a Sprint and tracking each of them on a Kanban Board.
+Once your features are prioritized and delegated to a squad, you can spec how the feature should behave by [adding detailed user stories, tasks, and enhancements]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}). [Developers]({{ site.url }}{{ site.baseurl }}{% link guide/developers.md %}) can spend time focussing on completing them by running a [Sprint]({{ site.url }}{{ site.baseurl }}{% link guide/sprints.md %}) and tracking each of them on a [Kanban Board]({{ site.url }}{{ site.baseurl }}{% link guide/boards.md %}).
 
-As developers make progress, you'll be able to track the feature's progress all the way to its completion.
+As developers make progress, you'll be able to [track the feature's progress]({{ site.url }}{{ site.baseurl }}{% link guide/progress.md %}) all the way to its completion.
 
 ---
 
