@@ -15,7 +15,7 @@ permalink: streams/sources-catalog/monday/
 
 Monday.com is a work management tool often used by marketing and non-technical teams to keep track of their work.
 
-You can connect Monday.com with with Streams in Zepel, to capture requests from other teams and prioritize those requests effortlessly.
+You can connect Monday.com with Streams in Zepel, to capture requests from other teams and prioritize those requests effortlessly.
 
 ---
 

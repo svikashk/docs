@@ -11,7 +11,6 @@ permalink: streams/sources-catalog/asana/
 ---
 
 # How to Connect Asana With Zepel
-
 {: .no_toc }
 
 Asana is a work management tool widely known for its task management capabilities. It is preferred by non-technical teams of different sizes to keep track of their progress.
@@ -20,6 +19,7 @@ By connecting Asana with Streams in Zepel, your team can now make internal reque
 
 
 ---
+
 **Before you begin:**
 
 - Make sure you’ve logged into your Asana account.
@@ -39,7 +39,7 @@ By connecting Asana with Streams in Zepel, your team can now make internal reque
 ## Setting up your Active Asana Tag 
 
 
-An `Active` Asana tag refers to a tag that has been added to and remains linked with at least one task at any point in time. To set this up:
+An Active Asana tag refers to a tag that has been added to and remains linked with at least one task at any point in time. To set this up:
 
  
  -  Go to your workspace in Asana and move to your project.
@@ -57,8 +57,6 @@ An `Active` Asana tag refers to a tag that has been added to and remains linked 
 - Ensure that your tag remains active throughout the course of your connection with Zepel Streams, else the tag will become invalid owing to the global constraint in Asana’s webhooks.
 
 *Tip: Use the tag labeled `Zepel` to help organize and prioritize your Asana tasks to be sent as Streams requests better.*
-
-![Add a board button in Zepel](/guide/assets/uploads/add-a-board-in-zepel.png)
 
 ---
 ## Connecting Asana with Zepel
@@ -107,6 +105,3 @@ Your task with the active Asana tag will be sent as a request to Zepel Streams a
 *Note: You can view all the tasks from Asana as requests under the Requests section on the Zepel Streams page.*
 
 ---
-
-
-
