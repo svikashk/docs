@@ -12,42 +12,43 @@ permalink: integrations/gitlab/
 
 {: .no_toc }
 
-In this article, we'll see how you can set up your Zepel account to integrate with your GitLab squad.
+Sometimes your dev team can merge and close a pull request, but forget to update progress. That can leave you with outdated information.
 
-__Before you begin:__ Ensure that you have Maintainer permissions for the GitLab squad.
+When you connect your GitLab repository to your Zepel Squad, you can easily:
+
+- link a Feature to a new branch,
+- link Items to commit,
+- link Items to pull requests,
+- link a bug to a branch, and
+- automate developer updates in Zepel
+
+In this article, we’ll see how you can set up your Zepel account to integrate with your GitLab repository.
 
 ## Integrate Zepel with GitLab
 
-* Once you're in your Zepel account, on the top left corner, click on your Account's name.
-* From the dropdown, click on "**Account Settings**".
+* Once you're inside a squad, click on "**Connect to Git**" from the left sidebar. This will open your squad's Git Settings pop-up.
 
-![Click on Settings & Members from Accounts dropdown](/guide/assets/uploads/account-settings.png "Account Settings")
+![Connect to Git](/guide/assets/uploads/zepel-connect-to-git.png)
 
-* In the "**Account Settings**" popup, head over to the "**Integrations**" tab. You'll find a list of all Integrations available in Zepel in this tab.
+* From the Git Settings pop-up, click on "**Connect to a Git repository**".
 
-![Head over to Integrations tab in Account Settings](/guide/assets/uploads/integrations-tab.png "Integrations tab in Account Settings")
+![Connect to Git Repository](/guide/assets/uploads/zepel-connect-to-git-repository.png)
 
-* Click on the "**Enable**" button next to GitLab.
-* Now, login to your GitLab account and visit the squad you want to connect with your Zepel account.
-* From within your squad's settings, click on Integrations.
+* From the pop-up, click on "**Link to GitLab**".
 
-* Copy the "**Webhook URL**" that is generated in your Zepel account and paste it in the "**URL**" field in GitLab.
-* Copy the "**Webhook Secret**" that is generated in your Zepel account and paste it in the "**Secret Token**" field in GitLab.
+![Connect to GitLab](/guide/assets/uploads/zepel-link-to-gitlab.png)
 
-![Add Zepel URL and Secret to GitLab Integrations](/guide/assets/uploads/zepel-gitlab-integration-webhooks.png)
+* You'll be prompted to log in to your GitLab account, if you're logged out.
 
-* Under "**Trigger**", ensure "**Pushes**" and "**Pull requests**" are selected.
+* Once you log in, you'll be asked to give Zepel permissions. Click "**Authorize**".
 
-![GitLab Trigger Events for Zepel](/guide/assets/uploads/zepel-gitlab-integration-webhook-events.png)
-
-* Click on "**Save Changes**".
-
-Your Zepel account is now integrated with your GitLab squad.
+* Once authorized, your Zepel account will now be integrated with GitLab.
 
 ---
 
-**Read Next:** 
+**Further reading:** 
 
+1. [Learn how to link your squad to a repository]({{ site.url }}{{ site.baseurl }}{% link guide/link-squad-to-repository.md %})
 1. [Learn how to link item to a branch.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %})
 1. [See how to link a Zepel item to commit.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %})
 1. [Read how to associate an item to a pull request.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %})

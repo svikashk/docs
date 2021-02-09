@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 12
+nav_order: 13
 parent: Integrations
 has_children: false
 title: Link Item To Commit
