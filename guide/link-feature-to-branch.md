@@ -36,7 +36,11 @@ Once you have linked a Feature to a Branch, Zepel can:
 
 - Move the Feature from "__In Progress__" to "__Done__" automatically when you the branch's pull request is merged.
 
+---
+
 To do this, you need to first link a Feature to a Branch. Let's see how you can link a Feature to a Branch step-by-step:
+
+- Make sure you have [linked at least one repository to this squad]({{ site.url }}{{ site.baseurl }}{% link guide/link-squad-to-repository.md %}).
 
 - Open the Feature you want to link to a Branch
 
