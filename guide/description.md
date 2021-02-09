@@ -3,22 +3,19 @@ layout: default
 nav_order: 7
 has_children: false
 parent: Work with Teams
-title: Item Description
-page_title: Item Description
-description: Use markdown to share more information to user stories, tasks, enhancements, bugs, and subtasks. 
+title: Description
+page_title: Description
+description: Use markdown to share more information about a feature, user stories, tasks, enhancements, bugs, or subtasks. 
 permalink: working-with-teams/description/
 ---
-# Item Description
+# Description
 {: .no_toc }
-
-Give detailed information to each item with Descriptions.
-{: .fs-6 .fw-300 }
 
 The description area is where you will add detailed explanations, background information, and acceptance criteria to items in your squad. Obviously, you would want to go beyond plain-text blurbs and format your descriptions with rich styling options. 
 
-With __Markdown Formatting__ in Zepel, you can style and organize your item descriptions with headings, lists, code blocks and more. To style your item descriptions follow the Markdown Syntax guide below:
+With __Markdown Formatting__ in Zepel, you can style and organize your descriptions with headings, lists, code blocks and more. To style your descriptions, follow the Markdown Syntax guide below:
 
-![Add description to every item in your feature](/guide/assets/uploads/item-descriptions.png "Item Descriptions")
+![Add description to every item in your feature](/guide/assets/uploads/item-descriptions.png "Descriptions")
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }

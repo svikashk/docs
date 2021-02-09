@@ -43,7 +43,7 @@ A team can work on multiple features. So, once you create a squad for your team,
 
 The product or engineering manager can spec the feature with user stories, tasks, enhancements, and bugs. These items can be grouped together by using Sections. And of course, teams can [assign]({{site.url}}{{ site.baseurl }}{% link guide/assign.md %}), estimate, [set due dates]({{site.url}}{{ site.baseurl }}{% link guide/set-due-dates.md %}), [statuses]({{site.url}}{{ site.baseurl }}{% link guide/set-board-statuses.md %}), [add descriptions]({{site.url}}{{ site.baseurl }}{% link guide/description.md %}), [file attachments]({{site.url}}{{ site.baseurl }}{% link guide/attachments.md %}), and [more]({{site.url}}{{ site.baseurl }}{% link guide/working-with-teams.md %})!
 
-![Features in Zepel](/guide/assets/uploads/zepel-features-new.png)
+![Features in Zepel](/guide/assets/uploads/zepel-items.png)
 
 <div class="goals">
     <img class="checkbox" src="/guide/assets/uploads/check_circle.svg" alt="checkbox">
@@ -78,7 +78,7 @@ The feature's status is set to “**Todo**” by default. The feature’s status
 
 And by going to the [Progress]({{site.url}}{{ site.baseurl }}{% link guide/progress.md %}) tab, you can view the progress of all the features along with the code changes.
 
-![Feature Progress Updates in Zepel](/guide/assets/uploads/zepel-feature-progress-updates.png)
+![Track Feature Progress in Zepel](/guide/assets/uploads/zepel-features.png "Feature Progress")
 
 ---
 

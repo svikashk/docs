@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 10
+nav_order: 11
 parent: Integrations
 has_children: false
 title: Link Features to Branch
@@ -15,6 +15,7 @@ permalink: integrations/link-features-to-branch/
 __Before you begin:__ 
 
 - Ensure that you've enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}).
+- Make sure you've [linked your squad to at least one repository]({{ site.url }}{{ site.baseurl }}{% link guide/link-squad-to-repository.md %}).
 
 ---
 
@@ -82,21 +83,7 @@ Note: You can link a Feature to multiple branches.
 
 ## Link feature to an existing branch
 
-- From the left side nav bar inside a squad, click on `Git Workflow Automation`.
-
-![Click on Git Workflow Automation from sidebar](/guide/assets/uploads/zepel-git-workflow-automation.png "Git Workflow Automation")
-
-- Click on the `Connect to Git repository` button.
-
-![Connect Zepel to git repository](/guide/assets/uploads/zepel-connect-git-repository.png)
-
-- If you haven't already, you'll be asked to connect to GitHub, Bitbucket, or GitLab.
-
-- Once connected with your Git service, you'll be prompted to select which repository you'd like to link to this squad.
-
-- Select the repositories using the checkboxes.
-
-![Select repositories](/guide/assets/uploads/zepel-select-repositories.png)
+- Make sure you've [linked your squad to at least one repository]({{ site.url }}{{ site.baseurl }}{% link guide/link-squad-to-repository.md %}).
 
 - Now, use the left side nav bar inside your squad to navigate to the feature that you'd like to link to an existing branch.
 

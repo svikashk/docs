@@ -12,46 +12,43 @@ permalink: integrations/bitbucket/
 
 {: .no_toc }
 
-With Zepel's Bitbucket integration, you can now automatically move a linked item from one status to another, create pull requests, track commits, and more!
+Sometimes your dev team can merge and close a pull request, but forget to update progress. That can leave you with outdated information.
 
-In this article, we'll see how you can set up your Zepel account to integrate with your Bitbucket repository.
+When you connect your Bitbucket repository to your Zepel Squad, you can easily:
 
-__Before you begin:__ Ensure that you have Admin permissions for the Bitbucket repository.
+- link a Feature to a new branch,
+- link Items to commit,
+- link Items to pull requests,
+- link a bug to a branch, and
+- automate developer updates in Zepel
 
-* Once you're in your Zepel account, on the top left corner, click on your Account's name.
-* From the dropdown, click on "**Account Settings**".
+In this article, we’ll see how you can set up your Zepel account to integrate with your Bitbucket repository.
 
-![Click on Settings & Members from Accounts dropdown](/guide/assets/uploads/account-settings.png "Account Settings")
+## Integrate Zepel with Bitbucket
 
-* In the "**Account Settings**" popup, head over to the "**Integrations**" tab. You'll find a list of all Integrations available in Zepel in this tab.
+* Once you're inside a squad, click on "**Connect to Git**" from the left sidebar. This will open your squad's Git Settings pop-up.
 
-![Head over to Integrations tab in Account Settings](/guide/assets/uploads/integrations-tab.png "Integrations tab in Account Settings")
+![Connect to Git](/guide/assets/uploads/zepel-connect-to-git.png)
 
-* Click on the "**Enable**" button next to Bitbucket.
-* Now, login to your Bitbucket account and visit the repository you want to connect with your Zepel account.
-* From your repository's settings, visit Webhooks tab.
-* Click on "Add webhook" button.
+* From the Git Settings pop-up, click on "**Connect to a Git repository**".
 
-![Add Zepel Webhook to Bitbucket](/guide/assets/uploads/zepel-bitbucket-integration-webhook.png "Add Bitbucket Webhook")
+![Connect to Git Repository](/guide/assets/uploads/zepel-connect-to-git-repository.png)
 
-* Copy the "**Webhook URL**" that is generated in your Zepel account and paste it in the "URL" field in Bitbucket.
+* From the pop-up, click on "**Link to Bitbucket**".
 
-![Add URL to Bitbucket Webhook](/guide/assets/uploads/zepel-bitbucket-integration-webhooks.png "Bitbucket Webhooks")
+![Connect to Bitbucket](/guide/assets/uploads/zepel-link-to-bitbucket.png)
 
-* Under "**Triggers**", select "**Choose from a full list of triggers**".
-* Now, make sure that under "**Repository**", "**Push**" is selected. 
-* Under "**Pull Requests**", make sure that "**Created**", "**Updated**", "**Merged**", and "**Declined**" are selected.
+* You'll be prompted to log in to your Bitbucket account, if you're logged out.
 
-![Bitbucket Webhook Events](/guide/assets/uploads/zepel-bitbucket-integration-webhook-events.png "Bitbucket Webhook Events")
+* Once you log in, you'll be asked to give Zepel permissions. Click "**Grant access**".
 
-* Click "**Save**".
-
-Your Zepel account is now integrated with your Bitbucket repository. 
+* Once authorized, your Zepel account will now be integrated with Bitbucket.
 
 ---
 
-**Read Next:** 
+**Further reading:** 
 
+1. [Learn how to link your squad to a repository]({{ site.url }}{{ site.baseurl }}{% link guide/link-squad-to-repository.md %})
 1. [Learn how to link item to a branch.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %})
 1. [See how to link a Zepel item to commit.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %})
 1. [Read how to associate an item to a pull request.]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %})

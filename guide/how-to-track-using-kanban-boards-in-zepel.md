@@ -27,7 +27,7 @@ We’ve written in detail about [when you should use a List and Feature in this 
 
 If your development team is going to create a branch called `feature/name-of-the-feature` , you should [create a feature]({{site.url}}{{ site.baseurl }}{% link guide/creating-and-organizing-features-inside-your-project.md %}) and add your work items into it. Everything else such as bugs, tech debts, and miscellaneous tasks go [into the List]({{site.url}}{{ site.baseurl }}{% link guide/add-miscellaneous-items.md %}).
 
-![Features in Zepel](/guide/assets/uploads/zepel-features-new.png)
+![Features in Zepel](/guide/assets/uploads/zepel-items.png)
 
 You can add user stories, tasks, subtasks, enhancements, and bugs into a List or a Feature. Each of these items can have:
 
@@ -81,7 +81,7 @@ Like any kanban board tool, you can move an item from one column to another to s
 
 Additionally, Zepel will also show you the total number of items inside each column. This can come in handy to get a quick glance of how many items are in each column.
 
-![Change Default Board in Zepel](/guide/assets/uploads/zepel-kanban-boaards.png)
+![Boards in Zepel](/guide/assets/uploads/zepel-boards.png "Boards in Zepel")
 
 If you use [GitHub]({{site.url}}{{ site.baseurl }}{% link guide/github-integration.md %}), [GitLab]({{site.url}}{{ site.baseurl }}{% link guide/gitlab-integration.md %}), or [Bitbucket]({{site.url}}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}) as your code version control system, you can automate this entire process. All you have to do is, enable the integration, [configure how you want to automate]({{site.url}}{{ site.baseurl }}{% link guide/setup-git-automation.md %}) it, and then link the item to either a [commit]({{site.url}}{{ site.baseurl }}{% link guide/link-item-to-commit.md %}), [branch]({{site.url}}{{ site.baseurl }}{% link guide/link-item-to-branch.md %}), or a [pull request]({{site.url}}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %}).
 
@@ -103,7 +103,7 @@ You can filter by:
 
 By using a combination of filters you can manage your team’s workload and effortlessly keep track of your team’s progress. 
 
-![Change Default Board in Zepel](/guide/assets/uploads/zepel-filter-for-boards.png)
+![Filters panel inside a Board in Zepel](/guide/assets/uploads/zepel-boards-filters.png "Board's Filter panel")
 
 ---
 
