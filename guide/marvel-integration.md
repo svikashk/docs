@@ -9,8 +9,6 @@ description: Integrate Marvel with Zepel and make building and testing prototype
 permalink: integrations/marvel/
 ---
 # How to Integrate Marvel With Zepel
-
-
 {: .no_toc }
 
 Designing software prototypes and testing their usability is key to building good software. And we’re well aware that Marvel is an important facilitator of this process. 

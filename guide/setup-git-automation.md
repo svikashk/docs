@@ -15,6 +15,7 @@ permalink: integrations/setup-git-workflow-automation/
 
 __Before you begin:__ 
 - Ensure that you've enabled the integration for [Github]({{ site.url }}{{ site.baseurl }}{% link guide/github-integration.md %}), [Bitbucket]({{ site.url }}{{ site.baseurl }}{% link guide/bitbucket-integration.md %}), or [GitLab]({{ site.url }}{{ site.baseurl }}{% link guide/gitlab-integration.md %}).
+- Make sure you've [linked your squad to at least one repository]({{ site.url }}{{ site.baseurl }}{% link guide/link-squad-to-repository.md %}).
 - Check to see that you have linked at least one item to a [commit]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-commit.md %}), [pull request]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-pull-request.md %}), or a [branch]({{ site.url }}{{ site.baseurl }}{% link guide/link-item-to-branch.md %}).
 
 ---
@@ -25,9 +26,11 @@ The event handlers in Zepel are setup on a per squad basis.
 
 * Once you've enabled the integration, go to the squad for which you want to setup event handlers.
 
-* Click on "**Git Workflow Automation**" from the left sidebar.
+* Click on "**Git Settings**" from the left sidebar.
 
 ![Click on Git Workflow Automation from sidebar](/guide/assets/uploads/zepel-git-workflow-automation.png "Git Workflow Automation")
+
+* If you haven't already, you'll be prompted to [link the squad to a repository]({{ site.url }}{{ site.baseurl }}{% link guide/link-squad-to-repository.md %}) before proceeding.
 
 * Click "**Create new Git automation**".
 
