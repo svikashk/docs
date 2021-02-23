@@ -22,7 +22,8 @@ Watch video tutorials on how you to use Zepel and how you can get the maximum va
 
 ### Watch a demo of how you can use Zepel within your organization and start building better features together.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/xFu2gV9VQCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="800" height="405" src="https://www.youtube.com/embed/KdERB4DXjfw?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
