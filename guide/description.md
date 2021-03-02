@@ -11,11 +11,9 @@ permalink: working-with-teams/description/
 # Description
 {: .no_toc }
 
-The description area is where you will add detailed explanations, background information, and acceptance criteria to items in your squad. Obviously, you would want to go beyond plain-text blurbs and format your descriptions with rich styling options. 
+The description area in the Feature or Item is where you will add detailed explanations, background information, and acceptance criteria for your squad. Obviously, you would want to go beyond plain-text blurbs and format your descriptions with rich styling options. That's why Zepel supports [Markdown](#markdown-syntax), so you can format it in any way you want.
 
-With __Markdown Formatting__ in Zepel, you can style and organize your descriptions with headings, lists, code blocks and more. To style your descriptions, follow the Markdown Syntax guide below:
-
-![Add description to every item in your feature](/guide/assets/uploads/item-descriptions.png "Descriptions")
+---
 
 ## IN THIS PAGE
 {: .no_toc .text-delta }
@@ -25,6 +23,48 @@ With __Markdown Formatting__ in Zepel, you can style and organize your descripti
 
 ---
 
+# To add description to a Feature
+
+- When you open up a Feature in your squad, you'll see a grey box below the Feature title with the text `Click here to add description`.
+
+![Feature description Click here](/guide/assets/uploads/zepel-feature-description-click-here.png)
+
+- Once you click on the box, an empty text box will open up. Use the text box to add description for your feature. 
+
+![Feature description text box](/guide/assets/uploads/zepel-feature-description-text-box.png)
+
+- Example use cases for feature description are feature scope, use cases, or high level details about the feature.
+
+- You can use Markdown to format your description. [Click here](#markdown-syntax) to view all the markdown syntax that Zepel supports.
+
+- Click the `Save` button when you're finished.
+
+![Feature description](/guide/assets/uploads/zepel-feature-description.png)
+
+---
+
+# To add description to an Item
+
+- Hover on any item inside your Feature.
+
+- Click on the Expand Item icon from the right side of an item.
+
+![Click on Expand Item icon](/guide/assets/uploads/expand-item.png "Expand Item Icon")
+
+- From the item details pop-up, on the left side, click on the grey box that says `Click here to add description`.
+
+![Click to add item description](/guide/assets/uploads/zepel-item-description-box.png)
+
+- You can use Markdown to format your description. [Click here](#markdown-syntax) to view all the markdown syntax that Zepel supports.
+
+- Click the `Save` button when you're finished.
+
+![Add description to every item in your feature](/guide/assets/uploads/item-descriptions.png "Descriptions")
+
+---
+# Markdown Syntax
+
+With __Markdown Formatting__ in Zepel, you can style and organize your descriptions with headings, lists, code blocks and more. To style your descriptions, follow the Markdown Syntax guide below:
 ## Headings
 
 Use "hash" before the text for each level of heading

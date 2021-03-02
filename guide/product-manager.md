@@ -62,9 +62,11 @@ This enables you to track the progress effortlessly. And it helps your entire sq
 
 If you linked a prioritized request to a feature, it's time to spec it in detail, so your development team doesn't build unnecessary functionalities.
 
-This is where items and its types come into play!
+Once you create a feature, you can spec it in detail using [Markdown]({{ site.url }}{{ site.baseurl }}{% link guide/description.md %}) with feature scope, use cases, or high level information. This makes it effortless for you to communicate with your development team.
 
-A Feature houses all items - user stories, tasks, subtasks, bugs, and enhancements.
+![Feature description](/guide/assets/uploads/zepel-feature-description.png)
+
+Once spec'd, you can add user stories, tasks, subtasks, bugs, and enhancements to derive work items for your development team.
 
 [Adding items]({{ site.url }}{{ site.baseurl }}{% link guide/creating-work-items.md %}) for your feature is as simple as writing on a document. Simply hit enter to create another item. And press ```Cmd + Shift + S``` if you're on a Mac (Ctrl + Shift + S on Windows) to toggle between item types.
 
