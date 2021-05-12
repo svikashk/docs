@@ -15,13 +15,13 @@ Zepel lets you export all your data - from Squads to Streams. To do this, follow
 
 - Visit your Zepel account and move to your account settings that you'll find in the top left corner.
 
-![Zepel Account Settings](/guide/assets/uploads/zepel-account-settings.png)
+![Zepel Account Settings](/guide/assets/uploads/account-settings-zepel.png)
 
 - Click on the `Export Data` button under the `General` tab.
 
 ![Export Data](/guide/assets/uploads/zepel-export-data.png)
 
-- Now, you will receive an email with your account data. So, head to your inbox.
+- Now, you will receive an email from Zepel with your account data. So, head to your inbox.
 
 - Download and extract the `.zip` attachment to access your account data.
 
