@@ -8,29 +8,23 @@ description: Exporting data out of Zepel
 permalink: export/
 ---
 
-# Export squads out of Zepel
+# Export data out of Zepel
 {: .no_toc }
 
-Zepel lets you import all your data from Features
+Zepel lets you export all your data - from Squads to Streams. To do this, follow the simple steps below: 
 
-- Visit the squad from which you want to export your Feature from.
+- Visit your Zepel account and move to your account settings that you'll find in the top left corner.
 
-- Click on the Feature you want to export.
+![Zepel Account Settings](/guide/assets/uploads/zepel-account-settings.png)
 
-- From the top-right corner, click on Settings icon.
+- Click on the `Export Data` button under the `General` tab.
 
-![Feature Settings in Zepel](/guide/assets/uploads/feature-settings.png)
+![Export Data](/guide/assets/uploads/zepel-export-data.png)
 
-- From the settings drop down, click on Export.
+- Now, you will receive an email with your account data. So, head to your inbox.
 
-![Click Export](/guide/assets/uploads/feature-settings-export.png)
+- Download and extract the `.zip` attachment to access your account data.
 
-- From the Export popup, you can select which format you'd like to export your data and which data you want to export.
+![Export Data Download](/guide/assets/uploads/zepel-export-data-attachment.png)
 
-You can export your data in 3 formats:
-
-1. HTML
-2. Plain Text
-3. JSON 
-
-![Exporting from Zepel](/guide/assets/uploads/feature-export-popup.png)
+*Note: The exported account data `.zip` attachment includes all your Squads and Streams data in `.csv` format. If you have multiple Squads, then you'll find in the attachment the data for each of your squads - from Boards, Features, and Lists to your Sprints. Similarly, all your Streams requests will be available as a `.csv` file within the downloaded `.zip` attachment.*
