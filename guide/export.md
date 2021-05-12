@@ -39,7 +39,7 @@ Zepel lets you export all your data - from Squads to Streams. To do this, follow
 ---
 ## Export Squads out of Zepel
 
-If you wish to export only your Squads data, Zepel lets you import all your data from Features
+If you wish to export only your Squads data, Zepel lets you import all your data from Features. To do this, follow these steps below:
 
 - Visit the squad from which you want to export your Feature from.
 
