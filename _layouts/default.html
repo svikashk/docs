@@ -101,6 +101,20 @@
   <!-- End Segment -->
   {% endif %}
 
+  {% if site.add-ga-analytics == true %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112002143-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.ga-analytics-id }}');
+</script>
+<!-- End Global site tag (gtag.js) - Google Analytics -->
+
+{% endif %}
+
 
   
 </body>
